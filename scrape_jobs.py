@@ -188,41 +188,12 @@ _HEAD_OF_RE = re.compile(r"\bhead\s+of\b", re.IGNORECASE)
 
 
 def role_is_relevant(title: str, company: str = "") -> bool:
-    """Check whether a job title is relevant to the configured search.
-
-    When the fuzzy pre-filter is configured (keywords.fuzzy_seniority and
-    keywords.fuzzy_domain both non-empty), applies a broad fuzzy match that
-    catches title variants the exact-phrase KEYWORDS miss. Deliberately
-    permissive — downstream filtering (triage agent, manual review) can
-    tighten the cut.
-
-    When the fuzzy pre-filter is not configured (either list empty), falls
-    back to the keyword filter (keywords.include) — the same filter used by
-    non-LinkedIn sources.
-    """
+    """Keep every titled role except titles matching keywords.exclude."""
     if not title:
         return False
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
-    if not _FUZZY_ENABLED:
-        return bool(_KEYWORD_RE.search(title))
-    # Fuzzy mode: broad pre-filter for domain-specific seniority + domain tokens.
-    if _FUZZY_EXCLUDE_RE and _FUZZY_EXCLUDE_RE.search(title):
-        return False
-    # Director+ : seniority token + domain token (e.g. "Director of Engineering")
-    if _SENIORITY_RE.search(title) and _DOMAIN_RE.search(title):
-        return True
-    # Senior Manager : (senior|sr) + manager + domain (e.g. "Senior Engineering Manager")
-    if _SR_MGR_RE.search(title) and _DOMAIN_RE.search(title):
-        return True
-    # "head of" + domain token or priority company (e.g. "Head of Engineering",
-    # "Head of Dropbox" — LLM decides if it's engineering)
-    if _HEAD_OF_RE.search(title) and (_DOMAIN_RE.search(title) or _is_priority_company(company)):
-        return True
-    # Seniority token + priority company (e.g. "VP at Google")
-    if _SENIORITY_RE.search(title) and _is_priority_company(company):
-        return True
-    return False
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -260,20 +231,21 @@ def fetch(url, *, retries=4, _base_wait=30.0):
 
 
 def title_matches_keywords(title: str) -> bool:
-    """True if a job title matches any keyword in keywords.include and is not
-    a junior/student posting (keywords.exclude). This is the config-driven
-    keyword filter used by all non-LinkedIn-partition sources."""
+    """Keep every titled role except titles matching keywords.exclude."""
+    if not title:
+        return False
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
-    return bool(_KEYWORD_RE.search(title))
+    return True
 
 
 def text_matches_keywords(title: str, *parts: str) -> bool:
-    """Like title_matches_keywords, but allows source-specific summary text to carry the signal."""
-    if EXCLUDED_SENIORITY_RE.search(title or ""):
+    """Keep every titled role except titles matching keywords.exclude."""
+    if not title:
         return False
-    text = " ".join([title or "", *(p or "" for p in parts)])
-    return bool(_KEYWORD_RE.search(text))
+    if EXCLUDED_SENIORITY_RE.search(title):
+        return False
+    return True
 
 
 # Geographic scope for the curated/legacy ATS path and the NEOGOV board (which
@@ -1078,13 +1050,6 @@ def _jobspy_user_agent():
         raw = os.environ.get("JOBSPY_USER_AGENT", "")
     return str(raw or "").strip() or None
 
-# jobspy returns the full JD (markdown) for many boards. We keep a trimmed copy
-# in source JSONs and all_jobs.json so the dashboard, deterministic scorer, and
-# optional triage agent can judge roles from the actual description instead of
-# title alone.
-JOBSPY_JD_MAX_CHARS = 6000
-
-
 def _coerce_bool(value):
     if isinstance(value, bool):
         return value
@@ -1165,7 +1130,7 @@ def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
             "direct_url": str(row.get("job_url_direct", "") or ""),
             "company_url": str(row.get("company_url", "") or ""),
             "date_posted": str(row.get("date_posted", "") or ""),
-            "description": str(row.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+            "description": str(row.get("description", "") or ""),
             "salary": format_salary(
                 row.get("min_amount", ""),
                 row.get("max_amount", ""),
@@ -1255,6 +1220,7 @@ def scrape_indeed_recent(hours_old: int | None = None) -> list:
         terms=INDEED_SEARCH_TERMS,
         hours_old=h,
         prev_basename="indeed_jobs",
+        results_wanted=1000,
     )
 
 
@@ -1382,7 +1348,7 @@ def _google_jobs_description(raw: dict) -> str:
                 parts.append(title)
             if isinstance(items, list):
                 parts.extend(str(item) for item in items if item)
-    return "\n".join(p for p in parts if p).strip()[:JOBSPY_JD_MAX_CHARS]
+    return "\n".join(p for p in parts if p).strip()
 
 
 def _normalize_serpapi_google_job(raw: dict) -> dict | None:
@@ -1438,7 +1404,7 @@ def _normalize_oxylabs_google_job(raw: dict) -> dict | None:
         "url": url,
         "direct_url": "",
         "date_posted": _posted_text_to_iso(str(raw.get("date") or raw.get("posted_at") or "")),
-        "description": str(raw.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+        "description": str(raw.get("description", "") or ""),
         "salary": str(raw.get("salary", "") or ""),
         "job_type": "",
         "is_remote": is_remote,
@@ -1775,7 +1741,7 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
             "date_posted", "datePosted", "created_at", "createdAt", "dateFetched",
             "estimated_publish_date",
         )) or ""),
-        "description": re.sub(r"<[^>]+>", " ", str(desc or ""))[:JOBSPY_JD_MAX_CHARS],
+        "description": re.sub(r"<[^>]+>", " ", str(desc or "")),
         "salary": _hiringcafe_salary(raw),
         "job_type": str(job_type or ""),
         "is_remote": is_remote,
@@ -2421,7 +2387,7 @@ def _parse_csucareers_listing(html: str) -> list[dict]:
             "direct_url": url,
             "date_posted": "",
             "closing_date": (close_m.group(1)[:10] if close_m else ""),
-            "description": description[:JOBSPY_JD_MAX_CHARS],
+            "description": description,
             "salary": "",
             "ats": "CSUCareers",
         })
