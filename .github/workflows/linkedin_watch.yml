@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       backfill:
-        description: "One-time backfill: fetch last 30 days instead of last hour (run once when setting up)"
+        description: "One-time backfill: fetch last 30 days instead of last 24 hours (run once when setting up)"
         required: false
         type: boolean
         default: false
@@ -38,7 +38,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Scrape LinkedIn (last 1h, or 30-day backfill)
+      - name: Scrape LinkedIn (last 24h, or 30-day backfill)
         run: |
           if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
             python scrape_jobs.py --linkedin-backfill
