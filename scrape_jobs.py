@@ -112,12 +112,7 @@ PROFILE_LABEL = re.sub(
     str(_cfg("profile.title", "Job")), flags=re.I).strip() or "Job"
 PROFILE_SUBTITLE = str(_cfg("profile.subtitle", "All locations"))
 
-# Title keywords, from config.json → keywords.include. A title matches if it
-# contains any of these (case-insensitive). See config.example.json for the
-# documented default list and tuning notes (deliberately tight — generic
-# titles like "Research Scientist" or "Professor" are left out because they
-# pull in unrelated roles; qualified forms like "Environmental Data Scientist"
-# still match via "environmental data").
+# Broad programming/software title signals from config.json → keywords.include.
 KEYWORDS = _cfg("keywords.include", [])
 
 # Seconds to wait between API probes — keeps us polite
@@ -139,13 +134,14 @@ def _build_title_re(terms: list) -> re.Pattern:
 
 EXCLUDED_SENIORITY_RE = _build_title_re(_cfg("keywords.exclude", []))
 
-# Multi-word phrases keep substring semantics; single-word keywords ("mle",
-# "devops") are word-bounded so they can't match inside a word ("Hamlet").
+# Plain alphanumeric tokens are word-bounded. Phrases and punctuation-bearing
+# signals use literal matching so terms such as ".NET", "C#", and "ASP.NET"
+# do not depend on boundaries around punctuation.
 _KEYWORD_RE = re.compile(
     "|".join(
-        re.escape(k) if " " in k else rf"\b{re.escape(k)}\b"
+        rf"\b{re.escape(k)}\b" if re.fullmatch(r"[A-Za-z0-9]+", k) else re.escape(k)
         for k in KEYWORDS
-    ),
+    ) or r"(?!x)x",
     re.IGNORECASE,
 )
 
@@ -187,13 +183,18 @@ _SR_MGR_RE = re.compile(
 _HEAD_OF_RE = re.compile(r"\bhead\s+of\b", re.IGNORECASE)
 
 
-def role_is_relevant(title: str, company: str = "") -> bool:
-    """Keep every titled role except titles matching keywords.exclude."""
+def _title_passes_keyword_gate(title: str) -> bool:
+    """Apply the shared title-only exclusion and positive keyword gate."""
     if not title:
         return False
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
-    return True
+    return bool(_KEYWORD_RE.search(title))
+
+
+def role_is_relevant(title: str, company: str = "") -> bool:
+    """Return whether a title passes the broad programming/software prefilter."""
+    return _title_passes_keyword_gate(title)
 
 
 # ---------------------------------------------------------------------------
@@ -231,21 +232,13 @@ def fetch(url, *, retries=4, _base_wait=30.0):
 
 
 def title_matches_keywords(title: str) -> bool:
-    """Keep every titled role except titles matching keywords.exclude."""
-    if not title:
-        return False
-    if EXCLUDED_SENIORITY_RE.search(title):
-        return False
-    return True
+    """Return whether a title passes the broad programming/software prefilter."""
+    return _title_passes_keyword_gate(title)
 
 
 def text_matches_keywords(title: str, *parts: str) -> bool:
-    """Keep every titled role except titles matching keywords.exclude."""
-    if not title:
-        return False
-    if EXCLUDED_SENIORITY_RE.search(title):
-        return False
-    return True
+    """Apply the title-only prefilter; source-specific body parts are ignored."""
+    return _title_passes_keyword_gate(title)
 
 
 # Geographic scope for the curated/legacy ATS path and the NEOGOV board (which
