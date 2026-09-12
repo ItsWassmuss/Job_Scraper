@@ -46,7 +46,9 @@
   },
 
   "search_terms": {
-    "linkedin": [],
+    "linkedin": [
+      "(\".NET\" OR \"C#\" OR \"ASP.NET\" OR \"ASP.NET Core\" OR dotnet)"
+    ],
     "indeed": [
       "(\".NET\" OR \"C#\" OR \"ASP.NET\" OR \"ASP.NET Core\" OR dotnet)"
     ],
@@ -61,7 +63,34 @@
   },
 
   "locations": {
-    "linkedin": [],
+    "linkedin": [
+      { "name": "Netherlands", "location": "Netherlands", "geoId": "" },
+      { "name": "Germany", "location": "Germany", "geoId": "" },
+      { "name": "United Kingdom", "location": "United Kingdom", "geoId": "" },
+      { "name": "Poland", "location": "Poland", "geoId": "" },
+      { "name": "Sweden", "location": "Sweden", "geoId": "" },
+      { "name": "Ireland", "location": "Ireland", "geoId": "" },
+      { "name": "Norway", "location": "Norway", "geoId": "" },
+      { "name": "Finland", "location": "Finland", "geoId": "" },
+      { "name": "Denmark", "location": "Denmark", "geoId": "" },
+      { "name": "Singapore", "location": "Singapore", "geoId": "" },
+      { "name": "Czech Republic", "location": "Czech Republic", "geoId": "" },
+      { "name": "Romania", "location": "Romania", "geoId": "" },
+      { "name": "Turkey", "location": "Turkey", "geoId": "" },
+      { "name": "Greece", "location": "Greece", "geoId": "" },
+      { "name": "Belgium", "location": "Belgium", "geoId": "" },
+      { "name": "Switzerland", "location": "Switzerland", "geoId": "" },
+      { "name": "Austria", "location": "Austria", "geoId": "" },
+      { "name": "Spain", "location": "Spain", "geoId": "" },
+      { "name": "Portugal", "location": "Portugal", "geoId": "" },
+      { "name": "Hungary", "location": "Hungary", "geoId": "" },
+      { "name": "Bahrain", "location": "Bahrain", "geoId": "" },
+      { "name": "Kuwait", "location": "Kuwait", "geoId": "" },
+      { "name": "Oman", "location": "Oman", "geoId": "" },
+      { "name": "Qatar", "location": "Qatar", "geoId": "" },
+      { "name": "Saudi Arabia", "location": "Saudi Arabia", "geoId": "" },
+      { "name": "United Arab Emirates", "location": "United Arab Emirates", "geoId": "" }
+    ],
     "indeed": [
       { "location": "Netherlands", "country": "Netherlands" },
       { "location": "Germany", "country": "Germany" },
