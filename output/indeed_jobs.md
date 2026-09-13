@@ -1,10 +1,14 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-12 23:21 UTC*
+*Last updated: 2026-09-13 01:25 UTC*
 
-**1 new role(s)** since last run · 23 total in last 24h
+**2 new role(s)** since last run · 23 total in last 24h
 
-### [Senior AI Engineer](https://se.indeed.com/viewjob?jk=12816148f19e1c6b) — Rasulson Consulting AB
+### [Software Engineer](https://uk.indeed.com/viewjob?jk=64902285d666c12c) — Westfield Health
+- 📍 **Location:** Sheffield, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-13
+
+### [Senior AI Engineer](https://se.indeed.com/viewjob?jk=77e772a5e450ceb0) — Rasulson Consulting
 - 📍 **Location:** Stockholm, AB, SE
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-12
