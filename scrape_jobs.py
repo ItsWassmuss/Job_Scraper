@@ -3212,9 +3212,6 @@ if __name__ == "__main__":
 
     if "--linkedin-only" in sys.argv:
         jobs = scrape_linkedin_recent()
-        before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-        print(f"📍 Location filter: {before} → {len(jobs)} roles")
         save_linkedin_results(jobs)
         sys.exit(0)
 
