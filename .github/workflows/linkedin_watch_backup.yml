@@ -1,13 +1,12 @@
 name: Workflow Watchdog
 
-# Backup-dispatches linkedin_watch.yml (hourly) and scrape_jobs.yml (daily) if
-# the GitHub Actions scheduler silently skips a slot. Fires at minute :33 of
-# the same active window as linkedin_watch, well after that workflow's :13
-# slot (~20 min after the scheduled fire — past normal GH latency). :33 is
-# off-peak, so this fallback is less likely to be throttled than :00.
+# Backup-dispatches linkedin_watch.yml and indeed_watch.yml (hourly), plus
+# scrape_jobs.yml (daily), if the GitHub Actions scheduler silently skips a
+# slot. Runs at :55 from 05:00 through 15:00 UTC, after LinkedIn's native :17
+# cron and Indeed's native :47 cron, and rescues only missed native runs.
 on:
   schedule:
-    - cron: "33 15-23,0-3 * * *"
+    - cron: "55 5-15 * * *"
   workflow_dispatch:
 
 # NOTE: deliberately NOT in the job-scraper-commit-push concurrency group.
