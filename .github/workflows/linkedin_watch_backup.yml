@@ -1,20 +1,17 @@
 name: Workflow Watchdog
 
-# Backup-dispatches linkedin_watch.yml and indeed_watch.yml (hourly), plus
-# scrape_jobs.yml (daily), if the GitHub Actions scheduler silently skips a
-# slot. Runs at :55 from 05:00 through 15:00 UTC, after LinkedIn's native :17
-# cron and Indeed's native :47 cron, and rescues only missed native runs.
+# Backup-dispatches indeed_watch.yml (hourly) and scrape_jobs.yml (daily) if the
+# GitHub Actions scheduler silently skips a slot. Runs at :55 from 05:00 through
+# 15:00 UTC, after Indeed's native :17 cron. A rescued Indeed run triggers
+# LinkedIn through workflow_run, so the watchdog never dispatches it directly.
 on:
   schedule:
     - cron: "55 5-15 * * *"
   workflow_dispatch:
 
 # NOTE: deliberately NOT in the job-scraper-commit-push concurrency group.
-# The watchdog never commits or pushes — it only dispatches. When it held that
-# group while dispatching, a second rescue (Indeed) would replace the first
-# rescue (LinkedIn) in the group's single pending slot and cancel it (verified:
-# cancelled linkedin_watch runs at the exact second of indeed dispatches,
-# 2026-06-03/04). The dispatched workflows still serialize among themselves.
+# The watchdog never commits or pushes — it only dispatches. The dispatched
+# workflows still serialize among themselves.
 
 jobs:
   watchdog:
@@ -23,37 +20,11 @@ jobs:
       actions: write
       contents: read
     steps:
-      - name: LinkedIn — dispatch backup if no run this UTC hour
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -e
-          current_hour=$(date -u +%Y-%m-%dT%H)
-          last=$(gh -R ${{ github.repository }} run list \
-            --workflow=linkedin_watch.yml --limit 1 \
-            --json createdAt,status)
-          status=$(echo "$last" | jq -r '.[0].status')
-          createdAt=$(echo "$last" | jq -r '.[0].createdAt')
-          if [ "$status" = "in_progress" ] || [ "$status" = "queued" ]; then
-            echo "linkedin_watch in flight ($status); nothing to do"
-            exit 0
-          fi
-          if [ "${createdAt:0:13}" = "$current_hour" ]; then
-            echo "linkedin_watch already ran this hour at $createdAt"
-            exit 0
-          fi
-          echo "No linkedin_watch run in $current_hour, dispatching backup"
-          gh -R ${{ github.repository }} workflow run linkedin_watch.yml --ref main
-
       - name: Indeed — dispatch backup if no run this UTC hour
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          # If the previous step just dispatched a LinkedIn rescue, give it time
-          # to start running (leave the concurrency group's single pending slot)
-          # before this dispatch adds Indeed to the same group.
-          sleep 90
           current_hour=$(date -u +%Y-%m-%dT%H)
           last=$(gh -R ${{ github.repository }} run list \
             --workflow=indeed_watch.yml --limit 1 \

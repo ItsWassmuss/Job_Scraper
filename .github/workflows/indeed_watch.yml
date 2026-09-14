@@ -1,11 +1,11 @@
 name: Indeed Watcher
 
 on:
-  # Native GitHub cron, hourly at :47 from 05:00 through 15:00 UTC. Offset from
-  # LinkedIn (:17) to reduce contention on the commit-push concurrency group.
-  # The watchdog runs afterward at :55 and dispatches only if this run was missed.
+  # Native GitHub cron, hourly at :17 from 05:00 through 15:00 UTC. LinkedIn is
+  # triggered after this workflow completes. The watchdog runs afterward at
+  # :55 and dispatches only if this native run was missed.
   schedule:
-    - cron: "47 5-15 * * *"
+    - cron: "17 5-15 * * *"
   workflow_dispatch:
     inputs:
       backfill:

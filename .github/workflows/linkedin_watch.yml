@@ -1,14 +1,11 @@
 name: LinkedIn Watcher
 
 on:
-  # Native GitHub cron, hourly at :17 from 05:00 through 15:00 UTC. GH's
-  # scheduler occasionally skips a slot, so the watchdog at :55 re-dispatches
-  # only when the native run was missed. For higher
-  # reliability you can also drive this externally via cron-job.org → the
-  # workflow_dispatch API; both triggers are safe to run together (dedupe + the
-  # commit-push concurrency group prevent collisions).
-  schedule:
-    - cron: "17 5-15 * * *"
+  # Run after every completed Indeed workflow, regardless of its conclusion.
+  workflow_run:
+    workflows: ["Indeed Watcher"]
+    types:
+      - completed
   workflow_dispatch:
     inputs:
       backfill:
