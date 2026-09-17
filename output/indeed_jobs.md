@@ -1,163 +1,212 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-17 16:13 UTC*
+*Last updated: 2026-09-17 19:01 UTC*
 
-**28 new role(s)** since last run · 180 total in last 24h
+**37 new role(s)** since last run · 177 total in last 24h
 
-### [Vacature: Senior Frontend Engineer (Freelance) - View vacancy](https://nl.indeed.com/viewjob?jk=2ac058c8c2c62a5d) — NN GROUP
-- 📍 **Location:** Den Haag, ZH, NL
+### [Sr. Software Developer - C#/.Net / Angular / Azure](https://nl.indeed.com/viewjob?jk=3aa65245ae96c835) — The Next Chapter W&S
+- 📍 **Location:** Capelle aan den IJssel, ZH, NL
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [Solution Architect](https://nl.indeed.com/viewjob?jk=a99b3dd523beadc1) — Douane
+- 📍 **Location:** Utrecht West, UT, NL
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-17
+
+### [System Engineer](https://nl.indeed.com/viewjob?jk=23a95001308705f3) — CEVA Logistics
+- 📍 **Location:** Nijmegen, GE, NL
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Engineer / Technicus Werktuigbouwkunde](https://nl.indeed.com/viewjob?jk=7f32c24952624064) — Van Diepenbeek BV
-- 📍 **Location:** Heijen, LI, NL
+### [Participatiebaan | Field Engineer Glasvezeltechnologie](https://nl.indeed.com/viewjob?jk=03204e02febfd171) — Alliander
+- 📍 **Location:** Arnhem, GE, NL
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-17
+
+### [Participatiebaan | Senior Engineer Telecom (Vaste Netwerken)](https://nl.indeed.com/viewjob?jk=7dc512812184149d) — Alliander
+- 📍 **Location:** Arnhem, GE, NL
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-17
+
+### [C# / .NET Softwareentwickler/in (m/w/d)](https://de.indeed.com/viewjob?jk=9664b8d073344257) — Wenzel Group
+- 📍 **Location:** Karlsruhe, BW, DE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Solution Architect – Operations (m/w/d)](https://de.indeed.com/viewjob?jk=b1fb908a054606d2) — Münchener Rückversicherungs-Gesellschaft
+- 📍 **Location:** Hamburg, HH, DE
 - **Work mode:** On-site
 - **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Engineer MS](https://nl.indeed.com/viewjob?jk=b097d1bdca8ac582) — Van den Heuvel
-- 📍 **Location:** Almere, FL, NL
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Full Stack Developer – KVK](https://nl.indeed.com/viewjob?jk=f98d0d1b072315af) — GewoanSu
-- 📍 **Location:** Opmeer, NH, NL
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
-
-### [Software-Engineer Prüftechnik](https://de.indeed.com/viewjob?jk=360e3b14539b9291) — Miele
-- 📍 **Location:** Gütersloh, NW, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Apprentice IT Support Engineer](https://uk.indeed.com/viewjob?jk=cb68310915bd9712) — ITM Power
-- 📍 **Location:** Sheffield, ENG, GB
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Development Engineer](https://uk.indeed.com/viewjob?jk=e45bd6e43dd0af75) — ESO
+### [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=68a9cbdc326fb559) — DailyPay Inc
 - 📍 **Location:** Belfast, NIR, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-17
-
-### [Intermediate Electrical Engineer Manchester](https://uk.indeed.com/viewjob?jk=e3f4c5492404398b) — CIVIC
-- 📍 **Location:** Manchester, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Developer](https://uk.indeed.com/viewjob?jk=9e99a249abc67613) — Woods Valldata
-- 📍 **Location:** Chippenham, ENG, GB
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Product Software Architect](https://uk.indeed.com/viewjob?jk=16d7a86181763630) — Mail Metrics
-- 📍 **Location:** Huddersfield, ENG, GB
+### [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=aa5049ae0d827eeb) — ＤＩＳＣＯ
+- 📍 **Location:** London, ENG, GB
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-17
 
-### [Protection Design Interface Engineer](https://uk.indeed.com/viewjob?jk=36f16f96934d8aff) — Mott MacDonald
-- 📍 **Location:** Brighton, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Field Engineer (Telecoms)](https://uk.indeed.com/viewjob?jk=7b140a60a6a1a924) — ScottishPower
-- 📍 **Location:** Birkenhead, ENG, GB
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-17
-
-### [AI Engineer](https://uk.indeed.com/viewjob?jk=951f76dc182b921f) — Ten Lifestyle Group
+### [Platform Product Owner](https://uk.indeed.com/viewjob?jk=05c3a17961506821) — AppyWay
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior AI Solutions Architect - London](https://uk.indeed.com/viewjob?jk=d2ae906f97852e54) — Neo4j
+### [Windows Software Manager](https://uk.indeed.com/viewjob?jk=54fa85c8e24e73ea) — OrganOx
+- 📍 **Location:** Oxford, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Principal Software Engineer (Java/Scala/.Net)](https://uk.indeed.com/viewjob?jk=157eea5b9abe7c7a) — Morgan Stanley
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Structural Engineer for calculations (for projects in Sweden)](https://pl.indeed.com/viewjob?jk=7e5e6f760ecf41b6) — AFRY
+### [Senior .NET Developer with Snowflake](https://pl.indeed.com/viewjob?jk=33ed28422ec83210) — EPAM Systems
+- 📍 **Location:** zdalnie, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior C#/.NET Developer](https://pl.indeed.com/viewjob?jk=5d17deb191c4b954) — EPAM Systems
+- 📍 **Location:** zdalnie, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior .Net Engineer](https://pl.indeed.com/viewjob?jk=b817811e61d534f2) — N-iX
 - 📍 **Location:** Kraków, ML, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer, Corporate Systems Technology](https://pl.indeed.com/viewjob?jk=9e07531f3ea7a6e4) — Point72
+- 📍 **Location:** Warszawa, MZ, PL
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-17
 
-### [Structural Engineer for BIM modeling (for projects in Sweden)](https://pl.indeed.com/viewjob?jk=db4a86495376e7d6) — AFRY
-- 📍 **Location:** Kraków, ML, PL
+### [.NET Developer (f/m/x)](https://pl.indeed.com/viewjob?jk=89991b80e670821e) — Groupe SII
+- 📍 **Location:** Łódź, LO, PL
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Software Engineer – Integrations](https://se.indeed.com/viewjob?jk=b9c4b3969769cd71) — RPS Soft
-- 📍 **Location:** SE
+### [Engineering Manager](https://se.indeed.com/viewjob?jk=1bcb9b49bd37502f) — Instabee
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [Fullstack-utvecklare](https://se.indeed.com/viewjob?jk=b033b30db56f56dc) — Deploja AB
+- 📍 **Location:** Borås, O, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Technical Architect](https://se.indeed.com/viewjob?jk=c9667a9fe0bed209) — HCLTech
+- 📍 **Location:** Göteborg, O, SE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [RF Applications Engineer](https://ie.indeed.com/viewjob?jk=56794df067bfe83d) — Analog Devices
-- 📍 **Location:** Limerick, LK, IE
+### [Senior Software Engineer C++ - Bergen](https://no.indeed.com/viewjob?jk=f8a288c6d64cc363) — Vizrt
+- 📍 **Location:** Bergen, N46, NO
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Sr Software Dev Engineer III, RDS for Oracle](https://ie.indeed.com/viewjob?jk=03f0806e4c7567a0) — Amazon.com
-- 📍 **Location:** Dublin, D, IE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-10
-
-### [Bliv Senior Software Engineer til Core Customer i en foreningsejet Nykredit-koncern](https://dk.indeed.com/viewjob?jk=0f35c13581e270b1) — Nykredit
-- 📍 **Location:** Nordhavn, D84, DK
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-17
-
-### [Fullstack udvikler .Net / AI](https://dk.indeed.com/viewjob?jk=4d34aeba059bccdd) — Eksponent Aps
-- 📍 **Location:** Frederiksberg, D84, DK
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-17
-
-### [Application Database Developer](https://sg.indeed.com/viewjob?jk=64f134b58099fb19) — CONSULGURU PTE. LTD.
-- 📍 **Location:** Toa Payoh, S00, SG
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-09-17
-
-### [Technical Engineer (Developer) – (AI & Learning Applications)](https://sg.indeed.com/viewjob?jk=ace383c2c08d680b) — Combuilder Pte Ltd
-- 📍 **Location:** Ang Mo Kio, S00, SG
+### [Software Engineer](https://sg.indeed.com/viewjob?jk=f3ce248a984b6390) — Accenture
+- 📍 **Location:** SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [RPA Developer (UiPath) Contract](https://sg.indeed.com/viewjob?jk=9e7fab700dca3d4b) — TANGSPAC SEARCH PRIVATE LIMITED
+### [RVP, Solutions Engineering APAC](https://sg.indeed.com/viewjob?jk=57a91a05771b9fc6) — Zendesk
 - 📍 **Location:** Singapore, S00, SG
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-09-17
-
-### [Ai First Software Engineer ( Net & Go)](https://cz.indeed.com/viewjob?jk=247b8332db2460c0) — Unknown
-- 📍 **Location:** Praha, A, CZ
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior SecOps Engineer](https://ro.indeed.com/viewjob?jk=33004e5a456d95a6) — Rinf
-- 📍 **Location:** Timișoara, TM, RO
-- **Work mode:** Remote in-state eligible
+### [Software Engineer](https://sg.indeed.com/viewjob?jk=59fc715d162987ff) — Thales
+- 📍 **Location:** Changi, S00, SG
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Teamleader Software Engineering - Editorial Content (w/m/d)](https://ch.indeed.com/viewjob?jk=f6c4fc25f9514709) — Digitec Galaxus AG
-- 📍 **Location:** Zürich, ZH, CH
+### [Senior Software Developer](https://ro.indeed.com/viewjob?jk=ab53884a003be316) — Systematic
+- 📍 **Location:** București, IF, RO
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Senior Backend Developer (C# / .NET)](https://sa.indeed.com/viewjob?jk=dbef1ed215c939ba) — Norconsult Telematics
-- 📍 **Location:** SA
+### [Manager Integration Delivery Transformation](https://be.indeed.com/viewjob?jk=9ce22d4221cf93c2) — AG Insurance
+- 📍 **Location:** Brussels, BRU, BE
 - **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [Medior Nuclear Engineer - Radiological Characterization](https://be.indeed.com/viewjob?jk=85f9c9bbe36c17ce) — TRACTEBEL
+- 📍 **Location:** Tihange, WAL, BE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer (80–100%)](https://ch.indeed.com/viewjob?jk=2106a7dad651db9f) — AlphaCom Computertechnik GmbH
+- 📍 **Location:** Domat, GR, CH
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Software Engineer (w/m/d) 80%-100% Galenica AG](https://ch.indeed.com/viewjob?jk=6bea454786242e5d) — Galenica
+- 📍 **Location:** Bern, BE, CH
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior Developer](https://es.indeed.com/viewjob?jk=70093acaa78c3bb3) — Juniper Travel Technology
+- 📍 **Location:** Palma de Mallorca, IB, ES
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [Backend Engineer (m/f/d)](https://es.indeed.com/viewjob?jk=6139bf37dd20fe1a) — Schwarz Digits KG
+- 📍 **Location:** Barcelona, CT, ES
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [AI Solutions Engineer](https://es.indeed.com/viewjob?jk=ba42ab89d1e5a6f1) — Capgemini
+- 📍 **Location:** Madrid, MD, ES
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [C++ Developer Senior](https://pt.indeed.com/viewjob?jk=86c760d57fcae8cb) — WIRE IT
+- 📍 **Location:** Lisboa, P11, PT
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Senior AI Software Engineer](https://pt.indeed.com/viewjob?jk=68081b1bae4c13ea) — WIRE IT
+- 📍 **Location:** Porto, P13, PT
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [DevSecOps Engineer](https://pt.indeed.com/viewjob?jk=4e0c369b5cb0a98b) — Movilges IT Consulting
+- 📍 **Location:** Lisboa, P11, PT
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-17
+
+### [Generative AI Engineer](https://hu.indeed.com/viewjob?jk=f7c2f8e55d560f8e) — Accenture
+- 📍 **Location:** Budapest, PE, HU
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer - Level 3](https://ae.indeed.com/viewjob?jk=68c1c84fc811f6e0) — Edenred
+- 📍 **Location:** Dubai, DU, AE
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
