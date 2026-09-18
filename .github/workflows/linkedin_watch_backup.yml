@@ -56,6 +56,11 @@ jobs:
             echo "scrape_jobs in flight ($status); nothing to do"
             exit 0
           fi
+          if [ -z "$createdAt" ] || [ "$createdAt" = "null" ]; then
+            echo "No prior scrape_jobs run found; dispatching backup"
+            gh -R ${{ github.repository }} workflow run scrape_jobs.yml --ref main
+            exit 0
+          fi
           hours_since=$(python3 -c "from datetime import datetime, timezone; d=datetime.fromisoformat('$createdAt'.replace('Z','+00:00')); print(int((datetime.now(timezone.utc)-d).total_seconds()/3600))")
           if [ "$hours_since" -lt 25 ]; then
             echo "scrape_jobs ran ${hours_since}h ago; nothing to do"
