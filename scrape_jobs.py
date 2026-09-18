@@ -493,7 +493,7 @@ def scrape_curated_employers() -> list:
 
 LINKEDIN_SEARCH_TERMS = _cfg("search_terms.linkedin", [])
 
-LINKEDIN_LOOKBACK_SECONDS = 86400         # 24h — normal watcher requests the last 24 hours
+LINKEDIN_LOOKBACK_SECONDS = 21600         # 6h — normal watcher requests the last 6 hours
 LINKEDIN_PRIORITY_LOOKBACK_SECONDS = 86400 # 24h — priority digest is a daily 8pm PT run
 
 # Geographies to search. geoId is LinkedIn's authoritative region filter; an
@@ -958,7 +958,7 @@ def scrape_linkedin_recent() -> list:
     jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS,
                                         max_results=1000)
     # Block guard (mirrors Indeed's): zero raw cards across every term means
-    # LinkedIn gave us nothing — rate-limited or blocked, not a quiet 24-hour window.
+    # LinkedIn gave us nothing — rate-limited or blocked, not a quiet 6-hour window.
     # Reuse the previous results so we don't clobber the dedupe baseline.
     if raw_cards == 0:
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "linkedin_jobs.json"))
@@ -2755,7 +2755,7 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     """
     Maintain all_jobs.json — a cumulative, URL/content-deduped master of every role the
     scrapers surface, each stamped with first_seen. The per-source JSONs are
-    rolling windows that overwrite every run (LinkedIn keeps only ~24h), so this
+    rolling windows that overwrite every run (LinkedIn keeps only ~6h), so this
     master is what the triage agent and the dashboard's Rank tab read to see
     everything from the last ALL_JOBS_PRUNE_DAYS days. Returns count added.
     """
