@@ -1,11 +1,13 @@
 name: Indeed Watcher
 
 on:
-  # Native GitHub cron, hourly at :17 from 05:00 through 15:00 UTC. LinkedIn is
-  # triggered after this workflow completes. The watchdog runs afterward at
-  # :55 and dispatches only if this native run was missed.
+  # Indeed keeps its normal 24-hour lookback. Native daytime runs are hourly at
+  # :17 from 05:00 through 15:00 UTC, with extra runs at 00:45 and 19:45 UTC to
+  # prevent an overnight coverage gap for LinkedIn's 6-hour watcher. Every
+  # completed Indeed Watcher run triggers LinkedIn through workflow_run.
   schedule:
     - cron: "17 5-15 * * *"
+    - cron: "45 0,19 * * *"
   workflow_dispatch:
     inputs:
       backfill:

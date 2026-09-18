@@ -4,6 +4,7 @@ This is a regression test for the confirmed bug where 35/50 states were
 missing from the location filter, causing jobs to be dropped.
 """
 import pytest
+import scrape_jobs
 from scrape_jobs import is_target_location
 
 
@@ -47,15 +48,21 @@ def test_all_50_states_accepted(state):
     )
 
 
-def test_remote():
+@pytest.fixture
+def configured_remote_hybrid_terms(monkeypatch):
+    """Remote/hybrid acceptance follows configured location_filter.terms."""
+    monkeypatch.setattr(scrape_jobs, "TARGET_LOCATIONS", ["remote", "hybrid"])
+
+
+def test_remote(configured_remote_hybrid_terms):
     assert is_target_location("Remote") is True
 
 
-def test_remote_united_states():
+def test_remote_united_states(configured_remote_hybrid_terms):
     assert is_target_location("Remote, United States") is True
 
 
-def test_hybrid():
+def test_hybrid(configured_remote_hybrid_terms):
     assert is_target_location("Hybrid - Austin, TX") is True
 
 
