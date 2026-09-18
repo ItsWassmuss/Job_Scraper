@@ -1,20 +1,34 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-18 18:29 UTC*
+*Last updated: 2026-09-18 22:02 UTC*
 
-**3 new role(s)** since last run · 61 total in last 24h
+**5 new role(s)** since last run · 48 total in last 24h
 
-### [Software Engineer (Full Stack / DevOps / Cloud Infrastructure)](https://sg.indeed.com/viewjob?jk=c65b0a1444165b8c) — Capgemini Engineering
-- 📍 **Location:** SG
+### [Product Operations Principal Engineer](https://sg.indeed.com/viewjob?jk=037ea21dddfa39ee) — Dell Technologies
+- 📍 **Location:** Bedok, S00, SG
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-18
 
-### [AI Software Engineer (Nucleus Graduate Programme)](https://sg.indeed.com/viewjob?jk=1b6fd4db5ac05209) — DataSpark Pte Ltd
-- 📍 **Location:** Singapore, S00, SG
+### [Senior AI Engineer](https://sg.indeed.com/viewjob?jk=af12ee4edc9fa1cd) — Workato
+- 📍 **Location:** Outram, S00, SG
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-18
 
-### [Associate Solutions Architect, Startup (Vietnamese Speaking), APJ ECT SA](https://sg.indeed.com/viewjob?jk=3a797de773405127) — Amazon Web Services
+### [[T04] Junior/ Senior Software Engineer - Permanent Role](https://sg.indeed.com/viewjob?jk=64c2d0bff5eb5015) — TALENTSIS PTE. LTD.
 - 📍 **Location:** Singapore, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Developer](https://sg.indeed.com/viewjob?jk=e7d0f69983057a3c) — Unknown
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-18
+
+### [AS400 COBOL Developer](https://sg.indeed.com/viewjob?jk=fa13174662f07735) — KRIS INFOTECH PTE. LTD.
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-09-18
