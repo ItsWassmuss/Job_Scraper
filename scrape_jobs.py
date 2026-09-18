@@ -574,6 +574,7 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
         ) or re.search(r'base-search-card__subtitle[^>]*>\s*([^<]+)', card)
         location_m = re.search(r'job-search-card__location[^>]*>\s*([^<]+)', card)
         time_m = re.search(r'<time[^>]*datetime="([^"]+)"', card)
+        time_text_m = re.search(r'<time\b[^>]*>(.*?)</time>', card, re.DOTALL | re.I)
         # LinkedIn shows pay on the card when the poster provides it.
         salary_m = re.search(r'job-search-card__salary-info[^>]*>\s*([^<]+)', card)
 
@@ -589,6 +590,12 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
             re.sub(r'\s+', ' ', html_mod.unescape(salary_m.group(1).strip()))
             if salary_m else ""
         )
+        relative_age_text = ""
+        if time_text_m:
+            visible_time_text = re.sub(r'<[^>]+>', ' ', time_text_m.group(1))
+            relative_age_text = re.sub(
+                r'\s+', ' ', html_mod.unescape(visible_time_text)
+            ).strip()
         parsed.append({
             "id": urn.group(1),
             "company": company,
@@ -596,13 +603,41 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
             "location": location,
             "date_posted": time_m.group(1) if time_m else "",
             "salary": salary,
+            "_relative_age_text": relative_age_text,
         })
     return parsed, raw_count
 
 
+def _linkedin_relative_age_seconds(text: str) -> int | None:
+    """Return a confidently parsed LinkedIn relative age, or None."""
+    normalized = re.sub(r'\s+', ' ', str(text or '')).strip().lower()
+    normalized = re.sub(r'^(?:posted|reposted)\s+', '', normalized)
+    if normalized in {"just now", "moments ago"}:
+        return 0
+
+    match = re.fullmatch(
+        r'(\d+)\s*'
+        r'(second|seconds|sec|secs|minute|minutes|min|mins|'
+        r'hour|hours|hr|hrs|day|days|week|weeks)\s+ago',
+        normalized,
+    )
+    if not match:
+        return None
+
+    multipliers = {
+        "second": 1, "seconds": 1, "sec": 1, "secs": 1,
+        "minute": 60, "minutes": 60, "min": 60, "mins": 60,
+        "hour": 3600, "hours": 3600, "hr": 3600, "hrs": 3600,
+        "day": 86400, "days": 86400,
+        "week": 604800, "weeks": 604800,
+    }
+    return int(match.group(1)) * multipliers[match.group(2)]
+
+
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
-                     max_results: int = 500) -> tuple[list[dict], int]:
+                     max_results: int = 500,
+                     max_age_seconds: int | None = None) -> tuple[list[dict], int]:
     """
     Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
     ID across every geography and sorts by recency. Used by both the general
@@ -610,6 +645,9 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
 
     Returns (jobs, total_raw_cards). total_raw_cards == 0 across everything means
     LinkedIn gave us no data at all — the callers' block guard.
+
+    max_age_seconds optionally applies a conservative local filter using the
+    card's visible relative age. Unknown ages are retained.
 
     Pagination: the guest API returns 10 cards per page. We step by 10 to avoid
     skipping cards. max_results caps the total cards fetched per term per geo
@@ -629,6 +667,10 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     total_raw_cards = 0
     consecutive_empty = 0
     pages_fetched = 0
+    age_evaluated_ids: set[str] = set()
+    age_kept = 0
+    age_dropped = 0
+    age_unknown_kept = 0
     for geo in geos:
         geo_param = f"&geoId={geo['geoId']}" if geo.get("geoId") else ""
         for term in terms:
@@ -683,6 +725,19 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
                         continue
                     if not role_is_relevant(p["title"], p["company"]):
                         continue
+                    if max_age_seconds is not None:
+                        if p["id"] in age_evaluated_ids:
+                            continue
+                        age_evaluated_ids.add(p["id"])
+                        relative_age = _linkedin_relative_age_seconds(
+                            p.get("_relative_age_text", "")
+                        )
+                        if relative_age is not None and relative_age > max_age_seconds:
+                            age_dropped += 1
+                            continue
+                        age_kept += 1
+                        if relative_age is None:
+                            age_unknown_kept += 1
                     jobs_by_id[p["id"]] = {
                         "company": p["company"],
                         "title": p["title"],
@@ -698,6 +753,12 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     print(f"  ✅ LinkedIn search complete: {pages_fetched} pages, "
           f"{total_raw_cards} raw cards, {len(jobs)} unique jobs"
           f"{' (rate-limited during run)' if _RATE_LIMITED else ''}")
+    if max_age_seconds is not None:
+        hours = max_age_seconds / 3600
+        window = f"{int(hours)}h" if hours.is_integer() else f"{max_age_seconds}s"
+        print(f"  🕒 LinkedIn local age filter: {age_kept} kept, "
+              f"{age_dropped} proven older than {window} dropped, "
+              f"{age_unknown_kept} unknown-age kept")
     return jobs, total_raw_cards
 
 
@@ -956,7 +1017,8 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
 def scrape_linkedin_recent() -> list:
     print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
     jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS,
-                                        max_results=1000)
+                                        max_results=1000,
+                                        max_age_seconds=LINKEDIN_LOOKBACK_SECONDS)
     # Block guard (mirrors Indeed's): zero raw cards across every term means
     # LinkedIn gave us nothing — rate-limited or blocked, not a quiet 6-hour window.
     # Reuse the previous results so we don't clobber the dedupe baseline.
