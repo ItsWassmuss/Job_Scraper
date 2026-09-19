@@ -1,65 +1,72 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-19 16:37 UTC*
+*Last updated: 2026-09-19 17:35 UTC*
 
-**15 new role(s)** since last run · 200 total in last 6h
+**17 new role(s)** since last run · 179 total in last 6h
 
-### [Softwareentwickler:in C# und Azure mit Deutschkenntnissen, 3211](https://www.linkedin.com/jobs/view/4458990052/) — Hannover Re
-- 📍 **Location:** Hannover, Lower Saxony, Germany
+### [Microsoft 365 Workplace engineer](https://www.linkedin.com/jobs/view/4469540663/) — FMA B.V.
+- 📍 **Location:** The Randstad, Netherlands
 - 🕒 **Posted:** 2026-09-19
 
-### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4468412092/) — Sano - Moderne Tierernährung GmbH
-- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
+### [C# / WPF Softwareentwickler | WPF, Desktopanwendungen | 3 Tage Home Office pro Woche (mwd)](https://www.linkedin.com/jobs/view/4373839759/) — Vesterling AG
+- 📍 **Location:** Balingen, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Software Engineer (m/f/x)](https://www.linkedin.com/jobs/view/4404207960/) — Eye Security
+### [Cloud Software Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4432663407/) — Liebherr Group
+- 📍 **Location:** Ulm, Baden-Württemberg, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer, Agents (m/f/x)](https://www.linkedin.com/jobs/view/4458988146/) — Eye Security
 - 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401455363/) — adesso SE
-- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
+### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733036925/) — adesso SE
+- 📍 **Location:** Augsburg, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Engineer - Commercial Journeys](https://www.linkedin.com/jobs/view/4441486320/) — Compare the Market
-- 📍 **Location:** Peterborough, England, United Kingdom
+### [Senior Cloud Software Engineer (m/w/d) in München](https://www.linkedin.com/jobs/view/4350082108/) — Deloitte
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Engineer - Payment platform (Backend)](https://www.linkedin.com/jobs/view/4460503318/) — Qliro
+### [Senior Solution Architect Microsoft Business Applications (m/w/d) in Düsseldorf](https://www.linkedin.com/jobs/view/4243062680/) — Deloitte
+- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733036864/) — adesso SE
+- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Expert Backend Engineer](https://www.linkedin.com/jobs/view/4413148097/) — Wiz
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [QA Engineer](https://www.linkedin.com/jobs/view/4469526309/) — Sundayy
+- 📍 **Location:** England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Power Platform Developer](https://www.linkedin.com/jobs/view/4469541750/) — ERIN ASSOCIATES LIMITED
+- 📍 **Location:** Grimsby, England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Full Stack Developer](https://www.linkedin.com/jobs/view/4392652368/) — EY
+- 📍 **Location:** Wrocław, Dolnośląskie, Poland
+- 🕒 **Posted:** 2026-09-19
+
+### [Backend .Net Developer](https://www.linkedin.com/jobs/view/4469549477/) — ipracujzdalnie.pl
+- 📍 **Location:** Poznań, Wielkopolskie, Poland
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4450309418/) — Grafton Recruitment
+- 📍 **Location:** Cracow, Małopolskie, Poland
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Engineer Dev Ops](https://www.linkedin.com/jobs/view/4450079885/) — Accelleron
+- 📍 **Location:** Gdańsk, Pomorskie, Poland
+- 🕒 **Posted:** 2026-09-19
+
+### [Engineering Manager (gn)  Microsoft Dynamics 365 | CRM / CE](https://www.linkedin.com/jobs/view/4468097544/) — SoftwareOne
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Engineers](https://www.linkedin.com/jobs/view/4392435158/) — MSAB
 - 📍 **Location:** Stockholm, Stockholm County, Sweden
-- 🕒 **Posted:** 2026-09-19
-
-### [Solution Architect](https://www.linkedin.com/jobs/view/4422350097/) — Nortal
-- 📍 **Location:** Helsinki, Uusimaa, Finland
-- 💰 **Salary:** $5200 - $7800
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4460576865/) — Aon
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-09-19
-
-### [IT Consultant, Applications (Business Analysis, PM, .NET Core, Data Analytics, East)](https://www.linkedin.com/jobs/view/4446295285/) — JonDavidson Pte Ltd
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-09-19
-
-### [IT System Engineer Web Applications](https://www.linkedin.com/jobs/view/4372353299/) — CompuGroup Medical SE & Co. KGaA
-- 📍 **Location:** Iasi Metropolitan Area
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4401641323/) — PwC Greece
-- 📍 **Location:** Athens, Attiki, Greece
-- 🕒 **Posted:** 2026-09-19
-
-### [C# Entwickler für Test Plattform Entwicklung (m/w/d)](https://www.linkedin.com/jobs/view/4441315247/) — Fronius Österreich
-- 📍 **Location:** Thalheim bei Wels, Upper Austria, Austria
-- 🕒 **Posted:** 2026-09-19
-
-### [Microsoft Power Platform Architect (m/f/d) – Tieto Tech Consulting](https://www.linkedin.com/jobs/view/4450704457/) — Tieto
-- 📍 **Location:** Linz, Upper Austria, Austria
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior DevOps Engineer (f/m/d) – Vienna, Austria](https://www.linkedin.com/jobs/view/4469533823/) — Outstanding People International
-- 📍 **Location:** Vienna, Austria
-- 🕒 **Posted:** 2026-09-19
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4460524311/) — Expleo Group
-- 📍 **Location:** Lisboa, Lisbon, Portugal
 - 🕒 **Posted:** 2026-09-19
