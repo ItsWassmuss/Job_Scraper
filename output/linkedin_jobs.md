@@ -1,8 +1,12 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-19 21:25 UTC*
+*Last updated: 2026-09-19 22:24 UTC*
 
-**1 new role(s)** since last run · 57 total in last 6h
+**2 new role(s)** since last run · 41 total in last 6h
 
-### [Power Platform Developer](https://www.linkedin.com/jobs/view/4469541750/) — ERIN ASSOCIATES LIMITED
-- 📍 **Location:** Grimsby, England, United Kingdom
+### [Junior Software Developer](https://www.linkedin.com/jobs/view/4469553524/) — Helic & Co
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Backend Developer](https://www.linkedin.com/jobs/view/4466299903/) — Istanalytics
+- 📍 **Location:** Türkiye
 - 🕒 **Posted:** 2026-09-19
