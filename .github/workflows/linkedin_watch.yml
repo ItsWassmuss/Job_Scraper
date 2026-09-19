@@ -1,11 +1,8 @@
 name: LinkedIn Watcher
 
 on:
-  # Run after every completed Indeed workflow, regardless of its conclusion.
-  workflow_run:
-    workflows: ["Indeed Watcher"]
-    types:
-      - completed
+  # LinkedIn is dispatched explicitly by Indeed Watcher after every Indeed run.
+  # workflow_dispatch also preserves manual/backfill operation.
   workflow_dispatch:
     inputs:
       backfill:
