@@ -1,11 +1,9 @@
 name: Workflow Watchdog
 
-# Backup-dispatches indeed_watch.yml if the GitHub Actions scheduler silently
-# skips a slot. Runs at :55 from 05:00 through 15:00 UTC, after Indeed's native
-# :17 cron. A rescued Indeed run explicitly dispatches LinkedIn at its end.
+# Manual fallback for checking whether Indeed has already run in the current
+# UTC hour and dispatching it if needed. A rescued Indeed run explicitly
+# dispatches LinkedIn at its end.
 on:
-  schedule:
-    - cron: "55 5-15 * * *"
   workflow_dispatch:
 
 # NOTE: deliberately NOT in the job-scraper-commit-push concurrency group.
