@@ -1,12 +1,8 @@
 name: Indeed Watcher
 
 on:
-  # Indeed runs every hour, 24/7, at :17 UTC and keeps its normal 24-hour
-  # lookback. At the end of every Indeed run, LinkedIn is explicitly dispatched
-  # through workflow_dispatch, giving LinkedIn repeated overlapping 6-hour
-  # search windows even when Indeed itself was rescued by another workflow.
-  schedule:
-    - cron: "17 * * * *"
+  # Indeed is triggered externally through workflow_dispatch. It keeps its
+  # normal 24-hour lookback and explicitly dispatches LinkedIn at the end.
   workflow_dispatch:
     inputs:
       backfill:
