@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-19 14:18 UTC",
-  "total": 40,
+  "scraped_at": "2026-09-19 15:17 UTC",
+  "total": 39,
   "new_count": 0,
   "jobs": [
     {
@@ -667,24 +667,6 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "reachus@ncs.com.sg",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Amazon Web Services",
-      "title": "Associate Solutions Architect, Startup (Vietnamese Speaking), APJ ECT SA",
-      "location": "Singapore, S00, SG",
-      "url": "https://sg.indeed.com/viewjob?jk=3a797de773405127",
-      "direct_url": "https://www.amazon.jobs/jobs/10553199/associate-solutions-architect-startup-vietnamese-speaking-apj-ect-sa?cmpid=DA_INAD200785B",
-      "company_url": "https://sg.indeed.com/cmp/Amazon-Web-Services-05cb4ad1",
-      "date_posted": "2026-09-18",
-      "description": "**DESCRIPTION**\n---------------\n\n\nAre you interested in cloud computing and helping customers build on AWS? We have a role you might find interesting.  \n\n  \n\nThe AWS Solutions Architecture team is dedicated to working with customers as they build and grow their businesses on AWS. We're here to make sure they can deploy the best, most scalable, and most secure architectures possible — and that they spend as little time and money as possible doing so.  \n\n  \n\nKey job responsibilities  \n\nWe are looking for technical builders who love the idea of working with customers to help them succeed. In this role, you'll work directly with a variety of interesting customers and help them make the best (and sometimes the most pragmatic) technical decisions along the way. You'll have a chance to build enduring relationships with these companies and establish yourself as a trusted advisor.  \n\n  \n\nAs well as spending time working directly with customers, you'll also get plenty of time to \"sharpen the saw\" and keep your skills fresh. We have more than 175 services across a range of different categories, and it's important that we can help customers take advantage of the right ones. You'll also play an important role as an advocate with our product teams to make sure we are building the right products for the customers you work with. And for the customers you don't get to work with on a 1:1 basis, you'll get the chance to share your knowledge more broadly by working on technical content and presenting at events.  \n\n  \n\nA day in the life  \n\nDiverse Experiences AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn't followed a traditional path, or includes alternative experiences, don't let it stop you from applying.  \n\n  \n\nWhy AWS? Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that's why customers from the fastest\\-growing companies to Global 500 enterprises trust our robust suite of products and services to power their businesses.  \n\n  \n\nInclusive Team Culture Here at AWS, it's in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empowers us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  \n\n  \n\nMentorship \\& Career Growth We're continuously raising our performance bar as we strive to become Earth's Best Employer. That's why you'll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.  \n\n  \n\nWork/Life Balance We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there's nothing we can't achieve in the cloud.  \n\n  \n\nAbout the team  \n\nAWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest\\-growing small\\- and mid\\-market accounts to enterprise\\-level customers including public sector.\n\n**BASIC QUALIFICATIONS**\n------------------------\n\n* Experience with one of the following programming languages: Python, Ruby, Node.js, C\\#, or C\\+\\+\n* Experience with two or more of the following: networking fundamentals, security, storage or databases (relational or NoSQL), operating systems (Unix, Linux, or Windows)\n* 2\\+ years of Information Technology (IT) experience\n* Speak, write, and read fluently in English\n* Speak, write, and read fluently in Vietnamesse\n\n**PREFERRED QUALIFICATIONS**\n----------------------------\n\n* Experience implementing a cloud\\-based technology solution\n* Experience in any of the following: Cloud Architecture, Systems Design, Software Development, Infrastructure Architecture, Data Engineering or DevOps\n\n  \n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
       "ats": "Indeed"
     },
     {
