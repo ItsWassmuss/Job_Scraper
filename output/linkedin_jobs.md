@@ -1,72 +1,104 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-19 17:35 UTC*
+*Last updated: 2026-09-19 18:30 UTC*
 
-**17 new role(s)** since last run · 179 total in last 6h
+**25 new role(s)** since last run · 108 total in last 6h
 
-### [Microsoft 365 Workplace engineer](https://www.linkedin.com/jobs/view/4469540663/) — FMA B.V.
-- 📍 **Location:** The Randstad, Netherlands
+### [Junior Research Software Engineer for Sustainability Science - Full Stack- NL](https://www.linkedin.com/jobs/view/4432873842/) — Leiden University
+- 📍 **Location:** Leiden, South Holland, Netherlands
 - 🕒 **Posted:** 2026-09-19
 
-### [C# / WPF Softwareentwickler | WPF, Desktopanwendungen | 3 Tage Home Office pro Woche (mwd)](https://www.linkedin.com/jobs/view/4373839759/) — Vesterling AG
-- 📍 **Location:** Balingen, Baden-Württemberg, Germany
+### [Windows / Desktop Software Engineer (m/w/d) - Legal AI Automation](https://www.linkedin.com/jobs/view/4469545549/) — NotarNow
+- 📍 **Location:** Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Cloud Software Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4432663407/) — Liebherr Group
-- 📍 **Location:** Ulm, Baden-Württemberg, Germany
+### [Full Stack Engineer/Full Stack Developer](https://www.linkedin.com/jobs/view/4468411195/) — PA Consultancy
+- 📍 **Location:** Berlin, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Software Engineer, Agents (m/f/x)](https://www.linkedin.com/jobs/view/4458988146/) — Eye Security
-- 📍 **Location:** Berlin, Berlin, Germany
+### [Front Office C# .NET Developer | ETRM Integration | Azure | Energy Trading | £105,000 | Hybrid, London](https://www.linkedin.com/jobs/view/4466994108/) — VirtueTech Recruitment Group
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733036925/) — adesso SE
-- 📍 **Location:** Augsburg, Bavaria, Germany
+### [Senior Full Stack Developer C#/.NET & Angular | Up to £95,000 + Bonus | Hybrid | London](https://www.linkedin.com/jobs/view/4466983876/) — VirtueTech Recruitment Group
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Cloud Software Engineer (m/w/d) in München](https://www.linkedin.com/jobs/view/4350082108/) — Deloitte
-- 📍 **Location:** Munich, Bavaria, Germany
+### [Principal Software Engineer](https://www.linkedin.com/jobs/view/4469541768/) — Defaqto
+- 📍 **Location:** Farringdon, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Solution Architect Microsoft Business Applications (m/w/d) in Düsseldorf](https://www.linkedin.com/jobs/view/4243062680/) — Deloitte
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
+### [Senior Dynamics Developer](https://www.linkedin.com/jobs/view/4460362969/) — Brodies LLP
+- 📍 **Location:** Edinburgh, Scotland, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733036864/) — adesso SE
-- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Expert Backend Engineer](https://www.linkedin.com/jobs/view/4413148097/) — Wiz
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4414699436/) — Ensono
 - 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [QA Engineer](https://www.linkedin.com/jobs/view/4469526309/) — Sundayy
-- 📍 **Location:** England, United Kingdom
+### [Junior Software Developer](https://www.linkedin.com/jobs/view/4469553524/) — Helic & Co
+- 📍 **Location:** United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Power Platform Developer](https://www.linkedin.com/jobs/view/4469541750/) — ERIN ASSOCIATES LIMITED
-- 📍 **Location:** Grimsby, England, United Kingdom
+### [Data Architect](https://www.linkedin.com/jobs/view/4448770982/) — Methods
+- 📍 **Location:** Sheffield, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Full Stack Developer](https://www.linkedin.com/jobs/view/4392652368/) — EY
-- 📍 **Location:** Wrocław, Dolnośląskie, Poland
+### [Director, Software Engineering  (Platform)](https://www.linkedin.com/jobs/view/4422417127/) — Neko Health
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Backend .Net Developer](https://www.linkedin.com/jobs/view/4469549477/) — ipracujzdalnie.pl
-- 📍 **Location:** Poznań, Wielkopolskie, Poland
+### [Software Development Engineer, IAM Stores Security](https://www.linkedin.com/jobs/view/4459622333/) — Amazon
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4450309418/) — Grafton Recruitment
-- 📍 **Location:** Cracow, Małopolskie, Poland
+### [💻 Senior C# & React Full Stack Developer | ⚡ Front Office Trading House | 💷 £130,000 + Bonus | 🏙️ London | 🧑💻 3 Days in Office](https://www.linkedin.com/jobs/view/4466994109/) — VirtueTech Recruitment Group
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Engineer Dev Ops](https://www.linkedin.com/jobs/view/4450079885/) — Accelleron
-- 📍 **Location:** Gdańsk, Pomorskie, Poland
+### [Senior Engineer – Data Platform Team | C#/.NET, Kafka, Event-Driven / Streaming | Up to £130,000 + Bonus + Benefits | Hybrid | FX Trading Firm | London](https://www.linkedin.com/jobs/view/4466996081/) — VirtueTech Recruitment Group
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [Engineering Manager (gn)  Microsoft Dynamics 365 | CRM / CE](https://www.linkedin.com/jobs/view/4468097544/) — SoftwareOne
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Senior Software Engineer – C++/C# Migration and Test Automation](https://www.linkedin.com/jobs/view/4469544584/) — Sigma Industry Evolution
+- 📍 **Location:** Lund, Skåne County, Sweden
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Engineers](https://www.linkedin.com/jobs/view/4392435158/) — MSAB
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
+### [Senior Solutions Architect](https://www.linkedin.com/jobs/view/4450611501/) — MongoDB
+- 📍 **Location:** Sweden
+- 🕒 **Posted:** 2026-09-19
+
+### [Copilot Cloud Solution Architect - AI Business Solutions](https://www.linkedin.com/jobs/view/4460599949/) — Microsoft
+- 📍 **Location:** Oslo, Oslo, Norway
+- 🕒 **Posted:** 2026-09-19
+
+### [Portfolio Architect](https://www.linkedin.com/jobs/view/4429348011/) — Basware
+- 📍 **Location:** Espoo, Uusimaa, Finland
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior .Net udvikler til afdeling i vækst](https://www.linkedin.com/jobs/view/4432589904/) — Sopra Steria
+- 📍 **Location:** Copenhagen Municipality, Capital Region of Denmark, Denmark
+- 🕒 **Posted:** 2026-09-19
+
+### [Fullstack Software Engineer – Kommende Projekter](https://www.linkedin.com/jobs/view/4433302353/) — Etteplan
+- 📍 **Location:** Herlev, Capital Region of Denmark, Denmark
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Engineer (Teradyne, Singapore)](https://www.linkedin.com/jobs/view/4439228453/) — Teradyne
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer (Full Stack) (1-year Contract)](https://www.linkedin.com/jobs/view/4466999067/) — Monetary Authority of Singapore (MAS)
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Engineer, Information Technology (Technical Solutions)](https://www.linkedin.com/jobs/view/4181067146/) — Scoot
+- 📍 **Location:** East Region, Singapore
+- 🕒 **Posted:** 2026-09-19
+
+### [Dynamics 365 Developer](https://www.linkedin.com/jobs/view/4466990259/) — Decskill
+- 📍 **Location:** Lisbon Metropolitan Area
+- 🕒 **Posted:** 2026-09-19
+
+### [Player Management - Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4382954218/) — Betsson Group
+- 📍 **Location:** Budapest, Budapest, Hungary
 - 🕒 **Posted:** 2026-09-19
