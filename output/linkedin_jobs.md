@@ -1,12 +1,16 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-19 22:24 UTC*
+*Last updated: 2026-09-19 23:23 UTC*
 
-**2 new role(s)** since last run · 41 total in last 6h
+**3 new role(s)** since last run · 27 total in last 6h
 
-### [Junior Software Developer](https://www.linkedin.com/jobs/view/4469553524/) — Helic & Co
-- 📍 **Location:** United Kingdom
+### [Software Engineer - Angular/.net (m/w/d)](https://www.linkedin.com/jobs/view/4468411547/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Backend Developer](https://www.linkedin.com/jobs/view/4466299903/) — Istanalytics
-- 📍 **Location:** Türkiye
+### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4468093867/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Systems Software Engineer - Core IP Security | Quant Finance Research Firm](https://www.linkedin.com/jobs/view/4458588966/) — Techfellow Limited
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-19
