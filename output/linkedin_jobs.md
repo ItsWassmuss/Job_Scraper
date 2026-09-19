@@ -1,412 +1,288 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-19 11:11 UTC*
+*Last updated: 2026-09-19 12:37 UTC*
 
-**102 new role(s)** since last run · 119 total in last 6h
+**71 new role(s)** since last run · 187 total in last 6h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469521139/) — Hyra
-- 📍 **Location:** Berlin, Germany
+### [Fullstack ontwikkelaar MES IT/OT Utrecht & Haarlem - Jobbird.com](https://www.linkedin.com/jobs/view/4468083669/) — Jobster
+- 📍 **Location:** Haarlem, North Holland, Netherlands
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450301124/) — adesso SE
-- 📍 **Location:** Stuttgart, Baden-Württemberg, Germany
+### [Test Engineer](https://www.linkedin.com/jobs/view/4395869235/) — Astek
+- 📍 **Location:** Tilburg, North Brabant, Netherlands
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450098216/) — adesso SE
-- 📍 **Location:** Nuremberg, Bavaria, Germany
+### [Software Engineer - Angular/.net (m/w/d)](https://www.linkedin.com/jobs/view/4468085608/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Actuarial Engineer, 3219](https://www.linkedin.com/jobs/view/4447901568/) — Hannover Re
-- 📍 **Location:** Hannover, Lower Saxony, Germany
+### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4468075841/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Developer (M/W/D)*](https://www.linkedin.com/jobs/view/4429850248/) — TGW Logistics
-- 📍 **Location:** Teunz, Bavaria, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer (M/F/D)*](https://www.linkedin.com/jobs/view/4429864052/) — TGW Logistics
-- 📍 **Location:** Teunz, Bavaria, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450082787/) — adesso SE
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733043028/) — adesso SE
-- 📍 **Location:** Dortmund, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733042114/) — adesso SE
-- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733040364/) — adesso SE
-- 📍 **Location:** Paderborn, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733042052/) — adesso SE
-- 📍 **Location:** Rostock, Mecklenburg-West Pomerania, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733039432/) — adesso SE
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733039490/) — adesso SE
-- 📍 **Location:** Siegen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/4409937536/) — adesso SE
-- 📍 **Location:** Coblenz, Rhineland-Palatinate, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401439971/) — adesso SE
-- 📍 **Location:** Nuremberg, Bavaria, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401462142/) — adesso SE
-- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401462148/) — adesso SE
-- 📍 **Location:** Siegen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401449447/) — adesso SE
-- 📍 **Location:** Ulm, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733036925/) — adesso SE
-- 📍 **Location:** Augsburg, Bavaria, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3733040440/) — adesso SE
-- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3733037844/) — adesso SE
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450090360/) — adesso SE
 - 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3733041239/) — adesso SE
-- 📍 **Location:** Karlsruhe, Baden-Württemberg, Germany
+### [AIoT Backend Developer](https://www.linkedin.com/jobs/view/4466969732/) — Concept Reply GmbH
+- 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3733041221/) — adesso SE
-- 📍 **Location:** Hamburg, Hamburg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3733037808/) — adesso SE
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3733044010/) — adesso SE
-- 📍 **Location:** Saarbrücken, Saarland, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Cloud Architect Azure/Google Cloud - Banking (all genders)](https://www.linkedin.com/jobs/view/4158550209/) — adesso SE
-- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733038531/) — adesso SE
-- 📍 **Location:** Rostock, Mecklenburg-West Pomerania, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733038538/) — adesso SE
-- 📍 **Location:** Ulm, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733035887/) — adesso SE
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733034921/) — adesso SE
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733039305/) — adesso SE
-- 📍 **Location:** Frankfurt, Hesse, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Cloud Architect Azure/Google Cloud - Banking (all genders)](https://www.linkedin.com/jobs/view/4158545901/) — adesso SE
-- 📍 **Location:** Frankfurt, Hesse, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733037548/) — adesso SE
-- 📍 **Location:** Walldorf, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733036864/) — adesso SE
-- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733038604/) — adesso SE
-- 📍 **Location:** Dortmund, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733036844/) — adesso SE
-- 📍 **Location:** Kiel, Schleswig-Holstein, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733040288/) — adesso SE
-- 📍 **Location:** Leipzig, Saxony, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925561046/) — adesso SE
-- 📍 **Location:** Siegen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925557531/) — adesso SE
-- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925556501/) — adesso SE
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733041080/) — adesso SE
-- 📍 **Location:** Siegen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925554579/) — adesso SE
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450097274/) — adesso SE
 - 📍 **Location:** Bonn, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733042025/) — adesso SE
-- 📍 **Location:** Rostock, Mecklenburg-West Pomerania, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733038584/) — adesso SE
-- 📍 **Location:** Walldorf, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Architect SharePoint (all genders)](https://www.linkedin.com/jobs/view/3733040261/) — adesso SE
-- 📍 **Location:** Neumünster, Schleswig-Holstein, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3733042432/) — adesso SE
-- 📍 **Location:** Walldorf, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Microsoft Dynamics CRM Platform Architect (all genders)](https://www.linkedin.com/jobs/view/3733045378/) — adesso SE
-- 📍 **Location:** Walldorf, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/3957892589/) — adesso SE
-- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/3957890855/) — adesso SE
-- 📍 **Location:** Karlsruhe, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008125475/) — adesso SE
-- 📍 **Location:** Hannover, Lower Saxony, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008119940/) — adesso SE
-- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008171058/) — adesso SE
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450091335/) — adesso SE
 - 📍 **Location:** Hamburg, Hamburg, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008121792/) — adesso SE
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450082780/) — adesso SE
+- 📍 **Location:** Dresden, Saxony, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450085586/) — adesso SE
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450096278/) — adesso SE
+- 📍 **Location:** Leipzig, Saxony, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450088353/) — adesso SE
+- 📍 **Location:** Frankfurt, Hesse, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450093309/) — adesso SE
+- 📍 **Location:** Saarbrücken, Saarland, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450305030/) — adesso SE
+- 📍 **Location:** Hannover, Lower Saxony, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect .NET Banking (all genders)](https://www.linkedin.com/jobs/view/4450095316/) — adesso SE
+- 📍 **Location:** Walldorf, Baden-Württemberg, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733038720/) — adesso SE
+- 📍 **Location:** Bremen, Bremen, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733037705/) — adesso SE
+- 📍 **Location:** Dresden, Saxony, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733040345/) — adesso SE
+- 📍 **Location:** Walldorf, Baden-Württemberg, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Developer MES / IIoT (all genders)](https://www.linkedin.com/jobs/view/3733037715/) — adesso SE
+- 📍 **Location:** Frankfurt, Hesse, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401455354/) — adesso SE
+- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401462144/) — adesso SE
+- 📍 **Location:** Bonn, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401462147/) — adesso SE
+- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401456340/) — adesso SE
+- 📍 **Location:** Neumünster, Schleswig-Holstein, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Developer Dynamics 365 Business Central (all genders)](https://www.linkedin.com/jobs/view/4401455363/) — adesso SE
+- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3994306048/) — adesso SE
+- 📍 **Location:** Neumünster, Schleswig-Holstein, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Microsoft Dynamics CRM Developer (all genders)](https://www.linkedin.com/jobs/view/3733038766/) — adesso SE
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Cloud Architect Azure/Google Cloud - Banking (all genders)](https://www.linkedin.com/jobs/view/4158551063/) — adesso SE
+- 📍 **Location:** Karlsruhe, Baden-Württemberg, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733743342/) — adesso SE
+- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/4251555934/) — adesso SE
+- 📍 **Location:** Berlin, Berlin, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733033970/) — adesso SE
+- 📍 **Location:** Dortmund, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733036754/) — adesso SE
+- 📍 **Location:** Dresden, Saxony, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Architect MES / IIoT / Industrie 4.0 (all genders)](https://www.linkedin.com/jobs/view/3733033966/) — adesso SE
+- 📍 **Location:** Augsburg, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3733045200/) — adesso SE
 - 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Engineer](https://www.linkedin.com/jobs/view/4439243475/) — Grant Thornton UK
-- 📍 **Location:** Sheffield, England, United Kingdom
+### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925559412/) — adesso SE
+- 📍 **Location:** Ulm, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Customer Support Engineer](https://www.linkedin.com/jobs/view/4404097649/) — Oxford Instruments plc
-- 📍 **Location:** Severn Beach, England, United Kingdom
+### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3733042505/) — adesso SE
+- 📍 **Location:** Karlsruhe, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [QA Engineer](https://www.linkedin.com/jobs/view/4469526309/) — Sundayy
-- 📍 **Location:** England, United Kingdom
+### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3733044394/) — adesso SE
+- 📍 **Location:** Saarbrücken, Saarland, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Technical Construction Software Trainer](https://www.linkedin.com/jobs/view/4460525324/) — Trimble Inc.
-- 📍 **Location:** Leeds, England, United Kingdom
+### [Microsoft Dynamics CRM Platform Architect (all genders)](https://www.linkedin.com/jobs/view/3733047161/) — adesso SE
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-19
 
-### [Delivery Manager – Software Development and Integrations](https://www.linkedin.com/jobs/view/4460342091/) — itecopeople
+### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925557505/) — adesso SE
+- 📍 **Location:** Berlin, Berlin, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Microsoft Dynamics CRM Platform Architect (all genders)](https://www.linkedin.com/jobs/view/3733046354/) — adesso SE
+- 📍 **Location:** Dresden, Saxony, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008172020/) — adesso SE
+- 📍 **Location:** Bremen, Bremen, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/4276869610/) — adesso SE
+- 📍 **Location:** Paderborn, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008125483/) — adesso SE
+- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/3957893160/) — adesso SE
+- 📍 **Location:** Kiel, Schleswig-Holstein, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008120893/) — adesso SE
+- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/3957893218/) — adesso SE
+- 📍 **Location:** Hannover, Lower Saxony, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/4276865962/) — adesso SE
+- 📍 **Location:** Bonn, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/3957892650/) — adesso SE
+- 📍 **Location:** Berlin, Berlin, Germany
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer - Backend](https://www.linkedin.com/jobs/view/4459407442/) — On the Beach
+- 📍 **Location:** Manchester, England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Architect](https://www.linkedin.com/jobs/view/4433342537/) — TeamViewer
 - 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [C# .NET Developer | Business Delivery Solutions](https://www.linkedin.com/jobs/view/4458094080/) — Deloitte
-- 📍 **Location:** Łódź, Łódzkie, Poland
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468080840/) — Haystack
+- 📍 **Location:** Greater London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [C# .NET Developer | Business Delivery Solutions](https://www.linkedin.com/jobs/view/4458089121/) — Deloitte
-- 📍 **Location:** Gdańsk, Pomorskie, Poland
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468090171/) — Haystack
+- 📍 **Location:** United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [.NET Developer (Backend / Full-Stack Platform)](https://www.linkedin.com/jobs/view/4448775860/) — Comarch
-- 📍 **Location:** Łódź, Łódzkie, Poland
+### [Fullstack Developer (DV Cleared)](https://www.linkedin.com/jobs/view/4467940800/) — Experis UK
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-19
 
-### [.NET Developer (Backend / Full-Stack Platform)](https://www.linkedin.com/jobs/view/4448780545/) — Comarch
+### [Senior Engineer (£80,000 + Equity) at REGULEX AI LIMITED](https://www.linkedin.com/jobs/view/4457633381/) — Jack & Jill
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Quadient Developer](https://www.linkedin.com/jobs/view/4438091727/) — HM Revenue & Customs
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Application & Support Engineer](https://www.linkedin.com/jobs/view/4460384451/) — Expleo Group
+- 📍 **Location:** Stevenage, England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [BI Developer](https://www.linkedin.com/jobs/view/4458988559/) — Holland Mountain
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4468081772/) — Haystack
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Full-Stack Developer (.NET + Angular) 1](https://www.linkedin.com/jobs/view/4448416744/) — Atos
+- 📍 **Location:** Bydgoszcz, Kujawsko-pomorskie, Poland
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Full-Stack Developer (.NET + Angular) 1](https://www.linkedin.com/jobs/view/4448417693/) — Atos
+- 📍 **Location:** Warsaw Metropolitan Area
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Full-Stack Developer (.NET + Angular) 1](https://www.linkedin.com/jobs/view/4448415672/) — Atos
 - 📍 **Location:** Cracow, Małopolskie, Poland
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Principal Software Engineer (Backend/Full Stack)](https://www.linkedin.com/jobs/view/4424266404/) — Autodesk
-- 📍 **Location:** Cracow, Małopolskie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [Manager Software Engineering (f/m)](https://www.linkedin.com/jobs/view/4458975096/) — Phoenix Contact
-- 📍 **Location:** Wielkopolskie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Software QA Engineer (Industrial Software/Smart Factory)](https://www.linkedin.com/jobs/view/4449746997/) — Autodesk
-- 📍 **Location:** Cracow, Małopolskie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [Director of Software Engineering](https://www.linkedin.com/jobs/view/4423969474/) — Brightstar Lottery
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer in Test (Python)](https://www.linkedin.com/jobs/view/4440620589/) — Veeam Software
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [C# .NET Developer | Business Delivery Solutions](https://www.linkedin.com/jobs/view/4458083241/) — Deloitte
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [C# .NET Developer | Business Delivery Solutions](https://www.linkedin.com/jobs/view/4458096042/) — Deloitte
-- 📍 **Location:** Cracow, Małopolskie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [C# .NET Developer | Business Delivery Solutions](https://www.linkedin.com/jobs/view/4458092092/) — Deloitte
-- 📍 **Location:** Rzeszów, Podkarpackie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior .NET Developer (DevOps mindset)](https://www.linkedin.com/jobs/view/4448780535/) — Comarch
-- 📍 **Location:** Cracow, Małopolskie, Poland
-- 🕒 **Posted:** 2026-09-19
-
-### [Azure Integration Developer](https://www.linkedin.com/jobs/view/4460337861/) — Vizrt
+### [Senior Backend Engineer (C#/.Net) (m/f/d)](https://www.linkedin.com/jobs/view/4460306604/) — Riverty
 - 📍 **Location:** Stockholm, Stockholm County, Sweden
 - 🕒 **Posted:** 2026-09-19
 
-### [Regional Integration Specialist hos Toyota Northern Europe](https://www.linkedin.com/jobs/view/4398452938/) — Wise IT
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Solutions Architect](https://www.linkedin.com/jobs/view/4401688471/) — Databricks
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Sales Engineer - Majors (UK/Nordics/Netherlands)](https://www.linkedin.com/jobs/view/4440592081/) — Datadog
-- 📍 **Location:** Sweden
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior .NET Architect](https://www.linkedin.com/jobs/view/4468241994/) — Methodius IT Recruitment
+### [Software Eng II](https://www.linkedin.com/jobs/view/4458422075/) — Sony Interactive Entertainment
 - 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-19
 
-### [Senior Integration Engineer](https://www.linkedin.com/jobs/view/4433549602/) — U.S. Bank
+### [Principal Azure AI Engineer](https://www.linkedin.com/jobs/view/4469518801/) — The Panel
 - 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-19
 
-### [Technical Support Engineer - Dell Compute | PowerEdge & Modular (B2B) - Norwegian, Finnish, or Dutch speaking](https://www.linkedin.com/jobs/view/4468073351/) — Dell Technologies
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-19
-
-### [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4441157025/) — Autodesk
+### [DevOps Architect](https://www.linkedin.com/jobs/view/4468073850/) — SoftwareOne
 - 📍 **Location:** Oslo, Oslo, Norway
 - 🕒 **Posted:** 2026-09-19
 
-### [Full Stack Developer](https://www.linkedin.com/jobs/view/4414267514/) — SimCorp
-- 📍 **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- 🕒 **Posted:** 2026-09-19
-
-### [Advisory - Consulting, Forensic (Solutions Architect) | Graduate Associate 2026](https://www.linkedin.com/jobs/view/4409681512/) — KPMG Singapore
+### [Software Development Manager](https://www.linkedin.com/jobs/view/4299962246/) — Seatrium
 - 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-09-19
 
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4460331575/) — Avanade
-- 📍 **Location:** Singapore, Singapore
+### [Senior .NET Developer](https://www.linkedin.com/jobs/view/4365998175/) — Endava
+- 📍 **Location:** Cluj-Napoca, Cluj, Romania
 - 🕒 **Posted:** 2026-09-19
 
-### [Principal CRM Engineer](https://www.linkedin.com/jobs/view/4423314618/) — StarHub
-- 📍 **Location:** Singapore, Singapore
+### [Junior Front-End Developer - RD007](https://www.linkedin.com/jobs/view/4466684788/) — SEEMS S.A.
+- 📍 **Location:** Thessaloniki, Central Macedonia, Greece
 - 🕒 **Posted:** 2026-09-19
 
-### [Deployed Architect, Professional Services (APAC)](https://www.linkedin.com/jobs/view/4423992645/) — LangChain
-- 📍 **Location:** Singapore
+### [Azure Cloud Architect (M/V/X)](https://www.linkedin.com/jobs/view/4373554226/) — Egov Select
+- 📍 **Location:** Brussels, Brussels Region, Belgium
 - 🕒 **Posted:** 2026-09-19
 
-### [Software Developer II (C#, .NET)](https://www.linkedin.com/jobs/view/4450314733/) — Suvoda
-- 📍 **Location:** Romania
+### [Senior Full Stack Developer](https://www.linkedin.com/jobs/view/4466983447/) — OGA.ai
+- 📍 **Location:** Camas, Andalusia, Spain
 - 🕒 **Posted:** 2026-09-19
 
-### [QA Automation Engineer](https://www.linkedin.com/jobs/view/4460329342/) — Worldline
-- 📍 **Location:** Bucharest, Bucharest, Romania
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Fullstack .NET Developer](https://www.linkedin.com/jobs/view/4431499455/) — Medpace
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-09-19
-
-### [Fullstack .NET Developer](https://www.linkedin.com/jobs/view/4431493547/) — Medpace
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-09-19
-
-### [Full Stack .NET Developer (Innovation Lab)](https://www.linkedin.com/jobs/view/4404092216/) — Protime
-- 📍 **Location:** Mechelen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-09-19
-
-### [Full Stack Developer – .NET & React](https://www.linkedin.com/jobs/view/4465635591/) — Pauwels Consulting
-- 📍 **Location:** Anderlecht, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-19
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4431490525/) — Medpace
-- 📍 **Location:** Leuven, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-09-19
-
-### [Solution Architect Microsoft Dynamics (w/m/d)](https://www.linkedin.com/jobs/view/4422997028/) — CKW
-- 📍 **Location:** Emmen, Lucerne, Switzerland
-- 🕒 **Posted:** 2026-09-19
-
-### [Full Stack Developer C# / Vue.js – Fokus Backend (M/F/D)*](https://www.linkedin.com/jobs/view/4419634394/) — TGW Logistics
-- 📍 **Location:** Marchtrenk, Upper Austria, Austria
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Development Sr. Engineer](https://www.linkedin.com/jobs/view/4363377212/) — Solera Holdings, LLC.
+### [Senior Support Analyst (API & Cloud)](https://www.linkedin.com/jobs/view/4460382126/) — OneTrust
 - 📍 **Location:** Madrid, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-09-19
 
-### [ERP Technical Architect](https://www.linkedin.com/jobs/view/4460386802/) — Avanade
-- 📍 **Location:** Málaga, Andalusia, Spain
-- 🕒 **Posted:** 2026-09-19
-
-### [Milan IT - Senior Developer](https://www.linkedin.com/jobs/view/4448760262/) — BNP Paribas CIB
-- 📍 **Location:** Lisboa, Lisbon, Portugal
-- 🕒 **Posted:** 2026-09-19
-
-### [Frankfurt IT - Developer](https://www.linkedin.com/jobs/view/4450721478/) — BNP Paribas CIB
-- 📍 **Location:** Lisboa, Lisbon, Portugal
-- 🕒 **Posted:** 2026-09-19
-
-### [Software Developer in Test (Python)](https://www.linkedin.com/jobs/view/4440621554/) — Veeam Software
-- 📍 **Location:** Lisbon, Portugal
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Application Security Engineer](https://www.linkedin.com/jobs/view/4441130255/) — Intapp
-- 📍 **Location:** Portugal
-- 🕒 **Posted:** 2026-09-19
-
-### [Solutions Architect](https://www.linkedin.com/jobs/view/4466982320/) — Synechron
-- 📍 **Location:** Riyadh, Saudi Arabia
-- 🕒 **Posted:** 2026-09-19
-
-### [IBM Integration Developer (CP4I)](https://www.linkedin.com/jobs/view/4469533060/) — InnovationTeam
-- 📍 **Location:** Riyadh, Riyadh, Saudi Arabia
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Full-Stack Developer – Real Estate Finance & Oracle Integration](https://www.linkedin.com/jobs/view/4469520369/) — Tiger Group
-- 📍 **Location:** Dubai, United Arab Emirates
+### [Szoftverfejlesztő (C#)](https://www.linkedin.com/jobs/view/4468086632/) — wherewework Jobs
+- 📍 **Location:** Pécs, Baranya, Hungary
 - 🕒 **Posted:** 2026-09-19
