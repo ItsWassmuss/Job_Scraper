@@ -1,13 +1,12 @@
 name: Indeed Watcher
 
 on:
-  # Indeed keeps its normal 24-hour lookback. Native daytime runs are hourly at
-  # :17 from 05:00 through 15:00 UTC, with extra runs at 00:45 and 19:45 UTC to
-  # prevent an overnight coverage gap for LinkedIn's 6-hour watcher. Every
-  # completed Indeed Watcher run triggers LinkedIn through workflow_run.
+  # Indeed runs every hour, 24/7, at :17 UTC and keeps its normal 24-hour
+  # lookback. Every completed Indeed Watcher run triggers LinkedIn through
+  # workflow_run, giving LinkedIn repeated overlapping 6-hour search windows.
+  # Those overlaps normally tolerate an individual missed or delayed cron slot.
   schedule:
-    - cron: "17 5-15 * * *"
-    - cron: "45 0,19 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       backfill:
