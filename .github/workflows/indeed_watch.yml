@@ -2,9 +2,9 @@ name: Indeed Watcher
 
 on:
   # Indeed runs every hour, 24/7, at :17 UTC and keeps its normal 24-hour
-  # lookback. Every completed Indeed Watcher run triggers LinkedIn through
-  # workflow_run, giving LinkedIn repeated overlapping 6-hour search windows.
-  # Those overlaps normally tolerate an individual missed or delayed cron slot.
+  # lookback. At the end of every Indeed run, LinkedIn is explicitly dispatched
+  # through workflow_dispatch, giving LinkedIn repeated overlapping 6-hour
+  # search windows even when Indeed itself was rescued by another workflow.
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
@@ -25,6 +25,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
+      actions: write
       contents: write
 
     steps:
@@ -86,3 +87,9 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X ours origin main
           git push
+
+      - name: Dispatch LinkedIn watcher
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh -R ${{ github.repository }} workflow run linkedin_watch.yml --ref main
