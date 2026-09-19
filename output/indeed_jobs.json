@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-19 07:54 UTC",
-  "total": 46,
-  "new_count": 1,
+  "scraped_at": "2026-09-19 09:51 UTC",
+  "total": 45,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Workato",
@@ -419,24 +419,6 @@
     },
     {
       "company": "Tech Aalto Pte ltd",
-      "title": "CRM Implementation Developer",
-      "location": "SG",
-      "url": "https://sg.indeed.com/viewjob?jk=d47abc7df7910ab7",
-      "direct_url": "https://recruitcrm.io/apply/17380507181190081343Srt?source=Jobspage&new=yes",
-      "company_url": "https://sg.indeed.com/cmp/Tech-Aalto-Pte-Ltd",
-      "date_posted": "2026-09-18",
-      "description": "Tech Aalto Pte Ltd\n\n\nSingapore",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Tech Aalto Pte ltd",
       "title": "Solution Architect",
       "location": "SG",
       "url": "https://sg.indeed.com/viewjob?jk=03eb20a9dab3a38a",
@@ -832,24 +814,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Workato",
-      "title": "Senior AI Engineer",
-      "location": "SG",
-      "url": "https://sg.indeed.com/viewjob?jk=4dc8ddc793272e1c",
-      "direct_url": "https://www.workato.com/careers?gh_jid=8737586002#open-roles",
-      "company_url": "https://sg.indeed.com/cmp/Workato",
-      "date_posted": "2026-09-19",
-      "description": "**About Workato**\n=================\n\n\n\nWorkato is the leading Control and Execution Platform for Enterprise AI — the neutral platform enterprises trust to put AI to work across their business. Workato unifies data, applications, and processes into a single platform so AI can reliably orchestrate business processes in production at enterprise scale. Built on more than a decade of running mission\\-critical processes for over half the Fortune 500 — including Nasdaq, Amazon, Cisco, Vodafone, Atlassian, and Lucid Motors — Workato turns over 14,000 enterprise systems AI needs to act on into one governed execution layer. For more information, visit workato.com.\n\n\n**Why join us?**\n================\n\n\n\nUltimately, Workato believes in fostering a **flexible, trust\\-oriented culture that empowers everyone to take full ownership of their roles**. We are driven by **innovation** and looking for **team players** who want to actively build our company.\n\n\n\nBut, we also believe in **balancing productivity with self\\-care**. That’s why we offer all of our employees a vibrant and dynamic work environment along with a multitude of benefits they can enjoy inside and outside of their work lives.\n\n\n\nIf this sounds right up your alley, please submit an application. We look forward to getting to know you!\n\n\n\nAlso, feel free to check out why:\n\n\n* Business Insider named us an “enterprise startup to bet your career on”\n* Forbes’ Cloud 100 recognized us as one of the top 100 private cloud companies in the world\n* Deloitte Tech Fast 500 ranked us as the 17th fastest growing tech company in the Bay Area, and 96th in North America\n* Quartz ranked us the \\#1 best company for remote workers\n**Responsibilities**\n====================\n\n\n\nWe're building the infrastructure layer that connects enterprise systems to AI: an **MCP Gateway**, an **AI Gateway**, and the services around them. These are the systems that sit between LLM providers and everything else — routing, auth, rate limiting, observability, protocol translation. We're looking for a senior engineer who understands both the systems layer and the AI protocol layer, and who can build production\\-grade services in Go and/or Ruby.\n\n\n\nIn this role, you will also be responsible to:\n\n\n* **Design and develop the MCP Gateway and AI Gateway** — production services that mediate between applications, AI agents, and LLM providers. This means protocol\\-level work: MCP server/client implementations, request routing, streaming, tool\\-call proxying, authn/authz, and tenant isolation. You'll build the core infrastructure, not just applications on top of it.\n* **Build high\\-throughput, low\\-latency network services.** You'll work close to the wire: TCP, TLS, HTTP/1\\.1 and HTTP/2, JSON streaming, connection pooling, backpressure. When latency matters, you'll know exactly where it goes.\n* **Own the data layer from the application side.** Deep PostgreSQL knowledge — schema design, indexing strategies, query planning, transactions and isolation levels, connection management. You're not a DBA, but you can read EXPLAIN ANALYZE output and fix the query, not just add an index and hope.\n* **Design for concurrency.** Worker pools, queues, graceful shutdown, backpressure, race\\-free shared state. You can profile a service under load (pprof, flamegraphs, query stats), find the bottleneck, and fix it.\n* **Drive observability for AI systems.** Metrics, tracing, and logging that actually tell you what's happening — token usage, latency per provider, cache hit rates, failure modes, cost per request.\n\n### **How we work with AI**\n\n\n* **We encourage — but never force — the use of AI/LLM tools in development.** If AI\\-assisted workflows make you faster, use them heavily. If you prefer to write something by hand, that's equally respected. What we care about is the quality of what ships, not how it was typed.\n* **You'll have access to nearly every major tool and model on the market** — coding agents, IDEs, frontier models — with very generous usage limits. We want tooling budget to never be the reason a good idea goes unexplored.\n* **We actively explore and enhance automated development.** You'll help shape how the team uses AI: agent workflows, code review automation, internal tooling. We build AI infrastructure, so we hold ourselves to being its most sophisticated users.\n* **We believe LLM tools give a single engineer full visibility across the product**, regardless of area — frontend, backend, infra, docs. We want people who use that leverage to own problems end\\-to\\-end rather than stay inside one layer.\n* **But the accountability never shifts to the machine.** You own what you merge. You can explain every statement and decision in the final output, and justify and defend the architectural choices to human colleagues in design and code reviews. \"The AI suggested it\" is never an acceptable rationale.\n\n**Requirements**\n================\n\n\n### **Qualifications / Experience / Technical Skills**\n\n\n* **Senior\\-level experience (5\\+ years) in Go, Ruby, or both.** Any combination works: deep Go, deep Ruby, or strong in both. What matters is that you've shipped and operated production services in at least one of them.\n* **Go candidates:** you know the stdlib deeply and prefer it over frameworks. net/http, crypto/tls, context, goroutines and channels, the memory model. You've done performance optimization on real services — allocations, GC pressure, lock contention — and you understand networking (TCP, TLS, HTTP, JSON) in depth, not just through a framework's abstraction.\n* **Ruby candidates:** strong Rails in production — you know where Rails ends and Ruby begins, you've tuned ActiveRecord rather than fought it, and you've built services that stay fast under load.\n* **PostgreSQL depth from an application developer's perspective.** Query optimization, indexing, transactions, connection pooling, migrations at scale. You don't need to administer the cluster; you need to write code that treats it well.\n* **Concurrency and profiling as a practiced skill**, not a bullet point. You've debugged a production incident with a profiler open.\n* **Familiarity with Kubernetes and containers.** You can deploy, debug, and reason about your services in a containerized environment — resource limits, health checks, rolling deploys, networking basics.\n* You've built production services with proper observability, deployment pipelines, and security. You know how to run reliable systems and debug distributed systems when things break.\n\n### **AI/LLM Experience**\n\n\n* You've worked with LLMs at the **protocol level** — message structures, tool calling, streaming responses, caching strategies. You know what's happening on the wire, not just what the SDK abstracts away.\n* Familiarity with **MCP (Model Context Protocol)** is a strong plus — ideally you've built or integrated MCP servers/clients and understand the transport and capability negotiation layers.\n* You can integrate with OpenAI\\-compatible and Anthropic APIs directly, evaluate responses, understand token usage, and optimize for latency and cost.\n* **You can judge, audit, and verify LLM output.** You catch subtle bugs, security issues, and hallucinated APIs before they ship — and you're fluent enough in the underlying systems to know *why* the output is wrong, not just *that* it's wrong.\n\n### **Soft Skills / Personal Characteristics**\n\n\n* You learn fast and stay current. AI infrastructure is moving weekly; you follow it and can evaluate new protocols and approaches quickly.\n* You participate in technical design discussions and code reviews, and you can explain complex concepts clearly to engineers and non\\-technical stakeholders alike.\n* You're comfortable owning the full lifecycle: design, implementation, deployment, monitoring, and continuous improvement.\n\n**(REQ ID: 2945\\)**",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
