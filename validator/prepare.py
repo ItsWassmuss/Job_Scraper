@@ -210,6 +210,7 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
                 "job_id": job_id,
                 "status": None,
                 "reason": None,
+                "validated": None,
             })
             identity = _batch_identity(prepared_job)
             if identity is None:

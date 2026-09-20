@@ -99,6 +99,7 @@ def test_builds_standard_jobs_from_top_level_jobs_only(tmp_path):
     ]
     assert all(job["status"] is None for job in payload["jobs"])
     assert all(job["reason"] is None for job in payload["jobs"])
+    assert all(job["validated"] is None for job in payload["jobs"])
     assert (indeed_path.read_bytes(), linkedin_path.read_bytes()) == source_bytes
 
 
