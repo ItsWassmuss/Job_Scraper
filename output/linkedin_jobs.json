@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-20 04:21 UTC",
+  "scraped_at": "2026-09-20 05:21 UTC",
   "total": 14,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Eurailscout",
@@ -144,16 +144,5 @@
       "description": "🧭 Full Stack Engineer - Zurich\n\n📍 Zurich, Switzerland | 💰 CHF 100'000 - CHF 120'000\n+ Bonus! | 🌍 Remote\n\nA growing technology company is looking to hire an experienced Full Stack Engineer to join its engineering team. The company is building a modern B2B software platform designed to simplify complex data and workflows for professional users.\n\nThis is an opportunity to work across the full software development lifecycle, contributing to architecture, product development, cloud infrastructure, and engineering best practices in a collaborative, technically focused environment.\n\n⚙️ Tech Stack:\n\nC#, .NET, React, TypeScript, SQL, Azure, Terraform, Linux, Docker, CI/CD, Cloud Infrastructure, REST APIs, Unit Testing, Integration Testing, Functional Programming, Full Stack Development, DevOps\n\nAbout the Role:\n\nAs a Full Stack Engineer, you will work across both frontend and backend development, helping design and build scalable software products. You'll contribute to architectural decisions, collaborate closely with product and design teams, and work alongside domain experts to turn complex requirements into intuitive software.\n\n➕ Nice to Have:\n\nProfessional experience in software development\nExperience with Azure or other cloud platforms\nExperience with Terraform or cloud infrastructure automation\nStrong SQL/database knowledge\n\n💪 Benefits:\n\nOpportunity to work across the full technology stack\nSignificant ownership over architecture and product development\nModern cloud-native engineering environment\n\n✉️ Due to the high number of applications, we may not be able to respond to everyone, but we truly appreciate the time and effort taken to apply and will be in touch with shortlisted candidates.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology, Engineering, and Other\n\nIndustries\n\nStaffing and Recruiting, IT Services and IT Consulting, and Technology, Information and Media"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Tria",
-      "title": "Data and Analytics Domain Solution Architect",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.linkedin.com/jobs/view/4467329118/",
-      "date_posted": "2026-09-20",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Data & Analytics Domain Solution Architect\n\nCheck all associated application documentation thoroughly before clicking on the apply button at the bottom of this description.\n\nUp to £110k per annum + £6k car allowance + 30% bonus + Private Healthcare\n\nHybrid - 3 days per week in London office\n\nWe are seeking a Data & Analytics Domain Solution Architect to take on a strategic, business‑critical role within a global, multi‑brand organisation. This is a senior opportunity within the Architecture & Engineering function, supporting a major modernisation of data, analytics, and digital capabilities across a truly international footprint.\n\nAs the Data & Analytics Domain Solution Architect, you will own the architecture vision across data platforms, analytics, AI/ML, visualisation, governance, and integration. You will shape the technology roadmap, set architectural standards, and design well‑architected solutions that bring clarity, simplification, and value to a complex digital estate.\n\nWorking alongside senior business leaders, product teams, delivery teams, and other architects, you will influence key decisions while helping the organisation adopt modern data technologies and best‑practice frameworks.\n\nWhy this role?\n\nGlobal remit with visibility across multiple regions, brands, and business functions\n\nStrategic architectural ownership across data, analytics, AI/ML, and governance\n\nDrive simplification & standardisation across a diverse technology environment\n\nDirect influence on senior stakeholders and enterprise‑wide decision making\n\nModern tech stack exposure including Azure Data & Analytics, Databricks, Power BI\n\nPlay a critical role in shaping the data architecture of a world‑leading food & beverage operator\n\nWe're Looking For Someone Who\n\nHas experience in food & beverage, hospitality, or retail environments\n\nHas at least 5 years' experience as a Solution or Domain Architect within Data\n\nBrings expertise in data platforms, analytics solutions, AI/ML, data pipelines, and governance\n\nHas strong experience with Azure Data & Analytics, Power BI, Databricks, and modern data patterns\n\nHas practical experience defining architecture principles, patterns, and standards\n\nHas the gravitas to engage, influence, and collaborate with senior leaders and cross‑functional teams\n\nThis is an exceptional opportunity to shape the future of data and analytics across a global organisation and deliver high‑impact architectural leadership at scale.\n\nApply now and take the lead in transforming an international business's data and digital capabilities\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nRetail Gasoline"
-    }
-  ]
+  "new_jobs": []
 }
