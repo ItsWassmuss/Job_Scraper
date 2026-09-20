@@ -1,68 +1,60 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-20 16:30 UTC*
+*Last updated: 2026-09-20 17:30 UTC*
 
-**16 new role(s)** since last run · 115 total in last 6h
+**14 new role(s)** since last run · 112 total in last 6h
 
-### [Senior Full Stack Developer](https://www.linkedin.com/jobs/view/4199982566/) — Infomedics
-- 📍 **Location:** Heemstede, North Holland, Netherlands
+### [Solution Architect](https://www.linkedin.com/jobs/view/4405200476/) — Emixa
+- 📍 **Location:** ’s-Hertogenbosch, North Brabant, Netherlands
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior Software Engineer (m/f/x)](https://www.linkedin.com/jobs/view/4404292908/) — Eye Security
-- 📍 **Location:** Rotterdam and The Hague
+### [Citizen Developer & Consultant Dynamics 365 CRM & Power Platform (m/w/d)](https://www.linkedin.com/jobs/view/4469810276/) — Objektkultur Software GmbH
+- 📍 **Location:** Freiburg, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Backend Java Engineer - Kazakhstan/Russian speaker (6 months Contract)](https://www.linkedin.com/jobs/view/4403362924/) — Binance
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
-- 🕒 **Posted:** 2026-09-20
-
-### [Senior Software Engineer (Payment Gateway) (m/f/d)](https://www.linkedin.com/jobs/view/4469598863/) — Riverty
-- 📍 **Location:** Berlin, Germany
-- 🕒 **Posted:** 2026-09-20
-
-### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4468456939/) — Sano - Moderne Tierernährung GmbH
-- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
-- 🕒 **Posted:** 2026-09-20
-
-### [(Senior) Fullstack Developer (m/f/d) - Tieto Tech Consulting](https://www.linkedin.com/jobs/view/4460814968/) — Tieto
+### [IT Support Engineer ECM / d.velop (m/w/d)](https://www.linkedin.com/jobs/view/4406388149/) — netgo
 - 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [(Senior) Fullstack Developer (m/f/d) - Tieto Tech Consulting](https://www.linkedin.com/jobs/view/4460813992/) — Tieto
-- 📍 **Location:** Regensburg, Bavaria, Germany
+### [Senior Software Engineer Geoinformationssysteme (GIS) (all genders)](https://www.linkedin.com/jobs/view/3957891893/) — adesso SE
+- 📍 **Location:** Leipzig, Saxony, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925557508/) — adesso SE
-- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
+### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008170143/) — adesso SE
+- 📍 **Location:** Jena, Thuringia, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Software Full Stack Support/Developer](https://www.linkedin.com/jobs/view/4344083196/) — Unisys
-- 📍 **Location:** Milton Keynes, England, United Kingdom
+### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008167502/) — adesso SE
+- 📍 **Location:** Coblenz, Rhineland-Palatinate, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Power Platform Developer](https://www.linkedin.com/jobs/view/4469813279/) — ERIN ASSOCIATES LIMITED
-- 📍 **Location:** Grimsby, England, United Kingdom
+### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008123542/) — adesso SE
+- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Solutions Architect](https://www.linkedin.com/jobs/view/4469819024/) — Computer Futures
-- 📍 **Location:** Leeds, England, United Kingdom
+### [C# Developer - Redis](https://www.linkedin.com/jobs/view/4469805734/) — Talan
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior Software Engineer, Managed Agencies (ELD)](https://www.linkedin.com/jobs/view/4404700553/) — GovTech Singapore
+### [Software Developer Engineer in Test (SDET)](https://www.linkedin.com/jobs/view/4411190880/) — Transaction Network Services (TNS)
+- 📍 **Location:** Łódź, Łódzkie, Poland
+- 🕒 **Posted:** 2026-09-20
+
+### [Industrial IT Cloud Architect](https://www.linkedin.com/jobs/view/4404908976/) — Etteplan
+- 📍 **Location:** Tampere, Pirkanmaa, Finland
+- 🕒 **Posted:** 2026-09-20
+
+### [Sitecore AI Developer (C#.NET / Nextjs / TypeScript / GraphQL / Sitecore XM Cloud)](https://www.linkedin.com/jobs/view/4468481080/) — Maltem Asia-Pacific
 - 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-09-20
 
-### [Java Developer](https://www.linkedin.com/jobs/view/4039760488/) — AvePoint
-- 📍 **Location:** Singapore
+### [Senior Software Engineer - Agriculture & Trading M/F/D](https://www.linkedin.com/jobs/view/4123145536/) — Cargill
+- 📍 **Location:** Geneva, Geneva, Switzerland
 - 🕒 **Posted:** 2026-09-20
 
-### [C# Software Developer](https://www.linkedin.com/jobs/view/4441479039/) — ebm-papst
-- 📍 **Location:** Oradea, Bihor, Romania
+### [Digital Innovation Software Engineer](https://www.linkedin.com/jobs/view/4413738679/) — Ecolab
+- 📍 **Location:** Witterswil, Solothurn, Switzerland
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior QA Engineer (Full-Stack, Automation-Heavy)](https://www.linkedin.com/jobs/view/4405450000/) — Renesas Electronics
-- 📍 **Location:** Lisboa, Lisbon, Portugal
-- 🕒 **Posted:** 2026-09-20
-
-### [Senior Backend Engineer (Foods)](https://www.linkedin.com/jobs/view/4424248218/) — Snoonu
-- 📍 **Location:** Doha, Doha, Qatar
+### [Trainer:in, Sparring Partner & Builder - Agentic Engineering (60-80%)](https://www.linkedin.com/jobs/view/4469800882/) — Letsboot.ch
+- 📍 **Location:** Basel, Basel, Switzerland
 - 🕒 **Posted:** 2026-09-20
