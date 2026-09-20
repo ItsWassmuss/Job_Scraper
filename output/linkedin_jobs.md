@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-20 00:21 UTC*
+*Last updated: 2026-09-20 01:28 UTC*
 
 **2 new role(s)** since last run · 10 total in last 6h
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4468407706/) — Egotechworld
-- 📍 **Location:** Geneva, Geneva, Switzerland
+### [Software Developer-Maintenance &amp; Stabilization of Legacy Applications (C#/.NET) with German](https://www.linkedin.com/jobs/view/4468426153/) — Undelucram.ro
+- 📍 **Location:** Romania
 - 🕒 **Posted:** 2026-09-20
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4466999393/) — Code Compass 🧭
-- 📍 **Location:** Zürich Metropolitan Area
-- 🕒 **Posted:** 2026-09-19
+### [Gametech Innovation Developer](https://www.linkedin.com/jobs/view/4469569281/) — Gameloft Barcelona
+- 📍 **Location:** Barcelona, Catalonia, Spain
+- 🕒 **Posted:** 2026-09-20
