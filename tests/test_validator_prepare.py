@@ -147,6 +147,86 @@ def test_applies_exact_state_dedupe_and_ignores_canonical_url(tmp_path):
     ]
 
 
+def test_reported_triple_requires_three_nonempty_strings(tmp_path):
+    incomplete = _job(1, "https://indeed.test/viewjob?jk=incomplete")
+    incomplete["location"] = ""
+    exact = _job(2, "https://indeed.test/viewjob?jk=exact")
+    different_case = _job(3, "https://indeed.test/viewjob?jk=different-case")
+    state = {
+        "seen_indeed": [],
+        "seen_linkedin": [],
+        "reported": [
+            {
+                "source": "LinkedIn",
+                "job_id": None,
+                "company": incomplete["company"],
+                "title": incomplete["title"],
+                "location": "",
+                "canonical_url": "",
+                "reported_at": "2026-09-20T00:00:00Z",
+            },
+            {
+                "source": "LinkedIn",
+                "job_id": None,
+                "company": exact["company"],
+                "title": exact["title"],
+                "location": exact["location"],
+                "canonical_url": "",
+                "reported_at": "2026-09-20T00:00:00Z",
+            },
+            {
+                "source": "LinkedIn",
+                "job_id": None,
+                "company": different_case["company"].lower(),
+                "title": different_case["title"],
+                "location": different_case["location"],
+                "canonical_url": "",
+                "reported_at": "2026-09-20T00:00:00Z",
+            },
+        ],
+    }
+    _write_inputs(tmp_path, [incomplete, exact, different_case], [], state=state)
+
+    summary = prepare_batches(tmp_path, now=FIXED_HELSINKI_TIME)
+    jobs = _batch_payloads(summary)[0]["jobs"]
+
+    assert summary["removed_by_state"] == 1
+    assert [job["job_id"] for job in jobs] == ["incomplete", "different-case"]
+
+
+def test_ignores_non_three_digit_batch_files(tmp_path):
+    in_valid_batch = _job(1, "https://indeed.test/viewjob?jk=valid-batch")
+    in_debug_file = _job(2, "https://indeed.test/viewjob?jk=debug-file")
+    _write_inputs(tmp_path, [in_valid_batch, in_debug_file], [])
+    day_dir = tmp_path / "validator/batches/20260920"
+    day_dir.mkdir(parents=True)
+    valid_path = day_dir / "001.json"
+    valid_path.write_text(json.dumps({
+        "created_at": "2026-09-20T00:00:00+03:00",
+        "job_count": 1,
+        "finalized": False,
+        "jobs": [{**in_valid_batch, "source": "Indeed", "job_id": "valid-batch"}],
+    }), encoding="utf-8")
+    debug_path = day_dir / "debug.json"
+    debug_path.write_text(json.dumps({
+        "created_at": "2026-09-20T00:00:00+03:00",
+        "job_count": 1,
+        "finalized": False,
+        "jobs": [{**in_debug_file, "source": "Indeed", "job_id": "debug-file"}],
+    }), encoding="utf-8")
+    valid_bytes = valid_path.read_bytes()
+    debug_bytes = debug_path.read_bytes()
+
+    summary = prepare_batches(tmp_path, now=FIXED_HELSINKI_TIME)
+    jobs = _batch_payloads(summary)[0]["jobs"]
+
+    assert summary["removed_by_batches"] == 1
+    assert [path.name for path in summary["created_files"]] == ["002.json"]
+    assert [job["job_id"] for job in jobs] == ["debug-file"]
+    assert valid_path.read_bytes() == valid_bytes
+    assert debug_path.read_bytes() == debug_bytes
+
+
 def test_splits_batches_and_continues_numbering_without_overwrite(tmp_path):
     indeed_jobs = [
         _job(number, f"https://indeed.test/viewjob?jk={number}")
