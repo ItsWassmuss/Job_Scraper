@@ -1,0 +1,111 @@
+name: Validator Email Dispatch
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: validator-email-dispatch
+  cancel-in-progress: false
+
+jobs:
+  dispatch:
+    name: Dispatch Validator email
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refresh main
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard FETCH_HEAD
+
+      - name: Dispatch Validator email
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_SECURITY: ${{ secrets.SMTP_SECURITY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+        run: python validator/email_dispatch.py
+
+      - name: Validate and commit email state
+        run: |
+          set -euo pipefail
+
+          tracked_changes="$RUNNER_TEMP/email-dispatch-tracked-changes"
+          untracked_paths="$RUNNER_TEMP/email-dispatch-untracked-paths"
+          staged_changes="$RUNNER_TEMP/email-dispatch-staged-changes"
+
+          git diff --raw --no-renames -z HEAD -- > "$tracked_changes"
+          git ls-files --others --exclude-standard -z -- > "$untracked_paths"
+
+          invalid_changes=0
+          allowed_state_change=0
+          while IFS= read -r -d '' metadata && IFS= read -r -d '' path; do
+            status="${metadata##* }"
+            if [[ "$status" == "M" && "$path" == "validator/state.json" ]]; then
+              allowed_state_change=1
+            else
+              printf '  %s %q\n' "$status" "$path"
+              invalid_changes=1
+            fi
+          done < "$tracked_changes"
+
+          while IFS= read -r -d '' path; do
+            printf '  ?? %q\n' "$path"
+            invalid_changes=1
+          done < "$untracked_paths"
+
+          if [ "$invalid_changes" -ne 0 ]; then
+            echo "Validator email dispatch produced disallowed mutations."
+            exit 1
+          fi
+
+          if [ "$allowed_state_change" -eq 0 ]; then
+            echo "No validator email state changes."
+            exit 0
+          fi
+
+          git add -- validator/state.json
+
+          git diff --cached --raw --no-renames -z HEAD -- > "$staged_changes"
+          staged_invalid=0
+          while IFS= read -r -d '' metadata && IFS= read -r -d '' path; do
+            status="${metadata##* }"
+            if [[ "$status" != "M" || "$path" != "validator/state.json" ]]; then
+              printf '  %s %q\n' "$status" "$path"
+              staged_invalid=1
+            fi
+          done < "$staged_changes"
+
+          if [ "$staged_invalid" -ne 0 ]; then
+            echo "Validator email dispatch staged disallowed mutations."
+            exit 1
+          fi
+
+          if git diff --cached --quiet; then
+            echo "No validator email state changes."
+            exit 0
+          fi
+
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git commit -m "chore: record emailed validator jobs"
+          git pull --rebase origin main
+          git push origin main
