@@ -90,13 +90,18 @@ def _batch_identity(job: dict[str, Any]) -> tuple[str, str, str] | None:
     return None
 
 
-def _reported_triple(job: dict[str, Any]) -> tuple[Any, Any, Any]:
-    return (job.get("company"), job.get("title"), job.get("location"))
+def _reported_triple(job: dict[str, Any]) -> tuple[str, str, str] | None:
+    company = _nonempty_string(job.get("company"))
+    title = _nonempty_string(job.get("title"))
+    location = _nonempty_string(job.get("location"))
+    if company is None or title is None or location is None:
+        return None
+    return (company, title, location)
 
 
 def _state_indexes(
     state: dict[str, list[dict[str, Any]]],
-) -> tuple[dict[str, set[str]], dict[str, set[str]], dict[str, set[str]], set[tuple[Any, Any, Any]]]:
+) -> tuple[dict[str, set[str]], dict[str, set[str]], dict[str, set[str]], set[tuple[str, str, str]]]:
     seen_ids: dict[str, set[str]] = {"Indeed": set(), "LinkedIn": set()}
     seen_urls: dict[str, set[str]] = {"Indeed": set(), "LinkedIn": set()}
     for source, state_key, _ in SOURCES:
@@ -109,13 +114,15 @@ def _state_indexes(
                 seen_urls[source].add(job_url)
 
     reported_ids: dict[str, set[str]] = {"Indeed": set(), "LinkedIn": set()}
-    reported_triples: set[tuple[Any, Any, Any]] = set()
+    reported_triples: set[tuple[str, str, str]] = set()
     for record in state["reported"]:
         source = record.get("source")
         job_id = _nonempty_string(record.get("job_id"))
         if source in reported_ids and job_id is not None:
             reported_ids[source].add(job_id)
-        reported_triples.add(_reported_triple(record))
+        reported_triple = _reported_triple(record)
+        if reported_triple is not None:
+            reported_triples.add(reported_triple)
 
     return seen_ids, seen_urls, reported_ids, reported_triples
 
@@ -128,8 +135,9 @@ def _load_existing_batch_keys(day_dir: Path) -> tuple[set[tuple[str, str, str]],
 
     for path in sorted(day_dir.glob("*.json")):
         name_match = _BATCH_NAME_RE.fullmatch(path.name)
-        if name_match:
-            largest_number = max(largest_number, int(name_match.group(1)))
+        if name_match is None:
+            continue
+        largest_number = max(largest_number, int(name_match.group(1)))
         payload = _load_json(path)
         if not isinstance(payload, dict) or not isinstance(payload.get("jobs"), list):
             raise ValueError(f"{path} must contain a top-level jobs array")
@@ -150,13 +158,14 @@ def _is_excluded_by_state(
     seen_ids: dict[str, set[str]],
     seen_urls: dict[str, set[str]],
     reported_ids: dict[str, set[str]],
-    reported_triples: set[tuple[Any, Any, Any]],
+    reported_triples: set[tuple[str, str, str]],
 ) -> bool:
+    reported_triple = _reported_triple(job)
     return (
         (job_id is not None and job_id in seen_ids[source])
         or (bool(url) and url in seen_urls[source])
         or (job_id is not None and job_id in reported_ids[source])
-        or _reported_triple(job) in reported_triples
+        or (reported_triple is not None and reported_triple in reported_triples)
     )
 
 
