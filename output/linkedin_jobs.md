@@ -1,28 +1,48 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-20 18:27 UTC*
+*Last updated: 2026-09-20 19:26 UTC*
 
-**6 new role(s)** since last run · 77 total in last 6h
+**11 new role(s)** since last run · 64 total in last 6h
 
-### [Software Engineer - Angular/.net (m/w/d)](https://www.linkedin.com/jobs/view/4468475239/) — CHEFS CULINAR
-- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
+### [Students - Cloud Backend & Infrastructure](https://www.linkedin.com/jobs/view/4073718675/) — Liebherr Group
+- 📍 **Location:** Ulm, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4468464869/) — CHEFS CULINAR
-- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
+### [Senior Full Stack Engineer – Vialto Rewards - Senior Manager](https://www.linkedin.com/jobs/view/4432652834/) — Vialto
+- 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-09-20
 
-### [Global Technology Software Engineer Full Time 2027 Analyst - Bromley](https://www.linkedin.com/jobs/view/4468473366/) — Bank of America
-- 📍 **Location:** Bromley, England, United Kingdom
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4466978764/) — Haystack
+- 📍 **Location:** Andover, England, United Kingdom
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior QA Automation Engineer (C#)](https://www.linkedin.com/jobs/view/4469800986/) — KUBO
-- 📍 **Location:** Poland
+### [Fullstack-utvecklare](https://www.linkedin.com/jobs/view/4281232179/) — HiQ
+- 📍 **Location:** Stockholm, Stockholm County, Sweden
 - 🕒 **Posted:** 2026-09-20
 
-### [Principal Full Stack Engineer, AI Platform & Agents](https://www.linkedin.com/jobs/view/4328119187/) — Wolters Kluwer
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Senior .NET Architect](https://www.linkedin.com/jobs/view/4468241994/) — Methodius IT Recruitment
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-20
 
-### [Software Implementation Consultant (Advanced SQL)](https://www.linkedin.com/jobs/view/4450741261/) — Dassault Systèmes
-- 📍 **Location:** Cracow, Małopolskie, Poland
+### [Senior Platform Architect - Norwegian Speaker](https://www.linkedin.com/jobs/view/4414605388/) — ServiceNow
+- 📍 **Location:** Oslo, Oslo, Norway
+- 🕒 **Posted:** 2026-09-20
+
+### [Principal Forretningskonsulent – Dynamics 365 CE & Power Platform](https://www.linkedin.com/jobs/view/4469595228/) — Evidi Denmark
+- 📍 **Location:** Aarhus, Central Denmark Region, Denmark
+- 🕒 **Posted:** 2026-09-20
+
+### [Engineering Internship](https://www.linkedin.com/jobs/view/4330236803/) — Shure Nordic
+- 📍 **Location:** Copenhagen Metropolitan Area
+- 🕒 **Posted:** 2026-09-20
+
+### [Dynamics 365 Customer Engagement and Power Platform (M/F/D)](https://www.linkedin.com/jobs/view/4378120104/) — Concentrix
+- 📍 **Location:** Cluj, Romania
+- 🕒 **Posted:** 2026-09-20
+
+### [Gambling  Sector | Senior .NET Developer](https://www.linkedin.com/jobs/view/4330416154/) — Devoteam
+- 📍 **Location:** Lisbon, Lisbon, Portugal
+- 🕒 **Posted:** 2026-09-20
+
+### [Banking Sector | Fullstack Developer (.NET/Angular)](https://www.linkedin.com/jobs/view/4330436027/) — Devoteam
+- 📍 **Location:** Porto, Porto, Portugal
 - 🕒 **Posted:** 2026-09-20
