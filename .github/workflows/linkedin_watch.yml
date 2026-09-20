@@ -44,6 +44,20 @@ jobs:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
 
+      - name: Refresh Validator inputs
+        if: github.event.inputs.backfill != 'true' && vars.ENABLE_DATA_COMMITS == 'true'
+        run: |
+          git fetch origin main
+          git restore --source=FETCH_HEAD --worktree -- validator/state.json
+          rm -rf -- validator/batches/
+          if git cat-file -e FETCH_HEAD:validator/batches 2>/dev/null; then
+            git restore --source=FETCH_HEAD --worktree -- validator/batches/
+          fi
+
+      - name: Prepare Validator batches
+        if: github.event.inputs.backfill != 'true' && vars.ENABLE_DATA_COMMITS == 'true'
+        run: python validator/prepare.py
+
       - name: Record workflow run
         run: |
           python - <<'EOF'
@@ -72,6 +86,28 @@ jobs:
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          if [ "${{ github.event.inputs.backfill }}" != "true" ]; then
+            new_batches="$RUNNER_TEMP/validator-new-batches.txt"
+            : > "$new_batches"
+            if [ -d validator/batches ]; then
+              while IFS= read -r -d '' batch; do
+                if ! git cat-file -e "FETCH_HEAD:$batch" 2>/dev/null; then
+                  printf '%s\n' "$batch" >> "$new_batches"
+                  git add -- "$batch"
+                fi
+              done < <(find validator/batches -type f -name '[0-9][0-9][0-9].json' -print0)
+            fi
+
+            git restore --source=HEAD --worktree -- validator/state.json
+            rm -rf -- validator/batches/
+            if git cat-file -e HEAD:validator/batches 2>/dev/null; then
+              git restore --source=HEAD --worktree -- validator/batches/
+            fi
+            while IFS= read -r batch; do
+              mkdir -p -- "$(dirname "$batch")"
+              git restore --worktree -- "$batch"
+            done < "$new_batches"
+          fi
           git diff --cached --quiet || git commit -m "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X ours origin main
           git push
