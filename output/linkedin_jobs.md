@@ -1,72 +1,68 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-20 15:31 UTC*
+*Last updated: 2026-09-20 16:30 UTC*
 
-**17 new role(s)** since last run · 129 total in last 6h
+**16 new role(s)** since last run · 115 total in last 6h
 
-### [Quality Engineer - Schwerpunkt Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/4402883225/) — STARFACE GmbH
-- 📍 **Location:** Karlsruhe, Baden-Württemberg, Germany
+### [Senior Full Stack Developer](https://www.linkedin.com/jobs/view/4199982566/) — Infomedics
+- 📍 **Location:** Heemstede, North Holland, Netherlands
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior Cloud Software Engineer (m/w/d) in Düsseldorf](https://www.linkedin.com/jobs/view/4350232075/) — Deloitte
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
+### [Senior Software Engineer (m/f/x)](https://www.linkedin.com/jobs/view/4404292908/) — Eye Security
+- 📍 **Location:** Rotterdam and The Hague
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior Cloud Software Engineer (m/w/d) in Köln](https://www.linkedin.com/jobs/view/4350242064/) — Deloitte
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+### [Backend Java Engineer - Kazakhstan/Russian speaker (6 months Contract)](https://www.linkedin.com/jobs/view/4403362924/) — Binance
+- 📍 **Location:** Amsterdam, North Holland, Netherlands
 - 🕒 **Posted:** 2026-09-20
 
-### [Solution Architect Full Stack (all genders)](https://www.linkedin.com/jobs/view/4008121791/) — adesso SE
-- 📍 **Location:** Paderborn, North Rhine-Westphalia, Germany
+### [Senior Software Engineer (Payment Gateway) (m/f/d)](https://www.linkedin.com/jobs/view/4469598863/) — Riverty
+- 📍 **Location:** Berlin, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Microsoft Dynamics CRM Platform Architect (all genders)](https://www.linkedin.com/jobs/view/3925559527/) — adesso SE
-- 📍 **Location:** Essen, North Rhine-Westphalia, Germany
+### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4468456939/) — Sano - Moderne Tierernährung GmbH
+- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Software Engineer (C#/.NET) - Up to £150k Base + Industry Leading Bonus! - Elite Trading Firm - London (Hybrid)](https://www.linkedin.com/jobs/view/4467337208/) — Hunter Bond
-- 📍 **Location:** London Area, United Kingdom
+### [(Senior) Fullstack Developer (m/f/d) - Tieto Tech Consulting](https://www.linkedin.com/jobs/view/4460814968/) — Tieto
+- 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [UI Tools Programmer](https://www.linkedin.com/jobs/view/4177754969/) — Rockstar Games
-- 📍 **Location:** Dundee, Scotland, United Kingdom
+### [(Senior) Fullstack Developer (m/f/d) - Tieto Tech Consulting](https://www.linkedin.com/jobs/view/4460813992/) — Tieto
+- 📍 **Location:** Regensburg, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3768265142/) — BAE Systems
-- 📍 **Location:** Gloucester, England, United Kingdom
+### [Senior IT-Consultant Software-Testautomatisierung (all genders)](https://www.linkedin.com/jobs/view/3925557508/) — adesso SE
+- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior Developer - Risk Technology - C# .NET, Python, Snowflake SQL (Vice President)](https://www.linkedin.com/jobs/view/4393908422/) — Jefferies
-- 📍 **Location:** London, England, United Kingdom
+### [Software Full Stack Support/Developer](https://www.linkedin.com/jobs/view/4344083196/) — Unisys
+- 📍 **Location:** Milton Keynes, England, United Kingdom
 - 🕒 **Posted:** 2026-09-20
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4423550060/) — BAE Systems
-- 📍 **Location:** London, England, United Kingdom
+### [Power Platform Developer](https://www.linkedin.com/jobs/view/4469813279/) — ERIN ASSOCIATES LIMITED
+- 📍 **Location:** Grimsby, England, United Kingdom
 - 🕒 **Posted:** 2026-09-20
 
-### [Integration Analyst](https://www.linkedin.com/jobs/view/4436255679/) — Trelleborg Medical Solutions
-- 📍 **Location:** Leicester, England, United Kingdom
+### [Solutions Architect](https://www.linkedin.com/jobs/view/4469819024/) — Computer Futures
+- 📍 **Location:** Leeds, England, United Kingdom
 - 🕒 **Posted:** 2026-09-20
 
-### [Solution Architect](https://www.linkedin.com/jobs/view/4332109094/) — PA Consulting
-- 📍 **Location:** Manchester, England, United Kingdom
+### [Senior Software Engineer, Managed Agencies (ELD)](https://www.linkedin.com/jobs/view/4404700553/) — GovTech Singapore
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-09-20
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4318069019/) — Inetum
+### [Java Developer](https://www.linkedin.com/jobs/view/4039760488/) — AvePoint
+- 📍 **Location:** Singapore
+- 🕒 **Posted:** 2026-09-20
+
+### [C# Software Developer](https://www.linkedin.com/jobs/view/4441479039/) — ebm-papst
+- 📍 **Location:** Oradea, Bihor, Romania
+- 🕒 **Posted:** 2026-09-20
+
+### [Senior QA Engineer (Full-Stack, Automation-Heavy)](https://www.linkedin.com/jobs/view/4405450000/) — Renesas Electronics
 - 📍 **Location:** Lisboa, Lisbon, Portugal
 - 🕒 **Posted:** 2026-09-20
 
-### [.Net Developer](https://www.linkedin.com/jobs/view/4469804729/) — ALTEN Delivery Centre Spain
-- 📍 **Location:** Viseu, Viseu, Portugal
-- 🕒 **Posted:** 2026-09-20
-
-### [.Net Developer](https://www.linkedin.com/jobs/view/4469801755/) — ALTEN Delivery Centre Spain
-- 📍 **Location:** Lisbon, Lisbon, Portugal
-- 🕒 **Posted:** 2026-09-20
-
-### [Software Engineer II -Backend](https://www.linkedin.com/jobs/view/4362085519/) — talabat
-- 📍 **Location:** Dubai, Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-09-20
-
-### [Full Stack Developer](https://www.linkedin.com/jobs/view/4468449953/) — Global Talent Directory
-- 📍 **Location:** Dubai, United Arab Emirates
+### [Senior Backend Engineer (Foods)](https://www.linkedin.com/jobs/view/4424248218/) — Snoonu
+- 📍 **Location:** Doha, Doha, Qatar
 - 🕒 **Posted:** 2026-09-20
