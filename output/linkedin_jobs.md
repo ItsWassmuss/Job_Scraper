@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-19 23:23 UTC*
+*Last updated: 2026-09-20 00:21 UTC*
 
-**3 new role(s)** since last run · 27 total in last 6h
+**2 new role(s)** since last run · 10 total in last 6h
 
-### [Software Engineer - Angular/.net (m/w/d)](https://www.linkedin.com/jobs/view/4468411547/) — CHEFS CULINAR
-- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
+### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4468407706/) — Egotechworld
+- 📍 **Location:** Geneva, Geneva, Switzerland
+- 🕒 **Posted:** 2026-09-20
 
-### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4468093867/) — CHEFS CULINAR
-- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-19
-
-### [Systems Software Engineer - Core IP Security | Quant Finance Research Firm](https://www.linkedin.com/jobs/view/4458588966/) — Techfellow Limited
-- 📍 **Location:** London Area, United Kingdom
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4466999393/) — Code Compass 🧭
+- 📍 **Location:** Zürich Metropolitan Area
 - 🕒 **Posted:** 2026-09-19
