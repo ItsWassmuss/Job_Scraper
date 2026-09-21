@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "batch": "validator/batches/20260921/004.json",
+  "results": [
+    {
+      "index": 0,
+      "source": "LinkedIn",
+      "job_id": "4467340863",
+      "url": "https://www.linkedin.com/jobs/view/4467340863/",
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: valid work permit for Germany is required for non-EU citizens.",
+      "validated": null
+    },
+    {
+      "index": 1,
+      "source": "LinkedIn",
+      "job_id": "4446006477",
+      "url": "https://www.linkedin.com/jobs/view/4446006477/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary development is Rust; C#/.NET is limited to supporting and contributing to existing services where needed.",
+      "validated": null
+    },
+    {
+      "index": 2,
+      "source": "LinkedIn",
+      "job_id": "4468498080",
+      "url": "https://www.linkedin.com/jobs/view/4468498080/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Unity game programming; no backend/server-side .NET/C# evidence.",
+      "validated": null
+    }
+  ]
+}
