@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-21 09:18 UTC",
+  "scraped_at": "2026-09-21 10:18 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "neutron",
@@ -130,24 +130,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "neutron",
-      "title": "Solution Architect (AI Platform)",
-      "location": "Bukit Merah, S00, SG",
-      "url": "https://sg.indeed.com/viewjob?jk=e142547529354c0e",
-      "direct_url": "https://www.mycareersfuture.gov.sg/job/7ae6d6faf99c8717d4cc9914d261aa6e",
-      "company_url": "https://sg.indeed.com/cmp/Neutron",
-      "date_posted": "2026-09-21",
-      "description": "About the role\n  \n  \n\nA Singapore public sector agency is building an AI\\-powered document processing and case intelligence platform on AWS GCC, integrating with an existing OutSystems case management system. You'll own the end\\-to\\-end architecture and act as technical lead for the squad.\n  \n  \n\nKey responsibilities\n  \n  \n\nOwn the end\\-to\\-end solution architecture, including the design of the agentic AI architecture, ensuring detailed design and development align with the client's Enterprise Architecture\n  \n  \n\nTranslate business requirements, including application resiliency requirements, into application architectural specifications\n  \n  \n\nPropose products and solutions based on the client's Enterprise Architecture and standards\n  \n  \n\nDesign the architecture blueprint of the organisation's business, information and ICT assets using multiple architectural models\n  \n  \n\nUse, govern and enhance the architecture blueprint to ensure business and ICT remain in alignment\n  \n  \n\nReview source code and solutions as part of the software development lifecycle\n  \n  \n\nProvide delivery oversight and governance through solution architecture reviews, tech reviews, sprint reviews and Architecture Review Board submissions\n  \n  \n\nAbout you\n  \n  \n\nMinimum 4 years' relevant working experience\n  \n  \n\nTrack record in architecture design and technical leadership, particularly system architecture ownership, documentation and Architecture Review Board (ARB) clearance\n  \n  \n\n**Track record in agentic AI system design:** multi\\-agent pipelines, Bedrock AgentCore, orchestration and MCP Server, RAG knowledge bases, human\\-in\\-the\\-loop architecture\n  \n  \n\nDemonstrated experience in cloud\\-native architecture on AWS GCC for infrastructure and security — VPC, IAM, WOG AD FS, IM8/GCC compliance\n  \n  \n\nExpert\\-level OutSystems, sufficient to lead integration with an existing case management system\n  \n  \n\nExperience developing systems handling sensitive and personal data\n  \n  \n\nIn\\-depth understanding of a legal, regulatory or compliance operations domain\n  \n  \n\nExcellent data modelling and SQL skills\n  \n  \n\nSolid understanding of server\\-side .NET and/or Java development, service\\-oriented architectures, web services and public\\-facing web/e\\-services development\n  \n  \n\nStrong technical judgement to determine the best solution to a technical problem\n  \n  \n\nAdded advantage\n  \n  \n\nExperience in a legal or regulatory domain, with the credibility to engage stakeholders directly\n  \n  \n\nExperience working on case management, compliance or enforcement systems in a regulatory context\n  \n  \n\nPrior experience architecting on OutSystems, and/or architecting applications designed to operate as part of a larger shared platform\n  \n  \n\nNeutron Pte. Ltd. is a software consultancy firm at the forefront of digital transformation. Our strength lies in user\\-centric product design and data\\-driven analysis, harmonized with a commitment to cybersecurity. Leveraging innovative technologies, we offer customized solutions that propel growth and efficiency. Neutron Pte. Ltd. \\- your trusted partner in navigating the digital landscape.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime, contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
