@@ -1,8 +1,44 @@
 {
-  "scraped_at": "2026-09-21 15:18 UTC",
-  "total": 12,
-  "new_count": 0,
+  "scraped_at": "2026-09-21 16:18 UTC",
+  "total": 14,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Univers",
+      "title": "IoT Engineer Intern",
+      "location": "SG",
+      "url": "https://sg.indeed.com/viewjob?jk=68ac52a01c61f032",
+      "direct_url": "https://www.internsg.com/job/univers-pte-ltd-iot-engineer-intern-3/",
+      "company_url": "https://sg.indeed.com/cmp/Univers",
+      "date_posted": "2026-09-21",
+      "description": "Date Listed\n21 Sep 2026\nExperience Level\nEntry Level / Junior Executive\nProfession\nEngineering\nIndustry\nEnergy and Chemicals\nJob Period\nImmediate Start, For At Least 4 Months\nLocation Name\nSingapore\nCompany Profile\n**About Univers**\n\n\nUnivers provides the world’s most comprehensive decarbonization system. We help companies and countries optimize energy systems and reduce carbon emissions with accurate, reliable, and actionable decarbonization data. Our EnOS (Energy and Environment Operating System) platform connects on\\-the\\-ground operational technology and in\\-the\\-cloud intelligence to deliver real\\-time energy data and data\\-driven carbon monitoring, reporting, and abatement. With 365 million sensors and smart devices connected, 845GW of renewable energy under management, and a community of over 500 customers, we’re helping the world’s leading businesses get the world to net zero—and what comes after it. For more information, please visit https://univers.com/\n\n\nJob Description\n**Job Overview**\n\n\nAs an IoT Engineer Intern, you will work closely with the Solution Architects and the delivery team on renewable energy, microgrid and Virtual Power Plant (VPP) projects, and the pre\\-sales opportunities related to them.\n\n\nThe successful candidate will be working with experienced personnel to handle areas including IoT application deployment, project solutioning, customer engagement and project management for renewable, microgrid and VPP related projects.\n\n**Roles \\& Responsibilities**\n\n* Learn and execute projects from end to end — from pre\\-sales solutioning, through deployment and commissioning on site, to after\\-sales support\n* Deploy and configure IoT applications for renewable, microgrid and VPP sites — onboarding inverters, meters, battery storage and EV chargers over industrial protocols such as Modbus, IEC 60870\\-5\\-104 and MQTT\n* Work hands\\-on with state\\-of\\-the\\-art IoT technology from edge to cloud — edge controllers and gateways, time\\-series data pipelines, and the EnOS platform\n* Apply machine learning and AI optimization to generation forecasting, energy dispatch and VPP control strategies\n* Support the presales team in their sales pursuits\n* Design technical solutions including architectures and technical proposals with the necessary hardware and software to ensure customers’ requirements are met\n* Carry out project planning activities through cost estimation and risk mitigation\n* Develop the business models of new energy through business analysis of potential opportunities from both technical and commercial perspectives\n\n**Desired Skills and Experience**\n\n* Currently pursuing a Bachelor/Master Degree in Computer Engineering, Electrical Engineering or related field.\n* Knowledge and experience in Artificial Intelligence and Machine Learning are strongly preferred.\n* Good understanding or experience with software, renewable energy, and the power industry.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "ASM",
+      "title": "Senior Test Engineer II, Manufacturing Engineering",
+      "location": "SG",
+      "url": "https://sg.indeed.com/viewjob?jk=9a36f0d1f79189e4",
+      "direct_url": "https://www.asm.com/open-vacancies/senior-test-engineer-ii-manufacturing-engineering-4959318101?gh_jid=4959318101",
+      "company_url": "https://sg.indeed.com/cmp/Asm-518f87cf",
+      "date_posted": "2026-09-21",
+      "description": "Singapore\n  \n**Step into a career with ASM, where cutting edge technology meets collaborative culture.**\n\n\nFor over 55 years ASM has been ahead of what’s next, at the forefront of innovation and what’s technologically possible. With more than 4,500 ASMers representing 70 nationalities, our people and our advanced semiconductor devices are playing a crucial role in trends such as 5G, cloud computing, AI, and autonomous driving. But we’re more than just a tech company. We value diversity, inclusion and sustainability as we strive to make a positive impact on the world. Our development programs help support your growth, shaping your future and pushing the boundaries of innovation to unleash potential.\n\n\n**Job's mission**\n\n\n\nAs a Senior Test Engineer, you’ll play a critical role in turning breakthrough designs into real\\-world manufacturing solutions. From concept to customer delivery, you’ll drive new product industrialization by working cross\\-functionally to optimize for quality, cost, and lead time. You’ll be a strategic partner to both Global Operations and our Business Units, influencing design, improving processes, and supporting the full product lifecycle.\n\n  \n\n\n**What you will be working on**\n\n\n* Design and develop cost\\-effective testing methods with innovations on automation for systems and equipment testing throughout product development and manufacturing in meeting efficiency and customer quality requirements.\n* Provide holistic technical solutions and drive standardization of testing methodology to produce consistent testing quality outcome in addressing testing needs across supplier, contract manufacturing, and internal manufacturing by liaising with cross functional teams in GOPS and Business Units (BU).\n* Prepare test and diagnostic programs according to product requirements, refine detailed test specifications, develop detailed procedures, including assisting with the definition of test specifications with design / software engineering.\n* Develop hardware and software for test fixtures, plan and coordinate test fixture sourcing activities as needed, debug and deploy test fixtures for production.\n* Gathers operational and test data to evaluate test results; may take corrective/continuous improvement actions.\n* Work with internal and external stakeholders to influence decisions and drive product testing improvements.\n\n  \n\n\n**What we are looking for**\n\n\n* Bachelor’s degree in electrical/electronic engineering, automation engineering or equivalent.\n* Minimum 8 years of experience in a manufacturing or engineering environment, ideally 5 years in semiconductor capital equipment industry.\n* Experience in testing optimization, including test case/option addition, automation and standardization initiatives\n* Experience with control systems utilized in testing automation, serial communication protocols, TwinCAT PLC, DeviceNet, EtherCAT, RS 485, RS 232, etc.\n* Working knowledge of testing methodology as well as programming languages such as C\\#, Python, etc.\n* Proven track record of managing technical projects to completion while accomplishing objectives and influencing cross\\-functional teams\n* Proficient in operational excellence tools such as FMEA, 8D, SPC and Six Sigma\n\n  \n\n\n**What sets you apart**\n\n\n* Strong cross\\-functional communication, stakeholder engagement, presentation and organization skills\n* Experience in test automation for equipment product and IoT devices integration\n* Exposure to manufacturing digitization and data\\-driven process improvement\n\n**Apply today to be part of what’s next.**\n\n\n\nWe make the tech that enables the chips in devices which improve lives around the world. We do this with an eye to the future, pushing the boundaries of what’s possible through cutting\\-edge innovation, and driving the next wave of technological breakthroughs that shape how we live, work, and connect.\n\n\n\nTo learn more about ASM, find us at asm.com and on LinkedIn, Facebook, Instagram, X and YouTube.\n\n\n\n*ASM is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, age, nationality, social or ethnic origin, sexual orientation, gender, gender identify or expression, marital status, pregnancy, political affiliation, disability, genetic information, veteran status, or any other characteristic protected by law.*",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "DRW Trading Group",
       "title": "Senior Software Engineer, UI (FICCO)",
@@ -220,5 +256,42 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Univers",
+      "title": "IoT Engineer Intern",
+      "location": "SG",
+      "url": "https://sg.indeed.com/viewjob?jk=68ac52a01c61f032",
+      "direct_url": "https://www.internsg.com/job/univers-pte-ltd-iot-engineer-intern-3/",
+      "company_url": "https://sg.indeed.com/cmp/Univers",
+      "date_posted": "2026-09-21",
+      "description": "Date Listed\n21 Sep 2026\nExperience Level\nEntry Level / Junior Executive\nProfession\nEngineering\nIndustry\nEnergy and Chemicals\nJob Period\nImmediate Start, For At Least 4 Months\nLocation Name\nSingapore\nCompany Profile\n**About Univers**\n\n\nUnivers provides the world’s most comprehensive decarbonization system. We help companies and countries optimize energy systems and reduce carbon emissions with accurate, reliable, and actionable decarbonization data. Our EnOS (Energy and Environment Operating System) platform connects on\\-the\\-ground operational technology and in\\-the\\-cloud intelligence to deliver real\\-time energy data and data\\-driven carbon monitoring, reporting, and abatement. With 365 million sensors and smart devices connected, 845GW of renewable energy under management, and a community of over 500 customers, we’re helping the world’s leading businesses get the world to net zero—and what comes after it. For more information, please visit https://univers.com/\n\n\nJob Description\n**Job Overview**\n\n\nAs an IoT Engineer Intern, you will work closely with the Solution Architects and the delivery team on renewable energy, microgrid and Virtual Power Plant (VPP) projects, and the pre\\-sales opportunities related to them.\n\n\nThe successful candidate will be working with experienced personnel to handle areas including IoT application deployment, project solutioning, customer engagement and project management for renewable, microgrid and VPP related projects.\n\n**Roles \\& Responsibilities**\n\n* Learn and execute projects from end to end — from pre\\-sales solutioning, through deployment and commissioning on site, to after\\-sales support\n* Deploy and configure IoT applications for renewable, microgrid and VPP sites — onboarding inverters, meters, battery storage and EV chargers over industrial protocols such as Modbus, IEC 60870\\-5\\-104 and MQTT\n* Work hands\\-on with state\\-of\\-the\\-art IoT technology from edge to cloud — edge controllers and gateways, time\\-series data pipelines, and the EnOS platform\n* Apply machine learning and AI optimization to generation forecasting, energy dispatch and VPP control strategies\n* Support the presales team in their sales pursuits\n* Design technical solutions including architectures and technical proposals with the necessary hardware and software to ensure customers’ requirements are met\n* Carry out project planning activities through cost estimation and risk mitigation\n* Develop the business models of new energy through business analysis of potential opportunities from both technical and commercial perspectives\n\n**Desired Skills and Experience**\n\n* Currently pursuing a Bachelor/Master Degree in Computer Engineering, Electrical Engineering or related field.\n* Knowledge and experience in Artificial Intelligence and Machine Learning are strongly preferred.\n* Good understanding or experience with software, renewable energy, and the power industry.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "internship",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "ASM",
+      "title": "Senior Test Engineer II, Manufacturing Engineering",
+      "location": "SG",
+      "url": "https://sg.indeed.com/viewjob?jk=9a36f0d1f79189e4",
+      "direct_url": "https://www.asm.com/open-vacancies/senior-test-engineer-ii-manufacturing-engineering-4959318101?gh_jid=4959318101",
+      "company_url": "https://sg.indeed.com/cmp/Asm-518f87cf",
+      "date_posted": "2026-09-21",
+      "description": "Singapore\n  \n**Step into a career with ASM, where cutting edge technology meets collaborative culture.**\n\n\nFor over 55 years ASM has been ahead of what’s next, at the forefront of innovation and what’s technologically possible. With more than 4,500 ASMers representing 70 nationalities, our people and our advanced semiconductor devices are playing a crucial role in trends such as 5G, cloud computing, AI, and autonomous driving. But we’re more than just a tech company. We value diversity, inclusion and sustainability as we strive to make a positive impact on the world. Our development programs help support your growth, shaping your future and pushing the boundaries of innovation to unleash potential.\n\n\n**Job's mission**\n\n\n\nAs a Senior Test Engineer, you’ll play a critical role in turning breakthrough designs into real\\-world manufacturing solutions. From concept to customer delivery, you’ll drive new product industrialization by working cross\\-functionally to optimize for quality, cost, and lead time. You’ll be a strategic partner to both Global Operations and our Business Units, influencing design, improving processes, and supporting the full product lifecycle.\n\n  \n\n\n**What you will be working on**\n\n\n* Design and develop cost\\-effective testing methods with innovations on automation for systems and equipment testing throughout product development and manufacturing in meeting efficiency and customer quality requirements.\n* Provide holistic technical solutions and drive standardization of testing methodology to produce consistent testing quality outcome in addressing testing needs across supplier, contract manufacturing, and internal manufacturing by liaising with cross functional teams in GOPS and Business Units (BU).\n* Prepare test and diagnostic programs according to product requirements, refine detailed test specifications, develop detailed procedures, including assisting with the definition of test specifications with design / software engineering.\n* Develop hardware and software for test fixtures, plan and coordinate test fixture sourcing activities as needed, debug and deploy test fixtures for production.\n* Gathers operational and test data to evaluate test results; may take corrective/continuous improvement actions.\n* Work with internal and external stakeholders to influence decisions and drive product testing improvements.\n\n  \n\n\n**What we are looking for**\n\n\n* Bachelor’s degree in electrical/electronic engineering, automation engineering or equivalent.\n* Minimum 8 years of experience in a manufacturing or engineering environment, ideally 5 years in semiconductor capital equipment industry.\n* Experience in testing optimization, including test case/option addition, automation and standardization initiatives\n* Experience with control systems utilized in testing automation, serial communication protocols, TwinCAT PLC, DeviceNet, EtherCAT, RS 485, RS 232, etc.\n* Working knowledge of testing methodology as well as programming languages such as C\\#, Python, etc.\n* Proven track record of managing technical projects to completion while accomplishing objectives and influencing cross\\-functional teams\n* Proficient in operational excellence tools such as FMEA, 8D, SPC and Six Sigma\n\n  \n\n\n**What sets you apart**\n\n\n* Strong cross\\-functional communication, stakeholder engagement, presentation and organization skills\n* Experience in test automation for equipment product and IoT devices integration\n* Exposure to manufacturing digitization and data\\-driven process improvement\n\n**Apply today to be part of what’s next.**\n\n\n\nWe make the tech that enables the chips in devices which improve lives around the world. We do this with an eye to the future, pushing the boundaries of what’s possible through cutting\\-edge innovation, and driving the next wave of technological breakthroughs that shape how we live, work, and connect.\n\n\n\nTo learn more about ASM, find us at asm.com and on LinkedIn, Facebook, Instagram, X and YouTube.\n\n\n\n*ASM is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, age, nationality, social or ethnic origin, sexual orientation, gender, gender identify or expression, marital status, pregnancy, political affiliation, disability, genetic information, veteran status, or any other characteristic protected by law.*",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
