@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-20T23:26:35+03:00",
   "job_count": 50,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "ADVARIO ASIA PACIFIC PTE. LTD.",
