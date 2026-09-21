@@ -16,12 +16,10 @@ from urllib.parse import urlparse
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PATCH_ROOT = Path("validator/patches")
 MAX_PATCH_BYTES = 32 * 1024
-MAX_RESULTS_PER_PATCH = 10
+MAX_RESULTS_PER_PATCH = 20
 MAX_PATCH_FILES = 100
 MAX_QUEUE_BYTES = 512 * 1024
 MAX_REASON_CHARS = 300
-MAX_JOB_ID_CHARS = 512
-MAX_URL_CHARS = 2048
 
 FINAL_STATUSES = frozenset({"REJECTED", "QUALIFIED", "UNVALIDATED"})
 SOURCES = frozenset({"Indeed", "LinkedIn"})
@@ -51,15 +49,6 @@ VALIDATED_STRING_KEYS = frozenset({
     "short_description",
     "direct_application_link",
 })
-VALIDATED_STRING_MAX_CHARS = {
-    "work_mode": 64,
-    "required_experience": 500,
-    "date_posted": 300,
-    "work_authorization": 800,
-    "residence_requirement": 800,
-    "short_description": 1000,
-    "direct_application_link": MAX_URL_CHARS,
-}
 DATE_POSTED_PRECISIONS = frozenset({
     "exact", "relative", "date_only", "approximate", "missing_or_ambiguous",
 })
@@ -82,8 +71,6 @@ def _nonempty_string(value: Any) -> str | None:
 
 def _usable_http_url(value: Any) -> str | None:
     if not isinstance(value, str) or not value:
-        return None
-    if len(value) > MAX_URL_CHARS:
         return None
     if value != value.strip() or any(char.isspace() for char in value):
         return None
@@ -124,14 +111,8 @@ def _validate_validated_output(validated: Any, context: str) -> None:
         raise ValueError(f"{context} has invalid validated keys")
 
     for key in VALIDATED_STRING_KEYS:
-        value = validated[key]
-        if _nonempty_string(value) is None:
+        if _nonempty_string(validated[key]) is None:
             raise ValueError(f"{context} validated.{key} must be a non-empty string")
-        limit = VALIDATED_STRING_MAX_CHARS[key]
-        if len(value) > limit:
-            raise ValueError(
-                f"{context} validated.{key} exceeds {limit} characters"
-            )
 
     precision = validated["date_posted_precision"]
     if precision not in DATE_POSTED_PRECISIONS:
@@ -188,17 +169,17 @@ def _validate_result(result: Any, context: str) -> None:
     job_id = result["job_id"]
     if job_id is not None and not isinstance(job_id, str):
         raise ValueError(f"{context} job_id must be a string or null")
-    if isinstance(job_id, str) and len(job_id) > MAX_JOB_ID_CHARS:
-        raise ValueError(
-            f"{context} job_id exceeds {MAX_JOB_ID_CHARS} characters"
-        )
-
-    if _usable_http_url(result["url"]) is None:
-        raise ValueError(f"{context} url must be a usable http/https URL")
 
     status = result["status"]
     if status not in FINAL_STATUSES:
         raise ValueError(f"{context} has invalid status {status!r}")
+
+    url = result["url"]
+    if status == "UNVALIDATED":
+        if not isinstance(url, str):
+            raise ValueError(f"{context} url must preserve the batch string exactly")
+    elif _usable_http_url(url) is None:
+        raise ValueError(f"{context} url must be a usable http/https URL")
 
     reason = result["reason"]
     if not isinstance(reason, str) or not reason.strip():
