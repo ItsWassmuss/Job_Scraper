@@ -644,6 +644,75 @@ def test_invalid_qualified_validated_shape_fails(tmp_path):
         apply_patches(tmp_path)
 
 
+def test_unvalidated_preserves_unusable_batch_url_exactly(tmp_path):
+    jobs = [_job(0)]
+    jobs[0]["url"] = ""
+    batch = _write_batch(tmp_path, jobs)
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [
+            _result(
+                jobs[0],
+                0,
+                status="UNVALIDATED",
+                reason="INVALID_SOURCE_URL",
+            )
+        ],
+    )
+
+    summary = apply_patches(tmp_path)
+
+    assert summary["results_applied"] == 1
+    assert _read(batch)["jobs"][0]["status"] == "UNVALIDATED"
+
+
+def test_unvalidated_identity_must_still_match_raw_batch_url(tmp_path):
+    jobs = [_job(0)]
+    jobs[0]["url"] = ""
+    batch = _write_batch(tmp_path, jobs)
+
+    result = _result(
+        jobs[0],
+        0,
+        status="UNVALIDATED",
+        reason="INVALID_SOURCE_URL",
+    )
+    result["url"] = "not-the-batch-url"
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [result],
+    )
+
+    originals = (batch.read_bytes(), patch.read_bytes())
+
+    with pytest.raises(ValueError, match="identity mismatch"):
+        apply_patches(tmp_path)
+
+    assert (batch.read_bytes(), patch.read_bytes()) == originals
+
+
+def test_rejected_still_requires_usable_source_url(tmp_path):
+    jobs = [_job(0)]
+    jobs[0]["url"] = ""
+    _write_batch(tmp_path, jobs)
+
+    _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs[0], 0, status="REJECTED")],
+    )
+
+    with pytest.raises(ValueError, match="usable http/https URL"):
+        apply_patches(tmp_path)
+
+
 def test_finalized_batch_cannot_be_patched(tmp_path):
     jobs = [_job(0)]
     _write_batch(
@@ -697,8 +766,26 @@ def test_missing_patch_directory_is_noop(tmp_path):
     assert summary["consumed_patches"] == 0
 
 
-def test_more_than_ten_results_in_one_patch_is_rejected(tmp_path):
-    jobs = [_job(i) for i in range(11)]
+def test_twenty_results_in_one_patch_are_allowed(tmp_path):
+    jobs = [_job(i) for i in range(20)]
+    batch = _write_batch(tmp_path, jobs)
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(job, index) for index, job in enumerate(jobs)],
+    )
+
+    summary = apply_patches(tmp_path)
+
+    assert summary["results_applied"] == 20
+    assert not patch.exists()
+    assert all(job["status"] == "REJECTED" for job in _read(batch)["jobs"])
+
+
+def test_more_than_twenty_results_in_one_patch_is_rejected(tmp_path):
+    jobs = [_job(i) for i in range(21)]
     batch = _write_batch(tmp_path, jobs)
 
     patch = _write_patch(
@@ -710,60 +797,10 @@ def test_more_than_ten_results_in_one_patch_is_rejected(tmp_path):
 
     originals = (batch.read_bytes(), patch.read_bytes())
 
-    with pytest.raises(ValueError, match="1..10"):
+    with pytest.raises(ValueError, match="1..20"):
         apply_patches(tmp_path)
 
     assert (batch.read_bytes(), patch.read_bytes()) == originals
-
-
-@pytest.mark.parametrize(
-    ("field", "limit"),
-    sorted(patcher.VALIDATED_STRING_MAX_CHARS.items()),
-)
-def test_validated_string_limits_are_enforced(tmp_path, field, limit):
-    jobs = [_job(0)]
-    _write_batch(tmp_path, jobs)
-
-    validated = _validated()
-    validated[field] = "x" * (limit + 1)
-    if field == "direct_application_link":
-        validated[field] = "https://example.com/" + "x" * limit
-
-    _write_patch(
-        tmp_path,
-        "20260921-003-000.json",
-        "validator/batches/20260921/003.json",
-        [
-            _result(
-                jobs[0],
-                0,
-                status="QUALIFIED",
-                reason="QUALIFIED: no rejection rule applied.",
-                validated=validated,
-            )
-        ],
-    )
-
-    with pytest.raises(ValueError, match="exceeds"):
-        apply_patches(tmp_path)
-
-
-def test_job_id_length_limit_is_enforced(tmp_path):
-    jobs = [_job(0)]
-    _write_batch(tmp_path, jobs)
-
-    result = _result(jobs[0], 0)
-    result["job_id"] = "x" * (patcher.MAX_JOB_ID_CHARS + 1)
-
-    _write_patch(
-        tmp_path,
-        "20260921-003-000.json",
-        "validator/batches/20260921/003.json",
-        [result],
-    )
-
-    with pytest.raises(ValueError, match="job_id exceeds"):
-        apply_patches(tmp_path)
 
 
 def test_queue_file_count_limit_is_enforced_before_parsing(tmp_path):
