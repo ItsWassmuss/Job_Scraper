@@ -1,0 +1,137 @@
+name: Validator Apply Patch
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "validator/patches/*.json"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: validator-apply-patch
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    name: Apply Validator patches
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Apply Validator patches
+        run: python validator/apply_patch.py
+
+      - name: Validate, commit, and push patch results
+        id: persist
+        run: |
+          set -euo pipefail
+
+          tracked_changes="$RUNNER_TEMP/validator-patch-tracked-changes"
+          untracked_paths="$RUNNER_TEMP/validator-patch-untracked-paths"
+          allowed_paths_file="$RUNNER_TEMP/validator-patch-allowed-paths"
+          staged_changes="$RUNNER_TEMP/validator-patch-staged-changes"
+
+          git diff --raw --no-renames -z HEAD -- > "$tracked_changes"
+          git ls-files --others --exclude-standard -z -- > "$untracked_paths"
+          : > "$allowed_paths_file"
+
+          is_batch_path() {
+            local path="$1"
+            [[ "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.json$ ]]
+          }
+
+          is_patch_path() {
+            local path="$1"
+            [[ "$path" =~ ^validator/patches/[0-9]{8}-[0-9]{3}-[0-9]{3}\.json$ ]]
+          }
+
+          invalid_changes=0
+
+          while IFS= read -r -d '' metadata && IFS= read -r -d '' path; do
+            status="${metadata##* }"
+
+            if [[ "$status" == "M" ]] && is_batch_path "$path"; then
+              printf '%s\0' "$path" >> "$allowed_paths_file"
+            elif [[ "$status" == "D" ]] && is_patch_path "$path"; then
+              printf '%s\0' "$path" >> "$allowed_paths_file"
+            else
+              printf '  %s %q\n' "$status" "$path"
+              invalid_changes=1
+            fi
+          done < "$tracked_changes"
+
+          while IFS= read -r -d '' path; do
+            printf '  ?? %q\n' "$path"
+            invalid_changes=1
+          done < "$untracked_paths"
+
+          if [ "$invalid_changes" -ne 0 ]; then
+            echo "Validator patch application produced disallowed mutations."
+            exit 1
+          fi
+
+          if [ ! -s "$allowed_paths_file" ]; then
+            echo "No Validator patch changes."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          mapfile -d '' allowed_paths < "$allowed_paths_file"
+          git add -- "${allowed_paths[@]}"
+
+          git diff --cached --raw --no-renames -z HEAD -- > "$staged_changes"
+          staged_invalid=0
+
+          while IFS= read -r -d '' metadata && IFS= read -r -d '' path; do
+            status="${metadata##* }"
+
+            if [[ "$status" == "M" ]] && is_batch_path "$path"; then
+              :
+            elif [[ "$status" == "D" ]] && is_patch_path "$path"; then
+              :
+            else
+              printf '  %s %q\n' "$status" "$path"
+              staged_invalid=1
+            fi
+          done < "$staged_changes"
+
+          if [ "$staged_invalid" -ne 0 ]; then
+            echo "Validator patch application staged disallowed mutations."
+            exit 1
+          fi
+
+          if git diff --cached --quiet; then
+            echo "No staged Validator patch changes."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git commit -m "chore: apply validator patches"
+
+          git pull --rebase origin main
+          git push origin main
+
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Dispatch Validator Finalizer
+        if: steps.persist.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run validator_finalize.yml --ref main
