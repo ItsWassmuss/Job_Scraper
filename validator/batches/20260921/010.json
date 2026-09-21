@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-21T13:37:27+03:00",
   "job_count": 44,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "DEMO Consultants",
