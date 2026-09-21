@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-21T11:29:15+03:00",
   "job_count": 43,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "V-ELEGANT PTE. LTD.",
