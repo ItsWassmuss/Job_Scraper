@@ -7,6 +7,7 @@ from pathlib import Path
 import pytest
 
 import validator.apply_patch as patcher
+import validator.finalize as finalizer
 from validator.apply_patch import apply_patches
 
 
@@ -431,7 +432,7 @@ def test_invalid_reason_is_rejected(tmp_path, reason):
     ) == originals
 
 
-def test_patch_over_64_kib_is_rejected_before_json_parse(tmp_path):
+def test_patch_over_size_limit_is_rejected_before_json_parse(tmp_path):
     jobs = [_job(0)]
     batch = _write_batch(tmp_path, jobs)
 
@@ -694,3 +695,255 @@ def test_missing_patch_directory_is_noop(tmp_path):
 
     assert summary["patches_discovered"] == 0
     assert summary["consumed_patches"] == 0
+
+
+def test_more_than_ten_results_in_one_patch_is_rejected(tmp_path):
+    jobs = [_job(i) for i in range(11)]
+    batch = _write_batch(tmp_path, jobs)
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(job, index) for index, job in enumerate(jobs)],
+    )
+
+    originals = (batch.read_bytes(), patch.read_bytes())
+
+    with pytest.raises(ValueError, match="1..10"):
+        apply_patches(tmp_path)
+
+    assert (batch.read_bytes(), patch.read_bytes()) == originals
+
+
+@pytest.mark.parametrize(
+    ("field", "limit"),
+    sorted(patcher.VALIDATED_STRING_MAX_CHARS.items()),
+)
+def test_validated_string_limits_are_enforced(tmp_path, field, limit):
+    jobs = [_job(0)]
+    _write_batch(tmp_path, jobs)
+
+    validated = _validated()
+    validated[field] = "x" * (limit + 1)
+    if field == "direct_application_link":
+        validated[field] = "https://example.com/" + "x" * limit
+
+    _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [
+            _result(
+                jobs[0],
+                0,
+                status="QUALIFIED",
+                reason="QUALIFIED: no rejection rule applied.",
+                validated=validated,
+            )
+        ],
+    )
+
+    with pytest.raises(ValueError, match="exceeds"):
+        apply_patches(tmp_path)
+
+
+def test_job_id_length_limit_is_enforced(tmp_path):
+    jobs = [_job(0)]
+    _write_batch(tmp_path, jobs)
+
+    result = _result(jobs[0], 0)
+    result["job_id"] = "x" * (patcher.MAX_JOB_ID_CHARS + 1)
+
+    _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [result],
+    )
+
+    with pytest.raises(ValueError, match="job_id exceeds"):
+        apply_patches(tmp_path)
+
+
+def test_queue_file_count_limit_is_enforced_before_parsing(tmp_path):
+    patches = tmp_path / "validator/patches"
+    patches.mkdir(parents=True)
+
+    for index in range(patcher.MAX_PATCH_FILES + 1):
+        (patches / f"20260921-{index:03d}-000.json").write_text(
+            "{}",
+            encoding="utf-8",
+        )
+
+    with pytest.raises(ValueError, match="queue exceeds"):
+        apply_patches(tmp_path)
+
+
+def test_queue_byte_limit_is_enforced_before_parsing(tmp_path):
+    patches = tmp_path / "validator/patches"
+    patches.mkdir(parents=True)
+
+    per_file = patcher.MAX_PATCH_BYTES - 1
+    file_count = patcher.MAX_QUEUE_BYTES // per_file + 1
+
+    for index in range(file_count):
+        (patches / f"20260921-{index:03d}-000.json").write_bytes(
+            b"{" + b" " * (per_file - 2) + b"}"
+        )
+
+    with pytest.raises(ValueError, match="queue exceeds"):
+        apply_patches(tmp_path)
+
+
+@pytest.mark.parametrize(
+    "bad_status",
+    ["BROKEN", "", 123],
+)
+def test_malformed_existing_batch_status_blocks_all_mutation(tmp_path, bad_status):
+    jobs = [_job(0), _job(1)]
+    jobs[0]["status"] = bad_status
+    jobs[0]["reason"] = "existing"
+    batch = _write_batch(tmp_path, jobs)
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-001.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs[1], 1)],
+    )
+
+    originals = (batch.read_bytes(), patch.read_bytes())
+
+    with pytest.raises(ValueError, match="invalid status"):
+        apply_patches(tmp_path)
+
+    assert (batch.read_bytes(), patch.read_bytes()) == originals
+
+
+def test_malformed_existing_final_result_blocks_all_mutation(tmp_path):
+    jobs = [
+        _job(
+            0,
+            status="QUALIFIED",
+            reason="QUALIFIED: no rejection rule applied.",
+            validated={"bad": True},
+        ),
+        _job(1),
+    ]
+    batch = _write_batch(tmp_path, jobs)
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-001.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs[1], 1)],
+    )
+
+    originals = (batch.read_bytes(), patch.read_bytes())
+
+    with pytest.raises(ValueError, match="validated keys"):
+        apply_patches(tmp_path)
+
+    assert (batch.read_bytes(), patch.read_bytes()) == originals
+
+
+def test_batch_job_count_must_match_jobs_length(tmp_path):
+    jobs = [_job(0)]
+    batch = _write_batch(tmp_path, jobs)
+    payload = _read(batch)
+    payload["job_count"] = 2
+    batch.write_text(json.dumps(payload), encoding="utf-8")
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs[0], 0)],
+    )
+
+    originals = (batch.read_bytes(), patch.read_bytes())
+
+    with pytest.raises(ValueError, match="job_count"):
+        apply_patches(tmp_path)
+
+    assert (batch.read_bytes(), patch.read_bytes()) == originals
+
+
+def test_second_batch_write_failure_keeps_patches_for_recovery(tmp_path, monkeypatch):
+    jobs_a = [_job(0)]
+    jobs_b = [_job(0)]
+
+    batch_a = _write_batch(tmp_path, jobs_a, number="003")
+    batch_b = _write_batch(tmp_path, jobs_b, number="004")
+    patch_a = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs_a[0], 0)],
+    )
+    patch_b = _write_patch(
+        tmp_path,
+        "20260921-004-000.json",
+        "validator/batches/20260921/004.json",
+        [_result(jobs_b[0], 0)],
+    )
+
+    real_write = patcher._atomic_write_json
+
+    def fail_second(path, payload):
+        if path == batch_b:
+            raise OSError("second batch write failed")
+        real_write(path, payload)
+
+    monkeypatch.setattr(patcher, "_atomic_write_json", fail_second)
+
+    with pytest.raises(OSError, match="second batch write failed"):
+        apply_patches(tmp_path)
+
+    assert _read(batch_a)["jobs"][0]["status"] == "REJECTED"
+    assert _read(batch_b)["jobs"][0]["status"] is None
+    assert patch_a.exists()
+    assert patch_b.exists()
+
+    monkeypatch.setattr(patcher, "_atomic_write_json", real_write)
+    summary = apply_patches(tmp_path)
+
+    assert summary["results_already_applied"] == 1
+    assert summary["results_applied"] == 1
+    assert _read(batch_b)["jobs"][0]["status"] == "REJECTED"
+    assert not patch_a.exists()
+    assert not patch_b.exists()
+
+
+def test_patch_delete_failure_raises_after_batch_write(tmp_path, monkeypatch):
+    jobs = [_job(0)]
+    batch = _write_batch(tmp_path, jobs)
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs[0], 0)],
+    )
+
+    real_unlink = Path.unlink
+
+    def fail_patch_unlink(self, *args, **kwargs):
+        if self == patch:
+            raise OSError("patch delete failed")
+        return real_unlink(self, *args, **kwargs)
+
+    monkeypatch.setattr(Path, "unlink", fail_patch_unlink)
+
+    with pytest.raises(OSError, match="patch delete failed"):
+        apply_patches(tmp_path)
+
+    assert _read(batch)["jobs"][0]["status"] == "REJECTED"
+    assert patch.exists()
+
+
+def test_apply_patch_contract_matches_finalizer_contract():
+    assert patcher.FINAL_STATUSES == finalizer.FINAL_STATUSES
+    assert patcher.VALIDATED_KEYS == finalizer.VALIDATED_KEYS
+    assert patcher.VALIDATED_STRING_KEYS == finalizer.VALIDATED_STRING_KEYS
+    assert patcher.DATE_POSTED_PRECISIONS == finalizer.DATE_POSTED_PRECISIONS
