@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-21 06:18 UTC",
+  "scraped_at": "2026-09-21 07:18 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "International SOS",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "International SOS",
-      "title": "Technical Operations Engineer",
-      "location": "SG",
-      "url": "https://sg.indeed.com/viewjob?jk=23dcbfc40332a436",
-      "direct_url": "https://opportunities.internationalsos.com/careers/job/563980770742980?utm_source=indeed&domain=internationalsos.com",
-      "company_url": "https://sg.indeed.com/cmp/International-Sos",
-      "date_posted": "2026-09-21",
-      "description": "**The Role**\n------------\n\n\n\nThe Technical Operations Engineer is responsible for maintaining operational excellence across systems, processes, and technology platforms. This role focuses on incident management, operational monitoring, process optimization, stakeholder support, and continuous improvement to ensure reliable business and customer operations.\n\n**Responsibilities**\n--------------------\n\n\n\nOperations Management\n\n* Be on rotation for availability incidents and provide support for customer service engineers.\n* Proactively develop scripts and tools to prevent incidents from ever happening.\n* Monitor and maintain daily operational performance of systems and services.\n* Ensure timely resolution of operational issues and service disruptions.\n* Manage operational workflows and process adherence.\n\n  \n\nIncident \\& Escalation Management\n\n* Investigate, troubleshoot, and resolve technical issues.\n* Coordinate cross\\-functional teams during incidents and escalations.\n* Conduct root cause analysis and implement preventive actions.\n\n  \n\nProcess Improvement\n\n* Identify inefficiencies and recommend automation opportunities.\n* Create and maintain Standard Operating Procedures (SOPs).\n* Drive operational excellence initiatives and continuous improvement projects.\n\n  \n\nData Analysis \\& Reporting\n\n* Monitor and report on operational KPIs and service metrics.\n* Analyze trends, risks, and performance gaps.\n* Prepare dashboards and management reports.\n\n  \n\nStakeholder Collaboration\n\n* Partner with Engineering, Product, Customer Support, and Business Operations teams.\n* Provide operational guidance and technical support to stakeholders.\n* Communicate status updates and recommendations effectively.\n\n  \n\nCompliance \\& Risk Management\n\n* Ensure compliance with operational policies and security standards.\n* Identify operational risks and develop mitigation plans.\n* Support audit and governance activities as required.\n**Requirements**\n----------------\n\n\n* Bachelor's degree in Computer Science, Information Systems, Engineering, or related field.\n* 5\\+ years of experience in Technical Operations, IT Operations, System Support, Data Operations, or a related role.\n* Strong troubleshooting and analytical skills.\n* Experience with ticketing systems and monitoring tools.\n* Proficiency in SQL, Excel, or data analysis tools.\n* Excellent communication and stakeholder management skills.\n* Strong programming skills, Net, Java, Python, JavaScript, etc.\n* Strong experience with Monitoring tools: Datadog, Prometheus, Grafana, Cloudwatch, ELK, etc.\n* Experience with cloud platforms (Azure, AWS, or GCP).\n* Knowledge of scripting or automation tools (Python, PowerShell, Shell Scripting).\n* Familiarity with ITIL, Agile, or DevOps methodologies.\n* Experience supporting large\\-scale production environments.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
