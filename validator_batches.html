@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Validator Batches</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg:#0b1020; --panel:#12192b; --panel2:#172036; --ink:#edf2ff;
+    --muted:#94a3b8; --line:#26324b; --accent:#7dd3fc; --good:#86efac;
+    --warn:#fde68a; --bad:#fca5a5; --pending:#c4b5fd;
+  }
+  :root[data-theme="light"] {
+    color-scheme: light;
+    --bg:#f6f8fc; --panel:#fff; --panel2:#f1f5f9; --ink:#162033;
+    --muted:#64748b; --line:#d8e0ec; --accent:#0369a1; --good:#166534;
+    --warn:#92400e; --bad:#991b1b; --pending:#6d28d9;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:14px/1.45 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+  .wrap { max-width:1220px; margin:0 auto; padding:18px; }
+  header { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin-bottom:16px; }
+  h1 { margin:0; font-size:22px; letter-spacing:-.02em; }
+  .sub { color:var(--muted); }
+  .grow { flex:1; }
+  button, select, input { font:inherit; }
+  .btn, .pill, select, .search {
+    border:1px solid var(--line); background:var(--panel); color:var(--ink);
+    border-radius:9px; padding:8px 10px;
+  }
+  .btn, .pill { cursor:pointer; }
+  .btn:hover, .pill:hover { border-color:var(--accent); }
+  .pill.on { border-color:var(--accent); background:var(--panel2); }
+  .theme { display:flex; gap:5px; }
+  .controls { display:flex; flex-direction:column; gap:10px; padding:14px; border:1px solid var(--line); background:var(--panel); border-radius:12px; margin-bottom:16px; }
+  .row { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .label { width:76px; flex:0 0 76px; color:var(--muted); font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
+  .search { flex:1; min-width:260px; }
+  select { min-width:220px; }
+  .jobs { display:flex; flex-direction:column; gap:9px; }
+  .job { border:1px solid var(--line); background:var(--panel); border-radius:12px; padding:13px 15px; }
+  .job:hover { border-color:#3b4b69; }
+  .title { display:flex; gap:8px; align-items:center; flex-wrap:wrap; font-weight:700; font-size:15px; }
+  .title a { color:var(--ink); text-decoration:none; }
+  .title a:hover { color:var(--accent); text-decoration:underline; }
+  .meta { display:flex; gap:10px; flex-wrap:wrap; color:var(--muted); margin-top:6px; font-size:12px; }
+  .badges { display:flex; gap:6px; flex-wrap:wrap; margin-top:9px; }
+  .tag { border:1px solid var(--line); background:var(--panel2); border-radius:999px; padding:3px 8px; font-size:11px; }
+  .status-PENDING { color:var(--pending); }
+  .status-QUALIFIED { color:var(--good); }
+  .status-REJECTED { color:var(--bad); }
+  .status-UNVALIDATED { color:var(--warn); }
+  .reason { margin-top:9px; color:var(--muted); font-size:12px; white-space:pre-wrap; overflow-wrap:anywhere; }
+  .empty, .error { border:1px dashed var(--line); border-radius:12px; padding:24px; color:var(--muted); text-align:center; }
+  .error { color:var(--bad); }
+  .footer { margin-top:16px; color:var(--muted); font-size:11px; }
+  @media (max-width:700px) {
+    .wrap { padding:12px; }
+    .label { width:100%; flex-basis:100%; }
+    select, .search { width:100%; min-width:0; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Validator Batches</h1>
+    <span class="sub" id="snapshot">Loading…</span>
+    <span class="grow"></span>
+    <div class="theme">
+      <button class="btn" data-theme="system">System</button>
+      <button class="btn" data-theme="dark">Dark</button>
+      <button class="btn" data-theme="light">White</button>
+    </div>
+    <button class="btn" id="refresh">↻ Refresh</button>
+    <a class="btn" href="triage.html" style="text-decoration:none">Job Triage</a>
+    <a class="btn" href="https://github.com/ItsWassmuss/Job_Scraper" target="_blank" rel="noopener" style="text-decoration:none">⌥ Repo</a>
+  </header>
+
+  <section class="controls">
+    <div class="row">
+      <input id="search" class="search" type="search" placeholder="Search title, company, location, URL…" autocomplete="off" />
+      <button class="btn" id="clear">Clear filters</button>
+    </div>
+    <div class="row">
+      <span class="label">Batch</span>
+      <select id="batch"><option value="">All batches</option></select>
+    </div>
+    <div class="row">
+      <span class="label">Status</span>
+      <button class="pill" data-status="PENDING">Pending</button>
+      <button class="pill" data-status="QUALIFIED">Qualified</button>
+      <button class="pill" data-status="REJECTED">Rejected</button>
+      <button class="pill" data-status="UNVALIDATED">Unvalidated</button>
+    </div>
+    <div class="row">
+      <span class="label">Batch state</span>
+      <button class="pill" data-finalized="open">Not finalized</button>
+      <button class="pill" data-finalized="finalized">Finalized</button>
+    </div>
+    <div class="row">
+      <span class="label">Source</span>
+      <button class="pill" data-source="Indeed">Indeed</button>
+      <button class="pill" data-source="LinkedIn">LinkedIn</button>
+    </div>
+  </section>
+
+  <main id="jobs" class="jobs"></main>
+  <div class="footer">Read-only view of validator/batches. No repository state is modified by this page.</div>
+</div>
+
+<script>
+(() => {
+  const OWNER = 'ItsWassmuss';
+  const REPO = 'Job_Scraper';
+  const BRANCH = 'main';
+  const API_ROOT = `https://api.github.com/repos/${OWNER}/${REPO}/contents/validator/batches`;
+  const $ = id => document.getElementById(id);
+  const esc = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+
+  let rows = [];
+  let loadedAt = null;
+  const filters = { batch:'', statuses:new Set(), finalized:new Set(), sources:new Set(), q:'' };
+
+  function statusOf(job) {
+    return job.status == null ? 'PENDING' : String(job.status);
+  }
+
+  function themeApply(mode) {
+    localStorage.setItem('validatorBatches:theme', mode);
+    const light = mode === 'light' || (mode === 'system' && matchMedia('(prefers-color-scheme: light)').matches);
+    document.documentElement.dataset.theme = light ? 'light' : 'dark';
+  }
+  document.querySelectorAll('[data-theme]').forEach(b => b.onclick = () => themeApply(b.dataset.theme));
+  themeApply(localStorage.getItem('validatorBatches:theme') || 'system');
+
+  async function fetchJson(url) {
+    const r = await fetch(url, { cache:'no-store' });
+    if (!r.ok) throw new Error(`${r.status} ${r.statusText}`);
+    return r.json();
+  }
+
+  async function discoverBatchFiles() {
+    const days = (await fetchJson(`${API_ROOT}?ref=${BRANCH}&v=${Date.now()}`))
+      .filter(x => x.type === 'dir' && /^\d{8}$/.test(x.name))
+      .sort((a,b) => a.name.localeCompare(b.name));
+
+    const dayListings = await Promise.all(days.map(day =>
+      fetchJson(`${API_ROOT}/${day.name}?ref=${BRANCH}&v=${Date.now()}`)
+        .then(items => items
+          .filter(x => x.type === 'file' && /^\d{3}\.json$/.test(x.name))
+          .map(x => ({ ...x, day:day.name })))
+    ));
+
+    return dayListings.flat().sort((a,b) =>
+      (a.day + '/' + a.name).localeCompare(b.day + '/' + b.name));
+  }
+
+  async function load() {
+    $('snapshot').textContent = 'Loading batches…';
+    $('jobs').innerHTML = '';
+    const files = await discoverBatchFiles();
+
+    const settled = await Promise.allSettled(files.map(async file => {
+      if (!file.download_url) throw new Error(`No download URL for ${file.path}`);
+      const batch = await fetchJson(file.download_url + '?v=' + Date.now());
+      if (!batch || !Array.isArray(batch.jobs)) throw new Error(`Malformed batch: ${file.path}`);
+      const batchId = `${file.day}/${file.name.replace(/\.json$/, '')}`;
+      return batch.jobs.map((job,index) => ({
+        job, index, batchId, path:file.path, finalized:batch.finalized === true
+      }));
+    }));
+
+    const failures = [];
+    rows = [];
+    settled.forEach((r,i) => {
+      if (r.status === 'fulfilled') rows.push(...r.value);
+      else failures.push(`${files[i].path}: ${r.reason?.message || r.reason}`);
+    });
+
+    if (failures.length) console.warn('[validator_batches]', failures);
+    loadedAt = new Date();
+    buildBatchOptions();
+    render();
+    updateSnapshot(failures.length);
+  }
+
+  function buildBatchOptions() {
+    const current = filters.batch;
+    const ids = [...new Set(rows.map(r => r.batchId))].sort();
+    $('batch').innerHTML = '<option value="">All batches</option>' +
+      ids.map(id => `<option value="${esc(id)}">${esc(id)}</option>`).join('');
+    $('batch').value = ids.includes(current) ? current : '';
+    filters.batch = $('batch').value;
+  }
+
+  function matches(row) {
+    const j = row.job;
+    const st = statusOf(j);
+    if (filters.batch && row.batchId !== filters.batch) return false;
+    if (filters.statuses.size && !filters.statuses.has(st)) return false;
+    if (filters.finalized.size) {
+      const fs = row.finalized ? 'finalized' : 'open';
+      if (!filters.finalized.has(fs)) return false;
+    }
+    if (filters.sources.size && !filters.sources.has(j.source)) return false;
+    const q = filters.q.trim().toLowerCase();
+    if (q) {
+      const hay = [j.title,j.company,j.location,j.url,j.job_id,row.batchId,j.reason].filter(Boolean).join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  }
+
+  function render() {
+    const visible = rows.filter(matches).sort((a,b) =>
+      a.batchId.localeCompare(b.batchId) || a.index - b.index);
+
+    document.querySelectorAll('[data-status]').forEach(b => b.classList.toggle('on', filters.statuses.has(b.dataset.status)));
+    document.querySelectorAll('[data-finalized]').forEach(b => b.classList.toggle('on', filters.finalized.has(b.dataset.finalized)));
+    document.querySelectorAll('[data-source]').forEach(b => b.classList.toggle('on', filters.sources.has(b.dataset.source)));
+
+    if (!visible.length) {
+      $('jobs').innerHTML = '<div class="empty">No jobs match the current filters.</div>';
+      return;
+    }
+
+    $('jobs').innerHTML = visible.map(row => {
+      const j = row.job;
+      const st = statusOf(j);
+      const title = j.title || '(Untitled job)';
+      const company = j.company || 'Company not specified';
+      const location = j.location || 'Location not specified';
+      const link = typeof j.url === 'string' && /^https?:\/\//i.test(j.url)
+        ? `<a href="${esc(j.url)}" target="_blank" rel="noopener noreferrer">${esc(title)}</a>`
+        : esc(title);
+      const reason = j.reason ? `<div class="reason">${esc(j.reason)}</div>` : '';
+      return `<article class="job">
+        <div class="title">${link}</div>
+        <div class="meta">
+          <span>${esc(company)}</span>
+          <span>📍 ${esc(location)}</span>
+          <span>Index ${row.index}</span>
+          ${j.job_id != null ? `<span>ID ${esc(j.job_id)}</span>` : ''}
+        </div>
+        <div class="badges">
+          <span class="tag">Batch ${esc(row.batchId)}</span>
+          <span class="tag status-${esc(st)}">${esc(st)}</span>
+          <span class="tag">${row.finalized ? 'Finalized' : 'Not finalized'}</span>
+          <span class="tag">${esc(j.source || 'Unknown source')}</span>
+        </div>
+        ${reason}
+      </article>`;
+    }).join('');
+  }
+
+  function updateSnapshot(failures=0) {
+    const stamp = loadedAt ? loadedAt.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}) : 'unknown';
+    $('snapshot').textContent = failures
+      ? `loaded ${stamp} · ${failures} batch file(s) failed`
+      : `loaded ${stamp}`;
+  }
+
+  $('batch').onchange = e => { filters.batch = e.target.value; render(); };
+  $('search').oninput = e => { filters.q = e.target.value; render(); };
+  document.querySelectorAll('[data-status]').forEach(b => b.onclick = () => {
+    filters.statuses.has(b.dataset.status) ? filters.statuses.delete(b.dataset.status) : filters.statuses.add(b.dataset.status);
+    render();
+  });
+  document.querySelectorAll('[data-finalized]').forEach(b => b.onclick = () => {
+    filters.finalized.has(b.dataset.finalized) ? filters.finalized.delete(b.dataset.finalized) : filters.finalized.add(b.dataset.finalized);
+    render();
+  });
+  document.querySelectorAll('[data-source]').forEach(b => b.onclick = () => {
+    filters.sources.has(b.dataset.source) ? filters.sources.delete(b.dataset.source) : filters.sources.add(b.dataset.source);
+    render();
+  });
+  $('clear').onclick = () => {
+    filters.batch=''; filters.q=''; filters.statuses.clear(); filters.finalized.clear(); filters.sources.clear();
+    $('batch').value=''; $('search').value=''; render();
+  };
+  $('refresh').onclick = () => load().catch(showError);
+
+  function showError(err) {
+    console.error(err);
+    $('snapshot').textContent = 'Load failed';
+    $('jobs').innerHTML = `<div class="error">Could not load validator batches: ${esc(err.message || err)}</div>`;
+  }
+
+  load().catch(showError);
+})();
+</script>
+</body>
+</html>
