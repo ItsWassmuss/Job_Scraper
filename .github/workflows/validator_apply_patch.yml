@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - "validator/patches/*.json"
+      - "validator/runtime.lock"
 
 permissions:
   contents: write
@@ -20,6 +21,12 @@ jobs:
   apply:
     name: Apply Validator patches
     runs-on: ubuntu-latest
+    if: >-
+      github.event_name != 'push' ||
+      (
+        !startsWith(github.event.head_commit.message, 'chore: acquire validator runtime lock [apply]') &&
+        !startsWith(github.event.head_commit.message, 'chore: release validator runtime lock [apply]')
+      )
 
     steps:
       - name: Checkout main
@@ -33,11 +40,84 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Determine lock mode and pending patch work
+        id: preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ ! -f validator/runtime_lock_v1.enabled ]; then
+            echo "locking=false" >> "$GITHUB_OUTPUT"
+            echo "run_apply=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "locking=true" >> "$GITHUB_OUTPUT"
+
+          shopt -s nullglob
+          patches=(validator/patches/*.json)
+          if [ "${#patches[@]}" -eq 0 ]; then
+            echo "run_apply=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_apply=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Acquire shared Validator lock
+        id: lock
+        if: steps.preflight.outputs.run_apply == 'true' && steps.preflight.outputs.locking == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          token="apply-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          echo "token=$token" >> "$GITHUB_OUTPUT"
+
+          set +e
+          output="$(python validator/repo_lock.py acquire --owner apply --token "$token" 2>&1)"
+          rc=$?
+          set -e
+
+          printf '%s\n' "$output"
+
+          if [ "$rc" -eq 0 ]; then
+            echo "acquired=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ "$rc" -eq 10 ]; then
+            echo "acquired=false" >> "$GITHUB_OUTPUT"
+            echo "Shared Validator lock is busy; fail-fast without applying patches."
+            exit 0
+          fi
+
+          exit "$rc"
+
+      - name: Refresh main after lock acquisition
+        if: steps.preflight.outputs.locking == 'true' && steps.lock.outputs.acquired == 'true'
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard origin/main
+
       - name: Apply Validator patches
+        if: >-
+          steps.preflight.outputs.run_apply == 'true' &&
+          (
+            steps.preflight.outputs.locking != 'true' ||
+            steps.lock.outputs.acquired == 'true'
+          )
         run: python validator/apply_patch.py
 
       - name: Validate, commit, and push patch results
         id: persist
+        if: >-
+          steps.preflight.outputs.run_apply == 'true' &&
+          (
+            steps.preflight.outputs.locking != 'true' ||
+            steps.lock.outputs.acquired == 'true'
+          )
         run: |
           set -euo pipefail
 
@@ -130,8 +210,23 @@ jobs:
 
           echo "pushed=true" >> "$GITHUB_OUTPUT"
 
+      - name: Release shared Validator lock
+        id: unlock
+        if: always() && steps.preflight.outputs.locking == 'true' && steps.lock.outputs.acquired == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python validator/repo_lock.py release \
+            --owner apply \
+            --token "${{ steps.lock.outputs.token }}"
+
       - name: Dispatch Validator Finalizer
-        if: steps.persist.outputs.pushed == 'true'
+        if: >-
+          steps.persist.outputs.pushed == 'true' &&
+          (
+            steps.preflight.outputs.locking != 'true' ||
+            steps.unlock.outcome == 'success'
+          )
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run validator_finalize.yml --ref main
