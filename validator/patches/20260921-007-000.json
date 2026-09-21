@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "batch": "validator/batches/20260921/007.json",
+  "results": [
+    {
+      "index": 0,
+      "source": "LinkedIn",
+      "job_id": "4468713342",
+      "url": "https://www.linkedin.com/jobs/view/4468713342/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 1,
+      "source": "LinkedIn",
+      "job_id": "4468714346",
+      "url": "https://www.linkedin.com/jobs/view/4468714346/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 2,
+      "source": "LinkedIn",
+      "job_id": "4468714345",
+      "url": "https://www.linkedin.com/jobs/view/4468714345/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 3,
+      "source": "LinkedIn",
+      "job_id": "4468700612",
+      "url": "https://www.linkedin.com/jobs/view/4468700612/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 4,
+      "source": "LinkedIn",
+      "job_id": "4468701634",
+      "url": "https://www.linkedin.com/jobs/view/4468701634/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 5,
+      "source": "LinkedIn",
+      "job_id": "4468704599",
+      "url": "https://www.linkedin.com/jobs/view/4468704599/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 6,
+      "source": "LinkedIn",
+      "job_id": "4468713340",
+      "url": "https://www.linkedin.com/jobs/view/4468713340/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 7,
+      "source": "LinkedIn",
+      "job_id": "4468494767",
+      "url": "https://www.linkedin.com/jobs/view/4468494767/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 8,
+      "source": "LinkedIn",
+      "job_id": "4468499685",
+      "url": "https://www.linkedin.com/jobs/view/4468499685/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 9,
+      "source": "LinkedIn",
+      "job_id": "4468703567",
+      "url": "https://www.linkedin.com/jobs/view/4468703567/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 10,
+      "source": "LinkedIn",
+      "job_id": "4468702620",
+      "url": "https://www.linkedin.com/jobs/view/4468702620/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: test automation role; C# is only one of several testing/programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 11,
+      "source": "LinkedIn",
+      "job_id": "4469852377",
+      "url": "https://www.linkedin.com/jobs/view/4469852377/",
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: valid EU work authorization is explicitly required.",
+      "validated": null
+    },
+    {
+      "index": 12,
+      "source": "LinkedIn",
+      "job_id": "4467375115",
+      "url": "https://www.linkedin.com/jobs/view/4467375115/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend role accepts multiple primary technologies; C# is only one optional alternative and .NET is not established as the backend stack.",
+      "validated": null
+    },
+    {
+      "index": 13,
+      "source": "LinkedIn",
+      "job_id": "4469843623",
+      "url": "https://www.linkedin.com/jobs/view/4469843623/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: manufacturing automation role; C# is one of several programming options and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 14,
+      "source": "LinkedIn",
+      "job_id": "4467365209",
+      "url": "https://www.linkedin.com/jobs/view/4467365209/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# is only one of several backend technology options and .NET is not established as the required backend stack.",
+      "validated": null
+    },
+    {
+      "index": 15,
+      "source": "LinkedIn",
+      "job_id": "4468494591",
+      "url": "https://www.linkedin.com/jobs/view/4468494591/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: cloud/AI architecture and consulting role with no backend/server-side .NET/C# development evidence.",
+      "validated": null
+    },
+    {
+      "index": 16,
+      "source": "LinkedIn",
+      "job_id": "4469856023",
+      "url": "https://www.linkedin.com/jobs/view/4469856023/",
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Strong C# .NET backend development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop scalable backend services and APIs in C# .NET while delivering full-stack features with Vue.js and owning architecture and production quality.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4469856023/"
+      }
+    },
+    {
+      "index": 17,
+      "source": "LinkedIn",
+      "job_id": "4469842589",
+      "url": "https://www.linkedin.com/jobs/view/4469842589/",
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "At least 3 years of professional full-stack web application development and deployment experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Build and support full-stack web applications with React/Next.js and C#/.NET backend services and APIs on Microsoft Azure.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4469842589/"
+      }
+    },
+    {
+      "index": 18,
+      "source": "LinkedIn",
+      "job_id": "4378317473",
+      "url": "https://www.linkedin.com/jobs/view/4378317473/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: principal SDET/test-automation role with no backend/server-side .NET/C# development requirement.",
+      "validated": null
+    },
+    {
+      "index": 19,
+      "source": "LinkedIn",
+      "job_id": "4469840701",
+      "url": "https://www.linkedin.com/jobs/view/4469840701/",
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: the role explicitly states that visa sponsorship is not currently provided.",
+      "validated": null
+    }
+  ]
+}
