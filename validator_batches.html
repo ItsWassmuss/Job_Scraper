@@ -112,6 +112,7 @@
     </div>
   </section>
 
+  <div class="sub" id="visible-count" style="margin:0 0 10px">Visible jobs: 0</div>
   <main id="jobs" class="jobs"></main>
   <div class="footer">Read-only view of validator/batches. No repository state is modified by this page.</div>
 </div>
@@ -281,6 +282,8 @@
   function render() {
     const visible = rows.filter(matches).sort((a,b) =>
       a.batchId.localeCompare(b.batchId) || a.index - b.index);
+
+    $('visible-count').textContent = `Visible jobs: ${visible.length}`;
 
     document.querySelectorAll('[data-status]').forEach(b => b.classList.toggle('on', filters.statuses.has(b.dataset.status)));
     document.querySelectorAll('[data-finalized]').forEach(b => b.classList.toggle('on', filters.finalized.has(b.dataset.finalized)));
