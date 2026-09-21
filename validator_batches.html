@@ -129,7 +129,7 @@
   let rows = [];
   let days = [];
   let loadedAt = null;
-  const filters = { day:'', batch:'', country:'', statuses:new Set(), finalized:new Set(), sources:new Set(), q:'' };
+  const filters = { day:'', batch:'', country:'', statuses:new Set(['QUALIFIED']), finalized:new Set(), sources:new Set(), q:'' };
 
   function statusOf(job) {
     return job.status == null ? 'PENDING' : String(job.status);
