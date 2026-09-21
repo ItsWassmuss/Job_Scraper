@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-21T14:41:20+03:00",
   "job_count": 3,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "askblue",
