@@ -84,6 +84,10 @@
       <button class="btn" id="clear">Clear filters</button>
     </div>
     <div class="row">
+      <span class="label">Day</span>
+      <select id="day"></select>
+    </div>
+    <div class="row">
       <span class="label">Batch</span>
       <select id="batch"><option value="">All batches</option></select>
     </div>
@@ -98,6 +102,10 @@
       <span class="label">Batch state</span>
       <button class="pill" data-finalized="open">Not finalized</button>
       <button class="pill" data-finalized="finalized">Finalized</button>
+    </div>
+    <div class="row">
+      <span class="label">Country</span>
+      <select id="country"><option value="">All countries</option></select>
     </div>
     <div class="row">
       <span class="label">Source</span>
@@ -120,8 +128,9 @@
   const esc = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 
   let rows = [];
+  let days = [];
   let loadedAt = null;
-  const filters = { batch:'', statuses:new Set(), finalized:new Set(), sources:new Set(), q:'' };
+  const filters = { day:'', batch:'', country:'', statuses:new Set(), finalized:new Set(), sources:new Set(), q:'' };
 
   function statusOf(job) {
     return job.status == null ? 'PENDING' : String(job.status);
@@ -141,39 +150,71 @@
     return r.json();
   }
 
-  async function discoverBatchFiles() {
-    const days = (await fetchJson(`${API_ROOT}?ref=${BRANCH}&v=${Date.now()}`))
-      .filter(x => x.type === 'dir' && /^\d{8}$/.test(x.name))
-      .sort((a,b) => a.name.localeCompare(b.name));
-
-    const dayListings = await Promise.all(days.map(day =>
-      fetchJson(`${API_ROOT}/${day.name}?ref=${BRANCH}&v=${Date.now()}`)
-        .then(items => items
-          .filter(x => x.type === 'file' && /^\d{3}\.json$/.test(x.name))
-          .map(x => ({ ...x, day:day.name })))
-    ));
-
-    return dayListings.flat().sort((a,b) =>
-      (a.day + '/' + a.name).localeCompare(b.day + '/' + b.name));
+  function helsinkiDay() {
+    const parts = new Intl.DateTimeFormat('en-CA', {
+      timeZone:'Europe/Helsinki', year:'numeric', month:'2-digit', day:'2-digit'
+    }).formatToParts(new Date());
+    const get = type => parts.find(p => p.type === type)?.value || '';
+    return get('year') + get('month') + get('day');
   }
 
-  async function load() {
-    $('snapshot').textContent = 'Loading batches…';
-    $('jobs').innerHTML = '';
-    const files = await discoverBatchFiles();
+  function countryOf(location) {
+    if (typeof location !== 'string' || !location.trim()) return 'Not specified';
+    const parts = location.split(',').map(x => x.trim()).filter(Boolean);
+    if (parts.length < 2) return 'Not specified';
+    const last = parts[parts.length - 1];
+    return /^(remote|worldwide|global|anywhere)$/i.test(last) ? 'Not specified' : last;
+  }
 
+  async function discoverDays() {
+    return (await fetchJson(`${API_ROOT}?ref=${BRANCH}&v=${Date.now()}`))
+      .filter(x => x.type === 'dir' && /^\d{8}$/.test(x.name))
+      .map(x => x.name)
+      .sort();
+  }
+
+  async function discoverBatchFiles(day) {
+    if (!day) return [];
+    return (await fetchJson(`${API_ROOT}/${day}?ref=${BRANCH}&v=${Date.now()}`))
+      .filter(x => x.type === 'file' && /^\d{3}\.json$/.test(x.name))
+      .map(x => ({ ...x, day }))
+      .sort((a,b) => a.name.localeCompare(b.name));
+  }
+
+  function buildDayOptions() {
+    $('day').innerHTML = days.map(day =>
+      `<option value="${esc(day)}">${esc(day)}</option>`
+    ).join('');
+    $('day').value = filters.day;
+  }
+
+  async function loadSelectedDay() {
+    $('snapshot').textContent = filters.day ? `Loading ${filters.day}…` : 'No day selected';
+    $('jobs').innerHTML = '';
+    rows = [];
+
+    if (!filters.day || !days.includes(filters.day)) {
+      buildBatchOptions();
+      buildCountryOptions();
+      render();
+      loadedAt = new Date();
+      updateSnapshot(0);
+      return;
+    }
+
+    const files = await discoverBatchFiles(filters.day);
     const settled = await Promise.allSettled(files.map(async file => {
       if (!file.download_url) throw new Error(`No download URL for ${file.path}`);
       const batch = await fetchJson(file.download_url + '?v=' + Date.now());
       if (!batch || !Array.isArray(batch.jobs)) throw new Error(`Malformed batch: ${file.path}`);
       const batchId = `${file.day}/${file.name.replace(/\.json$/, '')}`;
       return batch.jobs.map((job,index) => ({
-        job, index, batchId, path:file.path, finalized:batch.finalized === true
+        job, index, batchId, path:file.path, finalized:batch.finalized === true,
+        country:countryOf(job.location)
       }));
     }));
 
     const failures = [];
-    rows = [];
     settled.forEach((r,i) => {
       if (r.status === 'fulfilled') rows.push(...r.value);
       else failures.push(`${files[i].path}: ${r.reason?.message || r.reason}`);
@@ -182,8 +223,20 @@
     if (failures.length) console.warn('[validator_batches]', failures);
     loadedAt = new Date();
     buildBatchOptions();
+    buildCountryOptions();
     render();
     updateSnapshot(failures.length);
+  }
+
+  async function load() {
+    $('snapshot').textContent = 'Loading days…';
+    days = await discoverDays();
+    const today = helsinkiDay();
+    filters.day = days.includes(today) ? today : today;
+    filters.batch = '';
+    filters.country = '';
+    buildDayOptions();
+    await loadSelectedDay();
   }
 
   function buildBatchOptions() {
@@ -195,10 +248,20 @@
     filters.batch = $('batch').value;
   }
 
+  function buildCountryOptions() {
+    const current = filters.country;
+    const countries = [...new Set(rows.map(r => r.country).filter(Boolean))].sort();
+    $('country').innerHTML = '<option value="">All countries</option>' +
+      countries.map(country => `<option value="${esc(country)}">${esc(country)}</option>`).join('');
+    $('country').value = countries.includes(current) ? current : '';
+    filters.country = $('country').value;
+  }
+
   function matches(row) {
     const j = row.job;
     const st = statusOf(j);
     if (filters.batch && row.batchId !== filters.batch) return false;
+    if (filters.country && row.country !== filters.country) return false;
     if (filters.statuses.size && !filters.statuses.has(st)) return false;
     if (filters.finalized.size) {
       const fs = row.finalized ? 'finalized' : 'open';
@@ -248,6 +311,7 @@
           <span class="tag">Batch ${esc(row.batchId)}</span>
           <span class="tag status-${esc(st)}">${esc(st)}</span>
           <span class="tag">${row.finalized ? 'Finalized' : 'Not finalized'}</span>
+          <span class="tag">${esc(row.country)}</span>
           <span class="tag">${esc(j.source || 'Unknown source')}</span>
         </div>
         ${reason}
@@ -257,12 +321,20 @@
 
   function updateSnapshot(failures=0) {
     const stamp = loadedAt ? loadedAt.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}) : 'unknown';
+    const prefix = filters.day ? `${filters.day} · loaded ${stamp}` : `loaded ${stamp}`;
     $('snapshot').textContent = failures
-      ? `loaded ${stamp} · ${failures} batch file(s) failed`
-      : `loaded ${stamp}`;
+      ? `${prefix} · ${failures} batch file(s) failed`
+      : prefix;
   }
 
+  $('day').onchange = e => {
+    filters.day = e.target.value;
+    filters.batch = '';
+    filters.country = '';
+    loadSelectedDay().catch(showError);
+  };
   $('batch').onchange = e => { filters.batch = e.target.value; render(); };
+  $('country').onchange = e => { filters.country = e.target.value; render(); };
   $('search').oninput = e => { filters.q = e.target.value; render(); };
   document.querySelectorAll('[data-status]').forEach(b => b.onclick = () => {
     filters.statuses.has(b.dataset.status) ? filters.statuses.delete(b.dataset.status) : filters.statuses.add(b.dataset.status);
@@ -277,10 +349,11 @@
     render();
   });
   $('clear').onclick = () => {
-    filters.batch=''; filters.q=''; filters.statuses.clear(); filters.finalized.clear(); filters.sources.clear();
-    $('batch').value=''; $('search').value=''; render();
+    filters.batch=''; filters.country=''; filters.q='';
+    filters.statuses.clear(); filters.finalized.clear(); filters.sources.clear();
+    $('batch').value=''; $('country').value=''; $('search').value=''; render();
   };
-  $('refresh').onclick = () => load().catch(showError);
+  $('refresh').onclick = () => loadSelectedDay().catch(showError);
 
   function showError(err) {
     console.error(err);
