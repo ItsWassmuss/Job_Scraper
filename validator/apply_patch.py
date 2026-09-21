@@ -15,9 +15,13 @@ from urllib.parse import urlparse
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PATCH_ROOT = Path("validator/patches")
-MAX_PATCH_BYTES = 64 * 1024
-MAX_RESULTS_PER_PATCH = 20
+MAX_PATCH_BYTES = 32 * 1024
+MAX_RESULTS_PER_PATCH = 10
+MAX_PATCH_FILES = 100
+MAX_QUEUE_BYTES = 512 * 1024
 MAX_REASON_CHARS = 300
+MAX_JOB_ID_CHARS = 512
+MAX_URL_CHARS = 2048
 
 FINAL_STATUSES = frozenset({"REJECTED", "QUALIFIED", "UNVALIDATED"})
 SOURCES = frozenset({"Indeed", "LinkedIn"})
@@ -47,6 +51,15 @@ VALIDATED_STRING_KEYS = frozenset({
     "short_description",
     "direct_application_link",
 })
+VALIDATED_STRING_MAX_CHARS = {
+    "work_mode": 64,
+    "required_experience": 500,
+    "date_posted": 300,
+    "work_authorization": 800,
+    "residence_requirement": 800,
+    "short_description": 1000,
+    "direct_application_link": MAX_URL_CHARS,
+}
 DATE_POSTED_PRECISIONS = frozenset({
     "exact", "relative", "date_only", "approximate", "missing_or_ambiguous",
 })
@@ -69,6 +82,8 @@ def _nonempty_string(value: Any) -> str | None:
 
 def _usable_http_url(value: Any) -> str | None:
     if not isinstance(value, str) or not value:
+        return None
+    if len(value) > MAX_URL_CHARS:
         return None
     if value != value.strip() or any(char.isspace() for char in value):
         return None
@@ -109,8 +124,14 @@ def _validate_validated_output(validated: Any, context: str) -> None:
         raise ValueError(f"{context} has invalid validated keys")
 
     for key in VALIDATED_STRING_KEYS:
-        if _nonempty_string(validated[key]) is None:
+        value = validated[key]
+        if _nonempty_string(value) is None:
             raise ValueError(f"{context} validated.{key} must be a non-empty string")
+        limit = VALIDATED_STRING_MAX_CHARS[key]
+        if len(value) > limit:
+            raise ValueError(
+                f"{context} validated.{key} exceeds {limit} characters"
+            )
 
     precision = validated["date_posted_precision"]
     if precision not in DATE_POSTED_PRECISIONS:
@@ -167,6 +188,10 @@ def _validate_result(result: Any, context: str) -> None:
     job_id = result["job_id"]
     if job_id is not None and not isinstance(job_id, str):
         raise ValueError(f"{context} job_id must be a string or null")
+    if isinstance(job_id, str) and len(job_id) > MAX_JOB_ID_CHARS:
+        raise ValueError(
+            f"{context} job_id exceeds {MAX_JOB_ID_CHARS} characters"
+        )
 
     if _usable_http_url(result["url"]) is None:
         raise ValueError(f"{context} url must be a usable http/https URL")
@@ -228,15 +253,73 @@ def _load_and_validate_patch(path: Path) -> dict[str, Any]:
     return payload
 
 
+def _validate_existing_job(job: dict[str, Any], path: Path, index: int) -> None:
+    context = f"{path} job {index}"
+
+    for key in ("status", "reason", "validated"):
+        if key not in job:
+            raise ValueError(f"{context} is missing {key}")
+
+    status = job["status"]
+    reason = job["reason"]
+    validated = job["validated"]
+
+    if status is None:
+        if reason is not None or validated is not None:
+            raise ValueError(
+                f"{context} pending job must have reason=null and validated=null"
+            )
+        return
+
+    if status not in FINAL_STATUSES:
+        raise ValueError(f"{context} has invalid status {status!r}")
+
+    if _nonempty_string(reason) is None:
+        raise ValueError(f"{context} must have a non-empty reason")
+
+    if status in {"REJECTED", "UNVALIDATED"}:
+        if validated is not None:
+            raise ValueError(
+                f"{context} with status {status} must have validated=null"
+            )
+    else:
+        _validate_validated_output(validated, context)
+
+    # Match finalizer semantics: UNVALIDATED may legitimately have malformed
+    # source identity because malformed input can itself cause that outcome.
+    if status == "UNVALIDATED":
+        return
+
+    source = job.get("source")
+    if source not in SOURCES:
+        raise ValueError(f"{context} has unsupported source {source!r}")
+
+    job_id = job.get("job_id")
+    if job_id is not None and not isinstance(job_id, str):
+        raise ValueError(f"{context} has a non-string job_id")
+
+    if _usable_http_url(job.get("url")) is None:
+        raise ValueError(f"{context} must have a usable http/https url")
+
+
 def _load_batch(path: Path) -> dict[str, Any]:
     payload = _load_json(path)
     if not isinstance(payload, dict):
         raise ValueError(f"{path} must contain a JSON object")
     if payload.get("finalized") is not False:
         raise ValueError(f"{path} must have finalized=false while applying patches")
+
     jobs = payload.get("jobs")
     if not isinstance(jobs, list) or any(not isinstance(job, dict) for job in jobs):
         raise ValueError(f"{path} must contain a jobs array of objects")
+
+    job_count = payload.get("job_count")
+    if type(job_count) is not int or job_count != len(jobs):
+        raise ValueError(f"{path} job_count must equal the jobs array length")
+
+    for index, job in enumerate(jobs):
+        _validate_existing_job(job, path, index)
+
     return payload
 
 
@@ -278,6 +361,17 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
         for path in patches_dir.iterdir()
         if path.is_file() and path.suffix == ".json"
     )
+    if len(patch_paths) > MAX_PATCH_FILES:
+        raise ValueError(
+            f"Validator patch queue exceeds {MAX_PATCH_FILES} files"
+        )
+
+    queue_bytes = sum(path.stat().st_size for path in patch_paths)
+    if queue_bytes > MAX_QUEUE_BYTES:
+        raise ValueError(
+            f"Validator patch queue exceeds {MAX_QUEUE_BYTES} bytes"
+        )
+
     patches: list[tuple[Path, dict[str, Any]]] = []
     seen_targets: set[tuple[str, int]] = set()
 
