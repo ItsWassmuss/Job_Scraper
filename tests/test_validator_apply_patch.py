@@ -685,7 +685,7 @@ def test_pending_job_with_existing_result_data_is_rejected(tmp_path):
 
     with pytest.raises(
         ValueError,
-        match="unexpected result data",
+        match="pending job must have reason=null and validated=null",
     ):
         apply_patches(tmp_path)
 
