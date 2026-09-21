@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-21 11:18 UTC",
+  "scraped_at": "2026-09-21 12:18 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Prime Supermarket",
@@ -148,24 +148,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Prime Supermarket",
-      "title": "Software Developer",
-      "location": "Hougang, S00, SG",
-      "url": "https://sg.indeed.com/viewjob?jk=220efa82f20a2791",
-      "direct_url": "http://sg.indeed.com/job/software-developer-220efa82f20a2791",
-      "company_url": "https://sg.indeed.com/cmp/Prime-Supermarket-1",
-      "date_posted": "2026-09-21",
-      "description": "**Job Summary**\n\nAs the Senior Developer, you will lead the migration of legacy Dynamics NAV to Dynamics 365 Business Central and upgrade retail operations to LS Central, ensuring seamless integration, data integrity, and optimized ERP performance.\n\n**Responsibilities**\n\n* Develop and administer Microsoft Dynamics 365 Business Central (BC) to support retail operations and business growth\n* Customize and support Microsoft Dynamics NAV (Navision) to maintain legacy system functionality during transition\n* Lead Business Central upgrade projects, including on\\-premise to SaaS migrations and version upgrades, ensuring minimal disruption\n* Refactor legacy custom code from C/AL to AL to modernize ERP extensions and improve maintainability\n* Manage ERP migration and data conversion processes to ensure data accuracy and integrity across inventory, pricing, and sales\n* Optimize ERP system performance for multi\\-company and multi\\-entity environments to support complex retail operations\n* Integrate Business Central with external systems using APIs, Web Services, OData, and middleware to streamline workflows\n* Implement integrations with SAGE Accounting, Invoice Now (Peppol), payment gateways (NETS, credit card, QR payments), and loyalty platforms to enhance business processes\n* Develop and customize LS Retail and LS Central solutions to support retail POS, self\\-checkout, electronic shelf labels, and pricing engines\n* Design and implement inventory management, stock take, stock write\\-off, goods receiving, and warehouse distribution systems to improve operational efficiency\n* Utilize barcode and QR code technologies to support retail analytics and reporting for data\\-driven decision\\-making\n* Apply DevOps and CI/CD deployment practices using GitLab CI/CD to ensure reliable release management and environment control\n* Provide production support, incident management, and plan for high availability and disaster recovery to maintain system uptime and resilience\n* Lead technical coaching, team management, and delivery ownership to foster a high\\-performing development team\n* Communicate complex technical concepts clearly to stakeholders and translate business needs into technical solutions\n* Resolve solution layering and dependency conflicts during code deployment to maintain system stability\n\n**Preferred competencies and qualifications**\n\n* Experience with Dynamics 365 CRM Online, preferably Sales, Service, or Power Platforms\n* Experience in cloud migration from on\\-premises to cloud environments\n* Familiarity with retail industry operations, especially supermarket chain environments\n* Strong programming skills in C\\#, object\\-oriented programming, JavaScript, and integration technologies such as REST APIs, SFTP, and SSIS\n* Hands\\-on experience with DevOps tools including Azure DevOps, Jenkins, and GitLab\n* Experience with CRM data migration tools such as Kingsway Soft SSIS Integration Toolkit\n* Proven leadership and mentorship skills with strong problem\\-solving, critical thinking, and stakeholder management abilities\n* Excellent interpersonal and communication skills\n* Singaporeans only\n\nPay: $5,000\\.00 \\- $6,000\\.00 per month\n\nBenefits:\n\n* Dental insurance\n* Employee discount\n* Food provided\n* Free parking\n* Parental leave\n* Professional development\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
