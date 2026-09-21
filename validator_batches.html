@@ -86,8 +86,6 @@
     <div class="row">
       <span class="label">Day</span>
       <select id="day"></select>
-    </div>
-    <div class="row">
       <span class="label">Batch</span>
       <select id="batch"><option value="">All batches</option></select>
     </div>
@@ -182,9 +180,13 @@
   }
 
   function buildDayOptions() {
-    $('day').innerHTML = days.map(day =>
-      `<option value="${esc(day)}">${esc(day)}</option>`
-    ).join('');
+    const options = days.includes(filters.day)
+      ? days.slice()
+      : [...days, filters.day].filter(Boolean).sort();
+    $('day').innerHTML = options.map(day => {
+      const suffix = days.includes(day) ? '' : ' (no batches)';
+      return `<option value="${esc(day)}">${esc(day + suffix)}</option>`;
+    }).join('');
     $('day').value = filters.day;
   }
 
@@ -232,7 +234,7 @@
     $('snapshot').textContent = 'Loading days…';
     days = await discoverDays();
     const today = helsinkiDay();
-    filters.day = days.includes(today) ? today : today;
+    filters.day = today;
     filters.batch = '';
     filters.country = '';
     buildDayOptions();
