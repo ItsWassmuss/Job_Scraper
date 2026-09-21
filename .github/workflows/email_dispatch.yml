@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: validator-email-dispatch
+  group: validator-state-writer
   cancel-in-progress: false
 
 jobs:
