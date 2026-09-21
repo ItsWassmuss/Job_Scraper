@@ -1,0 +1,170 @@
+{
+  "schema_version": 1,
+  "batch": "validator/batches/20260921/007.json",
+  "results": [
+    {
+      "index": 20,
+      "source": "LinkedIn",
+      "job_id": "4469837849",
+      "url": "https://www.linkedin.com/jobs/view/4469837849/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend development is Java/Python and the role is centered on Azure/cloud engineering, not backend/server-side .NET/C#.",
+      "validated": null
+    },
+    {
+      "index": 21,
+      "source": "LinkedIn",
+      "job_id": "4469852386",
+      "url": "https://www.linkedin.com/jobs/view/4469852386/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend stack is Java/Spring Boot; no backend/server-side .NET/C# evidence.",
+      "validated": null
+    },
+    {
+      "index": 22,
+      "source": "LinkedIn",
+      "job_id": "4466849383",
+      "url": "https://www.linkedin.com/jobs/view/4466849383/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: data-platform solution-architecture role with no backend/server-side .NET/C# development evidence.",
+      "validated": null
+    },
+    {
+      "index": 23,
+      "source": "LinkedIn",
+      "job_id": "4467375152",
+      "url": "https://www.linkedin.com/jobs/view/4467375152/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: consulting role spans many disciplines and does not establish backend/server-side .NET/C# as the required role.",
+      "validated": null
+    },
+    {
+      "index": 24,
+      "source": "LinkedIn",
+      "job_id": "4469847411",
+      "url": "https://www.linkedin.com/jobs/view/4469847411/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Aurora PostgreSQL database-engineering role; C# is only one of several language options and backend/server-side .NET is not established.",
+      "validated": null
+    },
+    {
+      "index": 25,
+      "source": "LinkedIn",
+      "job_id": "4468706573",
+      "url": "https://www.linkedin.com/jobs/view/4468706573/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: solution-architecture role with no backend/server-side .NET/C# development evidence.",
+      "validated": null
+    },
+    {
+      "index": 26,
+      "source": "LinkedIn",
+      "job_id": "4468496613",
+      "url": "https://www.linkedin.com/jobs/view/4468496613/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily engineering management and low-code delivery rather than backend/server-side .NET/C# development.",
+      "validated": null
+    },
+    {
+      "index": 27,
+      "source": "LinkedIn",
+      "job_id": "4469843566",
+      "url": "https://www.linkedin.com/jobs/view/4469843566/",
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: the role explicitly states that visa sponsorship is not currently provided.",
+      "validated": null
+    },
+    {
+      "index": 28,
+      "source": "LinkedIn",
+      "job_id": "4469834794",
+      "url": "https://www.linkedin.com/jobs/view/4469834794/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: application-support role centered on Java/J2EE/Spring with no backend/server-side .NET/C# evidence.",
+      "validated": null
+    },
+    {
+      "index": 29,
+      "source": "LinkedIn",
+      "job_id": "4418918680",
+      "url": "https://www.linkedin.com/jobs/view/4418918680/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: low-code platform role; C# is only one of several general development languages and no backend/server-side .NET role is established.",
+      "validated": null
+    },
+    {
+      "index": 30,
+      "source": "LinkedIn",
+      "job_id": "4469839813",
+      "url": "https://www.linkedin.com/jobs/view/4469839813/",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily Dutch and no complete official English version was confirmed.",
+      "validated": null
+    },
+    {
+      "index": 31,
+      "source": "LinkedIn",
+      "job_id": "4469845557",
+      "url": "https://www.linkedin.com/jobs/view/4469845557/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Mendix low-code developer/business-analyst role; .NET is only optional background knowledge and not the backend stack.",
+      "validated": null
+    },
+    {
+      "index": 32,
+      "source": "LinkedIn",
+      "job_id": "4456917237",
+      "url": "https://www.linkedin.com/jobs/view/4456917237/",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily German and very good German is explicitly required; no complete official English version was confirmed.",
+      "validated": null
+    },
+    {
+      "index": 33,
+      "source": "LinkedIn",
+      "job_id": "4366712458",
+      "url": "https://www.linkedin.com/jobs/view/4366712458/",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily German and German is explicitly required; no complete official English version was confirmed.",
+      "validated": null
+    },
+    {
+      "index": 34,
+      "source": "LinkedIn",
+      "job_id": "4468706549",
+      "url": "https://www.linkedin.com/jobs/view/4468706549/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: software role accepts Java or .NET and does not establish backend/server-side .NET/C# as the required stack.",
+      "validated": null
+    },
+    {
+      "index": 35,
+      "source": "LinkedIn",
+      "job_id": "4468493773",
+      "url": "https://www.linkedin.com/jobs/view/4468493773/",
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of hands-on Angular and .NET Core development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop scalable enterprise web applications with Angular and .NET Core, including REST APIs, backend services, testing, CI/CD, and performance optimization.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4468493773/"
+      }
+    },
+    {
+      "index": 36,
+      "source": "LinkedIn",
+      "job_id": "4467371198",
+      "url": "https://www.linkedin.com/jobs/view/4467371198/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET is only one optional backend-language alternative alongside Java, so backend/server-side .NET/C# is not established as the required stack.",
+      "validated": null
+    }
+  ]
+}
