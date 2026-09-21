@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "23dcbfc40332a436",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: technical operations role; .NET is only one of several programming languages and no backend/server-side .NET/C# role is established.",
       "validated": null
     }
   ]
