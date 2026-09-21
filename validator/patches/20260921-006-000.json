@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "batch": "validator/batches/20260921/006.json",
+  "results": [
+    {
+      "index": 0,
+      "source": "Indeed",
+      "job_id": "23dcbfc40332a436",
+      "url": "https://sg.indeed.com/viewjob?jk=23dcbfc40332a436",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: technical operations role; .NET is only one of several programming languages and no backend/server-side .NET/C# role is established.",
+      "validated": null
+    }
+  ]
+}
