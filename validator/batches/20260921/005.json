@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-21T08:22:49+03:00",
   "job_count": 6,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "ASM",

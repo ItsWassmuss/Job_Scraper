@@ -3314,6 +3314,11 @@
       "job_id": "006a0d91207572b0",
       "job_url": "https://sg.indeed.com/viewjob?jk=006a0d91207572b0",
       "seen_at": "2026-09-21T03:34:35+03:00"
+    },
+    {
+      "job_id": "df4fcfbf54be77f8",
+      "job_url": "https://sg.indeed.com/viewjob?jk=df4fcfbf54be77f8",
+      "seen_at": "2026-09-21T17:08:04+03:00"
     }
   ],
   "seen_linkedin": [
@@ -16396,6 +16401,26 @@
       "job_id": "4468498080",
       "job_url": "https://www.linkedin.com/jobs/view/4468498080/",
       "seen_at": "2026-09-21T17:05:08+03:00"
+    },
+    {
+      "job_id": "4468488865",
+      "job_url": "https://www.linkedin.com/jobs/view/4468488865/",
+      "seen_at": "2026-09-21T17:08:04+03:00"
+    },
+    {
+      "job_id": "4458770440",
+      "job_url": "https://www.linkedin.com/jobs/view/4458770440/",
+      "seen_at": "2026-09-21T17:08:04+03:00"
+    },
+    {
+      "job_id": "4469851126",
+      "job_url": "https://www.linkedin.com/jobs/view/4469851126/",
+      "seen_at": "2026-09-21T17:08:04+03:00"
+    },
+    {
+      "job_id": "4467350825",
+      "job_url": "https://www.linkedin.com/jobs/view/4467350825/",
+      "seen_at": "2026-09-21T17:08:04+03:00"
     }
   ],
   "reported": [
