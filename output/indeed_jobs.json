@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-21 14:18 UTC",
+  "scraped_at": "2026-09-21 15:18 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "DRW Trading Group",
@@ -220,24 +220,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "DRW Trading Group",
-      "title": "Senior Software Engineer, UI (FICCO)",
-      "location": "Singapore, S00, SG",
-      "url": "https://sg.indeed.com/viewjob?jk=9ca7709e0953eb6b",
-      "direct_url": "https://grnh.se/m9jx7zrd1us",
-      "company_url": "https://sg.indeed.com/cmp/Drw-Trading-Group",
-      "date_posted": "2026-09-21",
-      "description": "**DRW** is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk.\n\n\n\nHeadquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non\\-traditional strategies: real estate, venture capital and cryptoassets.\n\n\n\nWe operate with respect, curiosity and open minds. The people who thrive here share our belief that it's not just what we do that matters–it's how we do it. **DRW** is a place of high expectations, integrity, innovation and a willingness to challenge consensus.\n\n\n\nDRW is looking for an outstanding Senior Software Engineer to join our options trading desk. In this role, you will focus on designing, building, and implementing trading applications and tools. You will be an integral member of an algorithmic trading team comprising experienced technologists, quantitative researchers, and traders. Your team will work closely to solve challenging technological problems. We are looking for talented programmers eager to develop new technologies that directly impact our business.\n\n\n**Responsibilities:**\n\n\n* Design, build, test, and maintain data\\-intensive desktop applications and reusable libraries using C\\# and modern .NET\n* Develop and maintain systems to ensure application performance, integrity and reliability for maintaining maximal up\\-time, and logging and traceability to aid in the support of mission\\-critical production systems\n* Profile and improve rendering, memory usage, concurrency, reactive data pipelines, and application startup performance\n* Collaborate with quantitative researchers, traders, and other developers\n* Own software through its full lifecycle, including design, implementation, automated testing, instrumentation, deployment, staged rollout, and production support\n* Leverage AI\\-assisted and agentic development tools to accelerate delivery, improve software quality, and evolve the team's engineering practices.\n\n\n**Requirements:**\n\n\n* Bachelor's in Computer Science or related discipline or relevant work experience.\n* 5\\+ years of professional software development experience, with substantial experience building C\\#/.NET desktop applications\n* A thorough understanding of C\\# UI development and tooling\n* Should be comfortable in a fast\\-paced environment that continually embraces the latest technologies and techniques.\n* Effective communication skills, ability to read and write high and mid\\-level architecture documentation\n* Awareness of emerging technologies/standards\n\n\n**For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at** **https://drw.com/privacy\\-notice****.**\n\n\n**California residents, please review the California Privacy Notice for information about certain legal rights at** **https://drw.com/california\\-privacy\\-notice****.**\n\n\n**\\#L1\\-PR1**",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
