@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-22T06:26:44+03:00",
   "job_count": 10,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "SGB-SMIT Group",
