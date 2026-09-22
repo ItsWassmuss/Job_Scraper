@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-22T18:52:18+03:00",
   "job_count": 49,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Commerzbank CZ",
