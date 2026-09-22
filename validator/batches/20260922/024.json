@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b09f54b61edf8bd8",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "AVAILABILITY: confirmed official job page explicitly states the vacancy is no longer available.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0537fb4651edb894",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: software-architecture role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3386e34488a1aa81",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: full working rights in the UK are required and visa sponsorship is unavailable.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "257af0e6bc7165ff",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: right to work in the UK is required and visa sponsorship is unavailable.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9a95301b896764a7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: wind-turbine operations and maintenance role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "311d3a0e0947e5f2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: the role explicitly requires the right to work in the UK.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e3a80e5f1462f939",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: data-support role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "37b5e0082a0651f4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: data-support role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c2810a7f20c2323a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily non-English and no complete official English version is confirmed.",
       "validated": null
     },
     {
@@ -229,8 +229,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b443868ed950f434",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: mandatory minimum 2 years of professional software development has no overlap with target [5,10].",
       "validated": null
     },
     {
@@ -252,8 +252,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c874cd36dbdf0807",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily non-English and no complete official English version is confirmed.",
       "validated": null
     },
     {
@@ -275,8 +275,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c1c10061cd8a7b1e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily non-English and Swedish is explicitly mandatory.",
       "validated": null
     },
     {
@@ -298,8 +298,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "60cb83e82ab5e86c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily software testing/QA rather than backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -321,8 +321,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "014de7297573482d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: robotics and machine-control role does not involve backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -344,8 +344,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0ba9c2ab585da171",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: industrial diagnostic/HMI role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -367,8 +367,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9e047a6b78711788",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Finnish and English are explicitly mandatory.",
       "validated": null
     },
     {
@@ -390,8 +390,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1ca2881dd80dc7f1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Finnish and English are explicitly mandatory.",
       "validated": null
     },
     {
@@ -413,8 +413,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fb5319d217f3b0f7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Finnish and English are explicitly mandatory.",
       "validated": null
     },
     {
@@ -436,8 +436,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5f562c231846ba26",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Finnish and English are explicitly mandatory.",
       "validated": null
     },
     {
@@ -459,8 +459,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "dadfbbbe75c8f1c2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Finnish and English are explicitly mandatory.",
       "validated": null
     },
     {
@@ -482,8 +482,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c71b23df4333216a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: electrical service-engineering role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -505,9 +505,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "477eaa1befade620",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "10+ years of professional software engineering experience; 3+ years as a Software Architect, Solution Architect, Principal Engineer, or Technical Lead",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software architect role designing scalable C#/.NET microservices and distributed systems with ASP.NET Core, REST APIs, event-driven architecture, and Azure.",
+        "direct_application_link": "https://gr.indeed.com/viewjob?jk=477eaa1befade620"
+      }
     },
     {
       "company": "Keystone Solutions",
@@ -528,8 +539,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4b338eb1f31770be",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary development stack is Angular and Spring Boot; .NET is not established as primary backend technology.",
       "validated": null
     },
     {
@@ -551,8 +562,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4ad5e5c140534638",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary development stack is Angular and Spring Boot; .NET is not established as primary backend technology.",
       "validated": null
     },
     {
@@ -574,8 +585,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "63c091ce9b036872",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary development stack is Angular and Spring Boot; .NET is not established as primary backend technology.",
       "validated": null
     },
     {
@@ -597,8 +608,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5d18f0480e9c3b3a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: game-engine tools role using C++/C# in Unreal/Unity has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -620,9 +631,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3217f1de990726ef",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack software role implementing .NET REST/JSON backend services and web front-end components, with responsibility for scalable software architecture.",
+        "direct_application_link": "https://pt.indeed.com/viewjob?jk=3217f1de990726ef"
+      }
     },
     {
       "company": "INDI Staffing Services",
@@ -635,9 +657,20 @@
       "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work.\n\nOverview of the role:\n\nWe are looking for .NET Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to provide the best experience to the end user. This is an excellent opportunity for those professionals looking to develop in one of the fastest growing companies in the industry!\nThese developers will face numerous technical challenges, so they must use current technologies, get involved in the mobile world, web applications, devices, etc.\n\nKey responsibilities:\n\n- Architect and develop various services and APIs for the Degreed product.\n- Use SOLID principles in creating maintainable and high quality code.\n- Collaborate with product owners to ensure features/changes meet business requirements and fulfill the Degreed strategy.\n- Work closely with designers, UX, and other developers to gain understanding of new features, dependencies, and technical details.\n- Other duties as assigned.\n\nRequirements:\n\n- 5+ years of experience in Web projects, C #, SQL Server.\n- Experience with HTML / CSS and Javascript frameworks.\n- Experience with MVC.\n- Advanced English level.\n\nBenefits:\n- Flexibility: Choose where and how you work for enhanced creativity and innovation.\n- Tailored Compensation: Personalize your earnings to suit your financial goals.\n- Tech-Driven Tools: Access cutting-edge resources for seamless collaboration and productivity.\n- Autonomous Workflow: Take control of your schedule to achieve work-life balance.\n- Well-being: Enjoy generous leave policies for rest and rejuvenation.\n- Diversity & Inclusion: Thrive in a diverse and inclusive environment.\n- Collaboration: Engage with industry leaders for collective growth.\n- Development: Access mentorship and growth opportunities for continuous advancement.\n\nIf you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nStaffing and Recruiting",
       "source": "LinkedIn",
       "job_id": "4470418897",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "5+ years of experience in Web projects, C#, SQL Server",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET development role architecting and developing services and APIs with C#, SQL Server, MVC, and web technologies.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470418897/"
+      }
     },
     {
       "company": "Criteo",
@@ -650,9 +683,20 @@
       "description": "What You'll Do:\n\n🚀 Join Criteo as a Full Stack Software Engineer\n\nAt Criteo, we’re looking for Full Stack Software Engineers to join our Product Engineering team in our amazing Bucharest office (Piata Romana).\n\nAre you passionate about building applications that make life easier for both developers and end users? Do you thrive in collaborative environments and enjoy tackling complex technical challenges? If so, you might be exactly who we’re looking for to help shape the future of our APIs.\n\n💡 What You’ll Do\n\nPartner closely with Product teams, R&D colleagues, and our API Guild to design impactful, scalable APIs\nCollaborate with UI/UX experts to create intuitive and accessible user experiences\nBuild and test reliable applications using unit, integration, and end-to-end testing\nParticipate in code reviews to ensure high-quality, maintainable solutions\nWork within multicultural R&D teams to connect client-facing applications with the broader Criteo ecosystem\nContribute to continuous deployment to keep our systems agile and responsive\nBring in fresh ideas from meetups, conferences, and personal learning to improve our frameworks, testing practices, and CI/CD pipelines\n\n🛠️ Our Tech Stack\n\nBack-end: C# / ASP.NET Core\nFront-end: Angular\n\n🌍 Why Join Us?\n\nA collaborative, inclusive, and international work environment\nA global R&D community of 1000+ passionate engineers\nHigh-impact projects at the heart of innovation in AdTech\nA culture that values continuous learning, knowledge sharing, and growth\nCurious about our R&D team? Let's have a look at our R&D blog on Medium\n\nWho You Are:\n\nYou believe APIs are the backbone of modern technology.\nYou care deeply about Developer Experience and want your work to empower other developers.\nYou have at least 5 years of experience working on large, complex systems.\nYou’re skilled in Object-Oriented Programming (C#, Python, C++, Java) with strong backend experience and some front-end development experience with JavaScript, Angular, or React.\nYou love reusability and enjoy making complex things simple.\nYou’re curious about new technologies and may even explore them through personal projects.\nYou bring a positive, collaborative mindset and a “can-do” attitude to challenges.\nYou thrive in Agile environments and are passionate about delivering high-quality code.\n\nWe acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!\n\nWho We Are:\n\nWe’re Criteo, the Commerce Intelligence Platform. Criteo helps businesses turn shopper signals into commerce outcomes while delivering more relevant experiences for shoppers. We use proprietary commerce intelligence and AI decisioning to drive relevance for shoppers and performance for businesses.\n\nAt Criteo, our culture is as unique as it is diverse. From our offices across the globe or from the comfort of home, our 3,600 Criteos collaborate together to build an open, impactful, and forward-thinking environment.\n\nWe foster a workplace where everyone is valued, and employment decisions are based solely on skills, qualifications, and business needs—never on non-job-related factors or legally protected characteristics.\n\nWhat We Offer:\n\n🏢 Ways of working – Our hybrid model blends home with in-office experiences, making space for both.\n\n📈 Grow with us – Learning, mentorship & career development programs.\n\n💪 Your wellbeing matters – Health benefits, wellness perks & mental health support.\n\n🤝 A team that cares – Diverse, inclusive, and globally connected.\n\n💸 Fair pay & perks – Attractive salary, with performance-based rewards and family-friendly policies, plus the potential for equity depending on role and level.\n\nAdditional benefits may vary depending on the country where you work and the nature of your employment with Criteo.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAdvertising Services",
       "source": "LinkedIn",
       "job_id": "4392586737",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "At least 5 years of experience working on large, complex systems",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack software engineering role building scalable APIs and applications with a C#/ASP.NET Core backend and Angular front end.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4392586737/"
+      }
     },
     {
       "company": "Stefanini EMEA",
@@ -665,8 +709,8 @@
       "description": "Job Description\n\nStefanini Group is seeking an experienced Network Technical Architect to join our Hybrid Cloud & Infrastructure (HCI) cluster, within the Infrastructure Services Division.\n\nThe successful candidate will design and implement secure, resilient enterprise network solutions across on-premises, cloud, and hybrid environments, covering SASE, ZTNA, next-generation firewalls, SD-WAN, and complex routing.\n\nThis role combines presales support for solutioning with extensive hands-on implementation and acts as the last level of support for operational teams. It may include occasional travelling and direct technical discussions with vendors.\n\nJob Responsibilities:\n\nSolution Design and Implementation: Architect, deploy, and migrate enterprise network solutions end to end, including SASE, ZTNA, next-generation firewalls, SD-WAN, and campus and data center networks, remaining hands-on from day 1.\nPresales Support: Act as the technical authority in presales engagements, qualifying requirements, designing target architectures, estimating effort, and contributing to RFP/RFI responses, proposals, and customer presentations.\nComplex Routing and Cloud Networking: Design and implement complex routing environments (BGP, OSPF, route redistribution, traffic engineering) and cloud networking architectures in AWS and Azure, including hybrid connectivity.\nOperational Escalation: Act as the last level of support for operational teams, leading root cause analysis and resolution of the most complex network and security incidents.\nVendor Engagement: Drive technical discussions with vendors and technology partners, including product evaluations, proof of concepts, roadmap reviews, and support escalations.\nDocumentation and Standards: Produce high-level and low-level designs, migration plans, and operational runbooks; define network standards, reference architectures, and best practices.\nTraining and Development: Provide training, coaching, and structured knowledge transfer to operational teams and clients on new network technologies and practices.\nContinuous Improvement: Continuously evaluate and improve network architectures and strategies to adapt to changing technologies and business needs.\n\nJob Requirements\n\nAt least 10 years of hands-on experience designing, implementing, and operating enterprise networks in complex, multi-vendor environments\nAt least 5 years of experience as a network architect, owning end-to-end solution design for large-scale enterprise environments.\nDemonstrated ability to perform hands-on implementation from day 1, combining architecture responsibilities with direct configuration and deployment work.\nPreferred: Bachelor's degree in computer science, Information Technology, Engineering, or a related field preferred. Mandatory: Minimum high school diploma (or equivalent). Bachelor's degree in any field with equivalent professional experience relevant for the job.\n\nTechnical Skills:\n\nExpert-level knowledge of routing and switching in complex environments, including BGP, OSPF,route redistribution, and traffic engineering.\nDeep hands-on experience with next-generation firewalls (e.g., Fortinet FortiGate, Palo Alto Networks, Check Point), covering design, implementation, upgrades, and migrations.\nStrong hands-on experience with SASE and ZTNA solutions (e.g., FortiSASE, Zscaler, Netskope,Prisma Access), from architecture through rollout and day-2 operations.\nProven experience designing and deploying SD-WAN solutions (e.g., Fortinet Secure SD-WAN, Cisco Catalyst SD-WAN, VMware VeloCloud).\nSolid experience with cloud networking in AWS and/or Azure, including VPC/VNet design, Transit Gateway, Virtual WAN, ExpressRoute/Direct Connect, and hybrid connectivity.\nStrong understanding of network security concepts, including segmentation, IPsec and SSL VPN, IDS/IPS, and Zero Trust principles.\nMandatory 3 years of experience acting as technical project lead, driving the technical discussions with customers, vendors, and internal stakeholders.\nKnowledge of network automation and scripting (e.g., Python, Ansible, REST APIs) is considered a plus.\n\nSoft Skills\n\nProficiency in English for professional communication and documentation.\nExcellent analytical, problem-solving, and multitasking skills capable of handling a vast variety of systems.\nStrong troubleshooting skills with the ability to stay effective under pressure during critical incidents and escalations\nClient Orientation & Communication\nAccountability\nAdapting & responding to chang\nTeamwork & cooperation\n\nWhat\"s next:\n\nIt\"s best to apply today, because job postings can be taken down and we wouldn\"t want you to miss this opportunity. In case you need further information, just send us a message at [email protected] and we\"ll be happy to assist!\n\nThe preceding job description had been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties and responsibilities required of employees assigned to this job.\n\nDiversity & Inclusion\n\nHere at the Stefanini Group, we value plurality and equity, regardless of race, sexual orientation, disability, age, ancestry, religion, gender, and nationality. We understand and encourage the importance of being you!\n\nAbout Us\n\nWe are a Brazilian company with over 35 years of experience in delivering IT services worldwide, ranging from IT outsourcing to application development or IT staffing. We have a direct presence in 41 countries, through our 70 offices located throughout the world. We have managed to become the preferred partner of many small-to-midsize local and regional companies as well. Most of our clients come from industries such as financial services, manufacturing, telecommunications, chemical, services, technology, public sector and utilities.\n\nStefanini has career opportunities locally and around the world for professionals interested in a vibrant, passionate, team-oriented workplace. If you are a customer-centric person with a \"get it done\" attitude, come over for coffee and a talk on your future career with us! Learn more about us on www.stefanini.com and join us on LinkedIn , Facebook and Instagram where we regularly post insights from our colleagues.\n\nWe want to inform you that there are currently scams targeting job seekers by falsely using our company\"s name, Stefanini. We sincerely apologize for any confusion or inconvenience this may have caused.\n\nPlease remember that legitimate job offers from Stefanini will always come through official channels, including direct communication with our trained recruiters. If you receive any unsolicited messages requesting payment or personal information, please disregard them.\n\nIf you suspect you\"ve been targeted, please contact us immediately at [email protected] for verification.\n\nKey Points to Remember:\n\nLegitimate job offers only follow interviews conducted with our hiring managers or clients.\nWe will never ask for payment at any stage of the recruitment process.\n\nStay vigilant and feel free to reach out for verification. Your safety and security are our top priorities. Thank you for your understanding and cooperation.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nBusiness Consulting and Services",
       "source": "LinkedIn",
       "job_id": "4460054206",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is enterprise network architecture/infrastructure and has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -680,8 +724,8 @@
       "description": "Innovation Starts With You\n\nPropel your career at Belden, where innovation creates possibilities—for our people, our customers, and the communities we serve. We connect people, information, and ideas to solve the world’s most complex connectivity challenges, turning curiosity into meaningful impact. Here, you’ll take on work that challenges you, supports your growth, and empowers you to shape what’s next. You’ll collaborate with global teams, gain diverse perspectives, and contribute to solutions that extend beyond our business—creating value in the world around us.\n\nTogether, we are shaping the future of digitization and paving the way for the next generation of innovation.\n\n____________________________________________\n\nENGINEER SOFTWARE DEVELOPMENT\n\n____________________________________________\n\nPlace: Olen, Belgium\nType: Full-time, hybrid\nLevel: Medior\n\nBelden Solutions develops XTran, the mission-critical telecommunication platform used by metros, light-rails, ports, utilities, public safety organizations, and industrial sites worldwide to integrate voice, data, video, and SCADA into one high-speed fiber network. For our Olen-based engineering center, we're looking for an Engineer Software Development\nto join our product development team, designing and maintaining the software behind XTran while working closely with hardware, firmware, QA, and product teams to keep mission-critical networks running.\n\nYou will make an impact in the following way:\n\nDesign, develop, test, deploy, and maintain software for the XTran network management platform, Belden's mission-critical telecommunication network solution.\nCollaborate closely with developers, QA teams, product management, and the customer service organization to deliver high-quality software.\nManage individual project priorities, deadlines, and deliverables within an agile development environment.\nConduct regular design and code reviews, and actively participate in debugging and resolving coding issues.\nIntroduce new technologies and platforms into the R&D group's development activities, helping keep the team at the forefront of software innovation.\n\nWhat you will bring:\n\nEducational Background – A Master's degree in Engineering, Information Sciences, or equivalent through experience.\nC# & .NET Expertise – Solid knowledge of the .NET framework and C# programming language, with strong coding, debugging, and maintenance skills.\nProblem-Solving Mindset – Strong analytical, problem-solving, and performance-tuning abilities, with experience analyzing business requirements to develop efficient solutions.\nCollaborative Team Player – Ability to multi-task across varying priorities and work effectively within a multidisciplinary team alongside hardware and firmware engineers.\nTesting & Quality Focus – Experience setting up unit and component testing, including the use of automated testing frameworks, and proficiency in both spoken and written English.\n\nNice to have:\nExperience in the domain of cybersecurity is a major plus.\n\nWhat Belden offers you:\n\nAt Belden, we believe our people are our greatest strength. That's why we invest in a workplace where you can grow, thrive, and feel valued.\nA competitive salary complemented by attractive extra-legal benefits, including but not limited to meal vouchers, a company car, and bicycle lease options.\nA stimulating, challenging environment where innovation and cutting-edge technology drive everything we do.\nA team of real team players who support each other and value collaboration.\nA company culture that recognizes and values the contribution of every employee.\nAn easily accessible office location — no traffic jams to worry about.\n\nLet’s Create Possibilities Together.\n\nJoin a global community shaping the future of intelligent connectivity. At Belden, you’ll help push the boundaries of technology and write the next chapter of innovation, creating possibilities for your career, your future, and the world around you.\n\nThese statements are intended to describe the general nature and level of work involved for this job. It is not an exhaustive list of all responsibilities, duties and skills required of this job.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nManufacturing",
       "source": "LinkedIn",
       "job_id": "4470418892",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET/C# software role does not establish backend/server-side development.",
       "validated": null
     },
     {
@@ -695,8 +739,8 @@
       "description": "🚀 Freelance Opportunity: Senior AI Architect | Brussels\n\nWe are currently looking for a Senior AI Architect\nfor an exciting AI transformation programme within a major public-sector organisation.\n📍 Location:\nBrussels\n📅 Start:\nASAP\n⏱️ Duration:\n60 man-days + potential extension into 2027\n🏠 Remote:\n3 days remote per week\n🌍 Languages:\nDutch and/or French (mandatory) + English (mandatory)\n\n🔹 The Role\nThe organisation is developing a strategic approach to the responsible and secure use of Artificial Intelligence\n, with a strong focus on innovation, governance, security and regulatory compliance.\nA key initiative is the development of an AI Lab\n— a controlled and secure environment where AI solutions can be developed, tested and validated before potential deployment into production.\nAs Senior AI Architect\n, you will play a key role in this digital transformation, combining strategic vision with strong technical expertise to design robust, scalable and secure AI solutions.\n\n🔹 Key Responsibilities\nAct as the technical reference for AI architecture and digital transformation.\nDesign reference architectures for AI solutions and ensure integration into complex IT environments.\nContribute to the design and evolution of the organisation's AI Lab.\nDefine architectures for Machine Learning, Deep Learning, LLMs, Generative AI, RAG, AI Agents, Computer Vision and Speech AI\n.\nAdvise on cloud, hybrid and on-premise architectures.\nWork with MLOps, AI Engineering, DevSecOps, Kubernetes, containerisation, APIs and event-driven architectures\n.\nIntegrate cybersecurity, data protection, governance, auditability and regulatory compliance into architectural decisions.\nCollaborate with project managers, technical teams and business stakeholders.\nMonitor emerging AI technologies and assess their potential business value.\n\n🔹 Required Profile\nMinimum 5 years of experience\nin software solution design and development.\nAt least 2 years of experience in AI/ML solution architecture\n.\nProven experience designing, industrialising and deploying AI solutions in production.\nStrong knowledge of LLMs, Generative AI, RAG, AI Agents, AI Engineering and MLOps\n.\nExperience with cloud or hybrid architectures\n, preferably Microsoft Azure.\nExperience integrating AI solutions into complex IT environments.\nStrong communication and stakeholder management skills.\nMaster's degree in Computer Science, AI, Software Engineering or a related field is a plus. Equivalent professional experience is also considered.\n\n⭐ Nice to Have\nExperience with:\nMicrosoft Azure & Azure AI Services\n\nMLflow, CI/CD, model monitoring & versioning\n\nREST APIs, microservices & distributed architectures\n\nDocker & Kubernetes\n\nSQL, NoSQL & Vector Databases\n\nPython\n\nAI Governance, cybersecurity and regulatory compliance\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting and Information Services",
       "source": "LinkedIn",
       "job_id": "4470432169",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: AI architecture role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -710,8 +754,8 @@
       "description": "¿Te gustaría diseñar sistemas backend escalables que impulsen una verdadera transformación digital?\n¿Disfrutas modernizando aplicaciones legacy y creando nuevas soluciones cloud desde cero?\n¿Te motiva trabajar con código limpio, excelencia técnica y colaboración real?\n\nUbicación: Santiago, León. España | Modalidad de trabajo: Híbrido | Requisitos de visado: Permiso de trabajo válido para España o Ciudadania española  | Idiomas: Español + Inglés nivel intermedio-alto requerido.\n\nIntroducción al Rol\n\nComo nuestro/a nuevo/a Senior Backend Developer .NET, diseñarás y desarrollarás soluciones backend robustas y escalables que darán soporte a proyectos de transformación digital en distintos sectores. Tendrás un papel clave tanto en la modernización de sistemas existentes como en el desarrollo de nuevas soluciones cloud-native.\nTrabajarás en estrecha colaboración con perfiles de arquitectura, frontend, DevOps y negocio, participando en decisiones técnicas y asegurando soluciones mantenibles, de alta calidad y con impacto real en el negocio.\n\nResponsabilidades Clave\n\nDiseñar e implementar servicios backend escalables utilizando tecnologías .NET actuales\n\nParticipar en proyectos de modernización de aplicaciones legacy y desarrollos greenfield en la nube\n\nDesarrollar y mantener APIs REST y arquitecturas distribuidas\n\nAplicar principios SOLID, Clean Code y prácticas de desarrollo guiado por pruebas\n\nContribuir a decisiones arquitectónicas y mejoras técnicas continuas\n\nGarantizar la calidad del código mediante testing automatizado e integración continua\n\nColaborar en equipos ágiles y multidisciplinares para entregar soluciones de alto valor\n\nJob Requirements\nImprescindible:\nExperiencia sólida con .NET Core y .NET Framework\n\nConocimiento profundo de arquitectura backend y desarrollo de APIs REST\n\nExperiencia con bases de datos SQL y NoSQL\n\nDominio práctico de principios SOLID, Clean Code y testing\n\nExperiencia con flujos de trabajo basados en Git y herramientas colaborativas\n\nBuen nivel de comunicación en inglés\n\nValorable:\nConocimientos de Domain-Driven Design (DDD) y arquitecturas orientadas a eventos\n\nExperiencia trabajando en entornos cloud y pipelines de CI/CD\n\nQué ofrecemos\n\nEstructura organizativa plana donde las ideas cuentan\n\nParticipación en proyectos reales de transformación digital\n\nCultura colaborativa orientada a la innovación\n\nOportunidades continuas de aprendizaje y crecimiento profesional\n\nModelo de trabajo flexible con modalidad híbrida\n\nUn equipo comprometido con la excelencia técnica y la calidad\n\n  Company description\n\nSoftwareOne is a global provider of software and cloud solutions. With a presence in over 70 countries and more than 12,000 professionals, we help organizations optimize software investments, modernize applications, and unlock the value of cloud, data, and AI.\n\nOur people are at the core of everything we do. We enable collaboration across borders, continuous learning, and opportunities to grow in a fast-evolving technology landscape. Whether your focus is on technology, customer success, or business operations, your ideas matter, and your contributions make a difference.\n\nJoin a global team where you can build your skills, work with leading technologies, and make a real impact for our customers.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nConsulting\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4468798568",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid Spanish work permit or Spanish citizenship is explicitly required.",
       "validated": null
     },
     {
@@ -725,8 +769,8 @@
       "description": "Seleccionamos Desarrollador Full Stack (M/F/X) con amplia experiencia en .NET Core y REACT\npara proyecto estable en multinacional del sector financiero - automoción. El horario\nsería de Tarde\nde Lunes a Viernes y Sábados mañana.\n\nREQUISITOS:\n\nAl menos 6 años de experiencia en las siguientes tecnologías:\nDesarrollador web (Full Stack)\n.NET CORE\nC#\nSQL Server\nReact\nNode JS\nCloud AWS\nValorable experiencia MVC2 y MVC5\nValorable Inglés conversacional (no negociación)\n\nHORARIO: Tarde. De Lunes a Viernes de 14:00h a 21:00h y Sábados Mañana de 9:00h a 14:00h\n\nUBICACIÓN:\nModelo de Trabajo Remoto.\nDisposición para asistir de manera puntual presencialmente cuando sea requerido por el cliente. (oficina en la zona de El Prat - Barcelona)\nSALARIO:\nEn función de experiencia, máximo 50.000€ b/a.\n\nEn esta GRAN ZONA de trabajo que es BIGZON valoramos la diversidad y la inclusión. Estamos comprometidos a crear un entorno de trabajo en el que todas las personas se sientan valoradas y respetadas. Buscamos a quien comparta estos valores y tenga ganas de trabajar en un ambiente sano, colaborativo y orientado a objetivos.\n\n¡Te esperamos!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470424968",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily non-English and no complete official English version is confirmed.",
       "validated": null
     },
     {
@@ -740,8 +784,8 @@
       "description": "Grupo Palex ,compañía líder del sector de soluciones para el sector hospitalario, desea incorporar a un/a Desarrollador/a\npara nuestro Departamento de Healthcare Software Solutions\ncon ubicación en Cornellà de Llobregat.\n\nDentro del área de IT, la persona formará parte del equipo de Healthcare Software Solutions, que realiza el desarrollo y mantenimiento\nutilizando tecnología Microsoft,\nde aplicaciones para el ámbito hospitalario y el desarrollo e implantación de los proyectos de integración informática\nde los dispositivos médicos\ncomercializados por la compañía.\n\nNos gustaría encontrar a alguien con formación en informática y conocimientos específicos de .NET (Framework/CORE), C#, SQL, HTLM, CSS.\n\nSe valoraran los conocimientos en protocolos/herramientas de interoperabilidad en el sector sanitario ( HL7, Dicom, etc…\n).\n\nBuscamos\na una persona comunicativa, orientada a resultados y práctica, con capacidades de organización, que valore formar parte de un equipo muy dinámico que realiza proyectos retadores\ndesde un punto de vista técnico y que i nciden en la vida de los pacientes.\n\nEn Palex ofrecemos\ncontrato indefinido, desarrollo profesional y acceso a una gran variedad de beneficios sociales como horarios flexibles, jornadas intensivas, seguro de vida, etc\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitals and Health Care",
       "source": "LinkedIn",
       "job_id": "4470420909",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Microsoft application/integration role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -755,8 +799,8 @@
       "description": "Pioneer of online flash sales since 2001 and key player in European e-commerce, Veepee\ncollaborates with over 7,000 brands to offer highly discounted products available for a limited time. Operating across various sectors, including fashion, home, wine, travel or beauty... Veepee achieved a turnover of 3.3 billion euros incl. VAT in 2024 and employs 5,000 staff members across 10 countries.\n\n📄 JOB DESCRIPTION\n\nAs a Support & Development Engineer\n, you will join the Support L2 team, a transversal function that acts as a bridge between support agents and L3 development teams. The role combines 50% advanced incident resolution and 50% development of small features, internal tools, and automations, with the goal of increasing the support team's technical autonomy.\n\n🎯 TASKS\n\nSupport (50%)\n\nResolve advanced L2 tickets: database usage, SQL queries, source code review\nInvestigate complex incidents, access the code, and understand how it works\nApply targeted code changes to resolve incidents\nStandard ticket management: validate, qualify, and track incidents through to resolution\nProvide second-line support to users and other support teams\nManage and maintain product catalog/taxonomy attributes across internal platforms\nModify and administer Freshdesk at the scripting/code level\nKeep technical documentation up to date: L2 articles, specifications, user guides for bug fixes and new features\n\nDevelopment (50%)\n\nCreate endpoints for the team's internal platforms and tools to streamline manual L3 tasks\nFix bugs and handle small development tasks across the team's product scope (PHP and/or .NET)\nBuild internal support tools\nDevelop AI-powered tools for Support (MCP projects)\nContribute ideas and prototypes for applying AI to support processes\n\n👉 MUST HAVE skills\n\nKnowledge of PHP with frameworks like Symfony or C# and .NET Core frameworks\nStrong knowledge of SQL (joins, diagnostic queries) and familiarity with PostgreSQL\nAbility to read/understand code and troubleshoot to eliminate bugs\nAbility to document and communicate technical solutions to non-technical users\nExcellent analytical skills, autonomy, and initiative\nStrong interpersonal skills, comfortable working with cross-functional, interdisciplinary teams\nExperience using version control systems like Git and comfortable working with branches\nFluent written and spoken English\nProactive, versatile, and not afraid of challenges or moving between code and user-facing support\n\n👉 NICE TO HAVE skills\n\nPrevious experience in L2/L3 technical support roles\nExperience monitoring deployments/products through Kibana and Grafana\nExperience with product taxonomy/catalog management\nInterest or experience in applied AI / automation (MCP, AI-assisted scripting)\nExperience with Freshdesk or similar ticketing platforms\nExperience in frontend technologies such as React, Vue, CSS\nKnowledge of DDD/Hexagonal Architecture\n\n✅ BENEFITS\n\nVariable bonus;\nThe dynamic and creative environment within international teams;\nThe variety of self-education courses on our e-learning platform;\nParticipation in meetups and conferences locally and internationally;\nFlexible Office with up to 2 days at home;\nHealth insurance.\n\n⚙️RECRUITMENT PROCESS\n\n1️⃣ 30-minute HR Screen with a VeepeeTech Recruiter\n2️⃣ Technical exchange with a Veepee Engineer\n3️⃣ Technical exchange with a Tech Lead\n4️⃣ Team Interview\n\nWe are convinced that it is up to you to define the way you work, to develop yourself and to progress. At Veepee we guarantee that you can just be yourself!For the service of diversity and inclusion, Veepee is committed to reviewing all applications received on an equal basis.\n\n🔗COMPANY For more information about our ecosystem : https://careers.veepee.com/en/home-page-en/\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nInternet Marketplace Platforms",
       "source": "LinkedIn",
       "job_id": "4468596023",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: support-focused role allows PHP or .NET and does not establish backend/server-side .NET/C# as required or primary.",
       "validated": null
     },
     {
@@ -770,8 +814,8 @@
       "description": "Description\n\nSenior ServiceNow Architect to build and extend CPQ and quote-to-order solutions within ServiceNow's CRM and Industry Workflows portfolio, working across Sales and Order Management (SOM), Customer Service Management (CSM) and the Logik.ai-powered CPQ capability.\n\nThis is a hands-on platform development role for an experienced ServiceNow architect with demonstrable AI capability on the Now Platform. ServiceNow development experience and AI/Now Assist experience are both prerequisites. CPQ-specific and Logik.ai product knowledge can be developed on the job for a candidate who already brings the platform and AI foundation.\n\nDuties And Responsibilities\n\nDesign, develop and configure solutions across Sales and Order Management, CSM and CPQ, including product catalogue, quoting, pricing logic and order orchestration.\nBuild and extend CPQ capability on the Logik.ai-powered stack: configuration rules, pricing logic, transaction handling, and integration with the wider ServiceNow order lifecycle.\nDevelop AI-enabled capability using Now Assist and AI Agent Studio — designing AI agents, skills and prompts to support quoting, product discovery and sales workflows.\nBuild integrations between CPQ/SOM and external systems (CRM, ERP, billing) using REST APIs, IntegrationHub and custom spokes.\nDevelop scoped applications, business rules, script includes, flows and UI (UI Builder / Now Experience) to the highest technical standard.\nTranslate commercial requirements — product structures, pricing, discounting, approvals — into maintainable platform logic.\nGuide and review the work of mid-level and junior developers; act as a technical reference point for CPQ and AI-related build decisions.\nContribute to the growth of the practice's CPQ and AI capability: reusable assets, standards and internal knowledge sharing.\nSupport scoping and estimation of CPQ and AI workstreams.\n\nRequired Qualifications & Experience\n\nThe position requires working from the office in Madrid 2-3 days per week.\n\nAcademic Background\n\nDegree or equivalent in Computer Science, Information Technology, Engineering or a related field.\n\nProfessional Certification — required\n\nServiceNow Certified System Administrator (CSA) — required.\nServiceNow Certified Application Developer (CAD) — required.\nCIS certification in a CRM-family product line (CIS-CSM or equivalent) — strongly preferred.\nNote: no standalone ServiceNow certification currently exists for Now Assist / AI or agentic capability. AI experience will be assessed through demonstrated hands-on build work, not certification.\n\nYears & Area Experience\n\n4+ years of hands-on ServiceNow platform development. Non-negotiable.\nDemonstrable delivery experience in ServiceNow CRM and Industry Workflows — Sales and Order Management, CSM, Product Catalogue or Order Management.\nHands-on experience building AI capability on the Now Platform — Now Assist, AI Agent Studio, AI agents, or Virtual Agent/Predictive Intelligence at a build (not demo) level.\n\nTechnical Skills — Required\n\nStrong ServiceNow scripting: JavaScript, GlideRecord, server-side and client-side scripting, script includes, business rules, ACLs.\nFlow Designer, IntegrationHub, scoped application development.\nREST/SOAP API integration, authentication patterns (OAuth/JWT), transform maps and data import.\nNow Assist / AI Agent Studio: configuring AI agents and skills, prompt design, grounding AI in platform data.\nUI development: UI Builder / Now Experience or Service Portal.\nAutomated Test Framework (ATF) and source control (Git) / update-set discipline.\n\nTechnical skills — desired (ramp-up areas, not entry filters)\n\nLogik.ai experience — configuration and solving engine, pricing logic, composable/API-first implementation patterns. Rare in the market; treated as a strong differentiator.\nCPQ domain knowledge: product configuration, constraint-based rules, pricing and discounting models, quote-to-cash processes.\nCPQ experience on other platforms (Salesforce CPQ / Revenue Cloud, Oracle CPQ, SAP CPQ/Callidus, Conga, PROS, Tacton).\nAgentic AI patterns beyond the platform: MCP-based integrations, multi-agent orchestration.\nIndustry exposure to complex-product sectors: manufacturing, high-tech, telecommunications, industrial, medical devices.\n\nSoft skills\n\nStrong ownership and accountability for technical quality and delivery.\nAble to communicate with commercial stakeholders (sales, pricing, finance) as well as technical teams.\nAnalytical mindset; able to decompose complex commercial rules into structured, maintainable logic.\nConsultative — challenges requirements constructively and presents options with pros, cons and risks.\nComfortable working in a fast-evolving product area with limited established precedent.\nExcellent written and verbal communication in English.\n\nWhat We Offer\n\nEarly role in building a CPQ and AI practice on a newly established, high-demand ServiceNow capability.\nCompany-sponsored training on Logik.ai CPQ and ServiceNow AI capability, plus continued certification support.\nWork on complex, high-visibility CRM transformation engagements.\n\nCompany\n\nBeing part of THEWHITEAM\nmeans joining a company made up of professionals with extensive experience in technology consulting.\n\nWe firmly believe that companies and clients set the direction of the industry, but it is people who build it. We consider it essential that our organization is founded on our greatest asset and key differentiator: our people\n.\n\nBenefits\n\nWe operate under the Spanish Consulting and Market Research Collective Agreement.\nWe offer 23 vacation days per year.\nWe provide 14 salary payments per year: 12 monthly payments plus 2 additional payments (June and December).\nAs part of our flexible benefits package, you can request childcare vouchers as well as private medical and dental insurance.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nOther\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4468796628",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: ServiceNow platform architecture role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -785,8 +829,8 @@
       "description": "Job Description\n\nAt The Whiteam Consulting, we are looking for a Senior ServiceNow Developer\nwith strong experience in ServiceNow platform development, AI capabilities and CRM workflows\nto join a technology project focused on CPQ and Sales & Order Management.\n\nThis is a hands-on development role for an experienced ServiceNow professional with demonstrable experience building AI capabilities on the Now Platform\n.\n\nExperience with CPQ and\nLogik.ai\nis highly valued, although CPQ-specific product knowledge can be developed on the job for candidates who already have a strong ServiceNow and AI foundation.\n\nResponsibilities\n\nDesign, develop and configure solutions across Sales and Order Management, CSM and CPQ.\nWork with product catalogues, quoting, pricing logic and order orchestration.\nBuild and extend CPQ capabilities, including configuration rules, pricing logic and transaction handling.\nDevelop AI-enabled solutions using Now Assist and AI Agent Studio.\nDesign AI agents, skills and prompts to support quoting, product discovery and sales workflows.\nBuild integrations between CPQ/SOM and external systems such as CRM, ERP and billing platforms.\nDevelop integrations using REST APIs, IntegrationHub and custom spokes.\nDevelop scoped applications, business rules, Script Includes, flows and user interfaces.\nWork with UI Builder / Now Experience.\nTranslate commercial requirements such as product structures, pricing, discounts and approvals into maintainable platform logic.\nGuide and review the work of mid-level and junior developers.\nAct as a technical reference for CPQ and AI-related development decisions.\nContribute to reusable assets, development standards and internal knowledge sharing.\nSupport the scoping and estimation of CPQ and AI workstreams.\n\nRequirements\n\nDegree or equivalent qualification in Computer Science, Information Technology, Engineering or a related field.\n4+ years of hands-on ServiceNow platform development experience.\nServiceNow Certified System Administrator (CSA) certification.\nServiceNow Certified Application Developer (CAD) certification.\nExperience delivering solutions within ServiceNow CRM and Industry Workflows, including Sales and Order Management, CSM, Product Catalogue or Order Management.\nHands-on experience building AI capabilities on the Now Platform, such as Now Assist, AI Agent Studio, AI Agents, Virtual Agent or Predictive Intelligence.\nStrong ServiceNow scripting skills with JavaScript, GlideRecord, server-side and client-side scripting, Script Includes, Business Rules and ACLs.\nExperience with Flow Designer, IntegrationHub and scoped application development.\nExperience with REST/SOAP API integrations, OAuth/JWT authentication patterns, transform maps and data imports.\nExperience with Now Assist / AI Agent Studio, including AI agents, skills, prompt design and grounding AI in platform data.\nExperience with UI Builder / Now Experience or Service Portal.\nKnowledge of Automated Test Framework (ATF).\nExperience with Git and source control / update-set discipline.\nStrong written and verbal communication skills in English.\nEnglish: Advanced level (C1).\nSpanish: Required.\n\nDesirable\n\nCIS certification in a CRM product line, such as CIS-CSM.\nExperience with Logik.ai, including configuration, solving engine, pricing logic and composable/API-first implementation patterns.\nCPQ domain knowledge covering:\nProduct configuration.\nConstraint-based rules.\nPricing and discounting models.\nQuote-to-cash processes.\n\nExperience with other CPQ platforms such as Salesforce CPQ / Revenue Cloud, Oracle CPQ, SAP CPQ/Callidus, Conga, PROS or Tacton.\nKnowledge of agentic AI patterns, including MCP-based integrations and multi-agent orchestration.\nExperience in complex-product industries such as manufacturing, high-tech, telecommunications, industrial or medical devices.\nKnowledge of Agile methodologies and JIRA.\n\nWhat We Offer\n\nLocation: Madrid.\nWork model: Hybrid, with 2-3 days per week onsite.\nWorking hours: 09:00 - 18:00.\nEstimated project duration: 6 months.\nOpportunity to work on complex CRM transformation and ServiceNow projects.\nExposure to new processes and technologies.\nTraining on Logik.ai CPQ and ServiceNow AI capabilities.\nContinued certification support.\nOpportunity to contribute to the development of CPQ and AI capabilities within the practice.\nFlexible and employee-friendly working environment.\n\nCompany\n\nJoining THEWHITEAM means becoming part of a company made up of professionals with extensive experience in technology consulting.\n\nWe firmly believe that companies and clients set the direction of the industry, but people are the ones who build it. We consider our people our greatest asset and a key part of the value we provide.\n\nBenefits\n\nOur collective agreement is the one applicable to consulting and market research companies.\n23 days of vacation per year.\n14 payments, including 12 monthly payments and two additional payments in June and December.\nFlexible compensation options including childcare vouchers and medical + dental insurance.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4468794598",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: ServiceNow platform development role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -800,8 +844,8 @@
       "description": "Estamos a recrutar um Senior .NET & AI/ML Software Engineer\npara integrar um projeto tecnológico no Porto. Procuramos um profissional com experiência sólida em desenvolvimento C#/.NET, Python e Artificial Intelligence/Machine Learning\n, com capacidade para trabalhar no desenvolvimento, integração e deployment de soluções de AI/ML em ambientes cloud.\n\nPrincipais responsabilidades:\n\nDesenvolver e manter aplicações e serviços utilizando C#/.NET e Python\n;\nDesenvolver, integrar e colocar em produção soluções de Machine Learning e Artificial Intelligence\n;\nTrabalhar com LLMs, RAG e aplicações baseadas em Generative AI\n;\nParticipar em todo o ciclo de vida dos modelos de Machine Learning, desde o desenvolvimento até ao deployment e monitorização;\nDesenvolver e integrar soluções utilizando Azure, AWS e/ou Google Cloud\n;\nTrabalhar com Docker e Kubernetes\npara deployment e gestão de aplicações;\nImplementar práticas de MLOps\n, automação e CI/CD;\nDesenvolver arquiteturas baseadas em microservices\n;\nGarantir boas práticas de segurança, privacidade, governance e qualidade no desenvolvimento de soluções AI/ML;\nColaborar com diferentes equipas técnicas num ambiente Agile/Scrum\n.\n\nRequisitos:\n\nExperiência sólida com C# e .NET\n;\nExperiência profissional com Python\n;\nExperiência em Machine Learning / Artificial Intelligence\n;\nConhecimentos de LLMs, Generative AI e RAG\n;\nExperiência com pelo menos uma plataforma Cloud: Azure, AWS ou Google Cloud\n;\nConhecimentos de Docker e Kubernetes\n;\nExperiência com MLOps\ne deployment de modelos;\nConhecimentos de arquiteturas microservices\n;\nExperiência com CI/CD e práticas de desenvolvimento de software;\nConhecimentos de segurança, governance e privacidade aplicados a soluções de AI/ML;\nExperiência em ambientes Agile/Scrum\n;\nInglês fluente\n;\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4468586730",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: AI/ML-focused role does not establish backend/server-side .NET/C# development as the role's backend discipline.",
       "validated": null
     },
     {
@@ -815,8 +859,8 @@
       "description": "Com 10 anos de existência a nível nacional, contamos com mais de 200 colaboradores com o nosso ADN e posicionamo-nos no mercado com 3 ofertas de serviço:\nStrategy (Outsourcing, NeXel, Team as a Service, Tech Academies);\nR&D (Estágios, POC, Laboratório Tecnológico);\nNearshore.\n\nNa ADENTIS centramo-nos nas PESSOAS e é este o nosso salário emocional:\nEquilíbrio entre a vida profissional e pessoal;\nFlexibilidade na rotina organizacional;\nBenefícios de saúde para colaboradores e familiares;\nEventos Team Building;\nProtocolo com mais de 300 parceiros;\nFormação contínua através de um centro profissional de formação e certificação;\nAcompanhamento e feedback contínuo através de um plano personalizado;\nProgressão de carreira através de avaliações objetivas e diretas.\n\nO que procuramos:\n\n+8 anos de experiência com .Net;\nExperiência com a framework Angular ;\nConhecimentos em Cloud Azure;\nInglês B2/C1 (fator eliminatório).\n\nWe walk with you!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469006252",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET/Angular role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -830,8 +874,8 @@
       "description": "Descrição da empresa\n\nAbout Us ⤵️\n\nInetum is a European leader in digital services. Inetum’s team of 28,000 consultants and specialists strive every day to make a digital impact for businesses, public sector entities and society. Inetum’s solutions aim at contributing to its clients’ performance and innovation as well as the common good. Present in 19 countries with a dense network of sites, Inetum partners with major software publishers to meet the challenges of digital transformation with proximity and flexibility. Driven by its ambition for growth and scale, Inetum generated sales of 2.5 billion euros in 2023.\n\nDescrição do emprego\n\nInetum is seeking a talented Junior Developer to join our team. The ideal candidate will have proven experience in developing and maintaining solutions in Dynamics 365 Customer Service and Power Platform (Power Apps, Power Automate, Power Pages).\n\nKey Responsibilities\n\nDevelop and maintain solutions in Dynamics 365 Customer Service and Power Platform.\nPerform troubleshooting in integrated Dynamics 365 and Power Platform environments.\nModel data using Dataverse.\nPropose improvements to the current Dynamics 365 Customer Service solution.\n\nQualificações\n\nProven experience in Dynamics 365 Customer Service and Power Platform development.\nAbility to troubleshoot in Dynamics 365 integrated with Power Platform solutions.\nKnowledge of data modeling using Dataverse.\nFamiliarity with Dynamics 365 Customer Service to suggest enhancements.\nGood level of english.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nConsulting\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4205305029",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Dynamics 365/Power Platform role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -845,8 +889,8 @@
       "description": "About The Role\n\niCapital is looking for an Software Engineer. You will be involved in the development of key parts of the platform while scaling the backend team to meet the needs of a new international audience. You will coordinate work, guide technology decisions, and contribute as an esteemed member of the software development team. You will work closely with our Product Management team throughout the software development process, detailing requirements, reviewing work in progress, and addressing issues found via manual test efforts.\n\nResponsibilities\n\nWork directly with clients and collaborate across teams to serve as the technical architect for new client projects\nUse open-source technologies like Scala, Akka, Postgres and Kinesis to build elegant APIs that clients will love\nHave a deep understanding of our business and work closely with our Sales and Product teams to drive new initiatives\n\nQualifications\n\nDegree in Computer Science or related field\n7+ Years experience in a similar role using a modern programming language (we use Scala and ZIO and are happy to teach those willing to learn)\nLeadership/mentorship Experience\nExperience with REST API\nExperience with AWS\nExcellent interpersonal skills and experience working directly with clients\nSelf-starter, creative problem solver and not afraid of tackling big challenges\nCuriosity and willingness to learn about financial products and markets\nExperience building APIs for large scale applications\n\nWe believe the best ideas and innovation happen when we are together. Employees in this role will work in the office four days, with the flexibility to work remotely one day (Friday). \n\nBenefits\n\niCapital offers a comprehensive benefits package that includes a total compensation program consisting of competitive salary, annual performance bonus, and equity for all full-time employees; healthcare with 100% employer-paid health and dental insurance; and generous paid time off (PTO).\n\nFor additional information on iCapital Network, please visit https://www.icapitalnetwork.com/about-us Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nFinancial Services and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4414622602",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend stack is Scala/Akka rather than .NET/C#.",
       "validated": null
     },
     {
@@ -860,8 +904,8 @@
       "description": "Enviar-me por email Guardar\n\nDellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations.\n\nJoin a technology project in an international environment, connected to one of the most relevant areas of professional services. Here, you’ll work across areas such as Audit, Assurance, Tax and Advisory, collaborating with multidisciplinary teams and tackling technology challenges in different business contexts.If you’re looking for a new challenge where you can apply your knowledge, learn and grow, this could be the next step in your career.\n\nWe are looking for a Senior IBM Developer (FileNet & Navigator)\nto work in this project remotely\n.\n\nRequirements\n\n5+ years of professional experience in a similar role;\nExperience with IBM FIleNet and IBM Content Navigator - hands-on development experience is mandatory;\nExperience in design and develop FileNet components (e.g. classes, subscriptions, pre-processors, code modules) and ICN (desktops, plugins, External Data Services);\nExperience in integrating FileNet and ICN components and solutions with other potential systems and applications;\nPerform unit tests to ensure the quality of the FileNet and Content Navigator solutions developed and ensure non-regression;\nProvide technical support for the solutions deployed;\nAvailability to travel (once per month to an European country);\nFluent in English and Portuguese (mandatory);\nFluent in French is a plus.\n\nWhat can you expect from us?\n\nHealth insurance;\nA personalized training plan, with a budget to spend on the training you find necessary;\nConstant feedback so you can grow professionally;\nRemote onboarding process;\nTeam events every semester so you can live new adventures;\nCulture of proximity and transparency. Your ideas and needs are heard and valued by us!\n\nApply\n\nIf the above sounds like the kind of job opportunity you would want to get involved with, then please do not hesitate to apply here\n. You can also explore our content about the job market here\n.\n\nweb:18.145.22.180:LinkedInBot/1.0 (compatible; Mozilla/5.0; +http://www.linkedin.com):2026-09-22 12:54:32\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470425725",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: IBM FileNet/Content Navigator development role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -875,8 +919,8 @@
       "description": "Enviar-me por email Guardar\n\nA Integer Consulting é uma empresa portuguesa de consultoria em tecnologias de informação. Somos especialistas em serviços de IT outsourcing, software, projetos de nearshore e desenvolvimento à medida. Somos parceiros dos principais players tecnológicos a nível mundial e trabalhamos com empresas nacionais e multinacionais de diversos setores de atividade. A maioria dos projetos em que participamos são em Portugal, no Brasil e um pouco por toda a Europa. O que nos diferencia é o talento tecnológico e a experiência das pessoas que fazem parte da equipa e que integram os nossos projetos.\n\nEstás à procura de novas oportunidades na área de IT? Temos novidades para ti!\n\nEste Pode Ser o Desafio Perfeito, Se Tiveres\n\nExperiência aprofundada em arquitetura e governo de plataformas de integração enterprise: MuleSoft Anypoint Platform (preferencial), TIBCO, IBM MQ/ACE, ou SAP Integration Suite\nConhecimento de padrões de integração: ESB, EDA (event-driven), pub/sub, API-led connectivity (3-layer: System / Process / Experience)\nExperiência em desenho e especificação de APIs REST (OpenAPI/Swagger) e gestão do ciclo de vida de APIs\nConhecimentos de message brokers: Apache Kafka, RabbitMQ, GCP Pub/Sub ou equivalente\nExperiência com integrações com sistemas SAP (IS-U, S/4HANA, IDocs)\nExperiência em definição de guidelines e standards de integração e apresentação/defesa junto de stakeholders\nConhecimentos de segurança em APIs: OAuth 2.0, API Gateway, mTLS\nExperiência com JIRA e Confluence\nFluência em inglês (obrigatório)\nCertificação relevante em integração ou arquitetura (MuleSoft, SAP Integration, GCP ou equivalente) (valorizado)\n\nProjeto em regime híbrido em Lisboa.\n\nSe tens o amazINg tech talent\npretendido e queres fazer parte da equipa INTEGER, responde a este anúncio com o teu CV atualizado para .\n\nPara saber mais como protegemos a tua privacidade, consulte a nossa Política em .\n\nweb:18.145.22.180:LinkedInBot/1.0 (compatible; Mozilla/5.0; +http://www.linkedin.com):2026-09-22 12:54:29\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470419999",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: enterprise API/integration architecture role has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -890,8 +934,8 @@
       "description": "Az SMP Solutions-nél immár több mint 35 éve elkötelezetten képviseljük az informatikai, bank- és biztonságtechnikai kihívások minőségi és hatékony megoldásait. A tervezéstől kezdve a kivitelezésen és a rendszerintegráción keresztül egészen az üzemeltetésig, széles skálán nyújtunk személyre szabott megoldásokat nagyvállalati ügyfeleink részére mind a magyar, mind a nemzetközi piacon.\nSzámos területen és különböző technológiákkal dolgozó csapatunk van már, folyamatosan növekvő Üzleti Megoldások ágazatunkban saját szoftveralkalmazásokat fejlesztünk, komplett rendszerintegrációs projekteket szállítunk és tanácsadó kollégáink specifikus témákban közvetlenül is támogatják ügyfeleinket.\nNagy banki ügyfeleink részére új Microsoft Dynamics 365 Corporate és Retail CRM rendszereket vezetünk be és szabunk testre az üzleti folyamatok és igények alapján mind haza, mind nemzetközi szinten. Csapataink komplett, end-to-end projekteket szállítanak az igények felmérésétől a fejlesztésen, a tesztelésen és az élesítésen keresztül egészen a támogatásig, így agilis módszertan szerint működnek együtt a tanácsadó, elemző, Architect, BI és Data Engineer, fejlesztő, tesztelő, PO, DevOps és rendszermérnök kollégák. Ide keresünk most tapasztalt CRM fejlesztő\nkollégát az egyik csapatunk erősítésére.\nA technológiai stack: C#/.NET, Microsoft Dynamics 365, Power Platform, Dataverse, Azure, Azure DevOps Services, K8s, Docker, MS Data Stack, MSSQL, Oracle DB stb.\n\nFeladatok:\n\nAktív részvétel a csapat munkájában agilis módszertan szerint.\nAz elemzők által összegyűjtött üzleti igények validálása, megvalósíthatóságuk elemzése és agilis tervezése.\nFejlesztési javaslatok és roadmap kidolgozása az üzleti elemző, Architect és PO kollégákkal közösen.\nA Product Owner támogatása a priorizálásban és tervezésben.\nA felrajzolt üzleti folyamatok lefordítása a CRM rendszerre, és abban az üzleti szabályok és adatmodellek kialakítása.\nKépernyőtervek készítése és testreszabása.\nRészvétel a fejlesztésben, folyamatos kommunikáció a szoftverfejlesztőkkel.\nKapcsolattartás az ügyféllel, prototípusok és demók prezentálása.\nÜgyféltámogatás, részvétel a tesztelésben és a hibakeresésben.\n\nElvárások:\n\nMS Dynamics 365 CRM fejlesztési tapasztalat elsősorban Customer Insights, Sales és FSI (Financial Services Industry) modulokkal.\nNagyvállalati üzleti folyamatok ismerete és üzleti igények megértése.\nProgramozási (JavaScript, TypeScript, C#, .NET Framework, JSON, XML) és tervezési tapasztalat, szoftverfejlesztési módszertanok ismerete.\nMélyreható tapasztalat a Power Platform komponenseinek használatában. Canvas és komplex Model-Driven alkalmazások fejlesztése, beágyazott appok/komponensek, BPF-ek, PCF Controls, web resources, Plugin development, Ribbon customization, Form scripting, Power Automate/Logic Apps, valamint lehetőség szerint a Copilot Studio alkalmazásában.\nAlapos tudás a Dataverse adatmodellről és annak bővítési lehetőségeiről, beleértve az egyéni, virtuális táblák, kapcsolatok és üzleti logikák kialakítását.\nAdatintegrációs technológiák: REST API-k, web service-ek és a Power Platform által támogatott integrációs lehetőségek ismerete, beleértve külső rendszerek adatkapcsolatait.\nGyakorlati tapasztalat az Azure különböző szolgáltatásaival, valamint azok integrálása a Power Platform megoldásokba.\nTapasztalat az adatvédelem, hozzáférés-szabályozás és szerepkör-alapú jogosultsági rendszerek kialakításában és kezelésében.\nJó kommunikációs készség, problémamegoldó attitűd, együttműködő személyiség.\nTárgyalóképes, aktív angol nyelvtudás.\n\nElőnyt jelent:\n\nPénzügyi/banki területen szerzett tapasztalat.\nAgilis működésben szerzett tapasztalat.\nFelsőfokú gazdasági vagy műszaki végzettség.\n\nAmit kínálunk:\n\nAlapbéren felüli juttatások: egészségbiztosítás + szakmai vizsgák anyagi támogatása + korlátlan konditeremhasználat.\nStabil hátterű, nemzetközileg elismert vállalat, biztos ügyfélkörrel a versenyszférában.\nHosszú távú karrierlehetőség, komplex és nagy volumenű projektek, változatos feladatok.\nRészvételi lehetőség szakmai képzéseken és a szakmai vizsgák letételének anyagi támogatása.\nSzínvonalas munkakörnyezet (Bp. XIII. ker.), modern munkaeszközök, hibrid munkarend heti 2 nap távmunka lehetőséggel.\nÖsszetartó és támogató csapat, közös szabadidős programok: pl. grillklub, bringaklub, túraklub, társasjátékklub, crossfit edzések, kispályás foci, darts stb.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470447118",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Dynamics 365 CRM/Power Platform role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -905,8 +949,8 @@
       "description": "Job Description :\n\nWe are seeking a skilled SCADA Programmer to join our team in Abu Dhabi. This is a full-time, on-site role. The ideal candidate will possess strong programming skills and a solid understanding of complex systems, particularly within traffic infrastructure environments.\n\nKey Requirements & Skills\n\n5 to 8 years of development experience in SCADA platforms such as WINCC and Wonderware\nStrong knowledge of C# and XML\nExperience in designing and implementing HMI (Human Machine Interface) solutions\nGood working knowledge of SQL databases\nExperience in the ITS (Intelligent Transportation Systems) domain, especially projects related to roads and tunnels\nKnowledge of PLC programming is an advantage\nFamiliarity with industrial communication protocols such as Modbus and Profibus\nUnderstanding of automation control systems and equipment\nExcellent communication and teamwork skills\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nConstruction",
       "source": "LinkedIn",
       "job_id": "4468577911",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: SCADA/HMI automation role has no backend/server-side .NET/C# evidence.",
       "validated": null
     }
   ]
