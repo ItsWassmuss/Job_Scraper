@@ -1,22 +1,26 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-22 11:19 UTC*
+*Last updated: 2026-09-22 12:19 UTC*
 
-**3 new role(s)** since last run · 204 total in last 24h
+**4 new role(s)** since last run · 197 total in last 24h
 
-### [Project Development Engineer](https://ie.indeed.com/viewjob?jk=635d7c8fe55fb61a) — Electricity Supply Board (ESB)
-- 📍 **Location:** Dublin, D, IE
+### [Senior Fullstack Java Engineer](https://nl.indeed.com/viewjob?jk=d04efbb9df0f57a1) — Just Eat Takeaway.com
+- 📍 **Location:** Amsterdam, NH, NL
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-21
 
-### [Programador .Net Senior](https://es.indeed.com/viewjob?jk=b1d839a421338e65) — SYLO
-- 📍 **Location:** Barcelona, CT, ES
+### [AI Platform Developer (m/f/d)](https://de.indeed.com/viewjob?jk=5fd001a93c2d6052) — Harman
+- 📍 **Location:** Garching bei München, BY, DE
 - **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Development Engineer in Test](https://uk.indeed.com/viewjob?jk=4e08875bbb3cb93a) — Autodesk
+- 📍 **Location:** Sheffield, ENG, GB
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Junior Graphics Programmer](https://es.indeed.com/viewjob?jk=722e722887e64df1) — LARIAN STUDIOS
-- 📍 **Location:** Barcelona, CT, ES
+### [Software Engineer .NET](https://se.indeed.com/viewjob?jk=453ac521b979fe7c) — Tele2
+- 📍 **Location:** Kista, AB, SE
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
+- 🕒 **Posted:** 2026-09-09
