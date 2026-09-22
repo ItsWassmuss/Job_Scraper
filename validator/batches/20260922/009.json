@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-22T01:47:12+03:00",
   "job_count": 9,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Balfour Beatty",
