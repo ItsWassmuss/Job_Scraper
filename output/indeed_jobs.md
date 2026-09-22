@@ -1,28 +1,16 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-22 00:18 UTC*
+*Last updated: 2026-09-22 01:18 UTC*
 
-**4 new role(s)** since last run · 232 total in last 24h
+**2 new role(s)** since last run · 234 total in last 24h
 
-### [Software Development Student Placement (Chassis)](https://uk.indeed.com/viewjob?jk=5f1dae15aa2f0029) — Red Bull Technology Group
-- 📍 **Location:** Milton Keynes, ENG, GB
+### [Supply Chain Engineer](https://nl.indeed.com/viewjob?jk=2abdb861bab2cbc7) — Technische Unie
+- 📍 **Location:** Alphen aan den Rijn, ZH, NL
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-21
 
-### [Solutions Architect (Public Sector)](https://sg.indeed.com/viewjob?jk=8ccf84775b324842) — HYPERSCAL SOLUTIONS PTE. LTD.
-- 📍 **Location:** Bugis, S00, SG
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
-
-### [software developer](https://sg.indeed.com/viewjob?jk=b50ead5d2ea90aeb) — P CONNECT SERVICES PTE. LTD.
-- 📍 **Location:** Jurong Island, S00, SG
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
-
-### [Full Stack Embedded Software Engineer](https://sg.indeed.com/viewjob?jk=9313a89000e2ea78) — Komax Singapore Pte Ltd
-- 📍 **Location:** Geylang, S00, SG
+### [Senior Fullstack Java Engineer](https://nl.indeed.com/viewjob?jk=7723da46ed5a4379) — Just Eat Takeaway.com
+- 📍 **Location:** Amsterdam, NH, NL
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-21
