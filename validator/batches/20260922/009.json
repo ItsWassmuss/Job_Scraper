@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "81109269f868a3fe",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is materials/civil engineering with no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "21e116b359ffd7de",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend .NET development is only advantageous; primary focus is SQL Server/Power Apps and legacy .NET migration.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "653a791b52b455ad",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid work permit for Spain is explicitly mandatory.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "93dbe4df8f6bf641",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily desktop/manufacturing software; no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "24a4e9f1df9773cf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily AI/DevOps/platform engineering; .NET is only among preferred technologies.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "72d314c98ce181e9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily non-English with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f4cf84de6c19cb93",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is application security/vulnerability management, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -175,8 +175,8 @@
       "description": "Project description\n\nOur client is advancing its in-vehicle voice assistant into an intelligent, AI-powered companion. Since 2024, large-language-model capabilities (Azure OpenAI / ChatGPT) have been integrated into vehicles using the MIB3 infotainment system, with new E³-architecture models featuring enhanced voice functions from the factory.\n\nThe AIME (AI Model Engine) backend program supports this development over multiple years, encompassing natural-language dialogue, empathic communication, and a comprehensive cloud-edge data pipeline. DXC Luxoft serves as the end-to-end delivery partner, collaborating as a joint product team with the client's engineers on the Azure platform (AKS, Azure OpenAI, Managed Identity, Azure Monitor, Azure DevOps).\n\nResponsibilities\n\nWe are looking for a Solution Architect to own the technical vision across all three AIME work packages. You will translate Audi's product roadmap into concrete cloud-native, AI-first architectures and act as the primary technical authority in the joint product team. The role spans both high-level design and hands-on review, with regular presence in Ingolstadt.\n\nDefine and maintain the end-to-end system architecture across the LLM/RAG pipeline, voice I/O layer, Azure cloud backend, and in-vehicle edge components.\nOwn architecture decision records (ADRs) and ensure alignment between Audi engineers and the DXC Luxoft delivery team.\nLead solution design for Azure services: AKS, Azure OpenAI, Managed Identity, Azure Monitor, and Cosmos DB.\nGuide AI/ML engineers on LLM integration patterns (RAG, prompt engineering, ASR/TTS orchestration) and ensure production-readiness.\nConduct technical reviews of pull requests, infrastructure-as-code changes, and sprint deliverables.\nRepresent DXC Luxoft in Audi Architecture Board (AP-A) sessions; prepare architecture artefacts and briefing materials.\nIdentify and mitigate cross-cutting risks: security, scalability, compliance (ASPICE, ISO 21434).\nMentor senior engineers and provide cross-WP technical coordination.\n\nSkills\n\nMust have\n\n5+ years as a Solution or Enterprise Architect for cloud-native, distributed systems.\nDeep hands-on experience with Microsoft Azure: AKS, Azure OpenAI Service, Managed Identity, Azure Monitor / Application Insights, Azure DevOps.\nProven track record designing AI/LLM-based products in production (RAG pipelines, agentic systems, or voice AI).\nInfrastructure-as-Code (Terraform or Bicep) and CI/CD pipeline design.\nAbility to lead technical discussions with customer architects and senior stakeholders.\nEnglish C1; ability to work effectively in a joint-team model.\n\nNice to have Skills\n\nAutomotive domain experience (VW Group, CARIAD, MIB3, E³ architecture).\nKnowledge of ASPICE L2 process requirements and ISO 21434 cybersecurity obligations.\nExperience with edge-cloud hybrid architectures (in-vehicle components connected to cloud backends).\nGerman language skills (B2 or above).\n\nLanguages:\n\nEnglish - C1 Fluent\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469910767",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is solution architecture for AI/Azure backend; no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -190,8 +190,8 @@
       "description": "Jobbeschreibung\n\nStandort Görlitz | Vollzeit | Festanstellung\n\nWir suchen einen Mitarbeiter, der nicht nur vorhandene Testskripte pflegen, sondern die technische Richtung in der Testautomatisierung mitgestalten möchte.\n\nBei SIEVON bekommst du den Freiraum, technische Lösungen aktiv mitzugestalten. Als Senior Testautomatisierer (m/w/d) entwickelst du Automatisierungsstrategien und Frameworks, die nicht nur heute funktionieren, sondern auch langfristig wartbar und erweiterbar bleiben. Dabei kombinierst du technisches Know-How mit strategischem Denken, berätst unsere deutschsprachigen Kunden und bringst deine Erfahrung in unser Team ein. Du übernimmst Verantwortung, hinterfragst bestehende Ansätze und hilfst anderen dabei, fachlich zu wachsen. Wir glauben an direkte Zusammenarbeit, kurze Entscheidungswege und echten persönlichen Austausch. Deshalb ist Görlitz unser gemeinsamer Arbeitsort. Mobiles Arbeiten ist ergänzend möglich, eine vollständig remote ausgeübte Tätigkeit bieten wir für diese Position nicht an.\n\nDeine Aufgaben\n\nDu konzipierst Testautomatisierungsstrategien und setzt sie gemeinsam mit unseren Kunden und Projektteams um\nDu entwickelst und optimierst Frameworks für Frontend-, API- und Regressionstests\nDu integrierst automatisierte Tests und Quality Gates in CI/CD-Pipelines\nDu triffst technische Entscheidungen zu Architektur, Werkzeugen, Wartbarkeit und Ausführungsstrategien\nDu analysierst instabile Tests, technische Abweichungen und Qualitätsrisiken und leitest konkrete Verbesserungen ab\nDu führst Code- und Konzeptreviews durch und vermittelst Best Practices im Team\nDu moderierst technische Abstimmungen und Workshops mit deutschsprachigen Kunden\nDu unterstützt beim Aufbau und bei der Weiterentwicklung von QA- und Automatisierungsteams\n\nWas dich bei SIEVON erwartet\n\nTechnischer Gestaltungsspielraum statt reiner Ticketbearbeitung\nDirekter Einfluss auf Automatisierungsstrategien und Qualitätsstandards\nAnspruchsvolle Projekte bei namhaften Kunden\nEin erfahrenes Team mit kurzen Entscheidungswegen\nGezielte fachliche und persönliche Weiterentwicklung\nModerne Arbeitsausstattung\nMehr als 30 Urlaubstage bei Vollzeit\nUnterstützung bei der Absicherung im Alter\nAngebote für deine Gesundheit und Fitness im Arbeitsalltag\nEin Arbeitsplatz im Herzen von Görlitz\n\nDas bringst du mit\n\nMindestens fünf Jahre Berufserfahrung im Softwaretest, davon mehrere Jahre in der praktischen Testautomatisierung\nSehr gute Kenntnisse in mindestens einer relevanten Programmiersprache, beispielsweise Java, TypeScript/JavaScript oder C#\nPraxiserfahrung mit mindestens einem etablierten Automatisierungsframework, beispielsweise Playwright, Selenium, Cypress oder REST Assured\nErfahrung mit Frontend- und API-Automatisierung sowie mit Git und CI/CD\nEin gutes Verständnis für Testarchitektur, wartbaren Code, Testpyramiden und risikobasierte Automatisierung\nDie Fähigkeit, technische Entscheidungen verständlich zu erklären und Verantwortung für deren Umsetzung zu übernehmen\nDeutschkenntnisse mindestens auf Niveau C1, da Kundenkommunikation, Workshops und Projektdokumentation überwiegend auf Deutsch stattfinden\nDie Bereitschaft, regelmäßig an unserem Standort in Görlitz zu arbeiten\nEine gültige Arbeitsberechtigung für Deutschland spätestens zum Eintritt\n\nDas ist ein Plus\n\nErfahrung mit Docker, Kubernetes oder cloudbasierten Testumgebungen\nKenntnisse im Performance-, Security- oder Mobile-Testing\nErfahrung im Aufbau oder in der fachlichen Führung eines QA-Teams\nEine ISTQB-Zertifizierung\nErfahrung in Beratungs- oder Kundenprojekten\n\nDu erfüllst nicht jeden einzelnen Punkt? Wenn du Testautomatisierung technisch beherrschst, Verantwortung übernehmen möchtest und zu unserem Arbeitsmodell passt, sollten wir trotzdem miteinander sprechen.\n\nÜber uns\n\nSIEVON ist ein etabliertes IT-Beratungsunternehmen aus Görlitz. Unsere Wurzeln liegen in der Softwarequalität, daher unterstützen wir heute Unternehmen in den Bereichen Qualitätssicherung, Testautomatisierung, Softwareentwicklung und der agilen Zusammenarbeit. Softwarequalität entsteht für uns durch klare Ziele, durchdachte Prozesse, passende technische Lösungen und Menschen, die Verantwortung übernehmen. Deshalb verbinden wir methodische Beratung mit praktischer Umsetzung und begleiten unsere Kunden von der ersten Anforderung bis zur funktionierenden Software. Wir arbeiten pragmatisch, direkt und auf Augenhöhe. Statt unnötiger Bürokratie setzen wir auf nachvollziehbare Entscheidungen und Lösungen, die sich im Projektalltag bewähren. Dabei hinterfragen wir bestehende Ansätze, teilen unser Wissen und entwickeln uns gemeinsam weiter. SIEVON steht für fachlichen Anspruch, verlässliche Zusammenarbeit und ein Team, in dem unterschiedliche Erfahrungen und Stärken zusammenkommen. Unser Standort in Görlitz ist dabei mehr als eine Adresse: Hier arbeiten wir gemeinsam, tauschen uns persönlich aus und entwickeln unser Unternehmen Schritt für Schritt weiter.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4469913856",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: valid work authorization for Germany is explicitly required by the start date.",
       "validated": null
     }
   ]
