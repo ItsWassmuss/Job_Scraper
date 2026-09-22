@@ -2,11 +2,8 @@ name: Validator Apply Patch
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "validator/patches/*.json"
+  schedule:
+    - cron: "5,20,35,50 * * * *"
 
 permissions:
   contents: write
@@ -32,6 +29,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Record patch snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "Snapshot commit: $(git rev-parse HEAD)"
+          shopt -s nullglob
+          patches=(validator/patches/*.json)
+          echo "Snapshot patch count: ${#patches[@]}"
+          printf '%s\n' "${patches[@]}"
 
       - name: Apply Validator patches
         run: python validator/apply_patch.py
