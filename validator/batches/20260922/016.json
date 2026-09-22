@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d04efbb9df0f57a1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Java/Spring; .NET is legacy or an alternative ecosystem, not the primary backend stack.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3b7fc5ea370a4a77",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No backend/server-side C#/.NET development evidence; role focuses on Angular/TypeScript, Linux/containerization, and scripting.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "dd09539fe857a178",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Fluent Swedish communication skills, verbally and in writing, are explicitly mandatory.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8a59336985e88b8a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Successful candidate must evidence right to work in the Republic of Ireland / UK before employment.",
       "validated": null
     },
     {
@@ -106,8 +106,8 @@
       "description": "We're hiring on behalf of a Haystack partner!\n\nThe Role\n• Contribute to the design and implementation of scalable, secure, and resilient software solutions.\n• Collaborate with other engineering teams to help adapt and integrate their solutions.\n• Write high-quality, production-ready code in languages such as C#, Python, Java, or Go, and be willing to learn new technologies.\n• Implement and deliver changes to our platform in a timely and reliable manner.\n• Develop, maintain, and improve CI/CD pipelines to support reliable and repeatable releases.\n• Support live services by improving monitoring, reliability, and responding to incidents.\n\nWhat You'll Need\n• Experience working as a Software Engineer on production systems, with growing technical ownership.\n• Solid understanding of Agile development and modern software engineering practices.\n• Collaborative mindset and clear communication skills with engineers, product managers, and stakeholders.\n• Hands-on experience with CI/CD pipelines, build automation, or release processes.\n• Practical experience designing and working with relational databases and data models.\n• Proficiency in at least one common high-level programming language (e.g., Java, C#, Python, Go, JavaScript, TypeScript).\n\nWhat's On Offer\n• Competitive salary\n• Opportunity to shape the future of energy through technology.\n• A collaborative team environment that values curiosity and continuous learning.\n• Benefits designed to enable work-life integration, including flexible working options.\n\nApply via Haystack today!\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nTechnology, Information and Media",
       "source": "LinkedIn",
       "job_id": "4470234878",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No backend/server-side C#/.NET requirement; C# is only one of several interchangeable programming languages.",
       "validated": null
     }
   ]
