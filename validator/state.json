@@ -27597,6 +27597,60 @@
       "location": "Istanbul, Istanbul, Türkiye",
       "canonical_url": "https://www.linkedin.com/jobs/view/4469983812/",
       "reported_at": "2026-09-22T16:01:03+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "8e1695f2f6a57bf4",
+      "company": "ADM",
+      "title": "Architect & Senior Developer",
+      "location": "London, ENG, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=8e1695f2f6a57bf4",
+      "reported_at": "2026-09-22T17:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4468795015",
+      "company": "Aqovia",
+      "title": "Software Engineer (Data Engineering C# .NET)",
+      "location": "Greater London, England, United Kingdom",
+      "canonical_url": "https://careers.aqovia.com/jobs/8429361-software-engineer-data-engineering-c-net",
+      "reported_at": "2026-09-22T17:01:01+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "9fe3918d15363c13",
+      "company": "C.H. Robinson",
+      "title": "Software Engineer III",
+      "location": "zdalnie, PL",
+      "canonical_url": "https://pl.indeed.com/viewjob?jk=9fe3918d15363c13",
+      "reported_at": "2026-09-22T17:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470224620",
+      "company": "Free-Work UK",
+      "title": "Optimizely Developer",
+      "location": "Skelmersdale, England, United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470224620/",
+      "reported_at": "2026-09-22T17:01:01+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "4bf39d712c04869f",
+      "company": "Techster Solutions",
+      "title": "CRM Solutions Developer",
+      "location": "Göteborg, O, SE",
+      "canonical_url": "https://se.indeed.com/viewjob?jk=4bf39d712c04869f",
+      "reported_at": "2026-09-22T17:01:01+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "bfb65df2e8e535a4",
+      "company": "Valora Group",
+      "title": "Senior Software Engineer Fullstack (f/m/d)",
+      "location": "Zürich, ZH, CH",
+      "canonical_url": "https://ch.indeed.com/viewjob?jk=bfb65df2e8e535a4",
+      "reported_at": "2026-09-22T17:01:01+03:00"
     }
   ]
 }
