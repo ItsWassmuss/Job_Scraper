@@ -20,11 +20,74 @@ SOURCES = (
 )
 _BATCH_NAME_RE = re.compile(r"^(\d{3})\.json$")
 _LINKEDIN_JOB_PATH_RE = re.compile(r"/jobs/view/(\d+)(?:/|$)")
+_TITLE_SEPARATOR_RE = re.compile(r"[\s\-–—/]+")
+_TITLE_SEPARATOR_PATTERN = r"[\s\-–—/]+"
 
 
 def _load_json(path: Path) -> Any:
     with path.open(encoding="utf-8") as handle:
         return json.load(handle)
+
+
+def _load_title_exclusions(path: Path) -> list[str]:
+    payload = _load_json(path)
+    if not isinstance(payload, dict) or set(payload) != {"title_exclusions"}:
+        raise ValueError(f"{path} must contain only a title_exclusions array")
+    rules = payload["title_exclusions"]
+    if not isinstance(rules, list) or not rules:
+        raise ValueError(f"{path} title_exclusions must be a non-empty array")
+    if any(not isinstance(rule, str) or not rule.strip() for rule in rules):
+        raise ValueError(f"{path} title_exclusions must contain only non-empty strings")
+
+    normalized = [rule.strip().casefold() for rule in rules]
+    if len(normalized) != len(set(normalized)):
+        raise ValueError(f"{path} title_exclusions must not contain duplicates")
+    return rules
+
+
+def _compile_title_exclusions(
+    rules: list[str],
+) -> list[tuple[str, int, re.Pattern[str]]]:
+    compiled: list[tuple[str, int, re.Pattern[str]]] = []
+    for order, rule in enumerate(rules):
+        tokens = [
+            token
+            for token in _TITLE_SEPARATOR_RE.split(rule.strip())
+            if token
+        ]
+        if not tokens:
+            raise ValueError(f"Invalid empty title exclusion rule: {rule!r}")
+        body = _TITLE_SEPARATOR_PATTERN.join(re.escape(token) for token in tokens)
+        pattern = re.compile(
+            rf"(?<![A-Za-z0-9])({body})(?![A-Za-z0-9])",
+            re.IGNORECASE,
+        )
+        compiled.append((rule, order, pattern))
+    return compiled
+
+
+def _match_title_exclusion(
+    title: Any,
+    compiled_rules: list[tuple[str, int, re.Pattern[str]]],
+) -> str | None:
+    if not isinstance(title, str) or not title:
+        return None
+
+    best: tuple[int, int, int, str] | None = None
+    for rule, order, pattern in compiled_rules:
+        match = pattern.search(title)
+        if match is None:
+            continue
+        candidate = (
+            match.start(1),
+            -len(match.group(1)),
+            order,
+            rule,
+        )
+        if best is None or candidate[:3] < best[:3]:
+            best = candidate
+
+    return best[3] if best is not None else None
 
 
 def _load_source_jobs(path: Path) -> list[dict[str, Any]]:
@@ -170,6 +233,9 @@ def _is_excluded_by_state(
 
 
 def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> dict[str, Any]:
+    title_exclusions = _load_title_exclusions(root / "validator/title_exclusions.json")
+    title_exclusion_patterns = _compile_title_exclusions(title_exclusions)
+
     state = _load_state(root / "validator/state.json")
     seen_ids, seen_urls, reported_ids, reported_triples = _state_indexes(state)
 
@@ -178,6 +244,8 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
     existing_batch_keys, largest_batch_number = _load_existing_batch_keys(day_dir)
 
     source_counts: dict[str, int] = {}
+    removed_by_title = 0
+    removed_by_title_rule: dict[str, int] = {}
     removed_by_state = 0
     removed_by_batches = 0
     removed_within_run = 0
@@ -191,6 +259,18 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
         for source_job in source_jobs:
             url = _source_url(source_job)
             job_id = _job_id(source, url)
+
+            matched_rule = _match_title_exclusion(
+                source_job.get("title"),
+                title_exclusion_patterns,
+            )
+            if matched_rule is not None:
+                removed_by_title += 1
+                removed_by_title_rule[matched_rule] = (
+                    removed_by_title_rule.get(matched_rule, 0) + 1
+                )
+                continue
+
             if _is_excluded_by_state(
                 source_job,
                 source,
@@ -250,6 +330,8 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
     summary = {
         "indeed_read": source_counts.get("Indeed", 0),
         "linkedin_read": source_counts.get("LinkedIn", 0),
+        "removed_by_title": removed_by_title,
+        "removed_by_title_rule": removed_by_title_rule,
         "removed_by_state": removed_by_state,
         "removed_by_batches": removed_by_batches,
         "removed_within_run": removed_within_run,
@@ -263,6 +345,14 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
 def _print_summary(summary: dict[str, Any], root: Path = REPO_ROOT) -> None:
     print(f"Indeed jobs read: {summary['indeed_read']}")
     print(f"LinkedIn jobs read: {summary['linkedin_read']}")
+    print(f"Removed by title exclusion: {summary['removed_by_title']}")
+    if summary["removed_by_title_rule"]:
+        print("Title exclusion breakdown:")
+        for rule, count in sorted(
+            summary["removed_by_title_rule"].items(),
+            key=lambda item: (-item[1], item[0].casefold()),
+        ):
+            print(f"  {rule}: {count}")
     print(f"Removed by state: {summary['removed_by_state']}")
     print(f"Removed by existing daily batches: {summary['removed_by_batches']}")
     print(f"Removed as duplicates within this run: {summary['removed_within_run']}")
