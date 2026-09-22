@@ -1,67 +1,71 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-22 16:19 UTC*
+*Last updated: 2026-09-22 17:19 UTC*
 
-**11 new role(s)** since last run · 200 total in last 24h
+**12 new role(s)** since last run · 179 total in last 24h
 
-### [Support Engineer (SQL)](https://uk.indeed.com/viewjob?jk=2dbecd277239d758) — legalandgeneral
-- 📍 **Location:** Cardiff, WLS, GB
+### [(Senior) SQL Server DBA & Database Developer](https://nl.indeed.com/viewjob?jk=e0a659492bc755c8) — Monta
+- 📍 **Location:** Gorinchem, ZH, NL
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-22
 
-### [Principal Civil Engineer](https://uk.indeed.com/viewjob?jk=80136ef96884fee3) — Mott MacDonald
-- 📍 **Location:** Glasgow, SCT, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Electrical Engineer](https://uk.indeed.com/viewjob?jk=78887f99cacf011e) — Mott MacDonald
-- 📍 **Location:** Glasgow, SCT, GB
+### [Product Owner Data Platform](https://nl.indeed.com/viewjob?jk=bc2cd195335e6ee6) — ANVA bv
+- 📍 **Location:** Amersfoort, UT, NL
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Senior Electrical Engineer](https://uk.indeed.com/viewjob?jk=786441c5ce700db6) — Mott MacDonald
-- 📍 **Location:** Glasgow, SCT, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Technical Support Engineer](https://uk.indeed.com/viewjob?jk=86a6a7b67a13185a) — Airwallex
+### [Full Stack Engineer](https://uk.indeed.com/viewjob?jk=37bf77ea18f94b3c) — DIGITAL SPEED
 - 📍 **Location:** London, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Principal Electrical Engineer](https://uk.indeed.com/viewjob?jk=26c2b8a2a8a8502b) — Mott MacDonald
-- 📍 **Location:** Glasgow, SCT, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Trainee White Goods Engineer - Rotherham [PAS219]](https://uk.indeed.com/viewjob?jk=2313d00b373bcae3) — Pacifica Group Ltd
-- 📍 **Location:** Rotherham, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior AI/ML Engineer](https://pl.indeed.com/viewjob?jk=37eb8b6c32e774a3) — Grape Up
-- 📍 **Location:** Białystok, PL, PL
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-22
-
-### [Senior C#./NET Developer for Interest Rate Service (IRS) solution | SEB, Solna](https://se.indeed.com/viewjob?jk=1162d6bc3dde1edb) — SEB | Skandinaviska Enskilda Banken
-- 📍 **Location:** Solna, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-22
-
-### [Middle Office Software Engineer, SG](https://sg.indeed.com/viewjob?jk=31fdb3bb17d31746) — JERA GLOBAL MARKETS PTE. LTD.
-- 📍 **Location:** SG
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2025-11-21
-
-### [Web Analytics Engineer](https://ro.indeed.com/viewjob?jk=39bd41de79d0a65c) — Rinf
-- 📍 **Location:** Timișoara, TM, RO
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
+
+### [2027 Software Dev Engineer Intern - Poland](https://pl.indeed.com/viewjob?jk=553a13a256493c39) — Amazon.com
+- 📍 **Location:** Gdańsk, PM, PL
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior .NET-utvecklare](https://se.indeed.com/viewjob?jk=01ef27fc0c6f04cd) — Devoote AB
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Product Engineer](https://se.indeed.com/viewjob?jk=2cc466e5046771a9) — Rasulson Consulting AB
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Full Stack Engineer (GenAI )](https://sg.indeed.com/viewjob?jk=4ff8dc5548822b27) — Kyndryl
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Quality Automation Engineer](https://sg.indeed.com/viewjob?jk=3cb24800a06611e4) — Kyndryl
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Solution Architect](https://ro.indeed.com/viewjob?jk=6f479fd34bc0aca8) — Ciklum
+- 📍 **Location:** RO
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-22
+
+### [Expert Artificial Intelligence/Machine Learning Engineer](https://ro.indeed.com/viewjob?jk=6889a5e151293bcb) — Ciklum
+- 📍 **Location:** RO
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-22
+
+### [Developer / Software Engineer](https://be.indeed.com/viewjob?jk=92fc8dbcb975ae1d) — Horus Software
+- 📍 **Location:** Liège, WAL, BE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-22
+
+### [Ingeniero/a SW .NET](https://es.indeed.com/viewjob?jk=f25f35b29ab803d4) — Capgemini Engineering
+- 📍 **Location:** Madrid, MD, ES
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-21
