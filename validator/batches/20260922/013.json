@@ -1,0 +1,37 @@
+{
+  "created_at": "2026-09-22T05:28:08+03:00",
+  "job_count": 2,
+  "finalized": false,
+  "jobs": [
+    {
+      "company": "Aqovia",
+      "title": "Software Engineer (Data Engineering C# .NET)",
+      "location": "Greater London, England, United Kingdom",
+      "url": "https://www.linkedin.com/jobs/view/4468795015/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About Aqovia\n\nAt Aqovia, we don’t just build software, we engineer impact. We are an international technology firm and strategic incubator creating real-world value through AI, data, and bespoke software solutions across fintech, healthcare, and sustainability.\n\nWe live and breathe agile and eXtreme Programming. We advocate for clean code, continuous integration, pair programming, and an AI-first mindset to software development.\n\nThe Role\n\nWe are looking for a Back-End Data Engineer\nto join our agile team. Operating at an SFIA 3 level, you will focus on building robust back-end microservices, high-performance data pipelines, managing MS SQL platforms, and implementing enterprise ETL solutions.\n\nKey Responsibilities\n\nBack-End & API Development: Design, build, and maintain back-end services, RESTful APIs, and microservices using C#, .NET, and NodeJS.\nData Engineering & ETL: Develop data pipelines, MS SQL database schemas, and enterprise ETL/ELT processes.\nIntegration & Streaming: Connect back-end applications to event-driven architectures using RabbitMQ or Azure Service Bus.\nAI & DevOps: Leverage modern AI tooling to streamline workflows, automate deployments via CI/CD, and monitor application health.\n\nWhat We’re Looking For\n\nCore Tech Stack: C#, .NET, NodeJS, and MS SQL Server (T-SQL, stored procedures, performance tuning).\nData Architecture: Hands-on experience with ETL workflows, data integration pipelines, and event-driven messaging (RabbitMQ or Azure Service Bus).\nCloud Infrastructure: Familiarity with Azure services (Azure Functions, Azure SQL).\nMindset: Proactive with AI tooling, comfortable with pair programming, and possessed of an entrepreneurial, problem-solving drive.\n\nWhy Join Us?\n\nCulture: Collaborative eXtreme Programming environment, rapid career advancement, and an incubator culture where innovation is rewarded.\nBenefits: Competitive salary, private healthcare, paid gym membership, pension scheme, Perkbox, and optional remunerated L2/L3 support.\n\nAqovia is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4468795015",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Free-Work UK",
+      "title": "Optimizely Developer",
+      "location": "Skelmersdale, England, United Kingdom",
+      "url": "https://www.linkedin.com/jobs/view/4470224620/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Optimizely Developer\n\nSpalding, Lincolnshire\n\n£50,000 - £60,000 + Holiday + Pension\n\nAre you an experienced Optimizely Developer looking to join a growing digital transformation consultancy where you will work on enterprise-level websites, cutting-edge digital platforms and customer experience solutions for a diverse portfolio of clients while further developing your expertise with modern Microsoft technologies?\n\nThis is an excellent opportunity to join an award-winning technology consultancy that delivers innovative software solutions to organisations across the UK. You'll play a key role in developing, customising and maintaining enterprise CMS solutions while collaborating with Business Analysts, Designers, Project Managers and fellow Developers.\n\nIn this hands-on role, you'll be involved throughout the full software development lifecycle, from technical design and estimation through to development, deployment and ongoing support. You'll work with technologies including C#, .NET, ASP.NET Core, SQL Server and Optimizely CMS to deliver scalable, secure and high-performing digital platforms.\n\nThe ideal candidate will have strong commercial experience with Optimizely CMS, C# and .NET development, along with experience building CMS-driven web applications and integrating third-party systems. Experience with Azure, Umbraco or modern headless architectures would be advantageous.\n\nThe Role\n\nDesign, develop and maintain websites and applications using Optimizely CMS\nDevelop scalable solutions using C#, .NET, ASP.NET Core and SQL Server\nBuild integrations with third-party APIs, enterprise systems and cloud services\nParticipate in technical design, estimation and solution architecture discussions\nSupport testing, deployments, documentation and ongoing platform enhancements\n\nThe Person\n\nCommercial experience with Optimizely CMS, Episerver or Optimizely DXP\nStrong C# and .NET development background\nExperience with ASP.NET Core, MVC and REST APIs\nKnowledge of HTML, CSS, JavaScript and responsive web development\nUnderstanding of CI/CD, source control and software development best practices\nStrong problem-solving and stakeholder communication skills\n\nReference Number: BBBH279251\n\nRise Technical Recruitment Ltd acts an employment agency for permanent roles and an employment business for temporary roles.\n\nThe salary advertised is the bracket available for this position. The actual salary paid will be dependent on your level of experience, qualifications and skill set and will be decided by our client, the employer. Rise are not responsible or liable for any hiring decisions made by the end client.\n\nWe are an equal opportunities company and welcome applications from all suitable candidates.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nHuman Resources Services",
+      "source": "LinkedIn",
+      "job_id": "4470224620",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
