@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e39e90b02c12fa79",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -45,9 +45,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c3bda68036ca3b2a",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "10+ years of hands-on experience building enterprise applications.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack engineer designing scalable enterprise applications with Java/Spring Boot and/or C#/.NET, Python, React, and modern web technologies.",
+        "direct_application_link": "https://careers.fitch.group/job/Manchester-Senior-Software-Engineer%2C-Full-Stack-Applications-Ratings-Technology-%28Manchester%29/1439819033/"
+      }
     },
     {
       "company": "Neptune Group of Companies",
@@ -68,8 +79,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9d796d1ae583f4f0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence; C# is only one optional programming-language example.",
       "validated": null
     },
     {
@@ -91,8 +102,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9c9512d06f8bd454",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: excellent French proficiency is explicitly required.",
       "validated": null
     },
     {
@@ -114,8 +125,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1dd85ee8e892b9d7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily non-English with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -137,8 +148,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9fd9515d6a4dd5f9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily non-English and German proficiency is explicitly required.",
       "validated": null
     },
     {
@@ -152,8 +163,8 @@
       "description": "Transform with us the future of energy ⚡\n\nThe SGB‑SMIT Group\nis an international transformer manufacturer with locations in Europe, Asia\nand America\n. With reliable transformer technology, the company actively supports the global energy transition in areas such as renewable energy, industry and urban energy infrastructure.\n\nAs a key link between power generation, transmission and distribution, SGB‑SMIT Group\ndevelops and manufactures power transformers, distribution transformers, cast‑resin transformers\nand custom solutions for data centers, industrial applications and e‑mobility. These products ensure efficient, stable and secure energy flows worldwide.\n\nWith more than 3,800 employees\nworldwide, the SGB‑SMIT Group\nstands for quality, innovation and sustainability and offers a stable environment to work on technologies that shape the energy systems of the future.\n\nWhat sets the SGB-SMIT Group apart : 🌍\n\nWe combine the strength of an international technology company\nwith an employee-oriented corporate culture\n:\n\nMeaningful work at the heart of the energy transition\nShort decision-making processes and direct cooperation\nStable, growing company with long-term prospects\n\nYour contribution counts – both professionally and personally\n.\n\nYour benefits at SGB-SMIT Group: 🚀\n\nStable, growing company with long-term prospects\nAttractive salary and social benefits\nFlexible working hours and hybrid working models\n30+1 vacation days plus special leave\nTraining and development opportunities\nCompany pension plan and employee insurance\nHealth and fitness offers (HanseFit)\nCompany restaurant, free drinks, and e-charging parking spaces\nBicycle and IT leasing\nSubsidy for Germany/RVV ticket\nEmployee discounts via Benify\n\nYour tasks: 📌\n\nDefine and continuously develop the software and implementation architecture of our Group Design Platform, including modules, interfaces, data ownership and technical roadmaps.\nProvide technical leadership for the existing C#/.NET environment and guide its development toward scalable, maintainable and testable solutions.\nEvaluate technical alternatives, dependencies and risks, and document architecture decisions and recommendations transparently.\nEstablish software development standards for coding, APIs, data models, automated testing, versioning, documentation and code reviews.\nIdentify and assess AI use cases, technologies and models, and guide the implementation of selected AI-enabled platform capabilities.\nCollaborate with Product Owners, project managers, engineering experts, users and development teams to deliver appropriate technical solutions.\nReview software designs, critical code, integration concepts and supplier proposals to ensure compliance with the platform architecture.\nDrive modernization, refactoring, performance improvement, cybersecurity and technical-debt reduction while supporting Agile/Scrum and stage-gate processes\n\nYour profile: 🔎\n\nBachelor’s or Master’s degree in Computer Science, Software Engineering or a comparable technical discipline.\nAt least eight years of professional software development experience, including several years in software architecture or technical leadership.\nStrong hands-on expertise in C# and the .NET ecosystem, ideally gained in complex engineering, desktop, web or service applications.\nIn-depth knowledge of software architecture, domain-driven design, modular architectures, design patterns, APIs, data architecture and system integration.\nPractical experience with AI-enabled software, model integration, data pipelines, workflow orchestration, evaluation, monitoring and governance.\nGood knowledge of DevOps, CI/CD, source control, automated testing, release pipelines and secure software development.\nStrong analytical, communication, mentoring and stakeholder-management skills, combined with the ability to guide distributed and external development teams.\nEnglish skills at C1 level or equivalent. Knowledge of German and experience with industrial engineering software, PLM, CAD, SAP, databases or cloud architectures are additional advantages.\n\nIf you value a dynamic, growing, and intercultural environment and enjoy hands-on work, then become part of the SGB-SMIT Group\n- transform with us the future of energy\n. ⚡\n\nWe look forward to receiving your application! ⚡\n\nLearn more about the SGB-SMIT Group as an employer, our values, and career opportunities on our careers page:\n\nhttps://www.sgb-smit.com/career-jobs/sgb-smit-group#/\n\nThe terms used in this text refer to all genders in accordance with the General Equal Treatment Act (AGG).\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nElectrical Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4470230619",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -167,8 +178,8 @@
       "description": "Zachary Piper Solutions is seeking an Application Identity Developer (Technical)\nto support a federal program in Stuttgart, Germany.\nThe Application Identity Developer\nwill serve as a hands-on engineer responsible for developing, integrating, and securing enterprise applications within a large-scale Identity, Credential, and Access Management (ICAM) environment. This role is heavily focused on coding, authentication integrations, API development, automation, and troubleshooting complex identity solutions supporting mission-critical systems.\n\nResponsibilities of the Application Identity Developer include:\n\nDevelop and maintain custom identity integrations using Python, Java, .NET, PowerShell, or similar technologies to support enterprise application onboarding and authentication workflows.\nBuild and configure secure application authentication solutions leveraging SAML 2.0, OAuth 2.0, OpenID Connect (OIDC), and federation technologies.\nDesign, develop, and troubleshoot REST APIs, identity broker integrations, and access management services supporting enterprise applications.\nImplement authentication and authorization logic through PingFederate, PingAccess, F5 BIG-IP/APM, reverse proxies, and API gateway technologies.\nAutomate identity lifecycle, access provisioning, application integration, and validation processes using scripting and infrastructure automation tools.\nDebug and resolve complex authentication, authorization, federation, and Single Sign-On (SSO) issues across distributed environments.\nCollaborate with security engineers and application teams to implement Zero Trust access controls and modern ICAM enforcement capabilities.\n\nQualifications for the Application Identity Developer include:\n\n8+ years of experience with Software Development focusing on Applications and IAM/ICAM environments\nExperience with Python, Java, .NET, PowerShell, REST APIs, or similar programming technologies.\nStrong knowledge of SAML, OAuth 2.0, OpenID Connect (OIDC), Single Sign-On (SSO), and modern authentication architectures.\nExperience with PingFederate, PingAccess, Okta, Entra ID, Active Directory, SailPoint, F5 BIG-IP/APM, or related identity technologies.\nActive Secret Security Clearance required.\nBachelor's degree\n\nCompensation for the Application Identity Developer includes:\n\nSalary Range: $180,000 - $225,000 based on experience\nFull Benefits Package: PTO, Paid Holidays, Medical, Dental, Vision, 401K, Tuition Reimbursement, Paid Maternity Leave, Military Reserve Pay Offset\n\nKeywords: Application Identity Developer, Software Engineer, IAM Developer, ICAM Developer, Identity and Access Management, Enterprise ICAM, eICAM, Python, Java, .NET, PowerShell, REST API Development, API Integration, Authentication, Authorization, SAML, OAuth 2.0, OpenID Connect, OIDC, Single Sign-On, SSO, PingFederate, PingAccess, F5 BIG-IP APM, Identity Broker, Entra ID, Active Directory, SailPoint, Zero Trust, Federal Security, Secret Clearance, Stuttgart Germany, OCONUS, overseas\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4468777721",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET is only one of several alternative technologies and is not established as the primary backend stack.",
       "validated": null
     },
     {
@@ -182,8 +193,8 @@
       "description": "Essential Skills and Experience\n\nExperience delivering or supporting industrial information systems, manufacturing software, or OT integration projects.\nStrong understanding of industrial communication protocols and technologies, including:\nOPC DA and OPC UA\nMQTT\nModbus TCP and Modbus RTU\nEtherNet/IP\nExperience with one or more industrial historian platforms.\nExperience with industrial application platforms.\nExperience with SQL database knowledge, including:\nDatabase and table design\nSQL query development\nStored procedures\nData troubleshooting\nPerformance and connectivity troubleshooting\nExperience integrating data between industrial systems, databases, and software applications.\nExperience developing reports and dashboards using Power BI, Microsoft Excel, or equivalent tools.\nAbility to troubleshoot issues across software applications, databases, networks, protocols, and industrial devices.\nUnderstanding of the project delivery lifecycle, including design, development, testing, deployment, and support.\nAbility to produce clear technical documentation and maintain accurate engineering records.\n\nPreferred Skills\n\nHands-on experience with Ignition, AVEVA System Platform, AVEVA PI System, Canary Historian, or AspenTech InfoPlus.21.\nExperience configuring Kepware or other OPC connectivity software.\nKnowledge of Unified Namespace architecture and MQTT-based industrial integration.\nKnowledge of ISA-95 and IT/OT architecture concepts.\nExperience with REST APIs, web services, JSON, XML, or other application integration technologies.\nExperience with Python, PowerShell, C#, Java, or other programming and scripting languages.\nFamiliarity with Git or another version control system.\nExperience using AI-assisted development environments and coding agents, such as GitHub Copilot, Claude Code, Cursor, or equivalent tools.\nUnderstanding of Windows Server, virtual machines, networking, firewalls, and related infrastructure concepts.\nFamiliarity with containers, Docker, cloud platforms, or cloud-connected industrial solutions.\nUnderstanding of industrial cybersecurity principles and secure system implementation practices.\nExperience working in manufacturing, process industries, or other industrial environments.\nWorking knowledge of PLC, SCADA, and industrial automation system architectures\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nAutomation Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4468776967",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is industrial systems/OT integration; C# is only a preferred optional scripting/programming technology.",
       "validated": null
     },
     {
@@ -197,8 +208,8 @@
       "description": "Offene Stellen\n\nStelle gesucht\n\nOffene Stellen eintragen\n\nStellengesuche eintragen\n\nSoftware Inbetriebnahmetechniker (C#) (m/w/d)\n\nveröffentlicht am 7.7.2026\n\nAllgemein\n\nIm SCIO Business Segment Production Solutions angesiedelt, liegt der Schwerpunkt des Teams der SCIO Automation Austria GmbH mit Hauptsitz in Albersdorf-Prebuch (Steiermark) in der Entwicklung prozess- und kostenoptimierter Sondermaschinen wie Fertigungs-, Montage-, Mess- und Prüflinien unterschiedlichster Branchen. Von der Handvorrichtung bis zur vollautomatisierten Anlage, von schlüsselfertigen Neuanlagen bis zur Nachrüstung von Bestandanlagen – das Team agiert dabei als flexibler Technologiepartner. Zudem entwickeln wir innovative BDE- und MES-Systeme für „Smart Production“, von Industrie 4.0 Live-OEE Dashboards mit modernen Web-Technologien bis zu komplexen Schnittstellen für Anlagensteuerungen, Sensoren und Aktoren.\n\nAnforderungen\n\nWir Wünschen Uns\n\nAbgeschlossene technische Ausbildung (HTL oder ähnliches)\nMind. 2 Jahre Berufserfahrung und Kenntnisse in objektorientierter * Softwareentwicklung im .NET Umfeld (C# und ASP.NET)\nSQL-Wissen und Kenntnisse im Umgang mit aktuellen\nDatenbanksystemen von Vorteil\nMSSQL-Kenntnisse von Vorteil\nVerantwortungsbewusstsein, Einsatzbereitschaft und Initiative\nEine lösungsorientierte Herangehensweise an neue Aufgabenstellungen\n\nFlexibilität, Anpassungsfähigkeit und Belastbarkeit\n\nReisebereitschaft 10-20 %\n\nAufgabenbereiche\n\nDie Schwerpunkte Der Tätigkeit Umfassen\n\nKonfiguration und Anpassung unserer Softwarelösungen entsprechend den individuellen Anforderungen und Geschäftsprozessen unserer Kund:innen\nEntwicklung von Applikationen auf Basis moderner * Microsoft‑.NET‑Technologien unter Berücksichtigung von Qualitäts-, Performance- und Sicherheitsaspekten\nWeiterentwicklung, Optimierung und Wartung bestehender Anwendungen über den gesamten Lebenszyklus hinweg\nAktive Mitarbeit bei der Analyse, Konzeption und Definition von * Anforderungsspezifikationen in enger Abstimmung mit Kunden, Fachabteilungen und internen Teams\nInbetriebnahme, Konfiguration und Betreuung unserer Softwarelösungen, sowohl remote als auch direkt vor Ort bei Kund:innen\nEnge Zusammenarbeit mit unterschiedlichen internen und externen Schnittstellen\n\nUnternehmen:\nSCIO Automation Austria GmbH Ort:\nAlbersdorf-Prebuch Gehalt (Brutto):\nDiese Position wird mit mind. brutto € 3.000,-- (KV für Angestellte im Metallgewerbe, VWGr III/ n. 2J.) entlohnt. Eine Überzahlung ist in Abhängigkeit von deiner beruflichen Qualifikation und Erfahrung selbstverständlich möglich. Arbeitszeiten:\nNach Vereinbarung Kontaktdaten:\n\nSCIO Automation Austria GmbH\n\nIndustriestraße 1\n\n8200 Albersdorf-Prebuch\n\nNadine Gspandl\n\nnadine.gspandl@scio-automation.com\n\nZusätzliche Dateien:\nDownload\n\nZurück\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nMarketing Services",
       "source": "LinkedIn",
       "job_id": "4468197358",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily non-English with no complete official English version confirmed.",
       "validated": null
     }
   ]
