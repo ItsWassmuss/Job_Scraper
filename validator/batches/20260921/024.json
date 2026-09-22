@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3c8ba68deba41ccf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Automation/PLC role lists C# only as one of several programming-language options; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "96bc27d9b516ffae",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily Azure DevOps/infrastructure engineering, not backend .NET development.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f9519a43cdf5c4a6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Business application support role lists C# only as one of several possible languages; backend .NET is not the primary discipline.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b7ca190679e40916",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Full job description is primarily French and French or Dutch is explicitly required.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d8c3a0893219ee0f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily customer technical support; C# is only one of several incidental programming languages.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1ef81cbad918a41a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily French and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "552abae520df49d3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Full job description is primarily French and fluent French is explicitly mandatory.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "69946ac30e6af67d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend stack may be Node.js, Java, Python, or .NET; .NET/C# is not clearly primary.",
       "validated": null
     },
     {
@@ -206,9 +206,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bfb65df2e8e535a4",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "5+ years of professional software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack engineering role delivering end-to-end retail applications using F#/.NET, React/TypeScript, PostgreSQL, and cloud infrastructure.",
+        "direct_application_link": "https://ch.indeed.com/viewjob?jk=bfb65df2e8e535a4"
+      }
     },
     {
       "company": "knowmad mood",
@@ -229,8 +240,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "aa728e5bfa611cfd",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Senior .NET role is focused on architecture, observability, refactoring, and IT4IT with no explicit backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -252,8 +263,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9b466694d65a1969",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -275,8 +286,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0c5e9996aad477f5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Senior .NET role is focused on architecture, observability, refactoring, and IT4IT with no explicit backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -298,8 +309,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7d5eb3ad41b250ed",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -321,8 +332,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "164da369489bbb36",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -344,8 +355,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5dec139453153bf5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily customer-facing solutions architecture; C# is one of several general programming-language options.",
       "validated": null
     },
     {
@@ -367,8 +378,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e9c55de3f1b4fdff",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily clinical data engineering; C# is one of several possible languages and backend .NET is not required.",
       "validated": null
     },
     {
@@ -390,8 +401,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d37f7c36b87daa42",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily DevOps/infrastructure engineering; .NET applications are only supporting platform context.",
       "validated": null
     },
     {
@@ -413,8 +424,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d77dae2fea32ff68",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -436,8 +447,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b942a03fdbf7b265",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive stored job description is primarily Spanish and no matching complete official English version was reliably confirmed.",
       "validated": null
     },
     {
@@ -459,8 +470,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "48aaa67c5b652066",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily SAP Basis/SAP solution engineering, not backend .NET development.",
       "validated": null
     },
     {
@@ -482,8 +493,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8fb7c2c89447888b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Project-engineering role prefers C, C#, and Python generally; no backend/server-side .NET evidence is required.",
       "validated": null
     },
     {
@@ -505,8 +516,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a68ef6952a251562",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -528,8 +539,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "64ab614ca47f558d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend and framework stack is Java/Spring Boot, not .NET.",
       "validated": null
     },
     {
@@ -551,8 +562,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0de71f327da4e294",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary implementation language is Python for AI-agent services; C# is only a code-reading nice-to-have.",
       "validated": null
     },
     {
@@ -574,8 +585,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c545dd98dbd414c7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive stored job description is primarily Spanish and no matching complete official English version was reliably confirmed.",
       "validated": null
     },
     {
@@ -597,8 +608,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f72e6891e85f7159",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Confirmed official role uses PowerBuilder and PL/SQL; .NET is only listed among the wider organization's technologies.",
       "validated": null
     },
     {
@@ -620,9 +631,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d63e85f98ce4eb86",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "5+ years professional experience with .NET technologies; 5+ years full-stack development.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack role building ASP.NET MVC and .NET backend services, Angular interfaces, REST APIs, SQL Server, and Entity Framework solutions.",
+        "direct_application_link": "https://pt.indeed.com/viewjob?jk=d63e85f98ce4eb86"
+      }
     },
     {
       "company": "Intapp",
@@ -643,9 +665,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fa37e7fb2e2f60bd",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "5-8 years of professional experience; 5+ years developing with .NET and Azure.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software engineering role designing and deploying C#/.NET and ASP.NET cloud-native applications on Microsoft Azure.",
+        "direct_application_link": "https://pt.indeed.com/viewjob?jk=fa37e7fb2e2f60bd"
+      }
     },
     {
       "company": "Wolters Kluwer",
@@ -666,9 +699,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9d32793bfcc19160",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior backend role developing C#/.NET and ASP.NET Core cloud services, APIs, business logic, and Azure-based solutions.",
+        "direct_application_link": "https://pt.indeed.com/viewjob?jk=9d32793bfcc19160"
+      }
     },
     {
       "company": "nls",
@@ -689,8 +733,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2f5e128768d6df1f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: Mandatory up-to-2-years professional experience in similar software-development functions has no overlap with the 5-10 year target.",
       "validated": null
     },
     {
@@ -712,8 +756,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e240a92445cd90e5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Full job description is primarily Portuguese and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -735,8 +779,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a7490ed79e2bdf9a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Role explicitly requires authorization to work in Portugal and states employment-visa sponsorship is unavailable.",
       "validated": null
     },
     {
@@ -758,8 +802,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "56c70fa94bfa4196",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Quotation engineering role has no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -781,8 +825,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a68cc604bd181fc5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily manufacturing test engineering, not backend .NET development.",
       "validated": null
     },
     {
@@ -804,9 +848,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7fd971d0d9f3e9bd",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "5+ years Dynamics 365 development; 5 years C#, plugins, custom APIs, JavaScript/TypeScript, and Dataverse SDK.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Dynamics 365 and Power Platform development role building server-side C# plugins, custom APIs, integrations, and Dataverse solutions.",
+        "direct_application_link": "https://qa.indeed.com/viewjob?jk=7fd971d0d9f3e9bd"
+      }
     },
     {
       "company": "Unknown",
@@ -827,9 +882,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "929f5eeb3c430373",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Minimum 5 years with Angular and .NET Core.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack role building .NET Core APIs and database layers with EF Core alongside Angular web applications.",
+        "direct_application_link": "https://qa.indeed.com/viewjob?jk=929f5eeb3c430373"
+      }
     },
     {
       "company": "HCLTech",
@@ -850,8 +916,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9ecee6876e365dae",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily UiPath/RPA solution architecture; .NET/C# is supporting automation technology rather than backend .NET development.",
       "validated": null
     },
     {
@@ -873,9 +939,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a4d568e42001ebf4",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "5+ years of professional software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack role developing ASP.NET Core REST APIs, .NET Core application logic, SQL Server databases, and React/Angular frontends.",
+        "direct_application_link": "https://ae.indeed.com/viewjob?jk=a4d568e42001ebf4"
+      }
     },
     {
       "company": "Missan IT Solutions",
@@ -896,8 +973,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b1329a7435cea100",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend may use Node.js, .NET Core, Python, or PHP; .NET/C# is not clearly primary.",
       "validated": null
     },
     {
@@ -919,9 +996,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "79baeff198fad437",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "2-5+ years of full-stack development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack ERP role building .NET Core APIs and business logic with SQL/NoSQL databases and React or Angular frontends.",
+        "direct_application_link": "https://ae.indeed.com/viewjob?jk=79baeff198fad437"
+      }
     },
     {
       "company": "KBR",
@@ -942,8 +1030,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cf5251eaf41a97a1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "FRESHNESS: Configured-source live page shows Posted Date 08/26/2026, which is conclusively older than the 24-hour freshness window.",
       "validated": null
     },
     {
@@ -957,9 +1045,20 @@
       "description": "AVEVA is creating software trusted by over 90% of leading industrial companies.\n\nJob Title:\n R&D Member of Technical Staff II, Core AI Services\n\nLocation:\n Cambridge, United Kingdom (Hybrid)\n\nEmployment Type:\nfull-time\n\nThe job \n\nWe are looking for a passionate Software Engineer to join our Core AI Services team. In this role, you will help design, develop, and scale AI-enabling platform services and public APIs that are secure, reliable, and cloud-native. These services will act as foundational building blocks for AI adoption across AVEVA’s product portfolio and partner ecosystem. \n\nIf you are a motivated engineer who is energized by the challenge of building scalable platform services and clean APIs for modern AI workloads, we want to talk to you. \n\nWorking at the forefront of agentic systems and harness engineering, you will join an agile Scrum team with a true builder mindset—delivering innovative, secure, and production-grade AI capabilities with the agility of a startup. This role is ideal for an engineer with a genuine passion for keeping up with the latest AI engineering patterns and practices, eager to translate emerging tech into reliable, enterprise-ready software.\n\nKey responsibilities\n\nBuild scalable, fault-tolerant cloud-native services on Microsoft Azure, ensuring high performance and reliability. \nDevelop and refine secure, well-documented public APIs and SDKs for consumption by internal and external developers using ASP.NET Core and C#. \nCollaborate with cross-functional teams to deliver end-to-end solutions across data pipelines, orchestration, and service APIs. \nEmbed robust security controls to protect sensitive data and ensure secure access to AI services. \nParticipate in design reviews, code reviews, and implementation discussions to ensure engineering excellence. \n\nEssential Requirements\n\nMinimum of 2 years professional experience in software engineering, preferably in platform or cloud-native service development, Microsoft and .NET technologies a plus. \nSolid understanding of RESTful API design, versioning, testing, and lifecycle management. \nProficient in securing APIs, managing authentication/authorization and data privacy practices. \nPractical experience deploying and debugging scalable cloud-native services using PaaS, Docker, and Kubernetes. \nExcellent problem-solving skills, with the ability to analyse complex technical challenges and propose scalable solutions. \n\nDesired Skills And Competencies\n\nInterest or exposure to Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agent orchestration, prompt engineering, and tool calling. \nFamiliarity with AI standards such as Model Context Protocol (MCP) and Agent2Agent (A2A).  \nExperience with tools for automated testing and evaluation of AI outputs \nExperience working in Agile teams and collaborating across global R&D locations \n\nR&D at AVEVA\n\nOur global team of 2000+ developers work on an incredibly diverse portfolio of over 75 industrial automation and engineering products, which cover everything from data management to 3D design. AI and cloud are at the centre of our strategy, and we have over 150 patents to our name.\n\nOur track record of innovation is no fluke – it’s the result of a structured and deliberate focus on learning, collaboration and inclusivity. If you want to build applications that solve big problems, join us.\n\nFind out more: aveva.com/en/about/careers/r-and-d-careers/\n\nUK Benefits include:\n\nFlexible benefits fund, emergency leave days, adoption leave, 28 days annual leave (plus bank holidays), pension, life cover, private medical insurance, parental leave, education assistance program.\n\nIt’s possible we’re hiring for this position in multiple countries, in which case the above benefits apply to the primary location. Specific benefits vary by country, but our packages are similarly comprehensive.\n\nFind out more: aveva.com/en/about/careers/benefits/\n\nHybrid working\n\nWe work in a hybrid way at AVEVA. Most roles are based at a local AVEVA office, with an expectation of being on-site 50% of your working hours to support collaboration and connection. Some positions are fully office-based depending on the nature of the work, and certain roles that support specific customers or markets may be remote. The working arrangement for this position will be confirmed during the hiring process.\n\nHiring process\n\nInterested? Great! Get started by submitting your cover letter and CV through our application portal. AVEVA is committed to recruiting and retaining people with disabilities. Please let us know in advance if you need reasonable support during your application process.\n\nFind out more: aveva.com/en/about/careers/hiring-process\n\nAbout AVEVA\n\nAVEVA is a global leader in industrial software with more than 6,500 employees in over 40 countries. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals, and minerals – safely, efficiently, and more sustainably.\n\nWe are committed to embedding sustainability and inclusion into our operations, our culture, and our core business strategy. Learn more about how we are progressing against our ambitious 2030 targets: sustainability-report.aveva.com/\n\nFind out more: aveva.com/en/about/careers/\n\nAVEVA requires all successful applicants to undergo and pass a drug screening and comprehensive background check before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third-party personal data may involve additional background check criteria.\n\nAVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify your recruiter. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4469935478",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Minimum 2 years of professional software engineering experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Cloud-native AI platform role building scalable services and public APIs using ASP.NET Core and C# on Microsoft Azure.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4469935478/"
+      }
     },
     {
       "company": "AVEVA",
@@ -972,8 +1071,8 @@
       "description": "AVEVA is creating software trusted by over 90% of leading industrial companies.\n\nSenior Software Engineer, Core AI Services\n\nLocation: Cambridge, United Kingdom (hybrid)\n\nEmployment type: Full-time\n\nThe job\n\nWe are looking for a passionate Senior Software Engineer to join our Core AI Services team at the forefront of industrial AI Innovation. In this role, you will help design, develop, and scale AI-enabling platform services, agentic workflows, and public APIs that are secure, reliable, and cloud-native. These services will act as foundational building blocks for AI adoption across AVEVA’s product portfolio and partner ecosystem.\n\nIf you are a motivated engineer who is energized by the challenge of building scalable platform services and clean APIs for modern AI workloads, we want to talk to you. \n\nWorking at the forefront of agentic systems and harness engineering, you will join an agile Scrum team with a true builder mindset—delivering innovative, secure, and production-grade AI capabilities with the agility of a startup. This role is ideal for an engineer with a genuine passion for keeping up with the latest AI engineering patterns and practices, eager to translate emerging tech into reliable, enterprise-ready software.\n\nKey Responsibilities:\n\nDesign, build, and maintain scalable, fault-tolerant cloud-native services on Microsoft Azure.\nDevelop secure, well-documented public APIs and SDKs for consumption by internal engineering teams and external partners.\nDrive feature implementation from design to production, taking ownership of code quality, performance, and system reliability.\nPartner with cross-functional teams to deliver end-to-end solutions across data pipelines, orchestration layers, and service APIs.\nEmbed robust security controls, identity management, and privacy-by-design practices across all AI services.\nActively contribute to design reviews, code reviews, and technical discussions to champion engineering best practices.\nSupport and mentor junior and mid-level developers, fostering a culture of continuous learning and innovation.\n\nCore Skills and Qualifications:\n\n5–8+ years of software engineering experience across the full stack, with strong expertise in cloud-native backend development (.NET C# a plus).\nHands-on experience with containerized deployments in Kubernetes.\nDeep understanding of RESTful API design, versioning, testing, and full lifecycle management.\nStrong knowledge of securing APIs (OAuth2, OIDC, RBAC) and implementing data privacy best practices.\nProficiency in using modern AI-assisted development tools (e.g., GitHub Copilot) to accelerate daily engineering workflows.\nStrong problem-solving abilities, with a track record of analysing complex technical challenges and delivering scalable solutions.\nExperience working in Agile/Scrum teams across distributed global R&D locations.\nProven ability to mentor colleagues and elevate team code quality.\n\nR&D at AVEVA\n\nOur global team of 2000+ developers work on an incredibly diverse portfolio of over 75 industrial automation and engineering products, which cover everything from data management to 3D design. AI and cloud are at the centre of our strategy, and we have over 150 patents to our name. \n\nOur track record of innovation is no fluke – it is the result of a structured and deliberate focus on learning, collaboration, and inclusivity. If you want to build applications that solve big problems, join us. \n\nOur track record of innovation is no fluke – it’s the result of a structured and deliberate focus on learning, collaboration and inclusivity. If you want to build applications that solve big problems, join us.\n\nFind out more: aveva.com/en/about/careers/r-and-d-careers/\n\nUK Benefits include:\n\nFlexible benefits fund, emergency leave days, adoption leave, 28 days annual leave (plus bank holidays), pension, life cover, private medical insurance, parental leave, education assistance program.\n\nIt’s possible we’re hiring for this position in multiple countries, in which case the above benefits apply to the primary location. Specific benefits vary by country, but our packages are similarly comprehensive.\n\nFind out more: aveva.com/en/about/careers/benefits/\n\nHybrid working\n\nWe work in a hybrid way at AVEVA. Most roles are based at a local AVEVA office, with an expectation of being on-site 50% of your working hours to support collaboration and connection. Some positions are fully office-based depending on the nature of the work, and certain roles that support specific customers or markets may be remote. The working arrangement for this position will be confirmed during the hiring process.\n\nHiring process\n\nInterested? Great! Get started by submitting your cover letter and CV through our application portal. AVEVA is committed to recruiting and retaining people with disabilities. Please let us know in advance if you need reasonable support during your application process.\n\nFind out more: aveva.com/en/about/careers/hiring-process\n\nAbout AVEVA\n\nAVEVA is a global leader in industrial software with more than 6,500 employees in over 40 countries. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals, and minerals – safely, efficiently, and more sustainably.\n\nWe are committed to embedding sustainability and inclusion into our operations, our culture, and our core business strategy. Learn more about how we are progressing against our ambitious 2030 targets: sustainability-report.aveva.com/\n\nFind out more: aveva.com/en/about/careers/\n\nAVEVA requires all successful applicants to undergo and pass a drug screening and comprehensive background check before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third-party personal data may involve additional background check criteria.\n\nAVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify your recruiter. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4469942237",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend development is required, but .NET/C# is explicitly only a plus.",
       "validated": null
     },
     {
@@ -987,8 +1086,8 @@
       "description": "C# Software Developer | Quant Trading | London (Hybrid)\n\nUp to £130k Base + Bonus\n\nJoin a leading quantitative trading firm and work directly with traders to build innovative, high-performance trading applications and tools.\n\n💻 The Role:\n\nDevelop impactful C# applications supporting front-office trading.\nCollaborate closely with traders to deliver technology-driven solutions.\nWork in a fast-paced, collaborative quantitative trading environment.\n\n🎯 What We're Looking For:\n\nStrong commercial C# development experience.\nPassion for building high-quality software.\nAn interest in financial markets and trading technology.\n\n📍 London | Hybrid Working\n💰 Up to £130k Base + Bonus\n\nInterested in building technology that directly impacts trading? Get in touch by applying below or emailing me directly at rknight@hunterbond.com\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering, Information Technology, and Finance\n\nIndustries\n\nFinancial Services, Banking, and Investment Management",
       "source": "LinkedIn",
       "job_id": "4467652297",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role requires C# trading application development but provides no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -1002,9 +1101,20 @@
       "description": "About the job:\n\nWe are looking for experienced full-stack developers to join our expanding development team to lead development work on our market leading intelligence platforms.\nYou will have demonstratable experience in leading development of high-performance front-end applications, APIs, back-end services, database solutions, and CI/CD pipelines.\n\nWhat you’ll be doing:\n\nLeading software development for our platforms, APIs and data gathering operations\nWorking with large and complex relational databases including spatial\nEnsuring successful development using agile methodologies\nWorking across the software development cycle, from initial wireframing to final deployment\nLead collaboration\nwith stakeholders for requirement gathering and project planning\nGuide and mentor developers to achieve project deliverables in a timely manner\nWorking across teams, supporting clients and reporting progress to senior management\n\nYou’ll need to have:\n\nMinimum 4 years’\nexperience in software development working within SDLC practises\nExperience in updating stakeholders with project progress and supervising junior developers\nComputer Science or equivalent numerate degree with minimum 2:1 level grade\nGood organisational skills and strong attention to detail\n\nYou’ll need to have these demonstratable technical skills:\n\nVery strong skills in . NET development in C#\n\nVery strong skills in frontend\nlanguages and frameworks such as: Angular, Typescript, JavaScript, Bootstrap, Kendo UI\n\nVery strong skills in backend\nservices such as: C#, WebApi, Python\n\nStrong skills of using data\nproviders such as: SQL Server,\n\nExperience building CI/CD pipelines with: Bitbucket, Git, TeamCity CI, Octopus Deploy, JIRA Issue Tracking or comparable products\nProficient with AI\nDevelopment productivity tools such as Claude Code, GitHub Copilot\n\nWe love to see:\n\nCuriosity and willingness to learn new techniques, programming languages and software tools and an appreciation of the wider software development landscape\nAny knowledge of the maritime, offshore oil and gas, or offshore renewable industries\nAwareness of global trade, economics, and statistics\nAny working knowledge of using Azure Services including Event Hubs, Azure Kubernetes Services, Databricks, Azure Redis and Azure Foundry\n\nWorking at Clarksons Research:\n\nClarksons Research is the leading global provider of intelligence and research across shipping, trade, offshore and energy. Respected worldwide, the Clarksons Research team of over 175 experts provides powerful analysis, insight, and data through a range of online platforms, reports, valuations, and consultancy work. Clarksons Research is part of the Clarksons Group, the world’s leading integrated shipping services provider and a FTSE 250 company.\n\nDetails:\n\nSalary:\nCompetitive (dependent on experience) plus bonus and benefits\nLocation\n: Midlands/Hybrid/Remote\nNumber of vacancies:\n1\nStart date:\nQ4 2026\nClosing date:\n1 st November\n2026\n(though applications reviewed and accepted immediately)\nThink you’d be a good fit:\n\nTo prioritise your application for immediate review or to highlight relevant maritime or energy industry experience, please send a CV and letter to recruitment.crs@clarksons.com quoting reference CRSL/Sr.DEV-UK/516\n\nIn the meantime, have a look at www.clarksons.net/about-us and www.clarksons.com/research\n\nWhat to expect from us: \n\nWe believe in human insights, and all applications are reviewed by real people, not algorithms. We know your time is valuable and aim to keep to a two-stage process where possible.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nResearch",
       "source": "LinkedIn",
       "job_id": "4469935614",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 4 years of software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack role leading .NET/C# development across APIs, backend WebApi services, databases, frontend applications, and CI/CD.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4469935614/"
+      }
     },
     {
       "company": "Futureheads Recruitment | B Corp™",
@@ -1017,8 +1127,8 @@
       "description": "AI Engineer | £500/day Outside IR35\n\nI'm working with a leading European technology business that has recently undergone a major technology transformation, building a new AI-driven, cloud-native platform now live with a significant customer base.\n\nKey details:\n\nAI Engineer\n\nStrong fundamentals in C# / .NET, Angular/React, AWS - Now building in modern frameworks\n\nEuropean Industry Leader\n\nHybrid - 1 Day per week in Central London\n\n£500/day Outside IR35, 3m initial term, high chance of extension\n\nThey're looking for multiple AI Engineers on a contractual basis to continue enhancing the platform, maintaining their industry leading status. We're looking for innovative full stack engineers with strong software engineering fundamentals, particularly those with:\n\nA genuinely AI-first approach to development,\nusing tools such as Claude, Cursor or Copilot as part of your daily workflow\nStrong C# / .NET\nexperience - now building in Python\nGood Angular or React\nexperience\nExperience with AWS / cloud-native development\n\nStrong software engineering fundamentals across APIs, databases, testing and CI/CD\nExperience with LLMs, agentic systems or AI-powered products\nwould be a strong plus\n\nThe team is small, experienced and moves quickly, so we're looking for someone pragmatic, self-sufficient, collaborative and comfortable taking ownership\n.\n\nAI Engineer | £500/day Outside IR35\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nSoftware Development, IT System Custom Software Development, and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4467644775",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Current role is primarily Python AI engineering; C#/.NET is prior experience rather than the primary implementation stack.",
       "validated": null
     },
     {
@@ -1032,8 +1142,8 @@
       "description": "Webex Real-time Media Engineering Group\n\nMeet the Team\n\nCisco's Webex Real-time Media Engineering Group is redefining the future of collaboration. We're building a world where people connect effortlessly to enjoy modern, uncompromised collaboration across every room, desk, pocket, and application.\n\nOur technology powers industry-leading products like Webex Meetings, Webex Calling, and Webex Contact Center. As a member of our team, your work will ensure every user gets a truly immersive experience regardless of device or location, empowering the hybrid working patterns of the future.\n\nOur team is based in one of our central London offices, near Liverpool Street station. We operate a hybrid working model, meeting to collaborate in the office three times a week.\n\nYour Impact\n\nFull Lifecycle Development: Work in an agile team to design, develop, test, and deliver new features and improvements to our products.\nDevOps & Microservices: Be trained on and help manage the operational side of our highly available microservice architecture, including being part of an on-call rotation.\nAdaptable & Problem-Solver: Tackle varied and challenging problems daily, showing flexibility, a data-driven focus on quality, and an ability to learn new skills quickly.\nOwnership & Quality: Take responsibility for tasks, from building new functionality to developing automated tests and investigating issues, all with a level of high attention to detail.\nAI: Use a variety of AI tools in your daily workflow for enhanced productivity; contribute to Cisco’s growth by using and applying AI in new scenarios and opportunities.\nSupport & Growth: Receive dedicated mentorship and formal training from a supportive team of fellow engineers to help you get up to speed and grow your skills.\n\nMinimum Qualifications\n\nAnalytical Degree: Bachelor's or higher degree in an analytical subject (e.g. Computer Science, Engineering, Maths, Physics).\nCoding Aptitude: 10+ years of professional programming experience in C++/C#, and the willingness to learn new languages quickly.\nExperience with Linux development: Experience with using Linux and developing software running on Linux.\nExperience with virtualisation and containers: An understanding of virtual machines and containerisation technologies, and experience with Docker.\n\nPreferred Qualifications\n\nAny of the following skills would be particularly advantageous, but we welcome applications without these:\n\nFamiliarity with Kubernetes\nFamiliarity with Windows development\nExperience with data science / AI\nKnowledge of networks and networking protocols (such as TCP/IP and HTTP)\nExposure to cryptography\nFamiliarity with audio and video coding, processing techniques, and technologies (such as Opus or H.264)\nFamiliarity with Git, DevOps, continuous integration, continuous delivery\n\nCollabHiring.\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4442588652",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on C++/C# Linux systems programming and provides no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -1047,8 +1157,8 @@
       "description": "About This Role\n\nAt BlackRock, technology underpins everything we do. AI is a core strategic priority for the firm, embedded across Aladdin and our investment, client, and operational platforms. We are seeking an AI Infrastructure Engineer to help build and operate the foundational infrastructure that enables AI systems to scale safely, securely, and reliably across the enterprise.\n\nThis role sits within Aladdin Platform Engineering and focuses on the infrastructure and platform services required to support machine learning models, large language models (LLMs), and emerging AI capabilities in production. The successful candidate will work closely with AI Engineers, Data Scientists, Platform Engineers, Security, and Product partners to deliver resilient, cloud native AI platforms in a highly regulated environment.\n\nKey Responsibilities\n\nDesign, build, and operate AI focused infrastructure platforms supporting model development, training, evaluation, and inference.\nEngineer scalable, reliable, and secure cloud native services to support AI workloads across AWS, Azure, and hybrid environments\nPartner with AI Engineering and Data Science teams to improve developer experience, performance, and operational stability of AI systems\nEnable production deployment of ML models and LLMs within governed enterprise environments, aligned with firmwide risk and compliance standards\nImplement and maintain infrastructure as code and automation to ensure repeatable, auditable platform provisioning\nBuild and operate observability, monitoring, and alerting solutions for AI platforms, ensuring availability, performance, and cost transparency\nCollaborate with Security and Risk partners to integrate identity, access controls, data protection, and governance into AI infrastructure\nContribute to architectural decisions and technical standards for AI platforms across Aladdin\nParticipate in on-call rotations and operational support as required call rotations and operational support as required for critical platforms.\nContinuously evaluate emerging AI infrastructure technologies and apply them pragmatically within BlackRock’s enterprise context.\n\nRequired\nQualifications\n\nStrong experience in cloud infrastructure, platform engineering, or systems engineering roles.\n4+ hands-on expertise with AWS and/or Azure and/or GCP, including Azure ML, Azure Foundry, AWS Bedrock, Google Vertex, as well as cloud compute, networking, storage, and security services.\nUnderstanding of ML platform operations and governance concepts, including model deployment strategies, lifecycle management, monitoring/observability, and Disaster Recovery\nExperience supporting LLMs, generative AI platforms, or model serving infrastructure.\nExperience supporting AI and machine learning workloads, with exposure to managed compute for model training and finetuning, experimentation over large datasets, and end to end MLOps pipeline flow including data ingestion, training, validation and deployment.\nProficiency with Infrastructure as code tools (e.g., Terraform, ARM/Bicep, CloudFormation).\nStrong programming or scripting skills (e.g., Python, Bash, or similar).\nExperience building and operating containerized and Enterprise-grade container orchestration platform supporting declarative infrastructure and horizontal scaling based platforms.\nSolid understanding of reliability, scalability, observability, and operational best practices.\nAbility to work effectively in cross functional teams and communicate complex technical concepts clearly.\n\nPreferred Qualifications/Experience\n\nFamiliarity with GPU or accelerator based infrastructure.\nExperience working in financial services or other highly regulated industries.\nFamiliarity with multicloud architectures and enterprise governance requirements.\n\nOur Benefits\n\nTo help you stay energized, engaged and inspired, we offer a wide range of employee benefits including: retirement investment and tools designed to help you in building a sound financial future; access to education reimbursement; comprehensive resources to support your physical health and emotional well-being; family support programs; and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.\n\nOur hybrid work model\n\nBlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments that arise when we work together in person – aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to accelerate your learning and onboarding experience here at BlackRock.\n\nGuidance on AI use for candidates\n\nAt BlackRock, AI has long been part of how we work – enhancing decision-making, improving operations, and helping us deliver better outcomes for clients. We encourage candidates to use AI thoughtfully to learn, prepare, and work more effectively; but during our interview process, we want to focus on getting to know you through your own experiences, thinking, and judgment. To support you, we’ve provided guidance\non when and how to use AI during our hiring process so you can approach each step with confidence and showcase your best self.\n\nAbout BlackRock\n\nAt BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.\n\nThis mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.\n\nTo learn more about BlackRock, please visit Careers.BlackRock.com. We also encourage you to get to know us on LinkedIn, Instagram, YouTube, X, and TikTok.\n\nBlackRock is proud to be an Equal Opportunity Employer. We evaluate qualified applicants without regard to age, disability, race, religion, sex, sexual orientation and other protected characteristics at law.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nFinancial Services",
       "source": "LinkedIn",
       "job_id": "4442449947",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily AI/cloud infrastructure and platform engineering, not backend .NET development.",
       "validated": null
     },
     {
@@ -1062,8 +1172,8 @@
       "description": "W Etteplan wierzymy, że technologia ma sens tylko wtedy, gdy realnie wspiera ludzi i procesy biznesowe. Wspieramy naszych klientów w tworzeniu i rozwoju systemów IT, które są stabilne, skalowalne i dopasowane do rzeczywistych potrzeb użytkowników. Pracujemy blisko biznesu, stawiając na jakość inżynierską, odpowiedzialność i partnerską współpracę.\n\nO zespole i projekcie\n\nDołączysz do zespołu rozwijającego rozwiązanie oparte o Microsoft Dynamics 365 CRM\n, w którym system CRM stanowi kluczowy element większego ekosystemu integrującego różne procesy i systemy biznesowe. To projekt o mocno developerskim charakterze. Na co dzień będziesz rozwijać zarówno warstwę kliencką, jak i serwerową Dynamics 365 CRM, tworząc własne rozszerzenia, logikę biznesową oraz integracje z systemami zewnętrznymi. Zespół pracuje zgodnie z dobrymi praktykami inżynierskimi, dbając o jakość kodu, czytelność rozwiązań i ich dalszy rozwój.\n\nDlaczego warto?\n\nTo rola, w której:\n\nrozwijasz Microsoft Dynamics 365 CRM od strony developerskiej, a nie wyłącznie konfiguracyjnej,\npracujesz zarówno z TypeScript, jak i C#/.NET, rozwijając logikę po stronie klienta i serwera,\ntworzysz pluginy, customizacje oraz integracje z systemami zewnętrznymi,\nwykorzystujesz Azure Service Bus do komunikacji pomiędzy systemami,\nmasz realny wpływ na jakość rozwiązań i sposób ich implementacji.\n\nJeśli lubisz projekty, w których możesz rozwijać oprogramowanie, pracować z kodem i mieć wpływ na architekturę rozwiązania, ta rola będzie dobrym wyborem.\n\nW tej roli będziesz odpowiadać za:\n\nrozwój client-side customizacji w Microsoft Dynamics 365 CRM z wykorzystaniem TypeScript, w tym logiki formularzy, walidacji oraz obsługi elementów interfejsu,\nrozwój pluginów C#/.NET odpowiedzialnych za logikę biznesową i customizacje encji,\nimplementację logiki obsługującej zdarzenia Create, Update i Delete,\nrozwój integracji pomiędzy Dynamics 365 CRM a systemami zewnętrznymi z wykorzystaniem Azure Service Bus,\nwspółpracę przy wdrożeniach aplikacji z wykorzystaniem wewnętrznych procesów CI/CD oraz narzędzi opartych o Power Apps,\ndbanie o jakość kodu oraz stosowanie dobrych praktyk programistycznych.\n\nJesteś naszym brakującym ogniwem, jeśli:\n\nmasz komercyjne doświadczenie w rozwoju Microsoft Dynamics 365 CRM,\nbardzo dobrze znasz C#/.NET oraz TypeScript / JavaScript,\nmasz doświadczenie w tworzeniu client-side customizacji formularzy Dynamics 365 CRM,\nrozwijałeś/aś pluginy Dynamics 365 CRM oraz logikę biznesową po stronie serwera,\nmasz doświadczenie w integracji systemów z wykorzystaniem API lub kolejek komunikatów,\npotrafisz pracować samodzielnie i brać odpowiedzialność za rozwijane rozwiązania,\nswobodnie komunikujesz się w języku angielskim.\n\nDocenimy również:\n\ndoświadczenie z Azure Service Bus,\nznajomość usług Microsoft Azure,\ndoświadczenie z Power Platform (Power Apps lub Power Automate),\nznajomość procesów CI/CD oraz pracy z Git.\n\nW Etteplan możesz liczyć na:\n\nrozwój poprzez pracę w międzynarodowym środowisku i różnorodnych projektach oraz dzielenie się wiedzą w grupach kompetencyjnych,\nbudżet szkoleniowy i budowanie indywidualnej ścieżki rozwoju podczas regularnych spotkań z menedżerem/menedżerką,\nbenefity, takie jak prywatna opieka medyczna Medicover, karta Multisport, grupowe ubezpieczenie na życie, dofinansowanie do posiłków,\nelastyczność w zakresie godzin pracy i formy współpracy oraz możliwość korzystania z biur we Wrocławiu, Katowicach, Poznaniu i Gdańsku,\nudział w inicjatywach technologicznych, wydarzeniach wewnętrznych i społecznościach tematycznych.\n\nJak przebiega proces rekrutacyjny?\n\nWyślij nam swoje CV – najlepiej w języku angielskim. W formularzu daj nam znać, jakie masz oczekiwania finansowe, preferowaną formę współpracy oraz od kiedy możesz rozpocząć pracę.\nSprawdzimy Twoją aplikację – przyjrzymy się Twojemu doświadczeniu i zobaczymy, jak pasuje do tej roli i projektu.\nRozmowa z HR (online) – luźna, partnerska rozmowa (ok. 40–60 minut), żeby lepiej się poznać, porozmawiać o Twojej drodze zawodowej, motywacji i oczekiwaniach.\nRozmowa techniczna (online) – spotkanie z osobami z zespołu projektowego, podczas którego porozmawiamy o Twoim doświadczeniu programistycznym, realizowanych projektach oraz podejściu do rozwiązywania problemów technicznych.\nFeedback – po zakończeniu procesu wrócimy do Ciebie z informacją zwrotną.\n\nMożesz też zajrzeć na naszą stronę internetową lub Facebooka i zobaczyć, co ciekawego się u nas dzieje!\n\nNasza firma wdrożyła procedury ochrony sygnalistów zgodnie z obowiązującą ustawą. Każda osoba ma prawo zgłaszać nieprawidłowości w bezpieczny sposób, a zgłoszenia są objęte pełną ochroną prawną. Więcej informacji: https://www.etteplan.com/pl/kodeks-postepowania/\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nOther\n\nIndustries\n\nTechnology, Information and Media, Manufacturing, and Utilities",
       "source": "LinkedIn",
       "job_id": "4451520821",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Full substantive job description is primarily Polish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -1077,8 +1187,8 @@
       "description": "W Etteplan wierzymy, że technologia ma sens tylko wtedy, gdy realnie wspiera ludzi i procesy biznesowe. Wspieramy naszych klientów w tworzeniu i rozwoju systemów IT, które są stabilne, skalowalne i dopasowane do rzeczywistych potrzeb użytkowników. Pracujemy blisko biznesu, stawiając na jakość inżynierską, odpowiedzialność i partnerską współpracę.\n\nO zespole i projekcie\n\nDołączysz do zespołu rozwijającego rozwiązanie oparte o Microsoft Dynamics 365 CRM\n, w którym system CRM stanowi kluczowy element większego ekosystemu integrującego różne procesy i systemy biznesowe. To projekt o mocno developerskim charakterze. Na co dzień będziesz rozwijać zarówno warstwę kliencką, jak i serwerową Dynamics 365 CRM, tworząc własne rozszerzenia, logikę biznesową oraz integracje z systemami zewnętrznymi. Zespół pracuje zgodnie z dobrymi praktykami inżynierskimi, dbając o jakość kodu, czytelność rozwiązań i ich dalszy rozwój.\n\nDlaczego warto?\n\nTo rola, w której:\n\nrozwijasz Microsoft Dynamics 365 CRM od strony developerskiej, a nie wyłącznie konfiguracyjnej,\npracujesz zarówno z TypeScript, jak i C#/.NET, rozwijając logikę po stronie klienta i serwera,\ntworzysz pluginy, customizacje oraz integracje z systemami zewnętrznymi,\nwykorzystujesz Azure Service Bus do komunikacji pomiędzy systemami,\nmasz realny wpływ na jakość rozwiązań i sposób ich implementacji.\n\nJeśli lubisz projekty, w których możesz rozwijać oprogramowanie, pracować z kodem i mieć wpływ na architekturę rozwiązania, ta rola będzie dobrym wyborem.\n\nW tej roli będziesz odpowiadać za:\n\nrozwój client-side customizacji w Microsoft Dynamics 365 CRM z wykorzystaniem TypeScript, w tym logiki formularzy, walidacji oraz obsługi elementów interfejsu,\nrozwój pluginów C#/.NET odpowiedzialnych za logikę biznesową i customizacje encji,\nimplementację logiki obsługującej zdarzenia Create, Update i Delete,\nrozwój integracji pomiędzy Dynamics 365 CRM a systemami zewnętrznymi z wykorzystaniem Azure Service Bus,\nwspółpracę przy wdrożeniach aplikacji z wykorzystaniem wewnętrznych procesów CI/CD oraz narzędzi opartych o Power Apps,\ndbanie o jakość kodu oraz stosowanie dobrych praktyk programistycznych.\n\nJesteś naszym brakującym ogniwem, jeśli:\n\nmasz komercyjne doświadczenie w rozwoju Microsoft Dynamics 365 CRM,\nbardzo dobrze znasz C#/.NET oraz TypeScript / JavaScript,\nmasz doświadczenie w tworzeniu client-side customizacji formularzy Dynamics 365 CRM,\nrozwijałeś/aś pluginy Dynamics 365 CRM oraz logikę biznesową po stronie serwera,\nmasz doświadczenie w integracji systemów z wykorzystaniem API lub kolejek komunikatów,\npotrafisz pracować samodzielnie i brać odpowiedzialność za rozwijane rozwiązania,\nswobodnie komunikujesz się w języku angielskim.\n\nDocenimy również:\n\ndoświadczenie z Azure Service Bus,\nznajomość usług Microsoft Azure,\ndoświadczenie z Power Platform (Power Apps lub Power Automate),\nznajomość procesów CI/CD oraz pracy z Git.\n\nW Etteplan możesz liczyć na:\n\nrozwój poprzez pracę w międzynarodowym środowisku i różnorodnych projektach oraz dzielenie się wiedzą w grupach kompetencyjnych,\nbudżet szkoleniowy i budowanie indywidualnej ścieżki rozwoju podczas regularnych spotkań z menedżerem/menedżerką,\nbenefity, takie jak prywatna opieka medyczna Medicover, karta Multisport, grupowe ubezpieczenie na życie, dofinansowanie do posiłków,\nelastyczność w zakresie godzin pracy i formy współpracy oraz możliwość korzystania z biur we Wrocławiu, Katowicach, Poznaniu i Gdańsku,\nudział w inicjatywach technologicznych, wydarzeniach wewnętrznych i społecznościach tematycznych.\n\nJak przebiega proces rekrutacyjny?\n\nWyślij nam swoje CV – najlepiej w języku angielskim. W formularzu daj nam znać, jakie masz oczekiwania finansowe, preferowaną formę współpracy oraz od kiedy możesz rozpocząć pracę.\nSprawdzimy Twoją aplikację – przyjrzymy się Twojemu doświadczeniu i zobaczymy, jak pasuje do tej roli i projektu.\nRozmowa z HR (online) – luźna, partnerska rozmowa (ok. 40–60 minut), żeby lepiej się poznać, porozmawiać o Twojej drodze zawodowej, motywacji i oczekiwaniach.\nRozmowa techniczna (online) – spotkanie z osobami z zespołu projektowego, podczas którego porozmawiamy o Twoim doświadczeniu programistycznym, realizowanych projektach oraz podejściu do rozwiązywania problemów technicznych.\nFeedback – po zakończeniu procesu wrócimy do Ciebie z informacją zwrotną.\n\nMożesz też zajrzeć na naszą stronę internetową lub Facebooka i zobaczyć, co ciekawego się u nas dzieje!\n\nNasza firma wdrożyła procedury ochrony sygnalistów zgodnie z obowiązującą ustawą. Każda osoba ma prawo zgłaszać nieprawidłowości w bezpieczny sposób, a zgłoszenia są objęte pełną ochroną prawną. Więcej informacji: https://www.etteplan.com/pl/kodeks-postepowania/\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nOther\n\nIndustries\n\nTechnology, Information and Media, Manufacturing, and Utilities",
       "source": "LinkedIn",
       "job_id": "4451525346",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Full substantive job description is primarily Polish and no complete official English version was confirmed.",
       "validated": null
     }
   ]
