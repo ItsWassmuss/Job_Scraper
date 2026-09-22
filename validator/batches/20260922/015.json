@@ -1,0 +1,37 @@
+{
+  "created_at": "2026-09-22T07:26:59+03:00",
+  "job_count": 2,
+  "finalized": false,
+  "jobs": [
+    {
+      "company": "Barrett Steel Limited",
+      "title": "AI Solutions Engineer",
+      "location": "Bradford, England, United Kingdom",
+      "url": "https://www.linkedin.com/jobs/view/4470250263/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "All About Us\n\nBelow covers everything you need to know about what this opportunity entails, as well as what is expected from applicants.\n\nBarrett Steel are the UK’s largest steel distributor and processor, with over 160 years of heritage we are still family owned and operate from 29 sites across the UK and Ireland, holding more than 120,000 tonnes of steel stock. Although we are a business with significant scale, our success is built on the people who make it happen every day. We continually invest in our people, the latest processing machinery, technology, and materials-handling equipment so that we can deliver an exceptional service to our customers. Our people, our customers, and the communities in which we operate are at the heart of what we do. We are a forward-thinking business that values hard work, ambition, teamwork, and are always open to new ideas. We now have an opening for an AI Solutions Engineer.\n\nAll About The Role\n\nAs the AI Solutions Engineer you will design and deploy AI-powered internal applications that enhance sales productivity, automate workflows, and improve decision-making. This is a hybrid role with a 2/3 day split between our Bradford HQ and your UK home base.\n\nKey Responsibilities\n\nBuild internal web and mobile applications using AI-assisted development tools, validating any AI generated code\nAutomate repetitive sales workflows (CRM updates, proposal drafting, follow-ups, reporting)\nDevelop AI-powered assistants for:\nQuote generation\nCustomer analysis\nEmail drafting\nSales forecasting\nIntegrate apps with CRM systems\nRapidly prototype tools and iterate based on feedback\nTranslate business requirements into working AI-driven solutions\nEnsure data security and compliance standards are met\n\nEssential Skills For The Role\n\nA track record in AI Solutions Engineering\nStrong Python / Dotnet experience\nThe ability to translate business requirements into working AI-Driven Solutions, producing production quality output whilst ensuring data security and compliance standards are met.\nExperience in creating pipelines & version control.\n\nWe offer you\n\nExcellent salary package commensurate with experience and expertise that includes\n\n25 days holiday plus bank holidays\nPension / Life Assurance\nAnnual cycle to work scheme\nCompany discount scheme for savings on retail and leisure & access to health and wellbeing services\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIndustrial Machinery Manufacturing",
+      "source": "LinkedIn",
+      "job_id": "4470250263",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Haystack",
+      "title": "Senior Software Engineer",
+      "location": "United Kingdom",
+      "url": "https://www.linkedin.com/jobs/view/4470247429/",
+      "date_posted": "2026-09-22",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We're hiring on behalf of a Haystack partner!\n\nThe Role\n• Build and evolve digital products across Risk, Pricing and Trading (RPT) Middle Office technology.\n• Develop software supporting decision-making across trading and middle-office activities, collaborating with traders, schedulers, risk analysts, and finance teams.\n• Shape technical design, influence architectural decisions, and help evolve the technology platform.\n• Take Data and AI solutions from experimentation to production, including agentic applications and multi-agent systems.\n• Build backend services, platforms, and APIs using modern engineering practices and automated testing.\n• Design solutions using event-driven and domain-driven architecture patterns, and develop streaming applications for low-latency data processing.\n\nWhat You'll Need\n• Strong software engineering fundamentals, including object-oriented design, algorithms, and data structures.\n• Experience building distributed, cloud-native applications on platforms like GKE, OpenShift, EKS, AKS, or Cloud Foundry.\n• Proficiency in languages such as Java, C#, Python, Scala, or Go.\n• Experience with messaging technologies like Kafka, RabbitMQ, or ActiveMQ, and relational databases like PostgreSQL or MySQL.\n• Knowledge of reactive programming, distributed systems, Domain-Driven Design, and modern engineering practices (TDD, CI/CD).\n• Strong communication, problem-solving skills, and experience working in regulated environments.\n\nWhat's On Offer\n• Competitive salary\n• Opportunities to shape technical design and influence architectural decisions.\n• Work with cutting-edge Data and AI solutions, including agentic applications.\n• Collaborate with diverse teams including traders, risk analysts, and product managers.\n\nApply via Haystack today!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nTechnology, Information and Media",
+      "source": "LinkedIn",
+      "job_id": "4470247429",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
