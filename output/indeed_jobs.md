@@ -1,27 +1,26 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-22 08:18 UTC*
+*Last updated: 2026-09-22 09:19 UTC*
 
-**4 new role(s)** since last run · 225 total in last 24h
+**4 new role(s)** since last run · 222 total in last 24h
 
-### [project engineer/projectleider E&I Industrie](https://nl.indeed.com/viewjob?jk=25cf9e90c599e236) — TCPM Ingenieurs & Adviseurs
-- 📍 **Location:** NL
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
+### [DevOps Engineer (AWS, Python, AWS CDK) (m/w/d) 95% remote ID03311](https://de.indeed.com/viewjob?jk=385eb743d5ec6075) — mund consulting AG
+- 📍 **Location:** DE
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-22
 
-### [senior mechanical engineer](https://nl.indeed.com/viewjob?jk=6392e048d88245b4) — TCPM Ingenieurs & Adviseurs
-- 📍 **Location:** NL
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [Fire Service Engineer](https://uk.indeed.com/viewjob?jk=8268a4bdadace01f) — SECOM
-- 📍 **Location:** Crawley, ENG, GB
+### [AI-Engineer](https://se.indeed.com/viewjob?jk=c15f9e687f4a40c3) — If Skadeförsäkring
+- 📍 **Location:** Stockholm, AB, SE
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
 
-### [Senior Full Stack Developer (.NET)](https://be.indeed.com/viewjob?jk=9c9512d06f8bd454) — Leroy & Partners
-- 📍 **Location:** Brussels, BRU, BE
+### [Automation Engineer - RPA](https://sg.indeed.com/viewjob?jk=f40900c8c001440e) — Anotech Energy
+- 📍 **Location:** Downtown Core, S00, SG
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
+
+### [Full-stack Developer](https://ae.indeed.com/viewjob?jk=4a116c4120c9b9ab) — MVP Application and game design L.L.C
+- 📍 **Location:** Abu Dhabi, AZ, AE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
