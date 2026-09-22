@@ -361,11 +361,12 @@ def test_overlapping_queue_targets_fail_before_mutation(tmp_path):
         assert path.read_bytes() == content
 
 
-def test_identity_mismatch_fails_without_mutation(tmp_path):
+def test_url_is_the_only_job_reference(tmp_path):
     jobs = [_job(0)]
     batch = _write_batch(tmp_path, jobs)
 
     result = _result(jobs[0], 0)
+    result["source"] = "Indeed"
     result["job_id"] = "wrong"
 
     patch = _write_patch(
@@ -375,21 +376,32 @@ def test_identity_mismatch_fails_without_mutation(tmp_path):
         [result],
     )
 
-    originals = (
-        batch.read_bytes(),
-        patch.read_bytes(),
+    summary = apply_patches(tmp_path)
+
+    assert summary["results_applied"] == 1
+    assert _read(batch)["jobs"][0]["status"] == "REJECTED"
+    assert not patch.exists()
+
+
+def test_wrong_patch_index_still_applies_by_exact_url(tmp_path):
+    jobs = [_job(0), _job(1), _job(2)]
+    batch = _write_batch(tmp_path, jobs)
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs[2], 0)],
     )
 
-    with pytest.raises(
-        ValueError,
-        match="identity mismatch",
-    ):
-        apply_patches(tmp_path)
+    summary = apply_patches(tmp_path)
+    applied = _read(batch)["jobs"]
 
-    assert (
-        batch.read_bytes(),
-        patch.read_bytes(),
-    ) == originals
+    assert summary["results_applied"] == 1
+    assert applied[0]["status"] is None
+    assert applied[1]["status"] is None
+    assert applied[2]["status"] == "REJECTED"
+    assert not patch.exists()
 
 
 @pytest.mark.parametrize(
@@ -589,7 +601,7 @@ def test_filename_index_must_match_first_result(tmp_path):
         apply_patches(tmp_path)
 
 
-def test_index_out_of_range_fails_without_mutation(tmp_path):
+def test_url_not_found_skips_result_and_consumes_patch(tmp_path):
     jobs = [_job(0)]
     batch = _write_batch(tmp_path, jobs)
 
@@ -601,21 +613,56 @@ def test_index_out_of_range_fails_without_mutation(tmp_path):
         [_result(fake, 9)],
     )
 
-    originals = (
-        batch.read_bytes(),
-        patch.read_bytes(),
+    original_batch = batch.read_bytes()
+    summary = apply_patches(tmp_path)
+
+    assert summary["results_applied"] == 0
+    assert batch.read_bytes() == original_batch
+    assert not patch.exists()
+
+
+def test_missing_url_target_skips_only_that_result_and_continues(tmp_path):
+    jobs = [_job(0), _job(1)]
+    batch = _write_batch(tmp_path, jobs)
+
+    missing = _job(9)
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [
+            _result(missing, 0),
+            _result(jobs[1], 1),
+        ],
     )
 
-    with pytest.raises(
-        ValueError,
-        match="outside the target batch",
-    ):
-        apply_patches(tmp_path)
+    summary = apply_patches(tmp_path)
+    applied = _read(batch)["jobs"]
 
-    assert (
-        batch.read_bytes(),
-        patch.read_bytes(),
-    ) == originals
+    assert summary["results_applied"] == 1
+    assert applied[0]["status"] is None
+    assert applied[1]["status"] == "REJECTED"
+    assert not patch.exists()
+
+
+def test_duplicate_batch_url_skips_ambiguous_result(tmp_path):
+    jobs = [_job(0), _job(1)]
+    jobs[1]["url"] = jobs[0]["url"]
+    batch = _write_batch(tmp_path, jobs)
+
+    patch = _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(jobs[0], 0)],
+    )
+
+    original_batch = batch.read_bytes()
+    summary = apply_patches(tmp_path)
+
+    assert summary["results_applied"] == 0
+    assert batch.read_bytes() == original_batch
+    assert not patch.exists()
 
 
 def test_invalid_qualified_validated_shape_fails(tmp_path):
@@ -644,7 +691,7 @@ def test_invalid_qualified_validated_shape_fails(tmp_path):
         apply_patches(tmp_path)
 
 
-def test_unvalidated_preserves_unusable_batch_url_exactly(tmp_path):
+def test_unvalidated_without_usable_url_is_skipped(tmp_path):
     jobs = [_job(0)]
     jobs[0]["url"] = ""
     batch = _write_batch(tmp_path, jobs)
@@ -663,13 +710,15 @@ def test_unvalidated_preserves_unusable_batch_url_exactly(tmp_path):
         ],
     )
 
+    original_batch = batch.read_bytes()
     summary = apply_patches(tmp_path)
 
-    assert summary["results_applied"] == 1
-    assert _read(batch)["jobs"][0]["status"] == "UNVALIDATED"
+    assert summary["results_applied"] == 0
+    assert batch.read_bytes() == original_batch
+    assert not patch.exists()
 
 
-def test_unvalidated_identity_must_still_match_raw_batch_url(tmp_path):
+def test_unvalidated_with_unusable_patch_url_is_skipped(tmp_path):
     jobs = [_job(0)]
     jobs[0]["url"] = ""
     batch = _write_batch(tmp_path, jobs)
@@ -689,12 +738,12 @@ def test_unvalidated_identity_must_still_match_raw_batch_url(tmp_path):
         [result],
     )
 
-    originals = (batch.read_bytes(), patch.read_bytes())
+    original_batch = batch.read_bytes()
+    summary = apply_patches(tmp_path)
 
-    with pytest.raises(ValueError, match="identity mismatch"):
-        apply_patches(tmp_path)
-
-    assert (batch.read_bytes(), patch.read_bytes()) == originals
+    assert summary["results_applied"] == 0
+    assert batch.read_bytes() == original_batch
+    assert not patch.exists()
 
 
 def test_rejected_still_requires_usable_source_url(tmp_path):

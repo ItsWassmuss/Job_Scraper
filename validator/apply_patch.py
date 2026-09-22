@@ -354,20 +354,24 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
         )
 
     patches: list[tuple[Path, dict[str, Any]]] = []
-    seen_targets: set[tuple[str, int]] = set()
+    seen_targets: set[tuple[str, str]] = set()
 
     for path in patch_paths:
         payload = _load_and_validate_patch(path)
         for result in payload["results"]:
-            target = (payload["batch"], result["index"])
+            url = _usable_http_url(result["url"])
+            if url is None:
+                continue
+            target = (payload["batch"], url)
             if target in seen_targets:
                 raise ValueError(
-                    f"Overlapping Validator patch target: {target[0]} index {target[1]}"
+                    f"Overlapping Validator patch target: {target[0]} url {target[1]}"
                 )
             seen_targets.add(target)
         patches.append((path, payload))
 
     batch_payloads: dict[str, dict[str, Any]] = {}
+    batch_url_indexes: dict[str, dict[str, list[int]]] = {}
     original_batch_paths: dict[str, Path] = {}
     changed_batches: set[str] = set()
     patch_had_apply: dict[Path, bool] = {}
@@ -379,7 +383,15 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
         if batch_rel not in batch_payloads:
             batch_path = root / batch_rel
             original_batch_paths[batch_rel] = batch_path
-            batch_payloads[batch_rel] = copy.deepcopy(_load_batch(batch_path))
+            batch = copy.deepcopy(_load_batch(batch_path))
+            batch_payloads[batch_rel] = batch
+
+            url_indexes: dict[str, list[int]] = {}
+            for index, job in enumerate(batch["jobs"]):
+                url = _usable_http_url(job.get("url"))
+                if url is not None:
+                    url_indexes.setdefault(url, []).append(index)
+            batch_url_indexes[batch_rel] = url_indexes
 
     for patch_path, patch in patches:
         batch_rel = patch["batch"]
@@ -388,27 +400,33 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
         patch_applied = False
 
         for result in patch["results"]:
-            index = result["index"]
-            if index >= len(jobs):
-                raise ValueError(
-                    f"{patch_path} index {index} is outside the target batch"
+            result_index = result["index"]
+            url = _usable_http_url(result["url"])
+            if url is None:
+                print(
+                    f"Skipping {patch_path} result index {result_index}: "
+                    "no usable URL reference"
                 )
+                continue
 
+            matches = batch_url_indexes[batch_rel].get(url, [])
+            if len(matches) != 1:
+                if not matches:
+                    detail = "URL not found in target batch"
+                else:
+                    detail = f"URL matched {len(matches)} jobs in target batch"
+                print(
+                    f"Skipping {patch_path} result index {result_index}: {detail}"
+                )
+                continue
+
+            index = matches[0]
             job = jobs[index]
-            for key in ("source", "job_id", "url", "status", "reason", "validated"):
+            for key in ("url", "status", "reason", "validated"):
                 if key not in job:
                     raise ValueError(
                         f"{patch_path} target job {index} is missing {key}"
                     )
-
-            if (
-                job["source"] != result["source"]
-                or job["job_id"] != result["job_id"]
-                or job["url"] != result["url"]
-            ):
-                raise ValueError(
-                    f"{patch_path} identity mismatch at job index {index}"
-                )
 
             existing_status = job["status"]
             if existing_status is None:
