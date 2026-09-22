@@ -27806,6 +27806,60 @@
       "location": "Zürich, ZH, CH",
       "canonical_url": "https://ch.indeed.com/viewjob?jk=bfb65df2e8e535a4",
       "reported_at": "2026-09-22T17:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470231072",
+      "company": "Alignerr",
+      "title": "Backend Developer - AI Data Services",
+      "location": "United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470231072/",
+      "reported_at": "2026-09-22T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470214877",
+      "company": "Alignerr",
+      "title": "C# Infrastructure Engineer - Data Pipelines",
+      "location": "United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470214877/",
+      "reported_at": "2026-09-22T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470231054",
+      "company": "Alignerr",
+      "title": "Senior C# Full-Stack Engineer — AI Data & Infrastructure",
+      "location": "United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470231054/",
+      "reported_at": "2026-09-22T19:01:07+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "c3bda68036ca3b2a",
+      "company": "Fitch Group",
+      "title": "Senior Software Engineer, Full-Stack Applications - Ratings Technology (Manchester)",
+      "location": "Manchester, ENG, GB",
+      "canonical_url": "https://careers.fitch.group/job/Manchester-Senior-Software-Engineer%2C-Full-Stack-Applications-Ratings-Technology-%28Manchester%29/1439819033/",
+      "reported_at": "2026-09-22T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4468192249",
+      "company": "RAPSYS TECHNOLOGIES PTE LTD",
+      "title": "Dot Net Developer",
+      "location": "Singapore, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4468192249/",
+      "reported_at": "2026-09-22T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470217874",
+      "company": "Techster Solutions AB",
+      "title": "CRM Solutions Developer",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470217874/",
+      "reported_at": "2026-09-22T19:01:07+03:00"
     }
   ]
 }
