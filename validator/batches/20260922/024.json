@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-22T16:57:38+03:00",
   "job_count": 46,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "VDL Groep",
