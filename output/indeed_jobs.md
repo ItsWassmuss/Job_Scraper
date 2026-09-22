@@ -1,26 +1,39 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-22 09:19 UTC*
+*Last updated: 2026-09-22 10:19 UTC*
 
-**4 new role(s)** since last run · 222 total in last 24h
+**6 new role(s)** since last run · 213 total in last 24h
 
-### [DevOps Engineer (AWS, Python, AWS CDK) (m/w/d) 95% remote ID03311](https://de.indeed.com/viewjob?jk=385eb743d5ec6075) — mund consulting AG
-- 📍 **Location:** DE
+### [DevOps Test engineer](https://nl.indeed.com/viewjob?jk=fa9a2513e758abd9) — Sopra Steria
+- 📍 **Location:** Nieuwegein, UT, NL
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Support engineer detachering](https://nl.indeed.com/viewjob?jk=1fed70b22bd152aa) — Acknowledge
+- 📍 **Location:** Waalre, NB, NL
 - **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [AI-Engineer](https://se.indeed.com/viewjob?jk=c15f9e687f4a40c3) — If Skadeförsäkring
-- 📍 **Location:** Stockholm, AB, SE
+### [AI Engineer](https://nl.indeed.com/viewjob?jk=ef987671b83dcb93) — Flynth
+- 📍 **Location:** Arnhem, GE, NL
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Softwareentwickler (m/w/d) .NET / C# Erneuerbare Energien](https://de.indeed.com/viewjob?jk=891fc54708f1a4bd) — jobs
+- 📍 **Location:** Bremen, HB, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Automation Engineer - RPA](https://sg.indeed.com/viewjob?jk=f40900c8c001440e) — Anotech Energy
-- 📍 **Location:** Downtown Core, S00, SG
-- **Work mode:** On-site
+### [Software Engineer](https://uk.indeed.com/viewjob?jk=177f14236c9a9404) — Learning DNA 
+- 📍 **Location:** Solihull, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
 
-### [Full-stack Developer](https://ae.indeed.com/viewjob?jk=4a116c4120c9b9ab) — MVP Application and game design L.L.C
-- 📍 **Location:** Abu Dhabi, AZ, AE
+### [Software Engineer, Barcelona](https://es.indeed.com/viewjob?jk=546b97fef3c902cf) — CAPITOLE CONSULTING
+- 📍 **Location:** Barcelona, CT, ES
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-22
