@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-22T08:26:24+03:00",
   "job_count": 5,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Just Eat Takeaway.com",
