@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "64905c97ed406696",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Power Platform/CRM role; C#/.NET is only valued, with no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a9af8a2cedf0e476",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "71c28656f8edf97d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7c10f2d39dcdde99",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Unix/Linux systems administration and infrastructure, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2dd626003a968b22",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Oracle systems/database operations and infrastructure, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c74d6a4b3a80ea6c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0c7eec0802d5691f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Wintel/Windows infrastructure administration, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a134f5c92f841551",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6e2fd487d2d77dc0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is data engineering/Data Lake work with no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -229,8 +229,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bd12f7a5d455f032",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is DevOps/infrastructure work with no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -252,8 +252,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b5c69e00fce90e74",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -275,8 +275,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bee4260648465c79",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -298,8 +298,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "660af70695e99d86",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -321,8 +321,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ed4ed6a17dbaac22",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -344,8 +344,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "88051e3cedf1c78f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -367,8 +367,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "41700e03aea107f3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -390,8 +390,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7e8c263577fc5d31",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -413,8 +413,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ea7bd91719c8e02d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is data engineering with Python/SQL and no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -436,8 +436,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "afb139e0536edd78",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -459,8 +459,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d13a8622a3fee8cb",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -482,8 +482,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2ca86000af2dc9b9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -505,8 +505,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f604a1c7137ef739",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -528,8 +528,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9b700c0b90d1f639",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# is listed for embedded-systems application work; no backend/server-side .NET evidence is provided.",
       "validated": null
     },
     {
@@ -551,8 +551,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "051ee0cd417a76d3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# is listed for embedded-systems application work; no backend/server-side .NET evidence is provided.",
       "validated": null
     },
     {
@@ -574,8 +574,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b826a0a29759e785",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -597,8 +597,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9227deaff25a89a7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -620,8 +620,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ae90e991f3eb661d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -643,8 +643,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "248316a8894b4226",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -666,8 +666,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8288299a72748b11",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -689,8 +689,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "22a769e331acbdf1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -712,8 +712,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7094f4612c97a8b8",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -735,8 +735,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bc6679dee50f5a35",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend stack is Node.js; .NET is explicitly only valued and not required.",
       "validated": null
     },
     {
@@ -758,8 +758,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f1bf5707caa5ab04",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -781,8 +781,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "63bd045d8122ff79",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -804,8 +804,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "db847a4cfda77e1d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily project management and team coordination rather than backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -827,8 +827,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "dca1f8266c4f449a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET/VB.NET application work is described without backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -850,8 +850,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4a9a10c75f6a3d6e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -873,8 +873,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8b586e5a86881bee",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend stack is Node.js; .NET is optional/secondary.",
       "validated": null
     },
     {
@@ -896,8 +896,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4577afd247808b60",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily project management and coordination rather than backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -919,8 +919,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d3313c31fa16c52d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -942,9 +942,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d63e85f98ce4eb86",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "5+ years professional experience with .NET technologies; 5+ years ASP.NET MVC; 5+ years full-stack development",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop full-stack web applications with .NET, ASP.NET MVC, REST APIs, Angular, SQL Server, and Entity Framework, including scalable backend services.",
+        "direct_application_link": "https://pt.indeed.com/viewjob?jk=d63e85f98ce4eb86"
+      }
     },
     {
       "company": "Intapp",
@@ -965,9 +976,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fa37e7fb2e2f60bd",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "5+ years .NET software development; 5-8 years professional experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Design and develop .NET applications using C#, ASP.NET, .NET Core, and Azure cloud services, including scalable cloud-native software.",
+        "direct_application_link": "https://pt.indeed.com/viewjob?jk=fa37e7fb2e2f60bd"
+      }
     },
     {
       "company": "Wolters Kluwer",
@@ -988,9 +1010,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9d32793bfcc19160",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop backend cloud software in C#/.NET and ASP.NET Core, including business logic, database interactions, APIs, and Azure-based services.",
+        "direct_application_link": "https://pt.indeed.com/viewjob?jk=9d32793bfcc19160"
+      }
     },
     {
       "company": "nls",
@@ -1011,8 +1044,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2f5e128768d6df1f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: mandatory similar-role professional experience is capped at 2 years, with no overlap with the 5-10 year target.",
       "validated": null
     },
     {
@@ -1034,8 +1067,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e240a92445cd90e5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: mandatory minimum 4 years in the role or similar has no overlap with the 5-10 year target.",
       "validated": null
     },
     {
@@ -1057,8 +1090,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b5137753993944e7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Portuguese with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -1080,8 +1113,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a7490ed79e2bdf9a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: official posting requires authorization to work in Portugal and states sponsorship is unavailable.",
       "validated": null
     },
     {
@@ -1103,8 +1136,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "665ee5357973c602",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily machine learning/data work, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -1126,8 +1159,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7631f3e87d3a8034",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is electrical hardware/product engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -1149,8 +1182,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "56c70fa94bfa4196",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is pre-sales technical quotation support for electrical products, not backend/server-side C#/.NET development.",
       "validated": null
     }
   ]
