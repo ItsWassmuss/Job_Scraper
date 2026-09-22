@@ -22,9 +22,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d47a7004b381f5c5",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "At least 5 years of professional .NET/C# development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior IT process engineering role designing and supporting .NET/C# applications, APIs, interfaces, background services, and MES functionality.",
+        "direct_application_link": "https://dk.indeed.com/viewjob?jk=d47a7004b381f5c5"
+      }
     },
     {
       "company": "ITE Institute of Technical Education",
@@ -45,8 +56,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3d80a0bf5bd0ef74",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is mechatronics lecturing, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -68,8 +79,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c99fdae5a81d8279",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is marine/offshore engineering lecturing; .NET is only one optional coding technology.",
       "validated": null
     },
     {
@@ -91,8 +102,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "68ac52a01c61f032",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is IoT engineering internship, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -114,8 +125,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9a36f0d1f79189e4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is manufacturing test engineering, not backend .NET development.",
       "validated": null
     },
     {
@@ -137,8 +148,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9ca7709e0953eb6b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is desktop/UI C#/.NET development; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -160,8 +171,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "32e9c83e81493754",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary stack is C++; C#/.NET is only an added advantage/future transition.",
       "validated": null
     },
     {
@@ -183,9 +194,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "05507db0b178599e",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack development role maintaining web applications with C#/.NET on the backend and modern JavaScript frameworks on the frontend.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=05507db0b178599e"
+      }
     },
     {
       "company": "Micron Technology",
@@ -206,8 +228,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a914e2523df8b6fa",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend/server-side .NET/C# is not established; C#/.NET is one of several technology options.",
       "validated": null
     },
     {
@@ -229,8 +251,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8858df1b059ff32c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend stack is Python/Azure AI; .NET is not established as the role's backend stack.",
       "validated": null
     },
     {
@@ -252,8 +274,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "77010fa4d85e7a9b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is data engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -275,8 +297,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1b37c7bb887cec5e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend/server-side .NET/C# is not established; role is a validation/verification software internship.",
       "validated": null
     },
     {
@@ -298,8 +320,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f389529da6d6dadc",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -321,8 +343,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9108bd7ae11c769a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is RPA development; .NET/C# is only a plus.",
       "validated": null
     },
     {
@@ -344,8 +366,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "af8efebbff189dc2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is mechanical design engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -367,8 +389,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1433fdac4a44311c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend/server-side .NET/C# is not established; C# is one of several language options.",
       "validated": null
     },
     {
@@ -390,8 +412,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "143f69ef270f610c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend/server-side .NET/C# is not established; C# is one of several language options.",
       "validated": null
     },
     {
@@ -413,8 +435,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4c8f4738621972bf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is electrical design engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -436,8 +458,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "87cfa6d8ef322185",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is solution architecture across Java and/or .NET, not a backend .NET development role.",
       "validated": null
     },
     {
@@ -459,8 +481,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0037eaf1a6a371b5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily QA/test automation, not backend .NET development.",
       "validated": null
     },
     {
@@ -482,8 +504,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "866d4bf93c9ae2e5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is electrical design engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -505,8 +527,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3c8ba68deba41ccf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is an automation-engineering working-student position, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -528,8 +550,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "96bc27d9b516ffae",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is clearly DevOps/infrastructure engineering, not backend .NET development.",
       "validated": null
     },
     {
@@ -551,8 +573,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f9519a43cdf5c4a6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is business application support/integration; C# is only one of several possible languages.",
       "validated": null
     },
     {
@@ -574,8 +596,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b7ca190679e40916",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily French and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -597,8 +619,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d8c3a0893219ee0f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is customer support engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -620,8 +642,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1ef81cbad918a41a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily French and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -643,8 +665,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "552abae520df49d3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: French is explicitly mandatory for this role.",
       "validated": null
     },
     {
@@ -666,8 +688,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "69946ac30e6af67d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: French is explicitly mandatory for this role.",
       "validated": null
     },
     {
@@ -689,8 +711,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bfb65df2e8e535a4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence; role is full-stack with F#/.NET among several core technologies.",
       "validated": null
     },
     {
@@ -712,8 +734,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "aa728e5bfa611cfd",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence was established before language evaluation.",
       "validated": null
     },
     {
@@ -735,8 +757,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9b466694d65a1969",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -758,8 +780,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0c5e9996aad477f5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence was established before language evaluation.",
       "validated": null
     },
     {
@@ -781,8 +803,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7d5eb3ad41b250ed",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -804,8 +826,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "164da369489bbb36",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -827,8 +849,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5dec139453153bf5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is solutions architecture/pre-sales, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -850,8 +872,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e9c55de3f1b4fdff",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is clinical data engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -873,8 +895,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d37f7c36b87daa42",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is clearly DevOps/infrastructure engineering, not backend .NET development.",
       "validated": null
     },
     {
@@ -896,8 +918,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d77dae2fea32ff68",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -919,8 +941,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b942a03fdbf7b265",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence was established before language evaluation.",
       "validated": null
     },
     {
@@ -942,8 +964,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "48aaa67c5b652066",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is SAP solution engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -965,8 +987,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8fb7c2c89447888b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is project engineering; C# is only preferred and backend .NET development is not established.",
       "validated": null
     },
     {
@@ -988,8 +1010,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a68ef6952a251562",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence was established before language evaluation.",
       "validated": null
     },
     {
@@ -1011,8 +1033,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "64ab614ca47f558d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend stack is Java/Spring Boot for a test-automation framework, not .NET.",
       "validated": null
     },
     {
@@ -1034,8 +1056,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0de71f327da4e294",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary stack is Python/AI agent development, not backend/server-side .NET/C#.",
       "validated": null
     },
     {
@@ -1057,8 +1079,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c545dd98dbd414c7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence was established before language evaluation.",
       "validated": null
     },
     {
@@ -1080,8 +1102,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f72e6891e85f7159",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend/server-side .NET/C# is not established; .NET is one of several technologies used by the organization.",
       "validated": null
     },
     {
@@ -1103,8 +1125,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "acb98a49c5de5773",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Microsoft Copilot/Power Platform AI consulting, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -1126,8 +1148,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2cc2f389f598e2c6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive/full JD is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -1149,8 +1171,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "aae06114fdbe5e88",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is MuleSoft integration development, not backend/server-side .NET/C# development.",
       "validated": null
     }
   ]
