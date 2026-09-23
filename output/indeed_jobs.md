@@ -1,22 +1,49 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-23 09:19 UTC*
+*Last updated: 2026-09-23 10:19 UTC*
 
-**3 new role(s)** since last run · 187 total in last 24h
+**8 new role(s)** since last run · 193 total in last 24h
 
-### [Traineeship 'Het Rail Starterstraject' werkvoorbereider & engineer](https://nl.indeed.com/viewjob?jk=1475b53e5b6cff9c) — De Nieuwe Ingenieurs
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Junior Full Stack Developer (m/w/d)](https://de.indeed.com/viewjob?jk=0059a881468fc0a7) — Eduvation IT-Services GmbH
+- 📍 **Location:** Home Office, DE
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
 
-### [Traineeship 'Het Energie Starterstraject' werkvoorbereider & engineer](https://nl.indeed.com/viewjob?jk=313de3e7fa045d9b) — De Nieuwe Ingenieurs
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Support Engineer (SQL)](https://uk.indeed.com/viewjob?jk=d58933155c1feb02) — legalandgeneral
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Full-Stack Developer with Next.js](https://se.indeed.com/viewjob?jk=22201809e37c6eec) — If Skadeförsäkring
+- 📍 **Location:** SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior C# Developer: Dev Tools](https://cz.indeed.com/viewjob?jk=777c08a79acb867e) — Veeam Software
+- 📍 **Location:** Praha, A, CZ
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-23
+
+### [ES- Analista Programador .Net Back](https://es.indeed.com/viewjob?jk=d145ac7e81937017) — Devoteam
+- 📍 **Location:** Madrid, MD, ES
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
 
-### [Sales Engineer Solar PV](https://ae.indeed.com/viewjob?jk=340286ec8d562daf) — Solar Water Heating System supply and installation company LLC
-- 📍 **Location:** Dubai Silicon Oasis, DU, AE
+### [Software Developer (.NET), hibrido](https://es.indeed.com/viewjob?jk=dd7404b46fa8408d) — B. Braun
+- 📍 **Location:** Barcelona, CT, ES
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-23
+
+### [AI Integration Developer](https://bh.indeed.com/viewjob?jk=fee4271ed74864d6) — Script for Information Technology CO WLL
+- 📍 **Location:** Manama, B13, BH
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-23
+
+### [.NET Developer](https://bh.indeed.com/viewjob?jk=08ea1b6322d8ee22) — Script for Information Technology CO WLL
+- 📍 **Location:** Manama, B13, BH
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
