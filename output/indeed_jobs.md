@@ -1,22 +1,14 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-23 07:19 UTC*
+*Last updated: 2026-09-23 08:19 UTC*
 
-**3 new role(s)** since last run · 194 total in last 24h
+**2 new role(s)** since last run · 190 total in last 24h
 
-### [Software Developer](https://sg.indeed.com/viewjob?jk=221e59dd511e7e33) — AVENSYS SERVICES PTE. LTD.
-- 📍 **Location:** Ang Mo Kio, S00, SG
+### [Working Student Mixed Reality Developer (Godot/C#)](https://de.indeed.com/viewjob?jk=4d19bb7036b4b3fe) — Brainlab
+- 📍 **Location:** München, BY, DE
 - **Work mode:** On-site
-- **Job type:** contract
 - 🕒 **Posted:** 2026-09-23
 
-### [Fullstack Engineer](https://sg.indeed.com/viewjob?jk=a788d7cc80c779e0) — VINOVA PTE. LTD.
-- 📍 **Location:** Toa Payoh, S00, SG
+### [QA Automation Engineer / SDET (AI & Parity Focus)](https://hu.indeed.com/viewjob?jk=31f4da767a5b22d1) — Deutsche Telekom
+- 📍 **Location:** Budapest, PE, HU
 - **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-09-22
-
-### [Cybersecurity Platfrom Engineer](https://sg.indeed.com/viewjob?jk=ac36a5a44f75274a) — BASE CAMP DIGITAL PTE. LTD.
-- 📍 **Location:** Singapore, S00, SG
-- **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-09-22
+- 🕒 **Posted:** 2026-09-23
