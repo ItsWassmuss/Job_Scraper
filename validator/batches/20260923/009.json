@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-23T06:28:11+03:00",
   "job_count": 3,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "General Dynamics Information Technology",
