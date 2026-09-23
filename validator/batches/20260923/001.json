@@ -504,8 +504,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0af73282cd0c7e47",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is HVDC electrical engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -527,8 +527,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cbb96d310e796203",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is HVDC electrical engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -550,8 +550,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8d3614ba826a1afb",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is actuarial pricing/model platform development; no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -573,8 +573,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "075ccae577bdd09a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is landscape architecture, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -596,8 +596,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b537889f5cba78bf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is application support; .NET/C#/ASP.NET Core are only desirable, not the primary role.",
       "validated": null
     },
     {
@@ -619,8 +619,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3d19efa44bece396",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary modern backend stack is Node.js/TypeScript; .NET is the legacy estate being transitioned away.",
       "validated": null
     },
     {
@@ -642,9 +642,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e2fed23a6cafe38a",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "6+ years building backend systems in production",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior product engineering role with a backend lean, building pensions, retirement savings and spend systems using .NET 10, PostgreSQL and Azure/AWS.",
+        "direct_application_link": "https://jobs.ashbyhq.com/Kota/19462d43-c7d4-481a-bb1f-5737fce259c0?utm_source=dz6RWJXYZW"
+      }
     },
     {
       "company": "Airwallex",
@@ -665,8 +676,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bd3ff0e590382dd1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is technical support; C# is only one of several alternative programming languages.",
       "validated": null
     },
     {
@@ -688,8 +699,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "37bf77ea18f94b3c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: United Kingdom work authorisation is explicitly required.",
       "validated": null
     },
     {
@@ -711,8 +722,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2dbecd277239d758",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is data-service support focused on Snowflake, DBT and SQL, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -734,8 +745,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "80136ef96884fee3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is civil engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -757,8 +768,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "78887f99cacf011e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is electrical engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -780,8 +791,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "786441c5ce700db6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is electrical engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -803,8 +814,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "86a6a7b67a13185a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is technical support; C# is only one of several alternative programming languages.",
       "validated": null
     },
     {
@@ -826,8 +837,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "26c2b8a2a8a8502b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is electrical engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -849,8 +860,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2313d00b373bcae3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is domestic appliance field service engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -872,8 +883,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "98d1028fad6f759b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: no visa sponsorship is available and applicants must hold the right to work in the UK.",
       "validated": null
     },
     {
@@ -895,8 +906,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "48ffe2cba6423684",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is building sustainability consulting, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -918,8 +929,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ac2bf987b7e06077",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is medical equipment inspection, repair and maintenance, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -941,8 +952,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fb44f1dc67247c14",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role spans systems integration, database administration and .NET among many technologies; backend/server-side .NET/C# is not established.",
       "validated": null
     },
     {
@@ -2065,8 +2076,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d8fb9222acd10d4d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is technical sales/cloud solution architecture; C# is only a nice-to-have demo scripting option.",
       "validated": null
     },
     {
@@ -2088,9 +2099,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "477eaa1befade620",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "10+ years of professional software engineering experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software architect designing and leading scalable C#/.NET microservices and distributed systems for iGaming platforms, using ASP.NET Core and cloud-native architecture.",
+        "direct_application_link": "https://gr.indeed.com/viewjob?jk=477eaa1befade620"
+      }
     },
     {
       "company": "Belden",
@@ -2111,8 +2133,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ae07e4b49bbd14fa",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C#/.NET software is for a network management platform; backend/server-side .NET/C# development is not established.",
       "validated": null
     },
     {
@@ -2226,8 +2248,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "81191c82bc2ccd01",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is pre-sales solution architecture for AI/cloud infrastructure, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -2249,8 +2271,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a1643d0c698a30d9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: mandatory maximum two years of professional experience since graduation has no overlap with target 5-10 years.",
       "validated": null
     },
     {
