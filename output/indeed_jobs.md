@@ -1,14 +1,22 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-23 08:19 UTC*
+*Last updated: 2026-09-23 09:19 UTC*
 
-**2 new role(s)** since last run · 190 total in last 24h
+**3 new role(s)** since last run · 187 total in last 24h
 
-### [Working Student Mixed Reality Developer (Godot/C#)](https://de.indeed.com/viewjob?jk=4d19bb7036b4b3fe) — Brainlab
-- 📍 **Location:** München, BY, DE
-- **Work mode:** On-site
+### [Traineeship 'Het Rail Starterstraject' werkvoorbereider & engineer](https://nl.indeed.com/viewjob?jk=1475b53e5b6cff9c) — De Nieuwe Ingenieurs
+- 📍 **Location:** Rotterdam, ZH, NL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
 
-### [QA Automation Engineer / SDET (AI & Parity Focus)](https://hu.indeed.com/viewjob?jk=31f4da767a5b22d1) — Deutsche Telekom
-- 📍 **Location:** Budapest, PE, HU
+### [Traineeship 'Het Energie Starterstraject' werkvoorbereider & engineer](https://nl.indeed.com/viewjob?jk=313de3e7fa045d9b) — De Nieuwe Ingenieurs
+- 📍 **Location:** Rotterdam, ZH, NL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-23
+
+### [Sales Engineer Solar PV](https://ae.indeed.com/viewjob?jk=340286ec8d562daf) — Solar Water Heating System supply and installation company LLC
+- 📍 **Location:** Dubai Silicon Oasis, DU, AE
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
