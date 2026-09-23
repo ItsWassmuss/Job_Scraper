@@ -1,21 +1,16 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-23 04:19 UTC*
+*Last updated: 2026-09-23 05:19 UTC*
 
-**3 new role(s)** since last run · 190 total in last 24h
+**2 new role(s)** since last run · 191 total in last 24h
 
-### [Junior Solution Architect](https://nl.indeed.com/viewjob?jk=5c7ccdb39c7b2c88) — Belastingdienst
-- 📍 **Location:** Apeldoorn, GE, NL
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-09-22
-
-### [AI Architect](https://uk.indeed.com/viewjob?jk=21f4985d60603825) — LexisNexis Legal & Professional
-- 📍 **Location:** Farringdon, ENG, GB
+### [Fullstack-Entwickler](https://de.indeed.com/viewjob?jk=0e34e13cce4daf24) — Unknown
+- 📍 **Location:** Hamburg, HH, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-22
+- 🕒 **Posted:** 2026-09-23
 
-### [Full Stack Engineer / Software Engineer](https://sg.indeed.com/viewjob?jk=2bfc15073d20d7c1) — neutron
-- 📍 **Location:** Singapore, S00, SG
-- **Work mode:** On-site
+### [Analyst Programmer](https://sg.indeed.com/viewjob?jk=8cb3ae25388086d4) — WPH
+- 📍 **Location:** Queenstown, S00, SG
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-23
