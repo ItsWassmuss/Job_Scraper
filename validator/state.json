@@ -5479,6 +5479,21 @@
       "job_id": "fee4271ed74864d6",
       "job_url": "https://bh.indeed.com/viewjob?jk=fee4271ed74864d6",
       "seen_at": "2026-09-23T19:06:18+03:00"
+    },
+    {
+      "job_id": "37c7c200c28f11f4",
+      "job_url": "https://uk.indeed.com/viewjob?jk=37c7c200c28f11f4",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "797a24a15614aeff",
+      "job_url": "https://se.indeed.com/viewjob?jk=797a24a15614aeff",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "1b2a84aa51931843",
+      "job_url": "https://no.indeed.com/viewjob?jk=1b2a84aa51931843",
+      "seen_at": "2026-09-23T19:51:21+03:00"
     }
   ],
   "seen_linkedin": [
@@ -25171,6 +25186,71 @@
       "job_id": "4469306171",
       "job_url": "https://www.linkedin.com/jobs/view/4469306171/",
       "seen_at": "2026-09-23T19:06:18+03:00"
+    },
+    {
+      "job_id": "4424186587",
+      "job_url": "https://www.linkedin.com/jobs/view/4424186587/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4469460360",
+      "job_url": "https://www.linkedin.com/jobs/view/4469460360/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4462179438",
+      "job_url": "https://www.linkedin.com/jobs/view/4462179438/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4469331200",
+      "job_url": "https://www.linkedin.com/jobs/view/4469331200/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4469317485",
+      "job_url": "https://www.linkedin.com/jobs/view/4469317485/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4470962300",
+      "job_url": "https://www.linkedin.com/jobs/view/4470962300/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4450246382",
+      "job_url": "https://www.linkedin.com/jobs/view/4450246382/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4460979014",
+      "job_url": "https://www.linkedin.com/jobs/view/4460979014/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4317229012",
+      "job_url": "https://www.linkedin.com/jobs/view/4317229012/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4470957625",
+      "job_url": "https://www.linkedin.com/jobs/view/4470957625/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4469333129",
+      "job_url": "https://www.linkedin.com/jobs/view/4469333129/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4469323290",
+      "job_url": "https://www.linkedin.com/jobs/view/4469323290/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
+    },
+    {
+      "job_id": "4470971158",
+      "job_url": "https://www.linkedin.com/jobs/view/4470971158/",
+      "seen_at": "2026-09-23T19:51:21+03:00"
     }
   ],
   "reported": [
