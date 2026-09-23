@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cd900bdcdede71f4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8ec91238532c8a5d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ca54d55afaea7d1e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ac2bf987b7e06077",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is medical equipment engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -114,9 +114,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fb44f1dc67247c14",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Experience of software design, development and implementation; database administration experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Applicants needing a work visa must check that the post is eligible for sponsorship; sponsorship is unavailable for bank contracts.",
+        "residence_requirement": "Not specified",
+        "short_description": "Software systems design and development role using .NET, ASP.NET, SQL Server, server platforms, and system integrations for clinical systems.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=fb44f1dc67247c14"
+      }
     },
     {
       "company": "NCS",
@@ -137,8 +148,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3f03165894c3a895",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: mandatory profile limits working experience to up to 2 years, which has no overlap with 5-10 years.",
       "validated": null
     },
     {
@@ -160,9 +171,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2b49e160fbea176b",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "C#/.NET internship developing and maintaining backend services and user-facing applications, with testing and secure development practices.",
+        "direct_application_link": "https://ro.indeed.com/viewjob?jk=2b49e160fbea176b"
+      }
     },
     {
       "company": "SprintEins GmbH",
@@ -183,8 +205,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b9450da572dfeb22",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: business-fluent Hungarian is explicitly mandatory.",
       "validated": null
     },
     {
@@ -198,8 +220,8 @@
       "description": "Vi har nu ett nytt behov och söker därför en konsult och kollega med nedan kvalifikationer. Tjänsten är en del av vår konsultverksamhet vilket innebär att du blir anställd av oss och arbetar hos kund alt. interna projekt och åtaganden.\n\nDin profil (Skall krav)\n\nLång erfarenhet av .NET, C#, Azure och microservices\nErfarenhet av utformning av systemarkitektur och utveckling av händelsebaserade distribuerade system\nErfarenhet av monitorering och felsökning i affärskritiska system\nGod förmåga att självständigt felsöka och lösa problem\n\nMeriterande\n\nErfarenhet av Azure DevOps\nErfarenhet av frontendutveckling, framför allt Angular\nErfarenhet av mobilutveckling i .NET MAUI och Blazor\n\nSista ansökningdatum:\n25-09-2026\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469036973",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -213,8 +235,8 @@
       "description": "We are looking for a Senior AI & Azure Integration Engineer\nwith a broad technical background in software development, system integration, cloud platforms, and Generative AI\n.\n\nThe organization is actively developing AI-supported engineering workflows\nand moving from local proof-of-concepts toward cloud-based AI agents\n. You will contribute to building the technical foundation, working methods, integrations, and cloud infrastructure needed for an increasingly AI-driven development environment.\n\nThis is a senior role requiring the ability to work independently, take ownership of solutions and quality, and translate business requirements into well-designed technical architectures\n.\n\nKey Responsibilities\n\nDevelop and improve AI-supported development workflows.\nDesign and implement solutions for cloud-based AI agents.\nCreate, improve, and maintain instructions, documentation, and working methods for both developers and AI agents.\nDesign and develop integrations using Azure Integration Services.\nWork with Logic Apps Standard, Azure API Management, and Azure Service Bus.\nDevelop backend/integration components using C# and Azure Functions or containerized applications running in Kubernetes.\nDesign and maintain CI/CD pipelines and GitHub workflows.\nWork with Terraform and scripting for infrastructure automation.\nContribute to Azure infrastructure, including networks, subnets, gateways, and security.\nApply secure development principles and OWASP practices.\nWork across frontend, backend, integration, and cloud infrastructure.\nCollaborate with platform teams, integration teams, IT stakeholders, business representatives, and external suppliers.\nEvaluate architectural alternatives and clearly communicate technical decisions based on business requirements.\nContribute to knowledge sharing and continuous improvement across the development team.\n\nRequired Qualifications\n\nSenior-level experience in system development, integration, and cloud platforms.\nExperience using and further developing AI-supported working methods within software development teams.\nAbility to create and manage effective instructions, documentation, and workflows for humans and AI agents.\nStrong hands-on experience with Azure Integration Services, particularly:\nLogic Apps Standard\nAPI Management\nService Bus\n\nStrong development experience with C#, particularly using:\nAzure Functions, and/or\nKubernetes/container-based applications\n\nExperience with CI/CD.\nExperience with GitHub workflows.\nExperience with Terraform and scripting/automation.\nGood understanding of Azure networking, including networks, subnets and gateways.\nUnderstanding of application and cloud security, including OWASP principles.\nExperience with frontend and/or backend web development.\nBroad understanding of Azure infrastructure and cloud architecture.\nAbility to translate business needs into technical and architectural solutions.\nSelf-driven with a high level of initiative and ownership.\nStrong communication and cross-functional collaboration skills.\nFluent Swedish and English, both spoken and written.\n\nMeritorious Experience\n\nThe following experience would be considered an advantage:\n\nIntegration experience within the transport, railway, mobility, or similar industry.\nExperience integrating with transport-related platforms or enterprise systems such as DUP/CI, Topas, IVU Rail, IBM Maximo, or comparable systems.\nExperience developing self-service solutions, dashboards, or AI-supported tools for business users.\nExperience with Microsoft Foundry, GitHub cloud-based agent capabilities, or similar technologies for provisioning and operating AI agents in cloud environments.\nExperience taking AI-agent solutions from proof-of-concept to production cloud environments.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469058026",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: fluent Swedish is explicitly mandatory.",
       "validated": null
     },
     {
@@ -228,9 +250,20 @@
       "description": "Senior Product Engineer - Investments\n\nAbout Kota\n\nKota is reimagining insurance and retirement benefits for the modern workforce. Through our two flagship products - Kota Platform, the first fully integrated benefits platform, and Kota Embed, our embedded insurance solution - we're making benefits more accessible, valued, and global.\n\nToday, we power benefits for tens of thousands of employees at Europe's most forward-thinking companies, including Carwow, Tines, Zoe, and Remote. Founded in 2022, we've raised more than €20M from leading investors such as EQT Ventures, Eurazeo, Northzone, and Frontline, as well as founders and executives from Workday, Remote, Personio, OpenAI, and more.\n\nThe role & team\n\nWe're looking for a Senior Product Engineer to join the Investments team, building the product that powers workplace pensions, retirement savings and our spend product at Kota. It's a full stack role with a backend lean, your strongest expertise will be backend and you'll work in the frontend when the product needs it.\n\nThe Investments team owns more than pensions. On one side, pension infrastructure is genuinely complex: multi-provider, multi-market and largely unmodernised. You'll design the systems that connect pension providers to employers and employees, covering contributions, fund data, payroll integrations and compliance across multiple markets.\n\nOn the other hand, you'll own our Spend product. This lets employers create allowances and issue cards to employees, who get a virtual Stripe card they can add to Apple or Google Wallet and spend in real time. It spans card issuing, wallet provisioning, transaction flows and the controls employers need to manage it. We want someone who starts with the customer, not the code, and proactively adds to the roadmap rather than just picking up tickets. This is an autonomous role, you'll be trusted to make product calls, not just technical ones.\n\nWhat You'll Do\n\nDesign and build the systems that power Kota's Investments products; pensions, retirement savings and Spend: contributions, onboarding, provider integrations, employer-facing configuration, card issuing and wallet provisioning\nOwn technical architecture for the Investments stream, integrating with external pension and savings providers as well as payment and card infrastructure (Stripe)\nContribute to frontend code (React + TypeScript) when a feature calls for it\nJoin client calls where it helps you understand or explain a problem, and proactively shape the roadmap rather than just picking up tickets\nUse AI actively in your day-to-day work, for building, reviewing and speeding up how you ship\nContribute to code reviews and technical planning, and keep the systems you own stable and observable\nHelp shape how the Investments team works as it grows\n\nWhat We're Looking For\n\n6+ years building backend systems in production (.NET 10, PostgreSQL, Azure/AWS), comfortable picking up frontend (React/TypeScript) when needed\nExperience designing and maintaining integrations with third-party APIs\nStrong understanding of data modelling, event-driven patterns, and building for correctness and auditability\nA clear communicator who can talk to engineers and customers, and knows which version to use with which audience\nA product mindset and a bias to bring ideas, not just execute them, proactively adding to the roadmap\nYou take real ownership, if a request from a client or lead doesn't match your own understanding of the problem, you say so rather than building to spec anyway\nYou think carefully about reliability, security and compliance, and are comfortable with ambiguity and ownership in a fast-growing startup\nAI-forward mindset, we use AI daily to build and improve our systems and expect you to as well\n\nWhy join us?\n\nTechnically interesting problem - pension infrastructure is genuinely complex: multi-provider, multi-market and largely unmodernised\nModern stack - .NET 10, PostgreSQL, React, TypeScript, Next.js, Azure/AWS, event-driven\nAgency - we hire people and trust them. You'll own meaningful parts of the system end to end\nCustomer proximity - you'll see the impact of what you build, and hear directly from the people using it\nHigh-quality culture - we care about clean design and thoughtful engineering\nImpact from day one - we're a small, focused team. What you build ships fast and matters\nAI-first - we invest heavily in AI tooling and token usage. We're not precious about the spend, if it helps you build better or faster, use it\n\nOur hiring process\n\nIntroductory call (30 mins): a casual chat with one or two of our product team\nTechnical interview (90 mins): a collaborative, open-book session with two engineers, working through a real-world problem together\nCall with founders (30 mins): we'll share our vision and hear your thoughts\nFinal response: we'll follow up promptly with next steps\n\nKota Benefits\n\nHealth insurance via Kota\nWorkplace pension with matched contributions up to 5% via Kota\nWFH stipend to support your home office setup\nGenerous paid time off, work hard and take the time you need\nAccess to office space in Dublin or a co-working space, wherever you're based\nFlexible working hours, we're remote-first with some fixed hours for team alignment\n\nWe are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nFinancial Services",
       "source": "LinkedIn",
       "job_id": "4469047605",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "6+ years building backend systems in production.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack product engineering role with a backend lean, building production systems in .NET 10 with PostgreSQL and Azure/AWS.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4469047605/"
+      }
     },
     {
       "company": "Etteplan",
@@ -243,8 +276,8 @@
       "description": "We are looking for an AI Developer to our team in Espoo or Tampere!\n\nThis permanent position is about building AI solutions that do real work in our customers' processes, and making them reliable enough to run in production. The role can be tailored according to your preferences and skills: some of our developers spend more time with the customer shaping which processes are worth automating, others go deeper into the orchestration, evaluation and operations side.\n\nYou will join a team of experienced professionals from different areas of software expertise. We work in a hybrid mode, but in this role we expect strong presence in Espoo or Tampere.\n\nNaturally, you will have access to modern tools and strong co-operation with your colleagues.\n\nOne of our strengths in career development is our diverse range of clients and various projects in different fields. That enables us to offer versatile opportunities for our employees. At Etteplan, we are concentrating on helping our customers especially in industrial system digitalization, which means the agents you build will touch engineering data, technical documentation, service processes and industrial operations, not just chat interfaces. Many of these customers have strict requirements about where their data may go, so running models locally and on-premises is a direction we are actively building capability in.\n\nAs an AI Developer at Etteplan, the role would include (but not be limited to):\n\nMap customer processes into agentic workflows: decide what the agent decides, what a tool does, and where a human stays in the loop\nDesign and build tool-using agents that plan and execute multi-step tasks, including task decomposition, state and memory handling, and controlled autonomy\nBuild and maintain the tool and integration layer: tool contracts and schemas, structured input and output, validation and retries, and connections to customer APIs, databases, document repositories and operational systems\nBuild the application around the agent, from the user-facing interface to backend services, databases, authentication and deployment pipelines\nDeploy solutions where the customer needs them, whether that is Azure, another cloud, the customer's own servers, or an on-premises environment running local models\nImplement the controls that make AI acceptable in an industrial context: permissions, policy checks, audit logs, and correct handling of confidential customer data\nStay up to date with the fast-moving AI tooling landscape and help us decide what is production-ready and what is not\n\nWe are looking for a person who has:\n\nProven experience building LLM-based applications that reached production, not only prototypes and demos\nHands-on experience with agent frameworks and orchestration, for example LangGraph, LangChain, OpenAI Agents SDK, Claude Agent SDK, Semantic Kernel, Copilot Studio, n8n or equivalent\nExperience working against AI and LLM APIs from several providers, including tool and function calling, structured output, and MCP (Model Context Protocol) or comparable ways of exposing tools and data to an agent\nFull-stack capability: you can take a solution from user interface through backend services, databases, APIs and authentication to a running deployment\nDocker and containers as part of your normal way of working, together with CI/CD and monitoring\nFamiliarity with cloud platforms, Azure in particular, and with AWS or Google Cloud as a plus\nAbility to work directly with customers, translate ambiguous requirements into something buildable, and explain trade-offs in plain language\nWorking proficiency in English; Finnish is a strong advantage in customer work\n\nWe appreciate also, if you are familiar with:\n\nLocal and self-hosted inference\nEfficient handling of large volumes of data\nEvaluation of non-deterministic systems\nIndustrial context: manufacturing, energy, machinery, medical devices or defence and security, and the systems around them such as MES, PLM, ERP, IIoT or technical documentation and CCMS environments\n\nThe salary range is quite wide, reflecting our openness to both earlier‑career and more experienced professionals. What matters most to us is finding the right competencies and fit and aligning the role and compensation to match.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Media, Manufacturing, and Utilities",
       "source": "LinkedIn",
       "job_id": "4461567257",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side C#/.NET evidence; role centers on AI/LLM applications and orchestration.",
       "validated": null
     },
     {
@@ -258,8 +291,8 @@
       "description": "We are looking for an AI Developer to our team in Espoo or Tampere!\n\nThis permanent position is about building AI solutions that do real work in our customers' processes, and making them reliable enough to run in production. The role can be tailored according to your preferences and skills: some of our developers spend more time with the customer shaping which processes are worth automating, others go deeper into the orchestration, evaluation and operations side.\n\nYou will join a team of experienced professionals from different areas of software expertise. We work in a hybrid mode, but in this role we expect strong presence in Espoo or Tampere.\n\nNaturally, you will have access to modern tools and strong co-operation with your colleagues.\n\nOne of our strengths in career development is our diverse range of clients and various projects in different fields. That enables us to offer versatile opportunities for our employees. At Etteplan, we are concentrating on helping our customers especially in industrial system digitalization, which means the agents you build will touch engineering data, technical documentation, service processes and industrial operations, not just chat interfaces. Many of these customers have strict requirements about where their data may go, so running models locally and on-premises is a direction we are actively building capability in.\n\nAs an AI Developer at Etteplan, the role would include (but not be limited to):\n\nMap customer processes into agentic workflows: decide what the agent decides, what a tool does, and where a human stays in the loop\nDesign and build tool-using agents that plan and execute multi-step tasks, including task decomposition, state and memory handling, and controlled autonomy\nBuild and maintain the tool and integration layer: tool contracts and schemas, structured input and output, validation and retries, and connections to customer APIs, databases, document repositories and operational systems\nBuild the application around the agent, from the user-facing interface to backend services, databases, authentication and deployment pipelines\nDeploy solutions where the customer needs them, whether that is Azure, another cloud, the customer's own servers, or an on-premises environment running local models\nImplement the controls that make AI acceptable in an industrial context: permissions, policy checks, audit logs, and correct handling of confidential customer data\nStay up to date with the fast-moving AI tooling landscape and help us decide what is production-ready and what is not\n\nWe are looking for a person who has:\n\nProven experience building LLM-based applications that reached production, not only prototypes and demos\nHands-on experience with agent frameworks and orchestration, for example LangGraph, LangChain, OpenAI Agents SDK, Claude Agent SDK, Semantic Kernel, Copilot Studio, n8n or equivalent\nExperience working against AI and LLM APIs from several providers, including tool and function calling, structured output, and MCP (Model Context Protocol) or comparable ways of exposing tools and data to an agent\nFull-stack capability: you can take a solution from user interface through backend services, databases, APIs and authentication to a running deployment\nDocker and containers as part of your normal way of working, together with CI/CD and monitoring\nFamiliarity with cloud platforms, Azure in particular, and with AWS or Google Cloud as a plus\nAbility to work directly with customers, translate ambiguous requirements into something buildable, and explain trade-offs in plain language\nWorking proficiency in English; Finnish is a strong advantage in customer work\n\nWe appreciate also, if you are familiar with:\n\nLocal and self-hosted inference\nEfficient handling of large volumes of data\nEvaluation of non-deterministic systems\nIndustrial context: manufacturing, energy, machinery, medical devices or defence and security, and the systems around them such as MES, PLM, ERP, IIoT or technical documentation and CCMS environments\n\nThe salary range is quite wide, reflecting our openness to both earlier‑career and more experienced professionals. What matters most to us is finding the right competencies and fit and aligning the role and compensation to match.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Media, Manufacturing, and Utilities",
       "source": "LinkedIn",
       "job_id": "4461568223",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side C#/.NET evidence; role centers on AI/LLM applications and orchestration.",
       "validated": null
     },
     {
@@ -273,8 +306,8 @@
       "description": "The role of the .Net Developer is to quickly provide development expertise on projects involving the .Net framework and Camunda, leveraging prior knowledge of the bank’s operations to minimize onboarding time.\n\nResponsibilities:\n\nDevelop and maintain applications using the .Net framework.\nImplement and integrate solutions with Camunda.\nProvide immediate value to projects by leveraging existing knowledge of processes.\n\nMust Haves:\n\nStrong experience with the .Net framework.\nKnowledge and experience with Camunda.\nPrior experience working in the banking sector.\nSenior level developer expertise.\n\nNice to Haves:\n\nExperience with cloud platforms (e.g., Azure).\nFamiliarity with Agile methodologies.\nKnowledge of other programming languages.\n\nOther Details:\n\nLocation: Remote\nEngagement Period: fulltime, 10/1/2026 - 12/31/2026\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469060196",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -288,9 +321,20 @@
       "description": "Summary\n\nWe’re looking for a Full Stack Developer with experience across web (Angular), backend (C#/.NET), and mobile (Flutter), along with hands-on CMS and SEO know-how. Beyond technical skill, we want someone with the right mindset, attitude, and passion. The kind of person who instinctively does things the right way, takes ownership, and cares about the craft. You’ll build and maintain scalable, high-quality applications, collaborate closely with cross-functional teams, and contribute to architectural and technical decisions across the squad.\n\nResponsibilities\n\nJob Description\n\nDesign, develop, test, and deploy web, backend, and mobile applications across multiple platforms.\nTranslate business and functional requirements into robust, maintainable technical solutions.\nContribute to system architecture, technical design, and integration approaches across web, mobile, and backend layers.\nBuild and maintain CMS-driven websites, ensuring content workflows are efficient, flexible, and scalable.\nImplement SEO best practices across web properties, including technical SEO, structured data, performance, and Core Web Vitals.\nCollaborate with UI/UX, Product and Delivery teams to deliver intuitive and consistent user experiences.\nParticipate actively in Agile ceremonies, including sprint planning, backlog refinement, and retrospectives.\nIdentify opportunities for technical improvement, performance optimisation, and long-term maintainability.\nStay current with evolving technologies and frameworks relevant to web, backend, and mobile development.\n\nRequirements\n\nBachelor’s degree in Computer Science, Engineering, Information Systems, or a related field.\n3-5 years of professional experience as a Full Stack Developer delivering production-grade applications.\nStrong experience in Angular for web application development.\nSolid backend development experience using C# / .NET (ASP.NET Core), including RESTful APIs and integrations.\nHands-on experience developing mobile applications using Flutter.\nExperience working with CMS platforms (e.g. Sitefinity, Sitecore, Strapi, WordPress, or similar)\nStrong understanding of SEO fundamentals: on-page optimisation, structured data, sitemaps, canonicalisation, page performance, and accessibility as it relates to discoverability.\nExperience designing and delivering multi-platform, enterprise-scale solutions.\nGood understanding of modern application architectures and design patterns.\nExperience working in Agile development environments.\nProficiency with Git-based version control and collaboration tools (e.g. GitLab, Confluence, JIRA).\nStrong problem-solving skills and the ability to work independently as well as collaboratively.\nClear communication skills, with the ability to work effectively with both technical and non-technical stakeholders.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAirlines and Aviation",
       "source": "LinkedIn",
       "job_id": "4443333569",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "3-5 years of professional experience as a Full Stack Developer.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack role spanning Angular web, C#/.NET ASP.NET Core backend APIs and integrations, and Flutter mobile development.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4443333569/"
+      }
     },
     {
       "company": "Hopgogo",
@@ -303,9 +347,20 @@
       "description": "Senior Full Stack Developer (.NET) Location:\n Istanbul / Hybrid\nExperience:\n 5+ years\nEmployment:\n Full-time\n\nAbout Hopgogo Hopgogo is building an  AI-powered travel platform\n that turns travelers’ intent into personalized, bookable multi-destination journeys.\nWe’re looking for a  Senior Full Stack Developer\n to join our technology team and take ownership of products and features end-to-end.\n\nWhat We’re Looking For 5+ years\n of professional software development experience\nStrong  C# / .NET / ASP.NET Core\n experience —  required\n\nExperience with React / Next.js and TypeScript\n\nStrong knowledge of REST APIs, third-party integrations and PostgreSQL\n\nExperience with AWS, Docker and CI/CD\n\nHands-on experience using AI coding agents\n to write, refactor, test, debug and review code\nAbility to effectively guide AI agents and critically review AI-generated code\nBachelor’s degree in Computer Science, Software Engineering, or a related field from a top-tier university\n\nStrong ownership and problem-solving mindset\n\nExperience with  travel technology, microservices, Redis, OpenSearch, LLM integrations or payment systems\n is a plus.\n\nAt Hopgogo, you’ll work on real-world challenges across  travel, AI, personalization, optimization and booking technologies\n.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4468940020",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "5+ years of professional software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack .NET role in Istanbul using C#/.NET/ASP.NET Core with React/Next.js, PostgreSQL, AWS, Docker, and CI/CD.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4468940020/"
+      }
     },
     {
       "company": "Reclut",
@@ -318,8 +373,8 @@
       "description": "Estamos buscando para un cliente de Murcia, un especialista IT para ocupar la posición de Analista Programador\n\nEn dependencia del responsable del área, velará por la estabilidad, continuidad operativa y optimización de los procesos\nsoportados por el programa interno de gestión.\n\nFUNCIONES\n\n✅ Gestión del Programa de gestión interno\n\nResponsable del correcto funcionamiento del sistema\nGestión de incidencias críticas\nCoordinación con proveedor o soporte del grupo\n\n✅ Optimización de procesos\n\nAnálisis y mejora de flujos de trabajo del laboratorio\nReducción de tareas manuales y errores operativos\nAlineación entre procesos reales y sistema\n\n✅ Gobernanza y control\n\nValidación de cambios y evoluciones\nGestión de usuarios, permisos y trazabilidad\nCumplimiento de requerimientos de calidad / auditoría\n\n✅ Interlocución con negocio\n\nPunto único de contacto para laboratorio y calidad\nTraducción de necesidades operativas a requisitos IT\n\nREQUISITOS TÉCNICOS:\n\nMain tech stack:\n\nC# / .NET (Framework or .NET Core)\nSQL Server\nVisual Studio\n\nDesirable:\n\nREST APIs\nDevExpress (WinForms components and reporting)\nWinForms or desktop applications\nBasic IIS\nEntity Framework\nGit\n\nCONDICIONES:\n\nContrato indefinido\nSeguro Médico privado\nModelo híbrido 50%\nUbicación: Murcia\nSalario: 30-33K aprox\nInglés B2-C1\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEducation and Training\n\nIndustries\n\nInternet Marketplace Platforms",
       "source": "LinkedIn",
       "job_id": "4469054107",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -333,8 +388,8 @@
       "description": "Somos una compañía global, líder en el desarrollo de infraestructuras regenerativas que generan un impacto positivo en la sociedad. Nuestra plantilla, formada por más de 65.000 profesionales y presente en más de 40 países de los cinco continentes, contribuye a nuestra misión de diseñar un planeta mejor. Buscamos personas que quieran marcar la diferencia, promover el desarrollo sostenible y encontrar soluciones a los mayores desafíos globales, incluidos el cambio climático, la sobrepoblación y la escasez hídrica. Únete a nosotros en la búsqueda de soluciones para lograr un futuro sostenible.\n\nEn el Programa de Becas de ACCIONA formarás parte de equipos que te involucrarán en proyectos desde el primer día, acompañado por expertos que te ayudarán a desarrollar tus capacidades y participar en el día a día de una empresa global.\n\nResumen de descripción de puesto\n\nEn ACCIONA buscamos incorporar a un/a estudiante de último curso de Grado para incorporarse en nuestro Programa de Becas para formar parte del equipo de Aplicaciones de Recursos Corporativos.\n\nDescripción del puesto\n\nLa persona en este puesto se ocupará de colaborar en el desarrollo y mantenimiento de aplicaciones de Recursos Corporativos desarrolladas en diferentes lenguajes, principalmente Sharepoint y .NET.\n\nResponsabilidades\n\nSoporte al equipo de desarrollo en planes de pruebas técnicas y funcionales.\nElaboración de documentación técnica y funcional de las aplicaciones.\nEjecución de desarrollos de complejidad baja dentro del soporte y mantenimiento de las diferentes aplicaciones.\nSoporte al despliegue de aplicaciones usando metodología Devops.\n\nTecnologías Con Las Que Trabajarás\n\nNET Framework/ .NET Core (WinForms / MVC / WebForms / FullStack)\nJavascript / HTML/ CSS/ ASP.net Razor / JQuery\nTSQL\nEntity Framework / MAUI / Bootstrap\nPowerBI / diseño y creación de cuadros de mando e informes\nJIRA / control de proyectos y metodología Agile (SCRUM) / Xray / Confluence / SonarQube\nAzure Devops / Jenkins / CloudBees / Github\n\nRequisitos del candidato\n\nRequired Skills And Competencies\n\nConocimientos de desarrollo de aplicaciones y lenguajes de programación (.NetCore).\nCapacidad para trabajar creativa y analíticamente para comprender y estructurar la información relacionada con cada aplicación.\nOrganizado y con capacidad de trabajo por objetivos.\nEstudiante de último curso de Grado de Ingeniería de Sistemas, Ingeniería del Software e Ingeniería Informática.\nInglés C1\n\nDisponibilidad Requerida\n\nPosibilidad de firmar un Convenio de Prácticas con la universidad, cursando último año de grado o máster habilitante.\nDisponibilidad para realizar una beca de 6 meses, con opción de media jornada o jornada completa.\n\n¿Qué esperamos de ti?\n\nBuscamos personas con un alto potencial, capacidad de trabajo en equipo y motivación por crecer dentro de una empresa internacional. Si crees que este es tu perfil y estás buscando impulsar tu futuro en una carrera que genere un impacto positivo en el planeta, has venido al lugar correcto… ¡te queremos en nuestro equipo!\n\nSomos una compañía que valora la diversidad como fuente de talento y por ello trabajamos para impulsar un entorno inclusivo en el que se promueve el respecto, la pertenencia y el compromiso de forma que todas las personas puedan participar en igualdad de oportunidades. Invitamos a todas las personas a inscribirse con independencia del origen, circunstancias, bagaje o condición ACCIONA ha recibido la certificación Top Employer 2021, 2022 y 2023 y 2024 que reconoce a la Compañía como una de las mejores empresas para trabajar en España.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nInternship\n\nJob function\n\nOther\n\nIndustries\n\nUtilities",
       "source": "LinkedIn",
       "job_id": "4469054320",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive job description is primarily Spanish with no confirmed complete official English version.",
       "validated": null
     },
     {
@@ -348,8 +403,8 @@
       "description": "Imagine a world with zero vehicle accidents, zero vehicle emissions, and wireless vehicle connectivity all around us. Every day, we move closer to making that world a reality. Aptiv’s passionate team of engineers and developers creates advanced safety systems, high-performance electrification solutions and data connectivity solutions so that automakers can bring advanced capabilities to more people around the globe. This is how we enable sustainable mobility and help to prevent accidents caused by human error.\n\nWant to join us?\n\nFactory Information Systems (FIS) is Aptiv’s developed and owned system used to track and monitor manufacturing processes. We are looking for an IT engineer who will be part of Global Factory Information Systems team and will operate globally.\n\nYour Role\n\nSoftware development according to given quality standards and within given time\nDevelop in-depth understanding of manufacturing process\nActively participate in the investigation, design and deployment of a global Factory Information System\nAct as technical subject matter expert to support ongoing operations. Participate in incident management process and problem resolution. Coordinate new system deployments globally\nProvide technical consultation to production sites in the area of application functionality, configuration and interfacing capabilities\nAssist production sites in connecting new equipment to Factory Information System\n\nYour Background\n\nB.S. or Master degree in Engineering, Computer Science, or Technology\nAt least 4 years of experience in IT area: software development for mission critical, transactional systems processing high volume of data\nAbility to develop software in object oriented languages (C#, VB.NET, etc.) and scripting languages (TCL, Python, BASH, etc.).\nRed Hat Linux based applications environment.\nMariaDB (MySQL) database knowledge.\nEnglish level B2 or higher\n\nWhy join us?\n\nYou can grow at Aptiv. Aptiv provides an inclusive work environment where all individuals can grow and develop, regardless of gender, ethnicity or beliefs.\nYou can have an impact. Safety is a core Aptiv value; we want a safer world for us and our children, one with: Zero fatalities, Zero injuries, Zero accidents.\nYou have support. We ensure you have the resources and support you need to take care of your family and your physical and mental health with a competitive health insurance package.\n\nPrivacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates\n\nAptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nAutomation Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4470608748",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     }
   ]
