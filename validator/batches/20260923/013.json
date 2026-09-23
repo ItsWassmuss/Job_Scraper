@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "221e59dd511e7e33",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no explicit backend/server-side .NET/C# evidence in substantive stored JD.",
       "validated": null
     },
     {
@@ -45,9 +45,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a788d7cc80c779e0",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Full-stack development experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack role building web applications and backend services/APIs using Java/Spring Boot, .NET (C#), or equivalent technologies.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=a788d7cc80c779e0"
+      }
     },
     {
       "company": "SoTalent",
@@ -60,8 +71,8 @@
       "description": "Senior Fullstack Java Engineer\nLocation:\nAmsterdam, Netherlands\nWork Setting:\nHybrid – 3 days in office / 2 days from home\nEmployment Type:\nFull-time\nIndustry:\nTechnology / Online Delivery\nFunction:\nSoftware Engineering / Full Stack Development\nAbout the Role\nSeeking a Senior Fullstack Java Engineer to help modernise partner technology and build scalable, event-driven microservices using Java, Spring and Kubernetes.\nKey Responsibilities\nDesign and build scalable, event-driven microservices.\nTranslate product requirements into technical solutions and API/event contracts.\nDevelop clean, maintainable code and mentor junior developers.\nMaintain and modernise legacy .NET applications.\nTroubleshoot production issues and improve platform reliability.\nExplore AI-driven tools and emerging technologies to improve development efficiency.\nCollaborate across engineering and product teams.\n\nRequirements\nStrong Java/Spring or C#/.NET experience with microservices and design patterns.\nFull-stack development experience with React, Vue or similar.\nHands-on AWS, Docker, Kubernetes, Helm and CI/CD experience.\nExperience with Kafka, AWS SNS/SQS and relational/NoSQL databases.\nKnowledge of testing frameworks such as JUnit and Testcontainers.\nExperience with distributed tracing tools such as OpenTelemetry or Datadog.\nFamiliarity with PHP and cybersecurity practices.\nStrong communication, collaboration and problem-solving skills.\n\nLocation requirement:\nAmsterdam, with 3 days per week in the office.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMobile Food Services and Technology, Information and Media",
       "source": "LinkedIn",
       "job_id": "4468975787",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily Java/Spring; .NET is described as legacy application maintenance.",
       "validated": null
     },
     {
@@ -75,9 +86,20 @@
       "description": "Ready for your next challenge as a Fullstack or Backend Developer in Java, C#, or .NET?\nALTEN is looking for an experienced Fullstack or Backend Developer to join our team in Gothenburg and work with cutting-edge projects for our clients in the automotive industries. This is a hybrid role where you’ll design, develop, and maintain robust applications while collaborating with cross-functional teams.\n\nWhat do we offer?\nAt ALTEN, we believe in fostering an environment where your skills and ambitions thrive. Here’s what you can expect:\nWork on innovative solutions for industry-leading clients.\nAccess to continuous learning and career development opportunities.\nJoin a team of passionate engineers and experts.\nAttractive salary, wellness programs, and more\n\nAbout the role\nAs a Fullstack or Backend Developer, you will play a key role in developing and optimizing applications using Java, C#, or .NET. You’ll work closely with architects, product owners, and other developers to deliver high-quality software solutions. Your expertise in modern development practices and cloud technologies will be essential in driving projects forward.\nYou’ll have the opportunity to contribute to all phases of the software development lifecycle, from design and implementation to testing and deployment. Experience with cloud platforms (AWS/Azure) and DevOps practices (Kubernetes, Docker, CI/CD) will be highly valued.\n\nYour main responsibilities\nDesign, develop, and maintain scalable applications using Java, C#, or .NET.\nCollaborate with cross-functional teams to define and implement software solutions.\nOptimize application performance and ensure high availability.\nParticipate in code reviews and contribute to best practices.\nImplement and maintain CI/CD pipelines for seamless deployments.\nWork with cloud platforms (AWS/Azure) to deploy and manage applications.\nTroubleshoot and resolve technical issues.\n\nYour profile\nYou are a skilled Fullstack or Backend Developer with a passion for creating robust and scalable applications.\nDegree in Computer Science, Software Engineering, or a related field.\nMinimum 5 years of experience in Java, C#, or .NET development.\nProficiency in Java, C#, or .NET, with experience in cloud platforms (AWS/Azure) and DevOps tools (Kubernetes, Docker, CI/CD) being a plus.\nExperience in the automotive industry is meritorious.\n\nPlease note, this is a proactive job advertisement intended to connect with talented professionals and does not currently refer to a specific assignment. We review applications continuously. However, due to the summer holiday period, the processing time may be longer than usual. Applications will be reviewed towards the end of August.\n\nAbout ALTEN\nALTEN is one of Europe’s largest technology and IT consulting companies with over 57,000 employees in nearly 30 countries. Our engineers carry out complex and highly technical projects throughout the value chain of the most prestigious companies in all sectors, such as Automotive, Defense, Energy & Environment, Industry, Public services & Government and Life Sciences. In Sweden, we are about 1300 committed employees with 9 offices in 9 cities - from Lund in the south to Skellefteå in the north.\n\nFor the sixth year in a row, ALTEN has been named one of Sweden's most attractive employers by Karriärföretagen, an award for employers that offer unique career and development opportunities.\nWelcome to read more about us at alten.se\n\nPlease be aware that applications submitted via email or direct messaging will not be considered.\n\nFor any HR-related questions or request regarding a job application, please select the ‘Recruitment’ category in “Contact us”.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nEngineering Services and Motor Vehicle Manufacturing",
       "source": "LinkedIn",
       "job_id": "4430600794",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Minimum 5 years of experience in Java, C#, or .NET development",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Fullstack or backend developer role designing, developing, and maintaining applications using Java, C#, or .NET.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4430600794/"
+      }
     }
   ]
 }
