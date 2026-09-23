@@ -32419,6 +32419,105 @@
       "location": "Queenstown, S00, SG",
       "canonical_url": "https://sg.indeed.com/viewjob?jk=8cb3ae25388086d4",
       "reported_at": "2026-09-23T09:01:00+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4468940020",
+      "company": "Hopgogo",
+      "title": "Full Stack Engineer",
+      "location": "Istanbul, Türkiye",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4468940020/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4460047317",
+      "company": "GovTech Singapore",
+      "title": "Senior Software Engineer, GeBIZ X",
+      "location": "Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4460047317/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4468940020",
+      "company": "Hopgogo",
+      "title": "Full Stack Engineer",
+      "location": "Istanbul, Türkiye",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4468940020/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4469047605",
+      "company": "Kota",
+      "title": "Senior Product Engineer - Pensions and Spend",
+      "location": "Ireland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4469047605/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4469057340",
+      "company": "Kota",
+      "title": "Senior Product Engineer - Pensions and Spend",
+      "location": "London, England, United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4469057340/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4469047605",
+      "company": "Kota",
+      "title": "Senior Product Engineer - Pensions and Spend",
+      "location": "Ireland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4469047605/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "fb44f1dc67247c14",
+      "company": "NHS Scotland",
+      "title": "259544 Software Systems Designer and Developer",
+      "location": "Dumfries, SCT, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=fb44f1dc67247c14",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4425471172",
+      "company": "Renesas Electronics",
+      "title": "Sr Software Development Engineer",
+      "location": "Wrocław, Dolnośląskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4425471172/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4443333569",
+      "company": "Scoot",
+      "title": "Full Stack Developer (Web/Mobile)",
+      "location": "East Region, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4443333569/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4443333569",
+      "company": "Scoot",
+      "title": "Full Stack Developer (Web/Mobile)",
+      "location": "East Region, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4443333569/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4469048447",
+      "company": "Veeam Software",
+      "title": "C# Developer (Unstructured Data Protection)",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4469048447/",
+      "reported_at": "2026-09-23T13:00:59+03:00"
     }
   ]
 }
