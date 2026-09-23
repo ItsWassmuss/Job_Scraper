@@ -32028,6 +32028,42 @@
       "location": "Eindhoven, NB, NL",
       "canonical_url": "https://nl.indeed.com/viewjob?jk=0ab3a6901869e1f9",
       "reported_at": "2026-09-23T07:00:58+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "f3b05c85ced93c1b",
+      "company": "C.H. Robinson",
+      "title": "Software Engineer III",
+      "location": "Warszawa, MZ, PL",
+      "canonical_url": "https://pl.indeed.com/viewjob?jk=f3b05c85ced93c1b",
+      "reported_at": "2026-09-23T09:01:00+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "dc4e4b83d4076934",
+      "company": "Entain",
+      "title": "Senior Software Engineer (Backend) - .NET (All genders)",
+      "location": "Wien, W, AT",
+      "canonical_url": "https://at.indeed.com/viewjob?jk=dc4e4b83d4076934",
+      "reported_at": "2026-09-23T09:01:00+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "2b49e160fbea176b",
+      "company": "Société Générale",
+      "title": "Internship C# Developer",
+      "location": "București, IF, RO",
+      "canonical_url": "https://ro.indeed.com/viewjob?jk=2b49e160fbea176b",
+      "reported_at": "2026-09-23T09:01:00+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "8cb3ae25388086d4",
+      "company": "WPH",
+      "title": "Analyst Programmer",
+      "location": "Queenstown, S00, SG",
+      "canonical_url": "https://sg.indeed.com/viewjob?jk=8cb3ae25388086d4",
+      "reported_at": "2026-09-23T09:01:00+03:00"
     }
   ]
 }
