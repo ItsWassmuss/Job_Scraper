@@ -32805,6 +32805,24 @@
       "location": "Toa Payoh, S00, SG",
       "canonical_url": "https://sg.indeed.com/viewjob?jk=a788d7cc80c779e0",
       "reported_at": "2026-09-23T14:01:02+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4458074706",
+      "company": "Superdrug",
+      "title": "Senior .Net Developer (Azure/ Full Stack Mobile)",
+      "location": "Croydon, England, United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4458074706/",
+      "reported_at": "2026-09-23T15:01:11+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4468968992",
+      "company": "X-WORKS software GmbH",
+      "title": "C# SOFTWARE-ENTWICKLER*IN",
+      "location": "Pöchlarn, Lower Austria, Austria",
+      "canonical_url": "https://join.com/companies/x-works/16706311-c-software-entwickler-in",
+      "reported_at": "2026-09-23T15:01:11+03:00"
     }
   ]
 }
