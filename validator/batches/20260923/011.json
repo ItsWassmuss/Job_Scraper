@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-09-23T08:26:04+03:00",
+  "job_count": 2,
+  "finalized": false,
+  "jobs": [
+    {
+      "company": "Unknown",
+      "title": "Fullstack-Entwickler",
+      "location": "Hamburg, HH, DE",
+      "url": "https://de.indeed.com/viewjob?jk=0e34e13cce4daf24",
+      "direct_url": "http://de.indeed.com/job/fullstack-entwickler-0e34e13cce4daf24",
+      "company_url": "https://de.indeed.comNone",
+      "date_posted": "2026-09-23",
+      "description": "Stellenbeschreibung  \nAls Fullstack\\-Entwickler\\*in bist du die treibende Kraft hinter der Entwicklung moderner, skalierbarer Webanwendungen. Du gestaltest innovative Lösungen, die sowohl auf der Client\\-Seite als auch auf der Server\\-Seite überzeugen. Dabei arbeitest du in einem dynamischen Umfeld, das agile Methoden fördert und kontinuierliche Verbesserung anstrebt. Deine Leidenschaft für Technologie und dein Wunsch, komplexe Herausforderungen zu meistern, machen dich zu einem wertvollen Mitglied unseres Teams.\n\nAufgaben\n\n* Entwicklung und Pflege von Frontend\\- und Backend\\-Komponenten unter Verwendung moderner Technologien wie JavaScript, Ruby on Rails und.NET\n* Implementierung von APIs und Schnittstellen zur nahtlosen Integration verschiedener Systeme\n* Optimierung der Anwendungsperformance durch effizienten Code und Datenbankabfragen in SQL\n* Mitarbeit in agilen Teams zur kontinuierlichen Verbesserung der Softwarequalität und \\-funktionalität\n* Durchführung von Code\\-Reviews, Tests und Dokumentation aller Entwicklungsprozesse\n* Unterstützung bei der Migration bestehender Anwendungen auf neue Plattformen oder Frameworks\n* Zusammenarbeit mit Designern, Produktmanagern und anderen Entwicklern, um innovative Lösungen zu realisieren\n\nQualifikationen\n\n* Fundierte Kenntnisse in JavaScript, Java, C\\# sowie Erfahrung mit Python, C oder C\\+\\+ sind wünschenswert\n* Erfahrung mit Datenbanken und SQL\\-Abfragen sowie Kenntnisse in.NET\\-Frameworks\n* Vertrautheit mit agilen Arbeitsmethoden wie Scrum oder Kanban\n* Erfahrung im Umgang mit Versionskontrollsystemen wie SVN oder vergleichbaren Tools\n* Kenntnisse in Ruby on Rails sowie VBA sind von Vorteil\n* Fähigkeit, komplexe technische Sachverhalte verständlich zu kommunizieren\n* Selbstständige Arbeitsweise, Teamfähigkeit und eine proaktive Herangehensweise an Herausforderungen\n\nWenn du begeistert bist von der Entwicklung vielseitiger Anwendungen und dich in einem innovativen Umfeld weiterentwickeln möchtest, freuen wir uns auf deine Bewerbung! Bei uns erhältst du die Chance, an spannenden Projekten mitzuwirken und deine Fähigkeiten kontinuierlich auszubauen.\n\nGehalt: 15,24€ \\- 26,29€ pro Stunde\n\nErwartete Arbeitsstunden: 12\\.0–13\\.0 pro Woche\n\nArbeitsort: Vor Ort",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "0e34e13cce4daf24",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "WPH",
+      "title": "Analyst Programmer",
+      "location": "Queenstown, S00, SG",
+      "url": "https://sg.indeed.com/viewjob?jk=8cb3ae25388086d4",
+      "direct_url": "http://sg.indeed.com/job/analyst-programmer-8cb3ae25388086d4",
+      "company_url": "https://sg.indeed.com/cmp/Wph-7",
+      "date_posted": "2026-09-23",
+      "description": "**Job Summary:**\n\nWe are seeking a detail‑oriented and analytical Analyst Programmer to design, develop, test, and maintain software applications that support business requirements. In this role, you will analyze user and system needs, translate functional requirements into technical solutions, and collaborate closely with project managers, developers, and stakeholders to deliver reliable and high‑quality applications.\n\nThe ideal candidate has strong programming skills, a solid understanding of system design and databases, and the ability to troubleshoot and optimize application performance. You should be comfortable working on multiple tasks, producing clear technical documentation, and contributing to continuous system improvements.\n\n**Qualifications \\& Skills**\n\n* Diploma/Degree in Computer Engineering / Computer Science or Information Technology\n* Knowledge in C\\#, VB.NET, ASP.NET, MS SQL\n* Knowledge of HTML, CSS and JavaScript.\n* Experience in UML and Object\\-Oriented Analysis \\& Design\n* Experience in CMS customization and usage (please specify type of CMS in resume).\n* Good documentation skills.\n* Ability to handle interruptions and multiple task\n* Fresh graduates are welcome\n\n**Job Duties**\n\n* Responsible for Web\\-based solution development.\n* Implement applications using Microsoft development tools in N\\-Tier environment.\n* Provide support to development projects throughout the project life cycle.\n* Assists in physical and logical database design.\n* Designs, codes, and tests technical solutions.\n* Identifies system deficiencies and recommends solutions.\n* Contribute functional requirements and translate them into technical design and development projects.\n* Perform and manage unit and system integration testing, conversion, migration tasks and documentation.\n* Document features, technical specifications, and infrastructure requirements for self\\- produced technical work and job processes.\n* Guiding and mentoring junior developers\n* Perform any other ad\\-hoc tasks given by the Project Manager / Project Director\n\n*Note: Proceeding to apply on this job post means you have read, understand, and agreed to WPH DATA PROTECTION NOTICE FOR JOB APPLICANTS https://www.wphdigital.com/notices*\n\nJob Type: Full\\-time\n\nPay: $3,500\\.00 \\- $6,000\\.00 per month\n\nBenefits:\n\n* Health insurance\n* Professional development\n* Promotion to permanent employee\n\nEducation:\n\n* Bachelor's or equivalent (Required)\n\nExperience:\n\n* Analyst Programmer: 1 year (Preferred)\n\nLocation:\n\n* Singapore 118227 (Preferred)\n\nWork Location: Hybrid remote in Singapore 118227",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "8cb3ae25388086d4",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
