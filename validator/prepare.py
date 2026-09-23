@@ -13,7 +13,7 @@ from zoneinfo import ZoneInfo
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 HELSINKI = ZoneInfo("Europe/Helsinki")
-BATCH_SIZE = 100
+BATCH_SIZE = 75
 SOURCES = (
     ("Indeed", "seen_indeed", Path("output/indeed_jobs.json")),
     ("LinkedIn", "seen_linkedin", Path("output/linkedin_jobs.json")),
