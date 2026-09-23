@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-24T00:41:06+03:00",
   "job_count": 75,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Allied Platform",
