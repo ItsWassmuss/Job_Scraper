@@ -304,6 +304,46 @@ def _load_batch(path: Path) -> dict[str, Any]:
     return payload
 
 
+def _select_target_index(
+    jobs: list[dict[str, Any]],
+    url_indexes: dict[str, list[int]],
+    result: dict[str, Any],
+) -> tuple[int | None, bool]:
+    url = _usable_http_url(result["url"])
+    if url is None:
+        return None, False
+
+    candidates = list(url_indexes.get(url, []))
+    if not candidates:
+        return None, False
+
+    ambiguous = len(candidates) > 1
+
+    source_matches = [
+        index
+        for index in candidates
+        if jobs[index].get("source") == result["source"]
+    ]
+    if source_matches:
+        candidates = source_matches
+
+    job_id = result["job_id"]
+    if job_id is not None:
+        job_id_matches = [
+            index
+            for index in candidates
+            if jobs[index].get("job_id") == job_id
+        ]
+        if job_id_matches:
+            candidates = job_id_matches
+
+    result_index = result["index"]
+    if result_index in candidates:
+        return result_index, ambiguous
+
+    return min(candidates), ambiguous
+
+
 def _atomic_write_json(path: Path, payload: Any) -> None:
     descriptor, temporary_name = tempfile.mkstemp(
         dir=path.parent,
@@ -332,6 +372,8 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
             "patches_idempotent": 0,
             "results_applied": 0,
             "results_already_applied": 0,
+            "results_duplicate_skipped": 0,
+            "ambiguous_targets_resolved": 0,
             "consumed_patches": 0,
         }
     if not patches_dir.is_dir():
@@ -354,20 +396,9 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
         )
 
     patches: list[tuple[Path, dict[str, Any]]] = []
-    seen_targets: set[tuple[str, str]] = set()
 
     for path in patch_paths:
         payload = _load_and_validate_patch(path)
-        for result in payload["results"]:
-            url = _usable_http_url(result["url"])
-            if url is None:
-                continue
-            target = (payload["batch"], url)
-            if target in seen_targets:
-                raise ValueError(
-                    f"Overlapping Validator patch target: {target[0]} url {target[1]}"
-                )
-            seen_targets.add(target)
         patches.append((path, payload))
 
     batch_payloads: dict[str, dict[str, Any]] = {}
@@ -377,6 +408,9 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
     patch_had_apply: dict[Path, bool] = {}
     results_applied = 0
     results_already_applied = 0
+    results_duplicate_skipped = 0
+    ambiguous_targets_resolved = 0
+    claimed_targets: set[tuple[str, int]] = set()
 
     for _, patch in patches:
         batch_rel = patch["batch"]
@@ -409,18 +443,36 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
                 )
                 continue
 
-            matches = batch_url_indexes[batch_rel].get(url, [])
-            if len(matches) != 1:
-                if not matches:
-                    detail = "URL not found in target batch"
-                else:
-                    detail = f"URL matched {len(matches)} jobs in target batch"
+            index, ambiguous = _select_target_index(
+                jobs,
+                batch_url_indexes[batch_rel],
+                result,
+            )
+            if index is None:
                 print(
-                    f"Skipping {patch_path} result index {result_index}: {detail}"
+                    f"Skipping {patch_path} result index {result_index}: "
+                    "URL not found in target batch"
                 )
                 continue
 
-            index = matches[0]
+            if ambiguous:
+                ambiguous_targets_resolved += 1
+                print(
+                    f"Resolved ambiguous URL target for {patch_path} "
+                    f"result index {result_index} to batch job {index}"
+                )
+
+            target = (batch_rel, index)
+            if target in claimed_targets:
+                results_duplicate_skipped += 1
+                print(
+                    f"Skipping duplicate target for {patch_path} "
+                    f"result index {result_index}: batch job {index}; "
+                    "first result wins"
+                )
+                continue
+            claimed_targets.add(target)
+
             job = jobs[index]
             for key in ("url", "status", "reason", "validated"):
                 if key not in job:
@@ -476,6 +528,8 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
         ),
         "results_applied": results_applied,
         "results_already_applied": results_already_applied,
+        "results_duplicate_skipped": results_duplicate_skipped,
+        "ambiguous_targets_resolved": ambiguous_targets_resolved,
         "consumed_patches": len(patches),
     }
 
@@ -486,6 +540,8 @@ def _print_summary(summary: dict[str, int]) -> None:
     print(f"Patches idempotent: {summary['patches_idempotent']}")
     print(f"Results applied: {summary['results_applied']}")
     print(f"Results already applied: {summary['results_already_applied']}")
+    print(f"Duplicate results skipped: {summary['results_duplicate_skipped']}")
+    print(f"Ambiguous URL targets resolved: {summary['ambiguous_targets_resolved']}")
     print(f"Consumed patches: {summary['consumed_patches']}")
 
 
