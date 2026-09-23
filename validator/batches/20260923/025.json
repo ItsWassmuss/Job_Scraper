@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "35c826af07adda44",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence; role concerns electrical/technical installations.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d5342cb402082f70",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET/C# is only desirable; primary role is Azure Integration Services.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bb3fbf9db99e8cb3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily business systems administration/support; C# is only nice-to-have.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7f9324faab88f267",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily business systems administration/support; C# is only nice-to-have.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e8e7261f65331088",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily Polish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "08040d13a2d25f41",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary role is AI development with Python; C# is only preferred.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fa229eb76932bfce",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend stack is clearly Go; services are primarily implemented in Go.",
       "validated": null
     },
     {
@@ -183,9 +183,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "03cc6c6b188e5d3b",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Backend Engineer building event-driven C#/.NET and Python pipelines, backend services, and APIs for audit, security, and AI-driven insights.",
+        "direct_application_link": "https://dk.indeed.com/viewjob?jk=03cc6c6b188e5d3b"
+      }
     },
     {
       "company": "Electronic Arts",
@@ -206,9 +217,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e0b3ecaf22bf35a4",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "2+ years of professional software development experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": ".NET Full Stack Software Engineer working on EA SPORTS FC content tools using C#/.NET, RESTful APIs, JavaScript/TypeScript, and SPA frameworks.",
+        "direct_application_link": "https://ro.indeed.com/viewjob?jk=e0b3ecaf22bf35a4"
+      }
     },
     {
       "company": "Tecdata Engineering",
@@ -229,8 +251,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d7bd5c7fcd8964ec",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily Spanish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -252,8 +274,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c3899c9da0e88b08",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is telecommunications/control-systems engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -275,8 +297,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "17665c7e8b406d6f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: candidates must be legally qualified to live and work in Portugal.",
       "validated": null
     },
     {
@@ -298,8 +320,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "313fb4e5492d0ac5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: candidates must be legally qualified to live and work in Portugal.",
       "validated": null
     },
     {
@@ -321,8 +343,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "420591e37dd4d884",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: candidates must be legally qualified to live and work in Portugal.",
       "validated": null
     }
   ]
