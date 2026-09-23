@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ea0ef0d6e31858fe",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily cloud infrastructure, platform engineering, CI/CD, and Snowflake enablement rather than backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "433cd2a838d6ae57",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role-specific nationality requirements require an existing qualifying UK right-to-work or immigration status.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "72d089a4f946dc30",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: field engineering role for wireline logging and well intervention has no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -91,9 +91,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7ef9455723b3d158",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Minimum 5 years of full-stack software engineering experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack software engineering role developing backend and frontend applications, APIs, microservices, integrations, and AWS cloud solutions; C# is an accepted backend technology.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=7ef9455723b3d158"
+      }
     },
     {
       "company": "Palo IT",
@@ -114,8 +125,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "db1ec53d10aa2b08",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: preferred backend technologies are Node.js/Java and no backend/server-side .NET/C# development evidence is provided.",
       "validated": null
     },
     {
@@ -137,8 +148,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e486afb9e1ee368c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: preferred backend technologies are Node.js/Java and no backend/server-side .NET/C# development evidence is provided.",
       "validated": null
     },
     {
@@ -160,8 +171,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "df015d10e5d8e213",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Unity/C# gameplay development is not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -183,8 +194,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "875e69e1575cd3b1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: semiconductor equipment and vision-system engineering role has no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -206,8 +217,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a3b317297a1aaede",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# is only one of several accepted languages and no backend/server-side .NET/C# development evidence is established.",
       "validated": null
     },
     {
@@ -229,8 +240,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1f99a53569a9d058",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: construction cost engineering role has no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -244,8 +255,8 @@
       "description": "Hi! We are AMBOSS, and we're looking for someone to take the role of Engineering Compliance Manager and CSV & Process Validation Manager\nin our medical device team.\n\nAbout AMBOSS\n\nAMBOSS is a dynamic learning and clinical decision support tool committed to empowering physicians globally to deliver optimal care. Since our inception in 2012, we've harnessed cutting-edge technology to transform the way physicians acquire and apply scientific knowledge. Each AMBOSSian is passionate about being the champion of clinicians today - this motivates and unites us each day towards success. And what does success look like? When a clinician or med student tells us, “AMBOSS makes practicing medicine easier and enjoyable. I love what I do, and a big part is because of AMBOSS.”\n\nWhy can this position be exciting for you?\n\nAt AMBOSS, we build tools that help doctors and students make critical decisions impacting the healthcare of billions of people worldwide. This position makes sure that our product is built, verified, and documented in a way that's compliant, trustworthy, and audit-ready. You'll work closely with engineering as an independent evaluator, setting the standard for what \"done and compliant\" means across our medical device software. Join a small, high-impact team ensuring our medical device software meets the regulatory standards needed to safely support healthcare professionals.\n\nYou Will\n\nAs CSV & Process Validation Manager, prove our systems and processes work and produce reliable evidence.\n\nOwn the computer system validation and process validation processes for the AMBOSS medical device portfolio — procedures, templates and work instructions — keeping them aligned with MDR and ISO 13485 and updated based on audit findings and team feedback.\nMaintain the inventory of systems in scope and decide, risk-based, which need validation and to what depth; plan, execute and document that validation and keep systems in a validated state as they change.\nConcentrate validation effort where the evidence is produced — test management, defect tracking, build/release tooling and automated pipeline steps whose output can't be fully verified by inspection alone — confirming these systems and processes reliably produce trustworthy, intended results.\nOwn the resulting evidence and represent it directly to auditors and regulators; raise, document and own validation deviations and the associated CAPAs through to resolution.\n\nAs Engineering Compliance Manager, ensure the medical device product itself is built compliantly, from a day-to-day engineering work perspective\n\nOwn compliant execution of the software lifecycle — requirements, design, implementation, verification, release — against IEC 62304 and IEC 82304-1\nDefine the compliance requirements and gates in our delivery pipeline against IEC 62304 and IEC 82304-1 (traceability tagging, release criteria, automated checks) and partner with engineering to implement them.\nOperate the compliance gate in the release flow, keeping the trace intact from user requirement through verification to released evidence. Sign off each release as a required gate; no release ships without your approval.\nEnsure engineering-related Technical Documentation deliverables are compliant with regulatory and QMS requirements\nOnboard and train software engineers on compliance requirements and how to work within them day-to-day.\nAct as the point of contact for audits and technical reviews on engineering-related topics, representing the team's compliance posture to auditors and Notified Body reviewers.\nDrive resolution of audit findings and deficiencies affecting engineering.\nAssess the engineering impact of Design Changes before they are implemented.\nIdentify and drive adoption of tooling the team is missing to work compliantly — both inside the QMS and on the engineering side.\n\nYou Bring\n\nKnowledge of medical devices or another regulated industry (pharma, biotech, IVD). Experience in, or eagerness to learn, computer system validation and/or process validation, including risk-based scoping of validation effort, is a plus.\nWorking knowledge of MDR, ISO 13485, IEC 62304 and IEC 82304-1 as they apply to software.\nFamiliarity with software engineering, and enough depth in our stack (React, Python, PHP, Go; AWS, Terraform, Kubernetes, ArgoCD) to review pipelines, tests and release processes with engineers as a peer.\nExperience representing validation documentation and rationale to auditors and inspectors.\nExperience assessing the engineering/technical impact of Design Changes within a regulated development process.\nExcellent written and spoken English\n\nYou Enjoy\n\nWorking closely with engineers, Quality Assurance and Regulatory Affairs — able to challenge and be challenged on technical detail.\nStrong communication and training skills, with the ability to explain complex validation requirements to cross-functional stakeholders\nStructured, detail-oriented way of working, with the ability to balance regulatory rigor with practical, workable processes for development teams\n\nBenefits\n\nAMBOSSians tell us that innovative work keeps them energized, and employee benefits help them to feel appreciated and empowered. We invest in every AMBOSSian with our employee benefits package, crafted to support financial, physical, and mental health and work-life harmony.\n\nCheck out all of our employee benefits here: https://go.amboss.com/the-amboss-prescription-de\n\nWe believe that diversity is a powerful driver of innovation and progress. That's why we are committed to fostering an inclusive, respectful, and supportive environment where everyone — regardless of gender, age, ethnic or cultural background, religion, disability, sexual orientation, gender identity — is valued and given equal opportunity to thrive. We warmly welcome people of all backgrounds to help us fulfill our mission: empowering all medical professionals to provide the best possible care.\n\nEven if you don't meet every single point in the job description, we still encourage you to apply. We'd love to hear from you!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nLegal\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4449852475",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: engineering compliance and validation management role is not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -259,8 +270,8 @@
       "description": "We are seeking an experienced Senior Dynamics 365 Customer Engagement (CE) Developer\nwith strong Microsoft cloud experience and the capability to provide technical leadership across complex enterprise delivery programmes.\nThis role is ideal for a highly capable individual who combines deep hands-on Dynamics 365 CE development expertise with a proven track record of designing, building and supporting scalable business-critical solutions on the Microsoft technology stack. The successful candidate will be expected to lead technical delivery, mentor developers, engage directly with stakeholders, and help shape architecture and engineering best practices.\nYou will work closely with Product Owners, Business Analysts, Architects, Engineering Leads and Delivery Managers to deliver high-quality Dynamics, Power Platform and Azure-based solutions.\n\nTypical Candidate Profile\n\nA successful candidate is likely to have:\n5–10+ years Dynamics CRM / Dynamics 365 CE experience.\nMultiple end-to-end enterprise Dynamics implementations.\nStrong Azure integration experience.\nExperience acting as Lead Developer, Technical Lead or Senior Consultant.\nA track record of delivering highly customised Dynamics 365 solutions while remaining hands-on with development.\n\nThis is a senior engineering role suited to individuals similar to those who have successfully delivered large-scale Dynamics 365, Power Platform and Azure solutions across regulated industries, financial services, government and enterprise organisations\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469345566",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Dynamics 365 CE development role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -274,8 +285,8 @@
       "description": "Vision RT\nis a fast-growing MedTech company transforming radiation therapy for cancer patients by helping make it more accurate, effective, and comfortable. The company is the inventor of, and a market leader in, Surface Guided Radiation Therapy (SGRT). This technology uses advanced 3D cameras to track surface data, providing enhanced guidance across every step of the radiotherapy workflow.\n\nOur systems are used in over 3,000 clinics worldwide, including in 29 of the top 30 Best Hospitals for Cancer (source: US News and World Report 2026 rankings).\n\nThe company is recognized as one of Britain’s fastest-growing private tech companies, as featured in the 2025 Sunday Times 100 Tech\nlist. Vision RT is also a recipient of the 2026 King’s Award for Enterprise, our fifth in 10 years. It is the UK’s most prestigious accolade for business excellence.\n\nCompany Video\n\nWith around 400+ employees globally and offices in the UK, Poland, and the USA, Vision RT operates independently as part of the Danish company William Demant Invest A/S, one of the world’s largest investors in healthcare companies. Employees benefit from the security and reach of being part of a large global enterprise, combined with the agility and innovation of a startup.\n\nVision RT is a company with strong values, a clear mission, and a bright future. It is an exciting and rewarding organization in which to work.\n\nAbout The Role\n\nWe are looking for an Associate Software Development Engineer in Test to join a growing software engineering team. This is an excellent opportunity for a recent Computer Science graduate or someone with 1-2 years of commercial experience who is passionate about software quality, automation and emerging technologies such as AI. Working closely with Software Engineers, Product teams and QA colleagues, you will help ensure the reliability and performance of innovative software products while developing your skills across manual and automated testing.\n\nKey Responsibilities\n\nBecome familiar with the software products and associated systems under test.\nReview and understand requirements, test plans and test cases.\nCreate and maintain test cases based on requirements and technical documentation.\nPrepare and manage test data required for testing activities.\nExecute manual and automated testing for software releases.\nDevelop and maintain automated test suites.\nIdentify, document and track software defects.\nPerform regression and verification testing on resolved issues.\nParticipate in Agile ceremonies and continuous improvement activities.\nWork in accordance with company quality standards and industry best practices.\n\nSkills & Experience\n\nDegree in Computer Science or related discipline, or 1-2 years of experience in Software Engineering or Test Automation.\nInterest in Artificial Intelligence and software development.\nExperience with software development through commercial work, university coursework or personal projects.\nUnderstanding of software testing principles and quality assurance practices.\nStrong problem-solving and analytical skills.\nExcellent communication and interpersonal skills.\nAbility to learn quickly and adapt to new technologies.\n\nWhat's On Offer\n\nOpportunity to work on innovative software products and technologies.\nExposure to both software development and test automation practices.\nCollaborative Agile working environment.\nOngoing training, mentoring and career development opportunities.\n\n£34,000 - £35,000 a year\n\nBenefits\n\nAt Vision RT, we offer a comprehensive benefits package designed to support your health, wellbeing and financial security. This includes:\n\nDiscretionary performance bonus of 10% to 20% (based on company and individual performance)\nPrivate medical insurance from day one\nHealthcare cash plan and 24/7 employee assistance support\nUp to £25 per month towards gym membership or fitness activities\nCycle-to-work and electric vehicle leasing schemes\nIncome protection and life insurance worth three times your annual salary\n25 days’ annual leave plus bank holidays, increasing with length of service\nContributory pension scheme, with Vision RT contributing 5% when you contribute at least 4%\n\nVision RT is an Equal Opportunity / Affirmative Action employer, all qualified applicants will receive consideration for employment and development without regard to race, colour, religion, sexual orientation, gender, national origin, disability, or protected veteran status.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nMedical Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4469496524",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily software testing and test automation rather than backend/server-side .NET/C# development.",
       "validated": null
     }
   ]
