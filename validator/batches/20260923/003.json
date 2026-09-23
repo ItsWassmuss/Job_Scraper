@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-23T00:42:31+03:00",
   "job_count": 100,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Riverty",

@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-22T23:44:53+03:00",
   "job_count": 19,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "NHS",
