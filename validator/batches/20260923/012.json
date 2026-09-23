@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-23T09:28:06+03:00",
   "job_count": 14,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "CDN Partner we Wrocławiu",
