@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-22T22:51:30+03:00",
   "job_count": 16,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Kato Group",
