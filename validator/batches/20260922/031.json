@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3d19efa44bece396",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Modern backend stack is TypeScript/Node.js; .NET is the legacy estate being transitioned away from.",
       "validated": null
     },
     {
@@ -45,9 +45,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e2fed23a6cafe38a",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "6+ years building backend systems in production",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Build backend-heavy pension, retirement savings and spend products using .NET 10, PostgreSQL and Azure/AWS, with React/TypeScript when needed.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=e2fed23a6cafe38a"
+      }
     },
     {
       "company": "Nexio Management",
@@ -68,8 +79,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7a8647d025614ac6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is infrastructure/platform engineering for .NET applications, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -91,8 +102,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2b53c016b1d20b84",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is AI/LLM engineering with Python primary; C# is only familiarity.",
       "validated": null
     },
     {
@@ -114,8 +125,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f6927a44c0acdefe",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Swedish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -137,8 +148,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "79a89bac61be41f6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Data-ingestion platform role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -160,8 +171,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "17339b9c65a52768",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Role explicitly states visa sponsorship is unavailable.",
       "validated": null
     },
     {
@@ -183,8 +194,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f9d352d486ecbb10",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET is one of several development languages; backend/server-side .NET/C# is not established.",
       "validated": null
     },
     {
@@ -206,8 +217,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "766c4d92c55f769c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is engineering management for an AI team, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -229,8 +240,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b222235b510c5095",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Danish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -252,8 +263,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b793957b11e77062",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Danish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -275,8 +286,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cbf960bcf57f86c3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Graduate AI software role accepts multiple backend languages; backend/server-side .NET/C# is not specifically required.",
       "validated": null
     },
     {
@@ -298,9 +309,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e7333df55f284994",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "At least 3 years experience in complex .NET infrastructure and full-stack application development",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop and maintain full-stack systems with C#/.NET Core, including high-volume servers and services, integrations and SQL Server.",
+        "direct_application_link": "https://ro.indeed.com/viewjob?jk=e7333df55f284994"
+      }
     },
     {
       "company": "Belden",
@@ -321,8 +343,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ae07e4b49bbd14fa",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -344,8 +366,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "586e560275281cb4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is electrical/industrial automation engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -367,8 +389,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "132cef7e1b7fa961",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is AI software engineering and does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -390,8 +412,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e8871b363ecfcd44",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -413,8 +435,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8388f942ef1df787",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -436,8 +458,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "74aa79c31badc170",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -459,8 +481,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "46880e2f8681f992",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -482,8 +504,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5b9553a93f2e1a76",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -505,8 +527,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7cd784cb545a0241",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -528,8 +550,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1487e1e23800001c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -551,8 +573,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "01ebf3b6b780e29a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is enterprise network engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -566,8 +588,8 @@
       "description": "Job Description\n\nYour Role\n\nAs a Senior Backend Developer (m/f/d) C# | Java, you combine hands-on software development with technical leadership. You drive the development of innovative software solutions, support technical decision-making, mentor colleagues, and help advance AI-enabled software engineering practices across the organization.\n\nYour Responsibilities\n\nBreak down system designs into modules, interfaces, and implementation tasks to ensure efficient development and delivery\nLead the development of new software features and functionalities, independently or by guiding small development teams\nDrive software quality through architecture reviews, peer reviews, coding standards, and best practices\nAnalyze, design, estimate, prototype, and validate new product ideas and technical solutions\nIdentify opportunities for optimization and continuously improve products, processes, and development practices\nServe as a technical mentor, sharing knowledge and supporting the growth of other developers\nEvaluate and implement modern AI tools and agent frameworks to enhance software development workflows and productivity\nCollaborate with stakeholders across different functions and promote innovative, AI-driven approaches to solve complex challenges faster and more effectively\n\nYour Profile\n\nDegree in Computer Science, Software Engineering, a related field, or equivalent practical experience\nSeveral years of professional software development experience with a proven track record of delivering successful software solutions\nStrong understanding of software design principles, architectural patterns, and modern development practices\nExperience with Agile development methodologies and cross-functional collaboration\nSolid skills in software estimation, prototyping, technical decision-making, and solution architecture\nExperience evaluating AI-powered development tools and applying AI technologies to improve software engineering processes\nKnowledge of agent-based AI frameworks and their application within software development environments is highly desirable\nStrong communication, mentoring, analytical, and problem-solving skills with a continuous improvement mindset\n\nWhat Makes This Role Special\n\nOpportunity to shape technical direction and influence software architecture decisions\nStrong focus on innovation, emerging technologies, and AI-enabled software development\nCombination of hands-on engineering, technical leadership, and mentoring responsibilities\nHigh level of ownership across the full software development lifecycle\nCollaboration with experienced, international, and multidisciplinary teams\nOpportunity to drive the adoption of modern AI tools, automation, and agent-based development approaches\nContinuous learning environment with exposure to cutting-edge technologies and products\n\nAbout BEUMER Group\n\nConveying, loading, palletizing, packing, sorting and distributing\n- BEUMER Group develops and produces technically leading intralogistics systems\nfor the global market. Our employees are characterized by excellent know-how and a strong will to consistently develop themselves further. We do our utmost to promote this claim: within the framework of a family-like cooperation characterized by high mutual esteem and a culture of trust that creates stability and security. Our common goal: to implement outstanding and innovative projects worldwide.\n\nAdditional Information\n\nWe look forward to receiving your application! Please include your salary expectations (gross annual salary) and your notice period or earliest possible starting date.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nOther\n\nIndustries\n\nIndustrial Automation",
       "source": "LinkedIn",
       "job_id": "4460017649",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "FRESHNESS: Live LinkedIn listing shows 2 weeks ago, which is reliably older than 24 hours.",
       "validated": null
     },
     {
@@ -581,8 +603,8 @@
       "description": "Requistion ID\n: 84165\n\nDentsply Sirona ist der weltweit größte Anbieter von Dentalprodukten und -technologien und kann auf mehr als ein Jahrhundert an Innovationen und Dienstleistungen für die Dentalindustrie und Patienten weltweit zurückblicken. Dentsply Sirona entwickelt, produziert und vermarktet ein umfassendes Lösungsangebot, das Produkte für die Zahn- und Mundgesundheit sowie andere medizinische Verbrauchsgüter unter einem starken Portfolio von Weltklassemarken umfasst.\n\nDie Produkte von Dentsply Sirona bieten innovative, qualitativ hochwertige und effektive Lösungen, um die Patientenversorgung zu verbessern und eine bessere und sicherere zahnmedizinische Versorgung zu gewährleisten. Der Hauptsitz von Dentsply Sirona befindet sich in Charlotte, North Carolina. Die Aktien des Unternehmens sind in den Vereinigten Staaten an der NASDAQ unter dem Symbol XRAY notiert. Besuchen Sie www.dentsplysirona.com für weitere Informationen über Dentsply Sirona und seine Produkte.\n\nWir suchen einen Senior Software Engineer I (m/w/d), der unser Team verstärkt.\nIn dieser Rolle übernehmen Sie die Leitung bei der Entwicklung und Architektur komplexer Systeme und stellen deren Skalierbarkeit und Zuverlässigkeit sicher. Sie arbeiten über mehrere Epics hinweg, koordinieren Features und etablieren einheitliche Refinement-Prozesse über verschiedene Teams hinweg. Dies ist eine Hybrid-Position, die eine Anwesenheit im Büro von mindestens einem Tag pro Woche erfordert.\n\nIhre Aufgaben\n\nTechnische Umsetzung & Entwicklung\n\nFördern Sie die bereichsübergreifende Zusammenarbeit zwischen Product-, UX- und Infrastruktur-Teams.\nUnterstützen und coachen Sie Entwicklerinnen und Entwickler teamübergreifend als technischer Mentor und Berater.\nFühren Sie neue Technologien ein und treiben deren Nutzung voran, um die Effizienz der Softwareentwicklung zu steigern.\nÜbernehmen Sie Verantwortung für Incident-Response-Prozesse und sorgen Sie für die Ausfallsicherheit der Systeme.\n\nProjektumfang & Komplexität\n\nLeiten Sie die Umsetzung über mehrere Epics hinweg und koordinieren Sie verschiedene Features, um ein konsistentes Refinement sicherzustellen.\nSteuern und begleiten Sie den Epic-Refinement-Prozess zur effektiven Abstimmung mehrerer Features über unterschiedliche Teams hinweg.\n\nKommunikation & Wirkung\n\nPräsentieren Sie komplexe technische Strategien gegenüber unterschiedlichen Stakeholder-Gruppen.\nFördern Sie die Abstimmung und Einigkeit bei technischen Entscheidungen über mehrere Teams hinweg.\n\nFührung & Weiterentwicklung\n\nBieten Sie unternehmensweite technische Unterstützung und Mentoring.\nGeben Sie die architektonische Ausrichtung vor und unterstützen Sie wichtige technische Entscheidungen.\n\nIhr Profil\n\nAusbildung\n\nBachelor- oder Masterabschluss in Ingenieurwissenschaften, Physik, Mathematik, Informatik oder einem vergleichbaren Fachgebiet beziehungsweise eine gleichwertige praktische Erfahrung.\n\nBerufserfahrung & Qualifikationen\n\n4 bis 6 Jahre Berufserfahrung in der Softwareentwicklung.\nErfahrung in der Leitung komplexer technischer Projekte über mehrere Teams hinweg.\nErfahrung mit mehreren Programmiersprachen wie Golang, C++ oder Flutter/Dart.\nFundierte Kenntnisse in Systemarchitektur sowie Skalierbarkeit von Softwarelösungen.\nErfahrung im Mentoring von Entwicklerinnen und Entwicklern über verschiedene Teams hinweg.\nErfahrung mit verteilten Systemen (Distributed Systems).\nErfahrung in der Entwicklung technischer Strategien ist von Vorteil.\nErfahrung in der Entwicklung von Medizinprodukten ist ein Plus.\nNachweisbare Erfolge bei Architekturentscheidungen sind wünschenswert.\n\nArbeitgeber, der Chancengleichheit fördert:\nDentsply Sirona ist ein Arbeitgeber, der Chancengleichheit fördert. Alle qualifizierten Bewerberinnen und Bewerber werden berücksichtigt, ohne Diskriminierung oder Rücksicht auf Rasse, Hautfarbe, Religion, Geschlecht, sexuelle Orientierung, sexuelle oder geschlechtliche Identität, nationale oder ethnische Herkunft, Alter, Familienstand, Behinderung, genetische Merkmale, Militär- und Veteranenstatus oder andere durch geltendes lokales Recht geschützte Merkmale.\n\nArbeitsberechtigung:\nAlle erfolgreichen Bewerberinnen und Bewerber müssen berechtigt sein, in dem Land zu arbeiten, in dem die Stelle angesiedelt ist.\n\nUnterstützung bei der Bewerbung:\nWenn Sie aufgrund einer Behinderung Hilfe beim Ausfüllen der Online-Bewerbung benötigen, senden Sie bitte eine entsprechende Nachricht an accommodationrequest@dentsplysirona.com.\n\nAgenturen:\nBitte beachten Sie, dass Dentsply Sirona keine unaufgeforderten Anfragen oder Bewerbungen von Personalvermittlungsagenturen/ Personalberatungsfirmen akzeptiert oder beantwortet.\n\nHinweis zu betrügerischen Stellenangeboten:\nLeider ist uns bekannt, dass Dritte, die vorgeben, unser Unternehmen zu vertreten, nicht genehmigte Stellenangebote anbieten. Wenn Sie glauben, dass eine betrügerische Quelle Ihnen eine Stelle anbietet, sehen Sie sich bitte die folgenden Informationen an: careers.dentsplysirona.com.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nOther\n\nIndustries\n\nMedical Device",
       "source": "LinkedIn",
       "job_id": "4469031757",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Role explicitly requires authorization to work in the country where the position is located.",
       "validated": null
     },
     {
@@ -596,9 +618,20 @@
       "description": "We are looking for a Principal Software Engineer\nto join a small, highly experienced Epicor Labs team that transforms innovative AI concepts into enterprise-grade products trusted by enterprise customers.\n\nThis is a hands-on engineering role\n, not a management position. You will design and build, set the technical bar for production quality, and provide the architectural judgement needed to take AI-driven products from promising prototype to something enterprise customers can trust with their business data.\n\nWhat You'll Do\n\nAs a Principal Engineer, you'll play a key role in designing and delivering the next generation of AI capabilities across Epicor's ERP portfolio.\n\nPoCs and MVPs in AI transformation projects inside enterprise ERP software - rapid exploration of new capabilities, with the engineering discipline to evolve the successful ones into production-grade services.\nCloud platform services - designing and building the services, APIs, and data layers that new AI capabilities run on, integrating with large, established ERP products.\nProduction readiness - bringing R&D output up to enterprise standard: reliability, observability, security, multi-tenancy, and safe failure behaviour.\nAI engineering - integrating LLMs and agentic patterns into business software responsibly: guardrails, permissions, auditability, and designing for the probabilistic nature of AI components acting on real business data.\nRaising the bar - architectural review across the team's workstreams, mentoring engineers at all levels, and turning good judgement into standards and automation rather than tribal knowledge.\n\nWhat You Are Likely To Bring\n\nPrincipal-level engineering depth in C#/.NET and/or Python, with cloud platforms (Azure preferred), and a strong record of designing and shipping production services. Our systems span both stacks - strength in one with working fluency in the other is the expectation.\nProduction TypeScript/JavaScript frontend engineering experience, including building secure, accessible user interfaces that integrate with enterprise web shells, APIs and backend services.\nExperience designing and integrating enterprise information systems, with a strong understanding of data flows, system boundaries and the operational impact of change.\nAbility to work effectively with data scientists and other AI specialists to turn data, models and experimentation into reliable, usable product capabilities.\nProduction ownership experience - you have run systems in production and carry the instincts that come from it: partial failure, resilience, blast-radius thinking, and designing for the incident nobody planned. This matters to us more than any specific framework.\nDistributed-systems fluency: service boundaries, transactional thinking, multi-tenant design, API design and versioning.\nStrong architectural communication - able to explain, document, and defend design decisions across teams, and to review others' designs constructively.\nPragmatism under real-world constraints: comfortable integrating with large, long-lived enterprise systems and choosing the achievable-good over the theoretical-perfect.\n\nHighly Desirable\n\nHands-on exposure to AI-assisted engineering - building with LLM APIs, agentic coding tools, and prompt-driven workflows, and a grounded view of where they help and where they don't.\nExperience taking early-stage products (PoC/MVP) to production, ideally in enterprise software.\nAWS experience.\nComplex business-domain experience - ERP, e-commerce, finance, logistics - and an appreciation of the cost of getting business data wrong.\nSecurity instincts: least privilege, tenancy isolation, trust boundaries.\n\nWhat Success Looks Like\n\nWithin your first 3 months, you'll:\n\nDeliver production-quality code\nOwn components from design through implementation\nContribute architectural improvements across the team\n\nWithin 6–12 Months, You'll\n\nLead the design of major platform capabilities\nBecome a trusted technical leader and architectural reference point\nMentor engineers and help raise engineering standards across Epicor Labs\n\nAbout Epicor Labs\n\nEpicor Labs is the innovation engine behind AI transformation across Epicor's ERP portfolio.\n\nOur team explores new ideas, rapidly prototypes solutions, and turns successful concepts into production-ready capabilities before handing them over to product engineering teams.\n\nWe're a Small, Senior Team With\n\nHigh autonomy\nMinimal bureaucracy\nFast decision-making\nStrong engineering standards\nA collaborative culture where the best ideas win, regardless of title\n\nYou'll work alongside experienced architects, product managers, UX designers, and AI specialists to solve challenging technical problems with real customer impact.\n\nTechnology\n\nC# / .NET\nPython\nAzure\nTypeScript / JavaScript\nREST & GraphQL APIs\nRelational & document databases\nGitHub with CI/CD pipelines\nLLM APIs\nAI-assisted development tools\n\nAbout Epicor\n\nAt Epicor, we’re truly a team. Join 5,000 talented professionals in creating a world of better business through data, AI, and cognitive ERP. We help businesses stay future-ready by connecting people, processes, and technology. From software engineers who command the latest AI technology to business development reps who help us seize new opportunities, the work we do matters. Together, Epicor employees are creating a more resilient global supply chain.\n\nWe’re Proactive, Proud, Partners.\n\nWhatever your career journey, we’ll help you find the right path. Through our training courses, mentorship, and continuous support, you’ll get everything you need to thrive. At Epicor, your success is our success. And that success really matters, because we’re the essential partners for the world’s most essential businesses—the hardworking companies who make, move, and sell the things the world needs.\n\nCompetitive Pay & Benefits\n\nHealth and Wellness: Comprehensive health and wellness benefits designed to support your overall well-being.\nInternal Mobility: Opportunities for mentorship, continuing education, and focused career goal setting, with 25% of positions filled internally.\nCareer Development: Free LinkedIn Learning licenses for everyone, along with our Mentoring Program to boost your personal development.\nEducation Support: Geographically specific programs to balance the cost of education with the benefits of continued learning and personal development.\nInclusive Workplace: Collaborate with a diverse team in an inclusive, global workplace that fosters innovation and celebrates partnership.\nWork-Life Balance: Policies built on mutual trust and support, encouraging time off to rest, recharge, and reconnect.\nGlobal Mobility: Comprehensive support for international relocations and permanent residency processes.\n\nEqual Opportunities and Accommodations Statement\n\nEpicor is committed to creating a workplace and global community where inclusion is valued; where you bring the whole and real you—that’s who we’re interested in. If you have interest in this or any role- but your experience doesn’t match every qualification of the job description, that’s okay- consider applying regardless. \n\nWe are an equal-opportunity employer. \n\nRecruiter\n\nAlena Jelinkova\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4442580968",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "2 hours ago",
+        "date_posted_at": "2026-09-23T02:38:33+03:00",
+        "date_posted_date": null,
+        "date_posted_precision": "relative",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Build production cloud platform services, APIs and data layers for AI capabilities across Epicor ERP using C#/.NET and Python on Azure.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4442580968/"
+      }
     },
     {
       "company": "RELX",
@@ -611,9 +644,20 @@
       "description": "Are you passionate about building reliable, secure, and scalable software that delivers meaningful outcomes for customers and the business?\n\nDo you enjoy collaborating with a talented engineering team, solving technical challenges, and continuously developing your expertise with modern technologies?\n\nAbout our Team\n\nRX Global aims to create unforgettable experiences for attendees and exhibitors through organizing events. Innovation, creativity, and collaboration drive the company to offer exceptional services to clients.\n\nAbout the Role\n\nAs a Software Engineer III, you will deliver production-quality software for well-defined components and features within a product or service. Working with guidance from senior engineers, you will contribute to secure, maintainable, and reliable systems while helping improve engineering quality, operational excellence, and team collaboration.\n\nResponsibilities\n\n- Produce clear technical documentation using the process for technical decision making and RX architectural principles.\n- Build software with foundations in performance, resilience, extensibility, and security following Secure SDLC.\n- Apply testing strategies that support deployment confidence and align with the Service and Operational agreements.\n- Contribute to incremental improvements to code quality, testing, or development workflows.\n- Write clean, maintainable code and participate actively in peer code reviews.\n- Support the operational health of services and components, including monitoring, diagnostics, incident response, and service reliability.\n- Maintain runbooks, documentation, and operational knowledge for owned components while contributing to reducing technical debt.\n- Share knowledge with peers and support the onboarding or mentoring of junior engineers where appropriate.\n\nRequirements\n\n- Experienced professional software engineer.\n- Proficient in C# (.NET), JavaScript/TypeScript (React), and SQL (PostgreSQL).\n- Experience working in Agile cross-functional product development teams.\n- Experience translating ambiguous requirements into scalable solutions.\n- Working knowledge of SOLID, design patterns, API design, DDD, and event-driven architectures.\n- Experience building modern web applications with React, Vite, REST, and GraphQL.\n- Experience developing cloud-native applications on AWS; applying testing, DevSecOps, CI/CD (GitHub Actions), and Secure SDLC practices; working with observability and analytics tools such as Splunk and Mixpanel\n- Experience using AI-assisted development tools such as GitHub Copilot, Amazon Bedrock, and agentic AI workflows.\n\nWork in a Way That Works for You\n\nWe promote a healthy work/life balance across the organisation. We offer an appealing working prospect for our people. With numerous wellbeing initiatives, shared parental leave, study assistance, and sabbaticals, we will help you meet your immediate responsibilities and your long-term goals.\n\nWorking Pattern\n\nWorking flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive.\n\nAbout the Business\n\nRX is a global leader in events and exhibitions, leveraging industry expertise, data, and technology to build businesses for individuals, communities, and organisations. With a presence in 25 countries across 41 industry sectors, RX hosts approximately 350 events annually. RX is committed to creating an inclusive work environment for all our people. RX empowers businesses to thrive by leveraging data-driven insights and digital solutions. RX is part of RELX, a global provider of information-based analytics and decision tools for professional and business customers. For more information, visit http://www.rxglobal.com.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nEvents Services, Information Services, and Data Infrastructure and Analytics",
       "source": "LinkedIn",
       "job_id": "4468927035",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "2 hours ago",
+        "date_posted_at": "2026-09-23T02:38:33+03:00",
+        "date_posted_date": null,
+        "date_posted_precision": "relative",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Deliver production software and cloud-native services using C#/.NET, React/TypeScript, PostgreSQL, APIs and event-driven architecture.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4468927035/"
+      }
     },
     {
       "company": "Kuehne+Nagel",
@@ -626,8 +670,8 @@
       "description": "It's more than a job\n\nAs a finance professional at Kuehne+Nagel, your work includes managing budgets, strategic planning, and overseeing financial operations. You also help make ordinary and special moments possible for people around the world. Because your financial diligence allows your colleagues across the company to stay focused on the core of their work, whether it's getting vital healthcare products to those who need them or fresh fruit to children playing in the park. Finance work at Kuehne+Nagel, means more than we imagine.\n\n‎\n\nAre you passionate about technology and eager to make an impact within a finance-focused environment? We are seeking a talented Analyst Programmer to join our team. In this role, you will be responsible for designing, developing, and maintaining innovative software solutions that support critical finance business processes. Working closely with stakeholders across technology and business functions, you will help deliver reliable, scalable, and high-performing applications while contributing to continuous improvement and digital transformation initiatives.\n\nHow you create impact\n\nDesign, develop, test, and maintain scalable, secure, and high-performance software applications that support finance operations and business objectives.\nAnalyze business requirements and translate them into effective technical solutions and system enhancements.\nParticipate in technical design and architecture discussions to ensure robust and sustainable solutions.\nDevelop clean, maintainable, and well-documented code following established development standards and best practices.\nConduct code reviews, identify improvement opportunities, and support overall software quality and performance.\nTroubleshoot, debug, and resolve application and production issues in a timely and effective manner.\nCollaborate with business analysts, finance stakeholders, product teams, and QA professionals to deliver solutions that meet business requirements.\n\nWhat we would like you to bring\n\nBachelor’s degree in Computer Science, Engineering, Information Technology, or a related discipline, or equivalent practical experience.\nMinimum 3 years of professional software development experience.\nStrong programming skills in one or more languages such as Java, C#, Python, JavaScript/TypeScript, or Go.\nExperience with modern software architectures and technologies, including microservices, RESTful APIs, and event-driven systems.\nExperience with web frontend development using React or Angular.\nSolid understanding of relational and/or NoSQL databases such as Oracle, SQL Server, PostgreSQL, MySQL, or MongoDB.\nExperience with Git, code review practices, and Agile/Scrum software development methodologies.\nStrong analytical, problem-solving, and communication skills, with the ability to work effectively with both technical and business stakeholders.\n\nWhat's in it for you\n\nBe part of a collaborative team delivering technology solutions that directly support key finance functions.\nWork on challenging and meaningful projects using modern technologies and development practices.\nGain exposure to application architecture, cloud technologies, DevOps, and automation initiatives.\nCollaborate with experienced professionals in a supportive and knowledge-sharing environment.\nTake ownership of your work and contribute to business-critical systems and processes.\nAccess opportunities for continuous learning, professional development, and career growth.\nJoin an organization that values innovation, teamwork, and continuous improvement.\n\nWho we are\n\nLogistics shapes everyday life - from the goods we consume to the healthcare we rely on. At Kuehne+Nagel, your work goes beyond logistics; it enables both ordinary and special moments in the lives of people around the world.\n\nAs a global leader with a strong heritage and a vision to move the world forward, we offer a safe, stable environment where your career can make a real difference. Whether we help deliver life-saving medicines, develop sustainable transportation solutions or support our local communities, your career will contribute to more than you can imagine.\n\nWe kindly advise that placement agencies refrain from submitting unsolicited profiles. Any submissions of candidates without prior signed agreement will be considered our property and no fees will be paid.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nFinance and Accounting/Auditing\n\nIndustries\n\nTransportation, Logistics, Supply Chain and Storage",
       "source": "LinkedIn",
       "job_id": "4451558777",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role accepts Java, C#, Python, JavaScript/TypeScript, or Go; backend/server-side .NET/C# is not specifically required.",
       "validated": null
     },
     {
@@ -641,9 +685,20 @@
       "description": "🚀 Contract Software Developer – C# / Golang / SQL\n📍 Manchester – Hybrid (2 days per week onsite)\n\n💰 £500–£540 per day\n\n📅 6-month initial contract\n\n✅ Outside IR35\n\nWe're working with a major technology-led organisation looking for an experienced Software Developer\nto join a high-performing engineering team responsible for a real-time, high-volume transactional platform\n.\n\nThis is a hands-on development role working across backend services, microservices and data-intensive applications in an environment where performance, reliability and scalability are critical\n.\nThe core technology stack includes C#/.NET, Golang and SQL Server\n, with the wider environment incorporating Windows applications, microservices, Kafka, Linux and cloud/web technologies.\n\n🛠️ What you'll be doing\nDeveloping highly efficient, robust and maintainable applications and backend services\nBuilding and enhancing services using C#/.NET and Golang\n\nWorking extensively with SQL Server\n\nSupporting and improving existing business-critical functionality\nWorking within a microservices architecture\n\nIdentifying technical improvements and contributing ideas for new solutions\nCollaborating closely with Product Owners, Engineering and Testing throughout delivery\n\n🎯 Essential experience\nGolang is mandatory for this contract.\nWe are specifically looking for candidates with demonstrable commercial Golang development experience alongside:\nStrong commercial C# / .NET\n\nStrong MS SQL Server\n\nMicroservices architecture\nGit/version control\nExperience working with high-volume or data-intensive systems\nStrong problem-solving and communication skills\n\nThe wider environment also includes Kafka, Linux, web/cloud technologies and external data providers\n, so experience in these areas would be highly advantageous. WPF exposure would also be beneficial.\n\n📌 Contract\n£500–£540 per day | Outside IR35 | 6 months initially | Manchester | 2 days per week onsite\n\nThis would suit an experienced backend/software engineer who is comfortable operating in complex, performance-focused environments\nand can contribute quickly across both Golang and the Microsoft stack\n.\n\n📩 Interested?\nPlease apply or get in touch for a confidential discussion.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4468909816",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop real-time, high-volume backend services and microservices using C#/.NET, Golang and SQL Server.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4468909816/"
+      }
     },
     {
       "company": "Renesas Electronics",
@@ -656,8 +711,8 @@
       "description": "Job Description\n\nWhy A365 Software Engineering?\n\nBuild the cloud platform that’s transforming electronics design. Altium 365 for cloud lets design engineers communicate, collaborate and bring their ideas to market more efficiently than any platform in the industry. These are some of the R&D Software Engineering contributions you might make to Altium 365:\n\nBuilding new cloud-native applications and scalable infrastructure\nUtilizing AI and ML to power advanced search capabilities\nLarge-scale data processing; data modeling; holistic, intent-based API design\nStateful and stateless servers, relational databases, ORM frameworks\n\nAltium offers the opportunity to conceive and build new product features for electronics engineers, and add your own ideas to the world’s most collaborative and efficient electronics design platform.\n\nA day in the life of our Senior Software Engineer:\n\nAs a Senior Software Engineer, your primary role will be product development for complex cloud applications with the Altium 365 R&D team.\n\nWork with a tech stack of .NET Core, AWS, multi-tenant architecture, and distributed high-load systems.\nHandle tech challenges different from most others on the market, a mixture of complex engineering software, microelectronics and cloud services\nAdd to the team’s expertise through collaboration and sharing knowledge\n\nThe working mode is on-site: 5 days a week from one of our offices (Katowice or Wroclaw).\n\nQualifications\n\nRequired technology experience:\n\n.NET Core, .NET Framework.\nMicroservices.\nCI, CD, Jenkins, Docker, Kubernetes.\nMySQL (FireBird, Oracle as a plus).\n\nWill be a plus:\n\nAWS, EC2, ECS, RDS, etc. - or Azure/GCP\nMulti-tenant architecture\nSentry, New Relic for alerts and monitoring\n\nAdditional Information\n\nOur Benefits:\n\n🏥 Private medical insurance\n\n❤️ Group life insurance\n\n🏦 Contributions to your Kafeteria MyBenefit account\n\n🧘 nilo.health, mental health and wellbeing support\n\n🌍 Remote working abroad program\n\n📚 Professional development support and resources\n\n🥳 Employee referral program\n\n🥪 Free lunch on Tuesdays, snacks, and drinks in the office\n\n🚗 Free parking\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4425471172",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role does not establish backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -671,8 +726,8 @@
       "description": "Ready to help shape how Dustin works with automation and AI? Join us in a key role where you will design and build impactful solutions using Microsoft Power Platform and Copilot Studio, helping drive digital transformation across the business while shaping our Agentic AI journey.\n\nYou will collaborate with skilled colleagues across Dustin, work closely with business stakeholders, and have the opportunity to develop your expertise in automation, low-code development, and AI-powered solutions that deliver real business value.\n\nThis is what makes the position as Software Engineer Automation unique\n\nPlay a key role in shaping Dustin's automation and Agentic AI journey while delivering solutions that create real business impact.\nDevelop your expertise in Microsoft Power Platform, Copilot Studio, and AI-powered solutions in a highly innovative environment.\nCollaborate with skilled colleagues across Dustin to build applications and automations that improve productivity across the entire organization.\n\nOne of the unique aspects of this team is its cross-country setup, bringing together highly competent colleagues from different backgrounds and locations. The team collaborates closely across Dustin, creating opportunities to learn from experienced peers while contributing to the company's automation and AI journey.\n\nMy name is Joakim Påhlman\n. I am the Manager of Development and Automation\n. As a leader, I am curious, empowering, and open to new ideas and alternative ways of improving how we work. I believe in giving people the trust, support, and freedom to take ownership of their work, while encouraging collaboration, learning, and continuous improvement.\n\nYour role & influence as Software Engineer Automation\n\nResponsibility : You will be given responsibility for designing, developing, and maintaining Microsoft Power Platform and AI-powered solutions that automate business processes, improve employee productivity, and drive Dustin's digital transformation\n\nCollaboration : Together with your team, you take care of enabling business capabilities through application development and automation. You'll work closely not only with your immediate team members but also with business stakeholders, architects, application specialists, and colleagues across Dustin to deliver scalable digital and AI-powered solutions.\n\nCore activities:\n\nDesign, develop, and maintain business applications, workflows, and AI-powered solutions using Microsoft Power Platform and Copilot Studio.\nIdentify automation opportunities and collaborate with business stakeholders to deliver scalable solutions that improve efficiency and productivity.\nDrive governance and continuous improvement by ensuring solutions follow best practices, security standards, and integration requirements across the Microsoft ecosystem.\n\nBenefits Of Joining Dustin\n\nWe believe there's more to Dustin than just the benefits listed here. You'll fully understand this once you're with us. Curious? Our Life at Dustin page has you covered.\n\nYou can find more of our benefits below in the vacancy.\n\nThis Is What We Imagine You Bring\n\nWe envision you as a curious and driven individual who enjoys turning business needs into smart automation and AI-powered solutions, while continuously exploring new ways to create value through technology.\n\nAdditionally,\nit's\nimportant\nthat:\n\nYou have a bachelor's degree in Computer Science, IT, Software Engineering, or a related field.\nYou have experience with low-code/no-code platforms, Microsoft Power Platform, Copilot Studio, and Agentic AI solutions.\nYou have technical skills within Power Apps, Power Automate, Dataverse, Power Pages, and integrations with Microsoft 365, Azure, and third-party applications.\n\nWhat can you expect next?\n\nTo ensure a fair recruitment process free from unconscious bias, we handle your application anonymously and do not accept cover letters. Please refrain from sending one, so that the selection is based solely on professional competencies. We expect the following steps in the recruitment process:\n\nTelephone Screening with TA Partner, Lauren Munoz.\nFirst interview with the Hiring Manager, Joakim and a possible future colleague.\nSecond/ Technical Interview with other set of colleagues.\nProfessional References & Background check and verification.\n\nFor questions about the position, please contact the TA Partner via e-mail: lauren.munoz@dustin.com\n\nPlease note that for this specific job, we don´t provide any relocation or work permit sponsorship support.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470480683",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Role explicitly states no work-permit sponsorship support.",
       "validated": null
     },
     {
@@ -686,8 +741,8 @@
       "description": "Who We Are\n\nAt CarGurus (NASDAQ: CARG), our mission is to give people the power to reach their destination. We started as a small team of developers determined to bring trust and transparency to car shopping. Since then, our history of innovation and go-to-market acceleration has driven industry-leading growth. In fact, we’re the largest and fastest-growing automotive marketplace, and we’ve been profitable for over 15 years.\n\nWhat We Do\n\nThe market is evolving, and we are too, moving the entire automotive journey online and guiding our customers through every step. That includes everything from the sale of an old car to the financing, purchase, and delivery of a new one. Today, tens of millions of consumers visit CarGurus.com each month, and ~30,000 dealerships use our products. But they're not the only ones who love CarGurus—our employees do, too. We have a people-first culture that fosters kindness, collaboration, and innovation, and empowers our Gurus with tools to fuel their career growth. Disrupting a trillion-dollar industry requires fresh and diverse perspectives. Come join us for the ride!\n\nRole Overview\n\nThe International team is seeking a talented and driven Software Engineer II to join CarGurus' first engineering team in Ireland and work on exciting product initiatives for our Canadian and UK markets. In this role, you’ll be responsible for the full software development lifecycle – across both the frontend and backend – collaborating with Engineering and Product peers to design innovative solutions and tackle complex challenges for our dealer-facing products.\n\nWe Are Looking For Candidates Who Are Able To Learn And Adapt Quickly, And Collaborate With Other Engineers To Deliver Solutions. Some Examples Of Potential Project Opportunities\n\nBuilding new, full-stack features for dealer products from the ground up\nIntegrating with existing services and expanding functionality using React, TypeScript, and Java\nImplementing integrations with third-party APIs and partners\n\nAs an engineer on this team, you will work closely with other engineers and product partners to deliver impactful solutions for the international business. No need to be a car expert—we’re more interested in your passion for engineering and your ability to innovate!\n\nWhat You'll Do\n\nHelp establish and grow CarGurus' Dublin engineering presence by contributing to team culture, practices, and standards.\nCollaborate with engineers and product managers across the organization to understand and solve new product requirements and tackle technical challenges.\nWork with Java, Spring Boot, React, JavaScript/TypeScript, AWS, and other modern technologies to build consumer and dealer products.\nCollaborate on system design and write well-crafted code to help evolve our service-oriented architecture.\nBe deeply engaged in the full development lifecycle: designing, developing, testing, automated testing, deploying, maintaining, monitoring, and alerting.\n\nWhat You'll Bring\n\n2-5 years of hands-on software development experience in a professional setting.\nExperience building full-stack applications with frameworks similar to Spring Boot, NextJS, Express, ASP.NET, Django, or Rails.\nAbility to write clean, well-tested, and efficient code that passes through code review with minimal comments. Additionally, you will engage with code reviews by giving and receiving feedback to ensure high-quality outcomes.\nThe ability to iterate and ship ideas quickly and independently.\nSelf-led and motivated to proactively find answers and resolve blockers.\nExperience leveraging AI tools.\nBonus: Experience using AWS services and knowledge of microservice architectures.\n\nThe displayed range represents the expected annual base salary / On-Target Earnings (OTE) for this position. On-Target Earnings (OTE) is inclusive of base salary and on-target commission earnings, which applies exclusively to sales roles.\n\nIndividual pay within this range is determined by work location and other factors such as job-related skills, experience, and relevant education or training.\n\nThis annual base salary forms part of a comprehensive Total Rewards Package. In addition to benefits, this role may qualify for discretionary bonuses/incentives and Restricted Stock Units (RSUs).\n\nPosition Pay Range\n\n€56.000—€77.000 EUR\n\nWorking at CarGurus\n\nWe reward our Gurus’ curiosity and passion with best-in-class benefits and compensation, including equity for all employees, both when they start and as they continue to grow with us. Our career development and corporate giving programs, as well as our employee resource groups (ERGs) and communities, help people build connections while making an impact in personally meaningful ways. A flexible hybrid model and robust time off policies encourage work-life balance and individual well-being. Thoughtful perks like daily free lunch, a new car discount, meditation and fitness apps, commuting cost coverage, and more help our people create space for what matters most in their personal and professional lives.\n\nCarGurus may require in-person interviews as part of our hiring process, particularly for positions based in our Boston and Dublin offices. Candidates selected for an in-person interview will be notified in advance. Please be aware that travel expenses are the responsibility of the candidate.\n\nWe welcome all\n\nCarGurus strives to be a place to which people can bring the ultimate expression of themselves and their potential—starting with our hiring process. We do not discriminate based on race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. We foster an inclusive environment that values people for their skills, experiences, and unique perspectives. That’s why we hope you’ll apply even if you don’t check every box listed in the job description. We also encourage you to tell your recruiter if you require accommodations to participate in our hiring process due to a disability so we can provide the appropriate support. We want to know what only you can bring to CarGurus.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4468907976",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: ASP.NET is only one example among alternative full-stack frameworks; backend/server-side .NET/C# is not required.",
       "validated": null
     },
     {
@@ -701,8 +756,8 @@
       "description": "Devoteam is a leading consulting firm focused on digital transformation. We help ourclients leverage technology to achieve their business goals. Our longstandingpartnerships with leaders like AWS, Google Cloud, Microsoft, and ServiceNowamplify our capabilities, allowing us to deliver top-tier expertise and award-winning\n\nservices.\n\nFor 30 years, we have always been on the next tech wave. Devoteam has guided organizations through the Internet and cloud. The next revolution? AI. With 11,000 tech natives working in 25+ countries, we bring you highly skilled ITexperts across Europe. At Devoteam, tech is in our DNA, and it’s the people we empower with tech. Now,with responsible AI, we’re ready to unlock a future where technology drivespositive change.\n\nJob Description\n\nUnpaid Internship | Devoteam Creative Tech | Belgium\n\nAbout The Team\n\nDevoteam Creative Tech is Belgium's leading digital consultancy, specializingin cloud-native development, AI innovation, and modern software engineering. Our multidisciplinary teams work on high-impact projects for\n\ntop-tier clients across industries — from intelligent automation to large-scale platform modernizations. We foster a culture of curiosity, continuous learning,and creative problem-solving.\n\nAbout The Role\n\nAs a Software Engineer Intern, you will play a hands-on role in the development and orchestration of our Agentic Harness — the core automation and AI-agent network of the software factory. Rather than working in isolation, you will design the backend logic, integrate state-of-the-art LLMs, and build intuitive user interfaces to automate software engineering activities like code migration, refactoring, and code analysis.\n\nThis role is designed specifically for students who are passionate about backend development, modern frontend frameworks, and practical Generative AI applications. You will be paired with senior engineering mentors\n\nto learn industry-standard software patterns, API development, and the design of AI-driven tools.\n\nQualifications\n\nProfile\n\nEducation: Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or a related technical field.\nCore Coding Foundations: Strong Interest in of at least one modern programming language (e.g., Python, JavaScript/TypeScript, Java, or C#) and software design basics.\nWeb Tech Basics: Understanding of REST APIs, JSON data structures,and database basics (SQL/NoSQL).\nAI Interest: Enthusiastic about Generative AI, Large Language Models (LLMs), prompt engineering, and building applications with AI integrations.\nGit Practices: Comfortable with Git and basic collaborative development flows (pull requests, branching).\nMindset: Proactive problem-solver with a strong willingness to learn,experiment, and write clean, maintainable code.\nLanguages: French or Dutch Native and Fluency in English is required.\n\nTechnical Tech Stack (What You Will Use &learn)\n\nBackend: Python (FastAPI, LangChain, LlamaIndex, Pydantic) or Node.js (TypeScript).\nFrontend: React, HTML5/CSS3, and Tailwind CSS / Bootstrap.\nAI & Agents: OpenAI API, Anthropic Claude, Google Gemini, and multi-agent orchestrators.\nDevOps & Infrastructure: Docker, Git, CI/CD pipelines, and cloud platformfundamentals ( AWS).\n\nAdditional Information\n\nWhat We Offer\n\nCutting-Edge Innovation: Gain hands-on experience working on a AI engineering framework that directly addresses real-world corporate challenges.\nExpert Mentorship: Learn daily from seasoned Software Architects, CloudEngineers, and AI Specialists who are passionate about sharing their knowledge.\nDynamic Culture: A fun, collaborative, and flat organization that values your ideas, initiative, and personal growth.\nProfessional Growth: Regular knowledge-sharing sessions (Tech Lunch&Learn, workshops) and access to training resources.\nGateway to Your Career: A successful internship at DevoteamCreativeTech is a proven pipeline to a full-time consultant position upon graduation.\nModern Workspace: Beautiful office spaces in Belgiumwith a hybrid/flexible remote work policy.\n\nAt Devoteam, we combine strong values – respect, frankness, ambition, entrepreneurship & collaboration - with a fun environment that empowers you toinnovate and succeed.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4460605772",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Internship backend stack is Python or Node.js, not .NET/C#.",
       "validated": null
     },
     {
@@ -716,8 +771,8 @@
       "description": "Automobile verkaufen heisst heute mehr als Modelle präsentieren – es bedeutet, Kunden zu begeistern und langfristige Beziehungen aufzubauen. Unser Rocken Partner zählt zu den führenden Retailpartnern im automobilen Premiumsegment mit mehreren Standorten und einem klaren Fokus auf Exzellenz. Hier dreht sich alles um hochwertige Personenwagen, massgeschneiderte Beratung und moderne Mobilitätslösungen. Das Tätigkeitsfeld reicht von der aktiven Kundenberatung über Probefahrten bis hin zur Betreuung von Flottenkunden. Serviceorientierung und technisches Know-how sind ebenso gefragt wie Verkaufstalent. Der Rocken Partner legt grossen Wert auf Eigenverantwortung, Teamgeist und eine professionelle Arbeitsumgebung, in der Qualität zählt. Bist du bereit, in einem dynamischen Umfeld durchzustarten und mit erstklassigen Fahrzeugen zu überzeugen? Dann freuen wir uns darauf, dich kennenzulernen.\n\nRolle\n\nIn dieser Rolle übernimmst du als Senior Software Entwickler .NET eine entscheidende Funktion in einem internationalen Umfeld mit zahlreichen Standorten in mehreren europäischen Ländern. Du trägst mit deiner Expertise dazu bei, moderne, leistungsfähige Lösungen zu entwickeln, die hohe Qualitätsansprüche erfüllen. Dabei profitierst du von zeitgemässen, modernen Arbeitsbedingungen und zahlreichen Benefits, die dir ein attraktives Arbeitsumfeld bieten. Du gestaltest deinen Verantwortungsbereich eigenständig und bringst deine Erfahrung gezielt ein, um nachhaltige Ergebnisse zu erzielen.\n\nVerantwortung\n\nDu entwickelst zeitgemässe Anwendungen mit C# und .NET.\nDu übersetzt fachliche Bedürfnisse in tragfähige technische Lösungsentwürfe.\nDu realisierst Web- und Serveranwendungen sowie Integrationen zu Fremdsystemen.\nDu gewährleistest hohe Qualität durch Reviews, automatisierte Tests und Clean-Code-Prinzipien.\nDu gestaltest Architektur, Performance, Security und DevOps gemeinsam mit interdisziplinären Teams.\n\nQualifikationen\n\nDu hast ein Informatikstudium oder eine vergleichbare technische Ausbildung abgeschlossen.\nDu bringst mindestens fünf Jahre Praxis mit C#/.NET und sehr gute Kenntnisse von .NET Core mit.\nDu kennst REST-Schnittstellen, Angular, Entity Framework und Microsoft SQL Server.\nDu arbeitest sicher mit Azure DevOps sowie CI/CD-Pipelines und verstehst agile Vorgehensmodelle.\nDu überzeugst durch strukturiertes Denken, Eigenverantwortung, Lernfreude und sehr gutes Deutsch; Englisch ist ein Plus.\n\nBenefits\n\nHomeoffice\nEingespieltes und dynamisches Team\nBeteiligung oder Übernahme Firmenwagen\nFlexible Arbeitszeitgestaltung\n\nROCKEN Jobs\n\nhttps://rocken.jobs\n\nProfil Erstellen\n\nhttps://rocken.jobs/application/profil-erstellen/\n\nnew\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInternet Publishing",
       "source": "LinkedIn",
       "job_id": "4469034637",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily German and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -731,8 +786,8 @@
       "description": "ROCKEN® hat mit Ihrer digitalen Rekrutierungslösung den Bewerbungsprozess massgeblich vereinfacht und setzt damit einen neuen, einheitlichen Standard. Wir verbinden Talente, Experten und Expertinnen in der gesamten Schweiz. Unser Netzwerk an etablierten Unternehmen stellen wir auf unserer ROCKEN® Talent Plattform zur Verfügung.\n\nIT-Security muss sich mit der Digitalisierung weiterentwickeln. Die Expertise unserer Partners erstreckt sich über die unterschiedlichsten Branchen, über mittelständische oder Grossunternehmen, öffentliche Einrichtungen, Schulen oder Krankenhäuser. Ob strategische Beratung, Prozessoptimierung oder die Implementierung von Services – wir binden alle Unternehmensbereiche mit ein und gehen mit spezialisierten Lösungen gegen Cyberkriminalität vor.\n\nStarte deine neue Reise jetzt mit einem persönlichen ROCKEN® Talent Profil und profitiere von spannenden Jobs!\n\nVerantwortung\n\nKonzeption und Entwicklung moderner Softwarelösungen mit C# und .NET sowie Integration neuer Applikationen in bestehende Systemlandschaften\nAnalyse fachlicher und technischer Anforderungen in enger Zusammenarbeit mit dem Product Management sowie Überführung in nachhaltige Softwarekonzepte\nUmsetzung performanter und benutzerfreundlicher Web-, Backend- und Schnittstellenlösungen unter Berücksichtigung etablierter Engineering-Standards\nSicherstellung einer hohen Softwarequalität sowie Übernahme einer technischen Beratungsrolle bei Architektur-, Integrations- und Entwicklungsfragen\n\nQualifikationen\n\nFachhochschulabschluss im IT-Umfeld oder vergleichbare Qualifikation sowie praktische Erfahrung in der professionellen Softwareentwicklung\nFundierte Kenntnisse in C# und aktuellen .NET-Technologien sowie idealerweise Erfahrung mit Blazor, .NET Aspire, Wolverine, Java oder Go\nErfahrung mit Webapplikationen, Webservices, Benutzeroberflächen, Datenbanken und Backend-Systemen sowie Interesse an Security, Authentisierung und Kryptografie\nAnalytische und konzeptionelle Persönlichkeit mit schneller Auffassungsgabe, ausgeprägter Kommunikationsstärke sowie guten Deutsch- und Englischkenntnissen\n\nBenefits\n\nAttraktive Weiterbildungs- und Entwicklungsmöglichkeiten: Know-how und Entwicklung sind uns wichtig! Wir unterstützen dich in deiner Weiterbildung\nOffene Unternehmenskultur: Dynamische und offene Du-Kultur, grössere und kleinere Teamevents – we are family!\nInternationales Umfeld\nHomeoffice\n\nROCKEN Jobs\n\nhttps://rocken.jobs\n\nProfil Erstellen\n\nhttps://rocken.jobs/application/profil-erstellen/\n\nnew\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInternet Publishing",
       "source": "LinkedIn",
       "job_id": "4469035616",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily German and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -746,8 +801,8 @@
       "description": "Willst du aktiv die Zukunft von Wirtschaft, Bildung und Forschung mitgestalten? Unser Rocken Partner ist eine zentrale Institution im öffentlichen Sektor und verantwortet wichtige Weichenstellungen in diesen strategischen Bereichen. Hier werden Rahmenbedingungen geschaffen, die Innovation fördern, Bildungschancen verbessern und wirtschaftliche Entwicklung vorantreiben. Das Tätigkeitsfeld umfasst die Konzeption, Umsetzung und Evaluation von politischen Massnahmen. Du arbeitest an Schnittstellen zwischen Politik, Verwaltung und verschiedenen Anspruchsgruppen. Deine Analysen und Empfehlungen haben direkten Einfluss auf gesellschaftlich relevante Entscheidungen. Die Arbeitsweise ist geprägt von Präzision, interdisziplinärer Zusammenarbeit und einem hohen Verantwortungsbewusstsein. Hier zählen fundierte Expertise und die Fähigkeit, komplexe Zusammenhänge verständlich aufzubereiten. Bist du bereit, deine Kompetenzen dort einzusetzen, wo sie echte Wirkung entfalten? Dann freut sich unser Rocken Partner auf deine Bewerbung!\n\nVerantwortung\n\nEntwicklungsaufträge im Rahmen von IT-Projekten umsetzen und den Standarddienst GEVER Bund betreiben\nCI/CD-Plattform weiterentwickeln, automatisieren und den stabilen Betrieb sicherstellen\nGeschäftsprozesse analysieren und C#-Module zur GEVER-Integration entwickeln\nTest-Automatisierung entwickeln und pflegen sowie automatisierte Tests inklusive Spezifikationen und Testmodellen konzipieren\n\nQualifikationen\n\nAbgeschlossener Informatikabschluss und fundierte Erfahrung im Application- & Test-Engineering\nTiefgehendes Know-how in .NET C#, Testautomation mit Selenium & Requirement Engineering\nGute Kenntnisse in CI/CD, Git, Windows Server & Container-Technologien\nAusgeprägte analytische Fähigkeiten, Kundenorientierung & proaktive Arbeitsweise\nSehr gute Deutschkenntnisse, eine zweite Amtssprache sowie gute Englischkenntnisse\n\nROCKEN Jobs\n\nhttps://rocken.jobs\n\nProfil Erstellen\n\nhttps://rocken.jobs/application/profil-erstellen/\n\nnew\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInternet Publishing",
       "source": "LinkedIn",
       "job_id": "4469037645",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily German and explicitly requires very good German.",
       "validated": null
     },
     {
@@ -761,8 +816,8 @@
       "description": "Komplexe IT-Infrastrukturen sicher betreiben, moderne Cloud-Lösungen bereitstellen und massgeschneiderte Software entwickeln – klingt nach deinem Ding? Unser Rocken Partner ist spezialisiert auf digitale Lösungen und Managed Services für anspruchsvolle Kundenumgebungen. Das Unternehmen verbindet technisches Know-how mit einem klaren Fokus auf Zuverlässigkeit und Kundennähe. Zum Tätigkeitsfeld gehören die Entwicklung und Betreuung webbasierter Plattformen, der Betrieb sicherer Server-Infrastrukturen sowie die kontinuierliche Weiterentwicklung bestehender Systeme. Dabei wird eng mit Kunden zusammengearbeitet, um passgenaue Lösungen zu schaffen. Flache Hierarchien und direkte Kommunikationswege prägen den Arbeitsalltag. Eigenverantwortung wird grossgeschrieben, Teamarbeit gelebt. Bereit, IT-Projekte mit Substanz voranzutreiben? Dann freut sich unser Rocken Partner auf deine Bewerbung.\n\nVerantwortung\n\nDu entwickelst und pflegst moderne Geschäftsanwendungen auf Basis von C# und .NET.\nDu begleitest neue Lösungen von der technischen Konzeption bis zur produktiven Einführung.\nDu stellst durch automatisierte Tests, Code-Reviews und saubere Entwicklungsstandards eine hohe Softwarequalität sicher.\nDu analysierst bestehende Anwendungen, identifizierst Optimierungspotenziale und entwickelst diese kontinuierlich weiter.\nDu arbeitest eng mit interdisziplinären Teams zusammen und bringst eigene Ideen für moderne Softwarelösungen ein.\n\nQualifikationen\n\nDu verfügst über mehrere Jahre Berufserfahrung in der professionellen Entwicklung mit C# und Microsoft .NET.\nDu kennst Technologien wie ASP.NET Web API, Blazor, Entity Framework, LINQ, WPF und Git aus der Praxis.\nDu besitzt fundierte Kenntnisse relationaler Datenbanken, idealerweise PostgreSQL oder SQL-basierter Unternehmenslösungen.\nDu bist mit agilen Entwicklungsmodellen wie Scrum vertraut und arbeitest qualitätsbewusst.\nDu begeisterst dich für neue Technologien, denkst lösungsorientiert und kommunizierst sicher auf Deutsch und Englisch.\n\nBenefits\n\nFlexible Arbeitszeitgestaltung\nMarkt- und leistungsgerechte Löhne\nAttraktive Weiterbildungs- und Entwicklungsmöglichkeiten\nKomfortables Büro mit moderner Infrastruktur\nOffene Unternehmenskultur\nInteressante und abwechslungsreiche Tätigkeiten/Projekte\nEingespieltes und dynamisches Team\nFlache Hierarchien\n\nROCKEN Jobs\n\nhttps://rocken.jobs\n\nProfil Erstellen\n\nhttps://rocken.jobs/application/profil-erstellen/\n\nnew\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4469045019",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily German and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -776,8 +831,8 @@
       "description": "Fenster sind mehr als Glas und Rahmen – sie verbinden Räume mit Licht, Wärme und Architektur. Unser Rocken Partner entwickelt und produziert hochwertige Fenstersysteme mit Fokus auf Wärmedämmung und nachhaltige Fertigung. Das Unternehmen steht für handwerkliche Präzision, innovative Materialtechnik und langjährige Erfahrung im Holz-Glas-Verbund. Die Produktionsstätte zählt zu den modernsten ihrer Art und vereint Tradition mit technologischem Fortschritt. Das Tätigkeitsfeld umfasst Planung, Fertigung und Montage von Fensterelementen, Schiebetüren und Speziallösungen für anspruchsvolle Bauprojekte. Dabei wird grosser Wert auf Detailgenauigkeit, Energieeffizienz und individuelle Kundenlösungen gelegt. Die Arbeitsweise ist pragmatisch, partnerschaftlich und geprägt von gegenseitigem Respekt – Herausforderungen werden als Chance verstanden. Bereit, an Projekten zu arbeiten, die echten Mehrwert schaffen? Dann freut sich unser Rocken Partner auf deine Bewerbung.\n\nVerantwortung\n\nGestaltung einer zukunftsfähigen hybriden IT-Architektur und Weiterentwicklung zentraler Infrastrukturservices über On-Premises- und Cloud-Umgebungen hinweg\nTechnische Betreuung von Compute-, Storage-, Netzwerk-, Virtualisierungs- und Workplace-Komponenten sowie Sicherstellung eines performanten und geschützten Betriebs\nUmsetzung von Technologie- und Transformationsprojekten sowie Weiterentwicklung von Security-, Business-Continuity- und Disaster-Recovery-Konzepten\nTechnische Eskalationsstelle für anspruchsvolle Systemprobleme sowie aktive Mitarbeit bei Architekturentscheidungen und der Evaluation neuer Infrastrukturtechnologien\n\nQualifikationen\n\nMehrjährige Erfahrung im System Engineering auf Basis einer abgeschlossenen IT-Ausbildung oder eines entsprechenden Informatikstudiums\nTiefgehendes Verständnis von Microsoft-Infrastrukturen mit Windows Server, Active Directory, Microsoft 365 und Azure sowie Kenntnisse in VMware und/oder Citrix\nErfahrung mit Netzwerk- und Security-Technologien, hochverfügbaren Infrastrukturkonzepten sowie der eigenständigen Durchführung von IT-Projekten\nAnalytische und zuverlässige Persönlichkeit mit hoher Eigeninitiative und Serviceorientierung sowie sehr guten Deutsch- und guten Englischkenntnissen\n\nBenefits\n\nKomfortables Büro mit moderner Infrastruktur\nOffene Unternehmenskultur\nInteressante und abwechslungsreiche Tätigkeiten/Projekte\n\nROCKEN Jobs\n\nhttps://rocken.jobs\n\nProfil Erstellen\n\nhttps://rocken.jobs/application/profil-erstellen/\n\nnew\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nInternet Publishing",
       "source": "LinkedIn",
       "job_id": "4469037656",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is infrastructure/systems engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -791,9 +846,20 @@
       "description": "Start your tech career made in Austria as Full Stack Developer .NET & Angular (m/f/x). Develop yourself and with us the software solutions of tomorrow.\n\nYOUR TECH-PART IN OUR TEAM\n\nDevelop applications and services as part of an agile, cross-functional team – depending on your interests and experience\nBuild and enhance Angular frontend applications (latest versions)\nImplement C# backend components using latest .NET versions\nWork with both SQL and NoSQL databases\nOptimize and ensure the smooth operation of our sports betting solutions within a high-performance enterprise environment\nContribute to the design and architecture of efficient solutions in our microservices-based system\nBuzzwords: Unit/Integration tests, DevOps, DDD, EKS, Docker, AWS, Jira, GitLab, Confluence\n\nOUR FEATURES\n\nState-of-the-Art Technologies\n\nWe use the latest technologies – innovation is a core part of our mission.\nModern Company\n\nFor you, this means flat hierarchies, interdisciplinary teams, and diverse opportunities to grow both personally and professionally.\nAttractive working environment\n\nAmong other things, we offer a modern work environment with teleworking options, flexible working hours, ergonomic workstations, up-to-date hardware, and individually tailored training opportunities. We also take into account the different life stages of our employees.\nWe value expertise and commitment\n\nThe minimum annual gross salary for this full-time role is € 55.000 gross / year. Depending on your qualifications and experience, we are prepared to offer a competitive overpayment.\n\nYOUR TECH-STACK\n\nCompleted technical education and several years of relevant professional experience in software development\nDeep expertise in .NET and Angular (latest versions), along with solid knowledge of MS SQL Server, MongoDB, and related technologies\nStrong, hands-on experience with microservice and container architectures (Docker & Kubernetes)\nHigh awareness of code quality and a strong willingness to learn new technologies\nA hands-on mentality and enthusiasm for working in an agile team environment\nProficiency in English, both written and spoken\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nGambling Facilities and Casinos and Software Development",
       "source": "LinkedIn",
       "job_id": "4469035601",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Several years of relevant professional experience in software development",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop full-stack software using .NET and Angular with microservice and container architectures and Microsoft SQL Server.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4469035601/"
+      }
     },
     {
       "company": "Entain",
@@ -806,9 +872,20 @@
       "description": "Company Description\n\nAbout Entain\n\nThere's nothing like a career at Entain. We're a leading, global sports betting and gaming company and we're upping the excitement and increasing player safety. We're a FTSE company with iconic brands including Ladbrokes, Coral, BetMGM, Eurobet and bwin, and we have an energy that drives us to perform at the height of our potential. Whether you're an engineer, marketer or retail specialist, a career here is a complete game changer.\n\nJob Description\n\nThis is a hybrid role. As a Senior Software Engineer (Backend) you will design, develop, deploy, and maintain software features in Backend domains.\n\nReporting to the Software Engineering Team lead, you'll be part of the Product & Technology Team, ensuring systematic and efficient development through all stages of the Software Development Lifecycle.\n\nAre you ready to be a part of our journey delivering excellence and collaborating with one of the world's biggest online gaming and entertainment groups?\n\nSalary range for this role, based on experience level is from 56,900.00 euro per annum\n\nYou Will:\n\nDevelop and deliver well-defined, moderately complex features.\nDebug and resolve issues across development, testing, and production environments.\nWrite high-quality, scalable, and reusable code following best practices.\nManage team meetings and RFC processes for proposing changes and improvements.\nAct as the initial on-call responder for team-managed software\n\nQualifications\n\nYou Have:\n\nExpert knowledge of basic C# concepts like the usage of extension methods, access modifiers.\nA strong understanding of object-oriented design, usage of polymorphism and inheritance.\nSolid experience with the latest .NET Framework features and technologies (C#, .NET, .NET Core, BCL).\nA deep understanding of multithreading and concepts, such as async and parallel programming.\nProficient in software testing processes and tools – unit testing and load/performance testing.\nGood experience with WebApi development (REST, gRPC).\n\nBenefits\n\nAdditional Information\n\nAt Entain, We Know That Signing Top Players Requires a Great Starting Package, And Plenty Of Support To Inspire You. Join Us, And a Great Compensation Package Is Just The Beginning. You Can Expect To Receive Benefits Like:\n\nA regular bonus and great pension.\n€136 per month food vouchers.\n25 days annual leave plus local public holidays.\nExtra paid leave, including wellbeing, development and life-event days.\nLife assurance and Income Protection.\nPrivate healthcare and wellbeing support.\nA stake in our success through our ShareSave scheme.\nSpecial offers / reductions: pharmacy, Magenta, Erste Bank\n\nEqual Opportunities\n.\n\nIf you need any reasonable adjustments\nat any stage of the recruitment process, please contact us and we'll support you.\n\nWe're committed to creating a diverse, equitable and inclusive workplace where everyone feels valued, respected and able to be themselves.\n\nWe're an equal opportunities employer\n. We welcome applications from everyone and we do not discriminate based on age, disability, gender or gender reassignment, pregnancy or maternity, race, religion or belief, sexual orientation, marriage/civil partnership, or any other basis.\n\nWe comply with all applicable recruitment regulations and employment laws in the jurisdictions where we operate, ensuring ethical and compliant hiring practices globally.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nSpectator Sports",
       "source": "LinkedIn",
       "job_id": "4470472969",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Design, develop, deploy and maintain backend software using .NET/C#, .NET Core, ASP.NET Web API and SQL Server.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470472969/"
+      }
     },
     {
       "company": "KRUK España",
@@ -821,8 +898,8 @@
       "description": "¡Súmate a KRUK España como Desarrollador Senior!\n\nEn KRUK España, como líderes del sector de recuperación de deuda, buscamos reforzar nuestro equipo de desarrollo de software con talento senior capaz de trabajar siendo un puente entre negocio e IT. Si estás en busca de un proyecto laboral emocionante en un entorno multicultural y dinámico, sigue leyendo:\n\nObjetivo del puesto\n\nDesarrollar y mejora las aplicaciones corporativas, garantizando su estabilidad, calidad e integración con nuevas soluciones tecnológicas, basadas en IA, para así optimizar los procesos internos y apoyar la evolución exitosa del negocio.\n\nPrincipales responsabilidades\n\nAsegurar el correcto funcionamiento del software corporativo mediante su mantenimiento, la resolución de incidencias y la implantación de mejoras técnicas.\nDesarrollar nuevas funcionalidades y soluciones adaptadas a las necesidades del negocio, garantizando su calidad, seguridad y facilidad de mantenimiento.\nDiseñar y evolucionar soluciones basadas en microservicios, incorporando capacidades de IA tanto en el ciclo de desarrollo como en el producto final.\nFacilitar la continuidad de la operativa proporcionando soporte técnico y orientación a los usuarios de las aplicaciones corporativas.\nImplementar automatizaciones que mejoran la eficiencia de los procesos de negocio y reducen las tareas manuales o repetitivas.\nMantener los sistemas de integración y despliegue continuos, el control de versiones y los procedimientos técnicos del equipo.\nParticipar activamente en todas las fases del ciclo de vida del software, desde el análisis y el diseño hasta las pruebas, el despliegue y el mantenimiento.\n\nRequisitos mínimos\n\nGrado Superior en Desarrollo de Aplicaciones, Ingeniería Informática o titulación equivalente.\nAl menos 5 años de experiencia en posiciones como Desarrollador de aplicaciones/Software developer/Software engineer.\nExperiencia implantando y desarrollando soluciones basadas en microservicios, incorporando IA tanto en el ciclo de desarrollo como en producto final.\nConocimientos técnicos en:\nDesarrollo de aplicaciones con C# y .NET\nExperiencia con Microsoft SQL Server o PostgreSQL.\nDesarrollo en DDD, microservicios, EDA\nColas de mensajes: RabbitMQ o Kafka\nDeseable experiencia en Docker y Cloud(Azure),\nIntegración y despliegue continuos, CI/CD (Gitlab Actions).\nCiclo de vida del desarrollo de software, SDLC.\nB2 (minimum) level of English.\nOrientación hacia resultados y resolución de problemas.\nComunicación eficaz para explicar información técnica a diferentes interlocutores.\nCuriosidad y tendencia hacia el aprendizaje y mejora continua.\n\n¿Qué encontrarás en KRUK España?\n\nContrato indefinido.\nModalidad híbrida de trabajo: hasta un 60% de teletrabajo al mes.\nHorario flexible (entrada de 7:30h a 10:00h y salida a partir de las 16:30h).\nJornada intensiva los viernes.\n23 días laborables de vacaciones más un día extra por tu cumpleaños.\nSeguro médico privado gratuito.\nPlus de transporte mensual y ayuda al teletrabajo.\nParticipación en proyectos estratégicos con impacto real en la organización.\n\nSi consideras que tu perfil puede tener un potencial encaje, inscribe tu candidatura: querremos conocerte.\n\nEn KRUK España promovemos la igualdad de oportunidades y la diversidad, impulsando entornos de trabajo inclusivos, respetuosos y accesibles para todas las personas. Garantizamos un proceso de selección basado en criterios objetivos y libre de cualquier tipo de discriminación por razón de género, edad, origen, discapacidad, religión, orientación sexual, identidad o expresión de género, o cualquier otra condición personal o social.\n\nAdemás, trabajamos para que todas las personas puedan participar en nuestros procesos en igualdad de condiciones. Si necesitas alguna adaptación durante el proceso de selección, no dudes en indicárnoslo.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nFinancial Services",
       "source": "LinkedIn",
       "job_id": "4470489348",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -836,9 +913,20 @@
       "description": "You will be involved in every aspect of software development, from designing scalable solutions and building modern user interfaces to developing high-performance backend services, writing automated tests, and working with SQL and NoSQL databases.\n\nThis is your opportunity to work on a world-leading, high-performance, high-availability, and high-throughput multi-brand Sportsbook platform.\n\nTo give you an idea of the scale behind our applications\n\n10,000 different leagues\n1,100 live matches\n500,000–600,000 bets placed on a single Saturday\n\nThe Wow\n\nYou'll join more than 150 agile engineers\ndistributed across 3 locations\n, working with a modern technology stack that includes Angular, TypeScript, .NET Core, C#, RabbitMQ, SQL Server, NoSQL databases, Docker, Kubernetes, and AWS.\n\nWe work in cross-functional agile teams\nconsisting of architects, developers, QA engineers, database specialists, DevOps engineers, and product owners, giving you the opportunity to contribute across the entire software development lifecycle.\n\nIf you're passionate about building both exceptional user experiences and scalable backend systems, enjoy solving complex engineering challenges, and thrive in mission-critical environments, then this is the role for you.\n\nMuch like a rollercoaster, life at Betsson Group is fast-paced, full of twists and turns, and always exciting. With more than 2,800\ncolleagues representing over 75 nationalities across a global network of offices\n- including 1,500\nat our operational headquarters in Malta - every day brings new challenges and opportunities to grow. It may not be for the faint-hearted, but if you thrive on innovation, enjoy pushing boundaries and want to be part of a diverse, international team, then you’ll fit right in at Betsson.\n\nA taster of what you will be involved with\n\nFrontend\n\nAngular\nTypeScript\nngRx (Redux pattern)\nRxJS\nAngular Material\nHTML/CSS\nSignalR\n\nBackend\n\n.NET / C#\n.NET Core\nASP.NET Web API\nSQL Server\nNoSQL databases\nRabbitMQ (or similar messaging technologies)\n\nWhat we are looking for\n\nDeveloping modern web applications using JavaScript/TypeScript and a modern UI framework (Angular preferred)\nBuilding scalable backend services with .NET / C#\nDesigning and consuming REST APIs\nWorking across complex distributed and microservice-based architectures\nWorking with SQL Server and NoSQL databases\nWriting clean, maintainable, and testable code\nUsing unit testing frameworks\nApplying Agile software development practices\nCollaborating with cross-functional teams and sharing knowledge\nCommunicating effectively in English\n\nExtra Awesome\n\nStrong experience with Angular, ngRx, and RxJS\nExperience implementing distributed, multi-tier, or microservice-based systems\nExperience with cloud platforms such as AWS or Azure\nExperience with Docker and Kubernetes\nExperience with responsive web design\nKnowledge of SQL query optimisation and database performance tuning\nExperience with messaging technologies such as RabbitMQ or Kafka\n\nWhat we offer\n\nFitness-wellness allowance  🧗‍♂️\nCompany mobile phone for private use with 100 GB  📱\nAnnual HUF devaluation compensation  💡\nHybrid model 3 days in the office 🏢  & 2 days from home  🏠\nPrivate Health Insurance  🩺\nCareer development  📈\nTechnical and soft-skill training opportunities 🎓\nBreakfast, fruits & lunch 🍎\nTeam building events  🥳\n\nChallenge accepted?\n\nBy submitting your application, you understand that your personal data will be processed as set out in our Privacy Policy\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4443314939",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Build full-stack products with scalable backend services using .NET/C#, .NET Core, ASP.NET Web API and SQL Server alongside Angular.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4443314939/"
+      }
     }
   ]
 }
