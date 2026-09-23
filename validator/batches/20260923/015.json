@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1475b53e5b6cff9c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is a rail engineering/work-preparation traineeship with no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "313de3e7fa045d9b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is an energy engineering/work-preparation traineeship with no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "340286ec8d562daf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Solar PV sales engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -83,8 +83,8 @@
       "description": "Contract:\n12 months (subject to extension).\nLocation:\nZuid-Holland, Netherlands.\nSalary:\nNot a constraint for the right candidate!\nExperience:\n8-10 years.\nHybrid:\n2 days Work from Home 3 days Work from Office\n\nYour Profile & DNA:\n\nWe are looking for an Integration Engineer who can keep our substantial MuleSoft API landscape running and evolving while helping us build the future on Azure Functions. Our strategy is to gradually move away from MuleSoft, and in this role you support the existing platform and bring the Azure expertise needed to guide that transition. In the short term you complete the MuleSoft migration to the new Java version and support the Trade Recommendation Gateway, which streams Bloomberg and FlexTrade trade data to our data scientists. You also contribute to the design and pilot of Python based APIs within the department and help prepare a migration proposal together with the API Platform team. You work closely with data scientists, the API Platform team and other engineering colleagues, and your input helps shape how integrations are built here for years to come. There is also room to explore how this migration could serve as a use case for our Agentic Development Workflow.\n\nRoles & Responsibilities\n\nMaintain and further develop the existing MuleSoft API landscape\nComplete the migration of MuleSoft to the new Java version\nSupport and further develop the Trade Recommendation Gateway, the Bloomberg and FlexTrade trade data stream for data scientists\nTroubleshoot and resolve incidents in production MuleSoft integrations\nDesign, build and pilot Python based APIs within the department\nPerform minor maintenance on existing APIs and integrations\nPrepare a migration proposal for moving integrations from MuleSoft to Azure Functions, in consultation with the API Platform team\nBring Azure expertise into the team to help guide the transition away from MuleSoft\nContribute technical input to explore whether the migration is a suitable use case for the Agentic Development Workflow\nCollaborate with data scientists on the requirements and reliability of the trade data stream\nDocument integration designs, migration decisions and operational procedures\nSafeguard performance, security and stability of the API landscape during the transition\n\nQualification & Experience\n\nA Bachelor's or Master's Degree or equivalent.\nSeveral years of hands-on experience with MuleSoft API development and maintenance\nExperience with Java, including migrating applications between Java versions\nPractical experience with Azure, particularly Azure Functions\nExperience with Python for API development\nAffinity with financial trade data or market data streams (e.g. Bloomberg, FlexTrade) is a strong plus\nSolid understanding of API design, integration patterns and data pipelines\nExperience preparing or contributing to migration proposals or technical roadmaps\nAbility to work independently within a complex, mission critical API landscape\nFluent in English, both written and spoken\nAvailable 3 days per week on-site in Zuid-Holland\n\nNice-to-haves\n\nMuleSoft certification (e.g. MuleSoft Certified Developer)\nMicrosoft Azure certification\nExperience in the financial services or asset management sector\nFamiliarity with agentic development workflows or AI assisted development tooling\n\nCOMPETENCIES\n\nStrong stakeholder management across data science, engineering and platform teams\nClear and proactive communication\nStrong analytical skills\nComfortable working in an Agile / DevOps way of working\nSense of ownership over the systems you maintain and build\nProactive attitude in identifying and resolving risks during migration\nStructured and methodical way of working\nPragmatic, solution oriented mindset in a landscape that is being modernized step by step\n\nWhat do we offer?\n\nIf your profile matches the job requirement and you are interested to be presented to our clients, then please apply and don’t forget to attach your updated CV in line with the JD!\nThis position is for 1 year with possibility of extension. We offer competitive Gross Salary in line with the market standard.\nBesides that, we offer following benefits, such as:\n20 days of holiday per year\nEncourage Personal Development - Certification (Certification Charges reimbursed)\nIncome Tax Return Filing\nWe provide Visa Sponsorship for Candidate & Dependants\nPossibility of bonus\n\nWho we are:\n\nA2G Consulting also known as \"A2G Technologies\" is one of the fastest growing staffing companies in North Brabant region, Netherlands. We cater to Asia and Europe market focusing on high tech & non-high-tech clientele; headquartered in Eindhoven, Netherlands with a branch office in India (Bangalore & Pune) & Dubai. We successfully find a candidate and ensure that they get opportunities in line with their aspirations. We offer visa sponsorship for local & international candidates for career-enhancing opportunities. We strongly believe in equal opportunities and hence have a pool of resources with diversified ethnicity.\nYou will be deployed and work at one of our client sites.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nJob function\n\nInformation Technology\n\nIndustries\n\nInformation Technology & Services",
       "source": "LinkedIn",
       "job_id": "4469430497",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend/integration stack is MuleSoft, Java, and Python; no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -98,9 +98,20 @@
       "description": "Overview:\n\nWe are looking for a technically very strong engineer who can act as part of the technical backbone of our Business Intelligence & Analytics department (Microsoft stack).\n\nWhat are we looking for?\n\nDeep knowledge of C#\nDeep knowledge of .NET\nStrong Azure expertise\nExperience with Azure DevOps pipelines\nExperience with Blazor\nKnowledge of SQL Server\nArchitectural experience or knowledge\nExperience with reporting is an absolute plus\n\nWhat can you expect from us?\n\nA permanent job contract for a long term project;\nTech equipment + SIM Card + personal smartphone;\nHealth and Life Insurance;\nSocial events and team buildings;\nThe commitment of letting you grow with us, and be rewarded accordingly;\nA dynamic and young team that will be always there to support you;\nTraining in the latest technologies;\nCoffee, fruits, snacks and a warm welcoming when you pass by the office.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4458718693",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Deep knowledge of C# and .NET; strong Azure expertise; experience with Azure DevOps pipelines and Blazor.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Backend .NET engineering role in a Microsoft-stack BI and analytics department, using C#, .NET, Azure, SQL Server, Blazor, and Azure DevOps.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4458718693/"
+      }
     },
     {
       "company": "KWAN",
@@ -113,9 +124,20 @@
       "description": "We are looking for a Senior Data Engineer who's eager to embark on an exciting new opportunity! 💪\n\n🤩 About KWAN\nWe connect IT professionals with projects that match their skills, professional experience, and goals, then we offer a career progression program, delivered by in-house specialists - our People Experience Partners - to guide them through our journey with us.\n\n🛠 What we are looking for\n\n3+ years of professional experience with C#/.NET;\nStrong affinity with the technical stack used by the team;\nSolid experience with .NET 8 / .NET Framework\n, ASP.NET Web API\n, and WCF\n;\nExperience with SQL Server\n, Oracle\n, RabbitMQ\n, NHibernate\n, and Entity Framework\n;\nKnowledge of Domain-Driven Design (DDD)\n, Clean Architecture\n, and Design Patterns\n;\nExperience with xUnit\nand/or NUnit\nfor automated testing;\nHands-on experience with Azure DevOps Pipelines\nand CI/CD practices;\nExperience with Blazor\nis considered a plus;\nProficiency with Git\nand Azure DevOps\n;\nExperience with automated deployment and monitoring tools\n;\nFluent in English.\n\n👉 Do you meet most of the position requirements? Then grab this opportunity and apply now! 🤩💪\n\n✨ What we offer\nA project that matches your skills and ambitions, as well as your preferences for working policies and culture.\nA competitive salary with awesome benefits and opportunities to leverage your knowledge and network to earn additional income.\nAn empowering and respectful work culture enriched with social and learning events.\nA People Experience Partner specially assigned to you - your go-to career guide, responsible for supporting your growth, facilitating training, and ensuring your work-life balance at KWAN.\n\n🙌 Some Words From Our Colleagues\n\n“At KWAN, they make sure that I feel comfortable with the client I’m working for and that what I’m doing aligns with my career aspirations.” - Luis Caldeira, DevOps @ KWAN\n\n👉 Grab this opportunity, apply now! 🤩💪\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4468991460",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "3+ years of professional experience with C#/.NET; experience with .NET 8/.NET Framework, ASP.NET Web API, and WCF.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "C#/.NET development role using .NET 8/.NET Framework, ASP.NET Web API, WCF, SQL databases, messaging, and Azure DevOps CI/CD.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4468991460/"
+      }
     },
     {
       "company": "Veeam Software",
@@ -128,8 +150,8 @@
       "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.\n\nAbout The Role\n\nAs a Software Developer in Test, you will join one of several high-impact teams of QA professionals. You will work on a variety of Veeam products and features, helping us shape the quality of solutions used by companies around the world. During the hiring process, we’ll match your interests and experience with the team and project where you can make the greatest impact.\n\nWhat You'll Do\n\nDevelop and maintain automated tests for Veeam products\nCollaborate across the software development team\nEnhance frameworks and modules for automated testing\nContribute to test design and implementation\nAnalyze product source code\nSupport internal automated testing systems\nBuild and manage testing infrastructure\nAnalyze test results, and maintain defects database\n\nTechnologies You'll Work With\n\nC# (.Net 8, .Net 10), PowerShell\nGitLab, Azure Devops, TeamCity\nTestRail\n\nWhat You'll Bring\n\nFrom at least 1 year of experience (junior level) up to 3+ years (middle/senior level) in commercial product testing, test automation, or software development; OR practical hands-on coding experience, without a need for testing expertise but with a strong interest in the testing domain (for junior candidates)\nProgramming experience in C#\nExperience with Windows and/or Linux environments\nA strong desire to write high-quality code and develop your skills in programming\nAn open mind, common sense, clear logical thinking, and a lively, analytical mindset - you enjoy analyzing and understanding how things work\nEnglish proficiency for daily communication within international teams\n\nBonus Skills\n\nC#/.NET Framework and Test Automation: LINQ, NUnit, Selenium WebDriver, testing RESTful APIs using HttpClient\nExperience with PowerShell\nExperience with Git\nExperience with Jenkins, TeamCity or Azure DevOps\nCloud platforms experience (AWS, Azure, GCP)\n\nWhat You’ll Get\n\n24 annual vacation days, plus 4 extra global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares\nPrivate medical, dental, and optical insurance for employees and dependents\nLife and disability insurance worth 2x gross annual salary\nMonthly meal card with €10.46 per working day\nOpportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops and learning events like our annual Global Day of Learning\n\nPlease note:\nIf the applicant is permanently present outside of Portugal, Veeam reserves the right to refuse to consider the application for a job.\n#Hybrid\n\nVeeam Software is an equal opportunity employer\nand does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.\n\nPersonal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice, which explains how your information is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing.\nBy submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins, termination of employment.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering, Information Technology, and Quality Assurance\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4460658096",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily QA/test automation rather than backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -143,8 +165,8 @@
       "description": "A Company you will be happy to grow with!\n\nAt InnoTech, it´s all about connecting people with business through technology.\nWe truly care about you, you r happine\nss, and you r well-bei\nng. We look fo r passionate peop\nle who are eager t o lea\nrn , evol\nve, and grow with us - becaus e growth is in our DN\nA. This commitment has been consistently recognized: we are proud to be a Great Place to Wo\nrk for five consecutive years, to be one of th e Best IT Companies in Portug\nal, and to be recognized as a Best Workplace Wellbei\nng. We are also proud to hol d ISO 270\n01 an d ISO 9001 certificatio\nns, reinforcing our commitment t o information security, quali\nty, an d continuous improveme\nnt.\nFor u s, sustainabil\nity is not just a buzzwor d. Integrity, social responsibility\n, a nd people-first val\nues guide everything we do.\nJoin our team of 180+ InnoTec\nhers and bring your talent a s a Platform Engi\nn eer.\n\nYour Mission Will Be\n\nDesign, implement, and maintain CI/CD pipelines using Azure DevOps and ArgoCD, ensuring efficient and reliable software delivery;\nManage and optimize containerized environments with Docker, Kubernetes, and Helm, while applying GitOps practices across Development, Quality, and Production environments;\nDevelop and maintain integrations between internal and external systems using REST APIs, webhooks, and automation workflows with n8n;\nMaintain and evolve applications built with .NET and Node.js, while contributing to code reviews, technical architecture decisions, and documentation;\nSupport incident resolution, root-cause analysis, continuous improvement initiatives, and reporting solutions using tools such as Power BI, BIRT, or JasperReports.\n\nYou Will Need\n\nBetween 3 and 5 years of professional experience in Platform Engineering, DevOps, Full Stack Development, or similar roles;\nHands-on experience with Docker, Kubernetes, Helm, Azure DevOps, ArgoCD, and continuous integration and delivery environments;\nExperience with Git-based version control, such as GitHub, GitLab, or Azure Repos, as well as system integrations through REST APIs and webhooks;\nExperience developing with .NET and/or Node.js, together with a proactive, autonomous, and collaborative approach focused on quality and continuous improvement;\nCPLP nationality or an EU work permit is required to facilitate employment, with availability to work in a hybrid model in Lisbon or Porto, 1–2 days per week.\n\nWould Be Awesome If You Have\n\nBSc or MSc in Computer Science/Engineering, Information Technology, or related fields;\nExperience with Terraform, Ansible, or other Infrastructure as Code technologies, as well as networking concepts such as DNS, TLS/SSL, and Ingress Controllers;\nKnowledge of observability and monitoring solutions such as Prometheus, Grafana, CheckMK, or equivalent tools;\nExperience with secrets management solutions such as Vault or Sealed Secrets, and familiarity with Agile/Scrum environments;\nKnowledge of Python for automation and scripting, as well as an interest or experience in AI-driven automation and LLM-based business processes.\n\nWhat We Offer\n\nHealth-focused partnerships, including free mental health support;\n25 days of vacation, including your birthday, Carnival, and a bridging day between Christmas and New Year;\nHalf a vacation day on your children's birthday and a school supplies voucher;\nPetsitting partnerships and a pet bereavement day;\nRegular team buildings, four annual company parties, game nights, and social events;InnoSports initiatives (football, marathons, and more);\nEvents focused on sustainability and social responsability actions.\n\nAre you convinced? Come see it for yourself.\n\nJoin our Top-Notch Team!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470906700",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: CPLP nationality or an existing EU work permit is explicitly required.",
       "validated": null
     }
   ]
