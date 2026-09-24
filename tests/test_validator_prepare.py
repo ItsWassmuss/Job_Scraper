@@ -53,6 +53,10 @@ def _write_inputs(
     (validator_dir / "state.json").write_text(
         json.dumps(state or EMPTY_STATE), encoding="utf-8"
     )
+    (validator_dir / "title_exclusions.json").write_text(
+        json.dumps({"title_exclusions": ["NonTargetPlaceholder"]}),
+        encoding="utf-8",
+    )
     return indeed_path, linkedin_path
 
 
