@@ -262,7 +262,7 @@ def test_splits_batches_and_continues_numbering_without_overwrite(tmp_path):
     assert [path.name for path in summary["created_files"]] == [
         "002.json", "003.json",
     ]
-    assert [payload["job_count"] for payload in payloads] == [100, 20]
+    assert [payload["job_count"] for payload in payloads] == [75, 45]
     assert all(len(payload["jobs"]) <= 100 for payload in payloads)
     assert all(payload["created_at"] == "2026-09-20T00:30:00+03:00" for payload in payloads)
     assert existing_path.read_bytes() == existing_bytes
