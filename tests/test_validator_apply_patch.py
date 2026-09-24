@@ -152,6 +152,8 @@ def test_applies_patch_preserves_unrelated_content_and_consumes_patch(tmp_path):
         "patches_idempotent": 0,
         "results_applied": 1,
         "results_already_applied": 0,
+        "results_duplicate_skipped": 0,
+        "ambiguous_targets_resolved": 0,
         "consumed_patches": 1,
     }
     assert not patch_path.exists()
@@ -322,7 +324,7 @@ def test_entire_queue_validates_before_any_repository_mutation(tmp_path):
         assert path.read_bytes() == content
 
 
-def test_overlapping_queue_targets_fail_before_mutation(tmp_path):
+def test_overlapping_queue_targets_first_wins_and_duplicate_is_skipped(tmp_path):
     jobs = [_job(0), _job(1)]
     batch = _write_batch(tmp_path, jobs)
 
@@ -342,23 +344,16 @@ def test_overlapping_queue_targets_fail_before_mutation(tmp_path):
         [_result(jobs[1], 1)],
     )
 
-    originals = {
-        path: path.read_bytes()
-        for path in (
-            batch,
-            p1,
-            p2,
-        )
-    }
+    summary = apply_patches(tmp_path)
+    applied = _read(batch)["jobs"]
 
-    with pytest.raises(
-        ValueError,
-        match="Overlapping Validator patch target",
-    ):
-        apply_patches(tmp_path)
-
-    for path, content in originals.items():
-        assert path.read_bytes() == content
+    assert summary["results_applied"] == 2
+    assert summary["results_duplicate_skipped"] == 1
+    assert summary["patches_applied"] == 1
+    assert summary["patches_idempotent"] == 1
+    assert [job["status"] for job in applied] == ["REJECTED", "REJECTED"]
+    assert not p1.exists()
+    assert not p2.exists()
 
 
 def test_url_is_the_only_job_reference(tmp_path):
@@ -645,7 +640,7 @@ def test_missing_url_target_skips_only_that_result_and_continues(tmp_path):
     assert not patch.exists()
 
 
-def test_duplicate_batch_url_skips_ambiguous_result(tmp_path):
+def test_duplicate_batch_url_resolves_by_identity(tmp_path):
     jobs = [_job(0), _job(1)]
     jobs[1]["url"] = jobs[0]["url"]
     batch = _write_batch(tmp_path, jobs)
@@ -657,11 +652,13 @@ def test_duplicate_batch_url_skips_ambiguous_result(tmp_path):
         [_result(jobs[0], 0)],
     )
 
-    original_batch = batch.read_bytes()
     summary = apply_patches(tmp_path)
+    applied = _read(batch)["jobs"]
 
-    assert summary["results_applied"] == 0
-    assert batch.read_bytes() == original_batch
+    assert summary["results_applied"] == 1
+    assert summary["ambiguous_targets_resolved"] == 1
+    assert applied[0]["status"] == "REJECTED"
+    assert applied[1]["status"] is None
     assert not patch.exists()
 
 
