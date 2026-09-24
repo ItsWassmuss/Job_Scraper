@@ -672,3 +672,46 @@ def test_seen_timestamp_represents_supplied_instant_in_helsinki(tmp_path):
     assert parsed.tzinfo is not None
     assert parsed.utcoffset() is not None
     assert parsed == supplied.astimezone(EXPECTED_HELSINKI)
+
+
+def test_pending_batch_creates_missing_open_marker(tmp_path):
+    _write_state(tmp_path, _state())
+    batch_path = _write_batch(tmp_path, [_job(1, None)])
+
+    summary = finalize_batches(tmp_path, now=FIXED_TIME)
+
+    marker = tmp_path / "validator/open_batches/20260921-001.open"
+    assert marker.read_text(encoding="utf-8") == "open\n"
+    assert summary["markers_created"] == [marker]
+    assert summary["markers_removed"] == []
+    assert _read(batch_path)["finalized"] is False
+
+
+def test_completed_batch_removes_open_marker(tmp_path):
+    _write_state(tmp_path, _state())
+    batch_path = _write_batch(tmp_path, [_job(1, "REJECTED")])
+    marker = tmp_path / "validator/open_batches/20260921-001.open"
+    marker.parent.mkdir(parents=True)
+    marker.write_text("open\n", encoding="utf-8")
+
+    summary = finalize_batches(tmp_path, now=FIXED_TIME)
+
+    assert _read(batch_path)["finalized"] is True
+    assert not marker.exists()
+    assert summary["markers_removed"] == [marker]
+
+
+def test_already_finalized_batch_removes_stale_open_marker(tmp_path):
+    _write_state(tmp_path, _state())
+    _write_batch(
+        tmp_path,
+        payload={"finalized": True, "jobs": "not validated again"},
+    )
+    marker = tmp_path / "validator/open_batches/20260921-001.open"
+    marker.parent.mkdir(parents=True)
+    marker.write_text("open\n", encoding="utf-8")
+
+    summary = finalize_batches(tmp_path, now=FIXED_TIME)
+
+    assert not marker.exists()
+    assert summary["markers_removed"] == [marker]
