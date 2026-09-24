@@ -14,6 +14,7 @@ from zoneinfo import ZoneInfo
 REPO_ROOT = Path(__file__).resolve().parent.parent
 HELSINKI = ZoneInfo("Europe/Helsinki")
 BATCH_SIZE = 75
+OPEN_BATCH_ROOT = Path("validator/open_batches")
 SOURCES = (
     ("Indeed", "seen_indeed", Path("output/indeed_jobs.json")),
     ("LinkedIn", "seen_linkedin", Path("output/linkedin_jobs.json")),
@@ -241,6 +242,7 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
 
     created_at = now.astimezone(HELSINKI) if now is not None else datetime.now(HELSINKI)
     day_dir = root / "validator/batches" / created_at.strftime("%Y%m%d")
+    open_batch_root = root / OPEN_BATCH_ROOT
     existing_batch_keys, largest_batch_number = _load_existing_batch_keys(day_dir)
 
     source_counts: dict[str, int] = {}
@@ -307,14 +309,18 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
             ready_jobs.append(prepared_job)
 
     created_files: list[Path] = []
+    created_markers: list[Path] = []
     if ready_jobs:
         day_dir.mkdir(parents=True, exist_ok=True)
+        open_batch_root.mkdir(parents=True, exist_ok=True)
         timestamp = created_at.isoformat(timespec="seconds")
+        day = created_at.strftime("%Y%m%d")
         for offset in range(0, len(ready_jobs), BATCH_SIZE):
             largest_batch_number += 1
             if largest_batch_number > 999:
                 raise RuntimeError(f"No three-digit batch numbers remain in {day_dir}")
             path = day_dir / f"{largest_batch_number:03d}.json"
+            marker_path = open_batch_root / f"{day}-{largest_batch_number:03d}.open"
             batch_jobs = ready_jobs[offset:offset + BATCH_SIZE]
             payload = {
                 "created_at": timestamp,
@@ -322,10 +328,29 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
                 "finalized": False,
                 "jobs": batch_jobs,
             }
-            with path.open("x", encoding="utf-8") as handle:
-                json.dump(payload, handle, indent=2, ensure_ascii=False)
-                handle.write("\n")
+
+            batch_created = False
+            marker_created = False
+            try:
+                batch_handle = path.open("x", encoding="utf-8")
+                batch_created = True
+                with batch_handle:
+                    json.dump(payload, batch_handle, indent=2, ensure_ascii=False)
+                    batch_handle.write("\n")
+
+                marker_handle = marker_path.open("x", encoding="utf-8")
+                marker_created = True
+                with marker_handle:
+                    marker_handle.write("open\n")
+            except Exception:
+                if marker_created and marker_path.exists():
+                    marker_path.unlink()
+                if batch_created and path.exists():
+                    path.unlink()
+                raise
+
             created_files.append(path)
+            created_markers.append(marker_path)
 
     summary = {
         "indeed_read": source_counts.get("Indeed", 0),
@@ -338,6 +363,7 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
         "skipped_missing_identity": skipped_missing_identity,
         "ready": len(ready_jobs),
         "created_files": created_files,
+        "created_markers": created_markers,
     }
     return summary
 
@@ -361,7 +387,11 @@ def _print_summary(summary: dict[str, Any], root: Path = REPO_ROOT) -> None:
     print(f"Batches created: {len(summary['created_files'])}")
     if summary["created_files"]:
         names = [str(path.relative_to(root)) for path in summary["created_files"]]
+        marker_names = [
+            str(path.relative_to(root)) for path in summary["created_markers"]
+        ]
         print(f"Batch files: {', '.join(names)}")
+        print(f"Open markers: {', '.join(marker_names)}")
     else:
         print("No new jobs available for batching.")
 

@@ -16,6 +16,7 @@ from zoneinfo import ZoneInfo
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 HELSINKI = ZoneInfo("Europe/Helsinki")
+OPEN_BATCH_ROOT = Path("validator/open_batches")
 
 FINAL_STATUSES = frozenset({"REJECTED", "QUALIFIED", "UNVALIDATED"})
 
@@ -108,6 +109,13 @@ def _batch_paths(root: Path) -> list[Path]:
                 paths.append(path)
 
     return paths
+
+
+def _open_marker_path(root: Path, batch_path: Path) -> Path:
+    relative = batch_path.relative_to(root / "validator/batches")
+    return root / OPEN_BATCH_ROOT / (
+        f"{relative.parent.name}-{relative.stem}.open"
+    )
 
 
 def _nonempty_string(value: Any) -> str | None:
@@ -455,6 +463,8 @@ def finalize_batches(
     ] = []
 
     pending_batches = 0
+    pending_marker_paths: list[Path] = []
+    stale_marker_paths: list[Path] = []
 
     # Validate every candidate batch before mutating state.
     for path in batch_paths:
@@ -466,8 +476,11 @@ def finalize_batches(
             )
 
         finalized = payload.get("finalized")
+        marker_path = _open_marker_path(root, path)
 
         if finalized is True:
+            if marker_path.exists():
+                stale_marker_paths.append(marker_path)
             continue
 
         if finalized is not False:
@@ -515,6 +528,7 @@ def finalize_batches(
             for status in statuses
         ):
             pending_batches += 1
+            pending_marker_paths.append(marker_path)
             continue
 
         for index, job in enumerate(
@@ -629,6 +643,35 @@ def finalize_batches(
             payload,
         )
 
+    markers_created: list[Path] = []
+    for marker_path in pending_marker_paths:
+        if marker_path.exists():
+            if not marker_path.is_file():
+                raise ValueError(
+                    f"{marker_path} must be a regular file"
+                )
+            continue
+
+        marker_path.parent.mkdir(parents=True, exist_ok=True)
+        with marker_path.open("x", encoding="utf-8") as handle:
+            handle.write("open\n")
+        markers_created.append(marker_path)
+
+    markers_removed: list[Path] = []
+    markers_to_remove = stale_marker_paths + [
+        _open_marker_path(root, path)
+        for path, _ in finalized_payloads
+    ]
+    for marker_path in markers_to_remove:
+        if not marker_path.exists():
+            continue
+        if not marker_path.is_file():
+            raise ValueError(
+                f"{marker_path} must be a regular file"
+            )
+        marker_path.unlink()
+        markers_removed.append(marker_path)
+
     return {
         "scanned_batches": len(batch_paths),
         "pending_batches": pending_batches,
@@ -637,6 +680,8 @@ def finalize_batches(
             for path, _ in finalized_payloads
         ],
         "seen_added": seen_added,
+        "markers_created": markers_created,
+        "markers_removed": markers_removed,
     }
 
 
@@ -662,6 +707,16 @@ def _print_summary(
     print(
         f"Seen rows added: "
         f"{summary['seen_added']}"
+    )
+
+    print(
+        f"Open markers created: "
+        f"{len(summary['markers_created'])}"
+    )
+
+    print(
+        f"Open markers removed: "
+        f"{len(summary['markers_removed'])}"
     )
 
     if summary["finalized_files"]:

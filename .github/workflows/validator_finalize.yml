@@ -48,15 +48,22 @@ jobs:
           git ls-files --others --exclude-standard -z -- > "$untracked_paths"
           : > "$allowed_paths_file"
 
-          is_allowed_path() {
+          is_mutable_data_path() {
             local path="$1"
             [[ "$path" == "validator/state.json" || "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.json$ ]]
+          }
+
+          is_open_marker_path() {
+            local path="$1"
+            [[ "$path" =~ ^validator/open_batches/[0-9]{8}-[0-9]{3}\.open$ ]]
           }
 
           invalid_changes=0
           while IFS= read -r -d '' metadata && IFS= read -r -d '' path; do
             status="${metadata##* }"
-            if [[ "$status" == "M" ]] && is_allowed_path "$path"; then
+            if [[ "$status" == "M" ]] && is_mutable_data_path "$path"; then
+              printf '%s\0' "$path" >> "$allowed_paths_file"
+            elif [[ "$status" == "D" ]] && is_open_marker_path "$path"; then
               printf '%s\0' "$path" >> "$allowed_paths_file"
             else
               printf '  %s %q\n' "$status" "$path"
@@ -65,8 +72,12 @@ jobs:
           done < "$tracked_changes"
 
           while IFS= read -r -d '' path; do
-            printf '  ?? %q\n' "$path"
-            invalid_changes=1
+            if is_open_marker_path "$path"; then
+              printf '%s\0' "$path" >> "$allowed_paths_file"
+            else
+              printf '  ?? %q\n' "$path"
+              invalid_changes=1
+            fi
           done < "$untracked_paths"
 
           if [ "$invalid_changes" -ne 0 ]; then
@@ -86,7 +97,13 @@ jobs:
           staged_invalid=0
           while IFS= read -r -d '' metadata && IFS= read -r -d '' path; do
             status="${metadata##* }"
-            if [[ "$status" != "M" ]] || ! is_allowed_path "$path"; then
+            if [[ "$status" == "M" ]] && is_mutable_data_path "$path"; then
+              :
+            elif [[ "$status" == "A" ]] && is_open_marker_path "$path"; then
+              :
+            elif [[ "$status" == "D" ]] && is_open_marker_path "$path"; then
+              :
+            else
               printf '  %s %q\n' "$status" "$path"
               staged_invalid=1
             fi
