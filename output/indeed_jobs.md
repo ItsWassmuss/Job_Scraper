@@ -1,91 +1,152 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-24 12:19 UTC*
+*Last updated: 2026-09-24 13:20 UTC*
 
-**16 new role(s)** since last run · 180 total in last 24h
+**27 new role(s)** since last run · 190 total in last 24h
 
-### [Integration Specialist](https://nl.indeed.com/viewjob?jk=09440bfbf561e01e) — Brabant Water
-- 📍 **Location:** Den Bosch, NB, NL
-- **Work mode:** On-site
+### [Software Designer (C#, C++, Java)](https://nl.indeed.com/viewjob?jk=000480c080415e47) — Sioux Technologies
+- 📍 **Location:** Delft, ZH, NL
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Developer - Java Experience](https://uk.indeed.com/viewjob?jk=a6102af93fff3120) — Netcompany
-- 📍 **Location:** Edinburgh, SCT, GB
-- **Work mode:** On-site
+### [Software Designer (C#, C++, Java)](https://nl.indeed.com/viewjob?jk=b3c5f0459130b3c7) — Sioux Technologies
+- 📍 **Location:** Mijdrecht, UT, NL
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Developer](https://uk.indeed.com/viewjob?jk=741c4c103722e5b9) — Unknown
-- 📍 **Location:** Kingswood, ENG, GB
-- **Work mode:** On-site
+### [Software Engineer C#/C++/JAVA](https://nl.indeed.com/viewjob?jk=80a710edfa51ec76) — Sioux Technologies
+- 📍 **Location:** Mijdrecht, UT, NL
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Developer - CGI](https://uk.indeed.com/viewjob?jk=ea2d15c4be4c81a8) — Unknown
-- 📍 **Location:** Kingswood, ENG, GB
-- **Work mode:** On-site
+### [Software Engineer C#/C++/JAVA](https://nl.indeed.com/viewjob?jk=1bdc9a8b18a5ec2b) — Sioux Technologies
+- 📍 **Location:** Delft, ZH, NL
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Platform Engineer](https://uk.indeed.com/viewjob?jk=76da95c0eb7173ec) — Mako Trading Group
-- 📍 **Location:** London, ENG, GB
-- **Work mode:** On-site
+### [Senior Java Developer (32 - 40 uur per week)](https://nl.indeed.com/viewjob?jk=6f8da22a62ec58c2) — Unknown
+- 📍 **Location:** Utrecht, UT, NL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Standards Manager](https://uk.indeed.com/viewjob?jk=a8075adb73dec698) — Alliance Automotive Group
-- 📍 **Location:** Rotherham, ENG, GB
+### [Softwareentwickler C#/.NET – Industrial HMI / SCADA (m/w/d)](https://de.indeed.com/viewjob?jk=165bbf820c94fa68) — Groninger USA
+- 📍 **Location:** Crailsheim, BW, DE
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-23
+
+### [Protection & Control Field Engineer](https://uk.indeed.com/viewjob?jk=5dda4fffb836b294) — SSE PLC
+- 📍 **Location:** Inverness, SCT, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Engineer](https://pl.indeed.com/viewjob?jk=9942b1fca8651952) — Volue
-- 📍 **Location:** Gdańsk, PM, PL
-- **Work mode:** On-site
+### [Graduate Control Systems Engineer (SCADA / PLC / RTU)](https://uk.indeed.com/viewjob?jk=c4882e2c3ae47337) — Unknown
+- 📍 **Location:** Reading, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Data Engineer with Databricks](https://pl.indeed.com/viewjob?jk=b1ec54de7316e17a) — Bonapolia
+### [Senior .NET Engineer with AI](https://pl.indeed.com/viewjob?jk=6290267007e7c4d7) — EPAM Systems
+- 📍 **Location:** Katowice, SL, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior .NET Engineer with AI](https://pl.indeed.com/viewjob?jk=73838d68c1e77ccc) — EPAM Systems
 - 📍 **Location:** Warszawa, MZ, PL
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-23
-
-### [Systemutvecklare integration](https://se.indeed.com/viewjob?jk=dc48994d0baa042f) — Umeå Energi
-- 📍 **Location:** Umeå, AC, SE
-- **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-24
 
-### [Solution Architect](https://sg.indeed.com/viewjob?jk=282c1f0faf8415e0) — Blue Ocean Systems Infotech Pvt. Ltd.
+### [Senior .NET Engineer with AI](https://pl.indeed.com/viewjob?jk=dd7a522015be61fb) — EPAM Systems
+- 📍 **Location:** Poznań, WP, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior .NET Engineer with AI](https://pl.indeed.com/viewjob?jk=5a02e9a4115fe6cb) — EPAM Systems
+- 📍 **Location:** Łódź, LO, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior .NET Engineer with AI](https://pl.indeed.com/viewjob?jk=9cd97458627581fc) — EPAM Systems
+- 📍 **Location:** Kraków, ML, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior .NET Engineer with AI](https://pl.indeed.com/viewjob?jk=03f6b1fb58968bac) — EPAM Systems
+- 📍 **Location:** Gdańsk, PM, PL
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-24
+
+### [Erfaren C#/.NET-udvikler til opbygning af integrationsplatform](https://dk.indeed.com/viewjob?jk=fe0739f686b874ad) — Roskilde Universitet
+- 📍 **Location:** Roskilde, D85, DK
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [DevSecOps Engineer](https://sg.indeed.com/viewjob?jk=a3fca646a849291f) — Capgemini
 - 📍 **Location:** SG
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Systems Engineer I - Anthem Flight Controls (M/F/D)](https://cz.indeed.com/viewjob?jk=f05331e6ca543b25) — Honeywell Aerospace
-- 📍 **Location:** Brno-Brno Město, JM, CZ
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+### [Frontend Engineer (GenAI Applications)](https://sg.indeed.com/viewjob?jk=d2e1a88074d4c248) — Capgemini
+- 📍 **Location:** SG
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-24
 
-### [Sportsbook Software Architect](https://gr.indeed.com/viewjob?jk=75ce334e51d5df39) — NextGen Global
+### [Software Engineer (GenAI Security & Quality)](https://sg.indeed.com/viewjob?jk=c1fb854cc83cd0a9) — Capgemini
+- 📍 **Location:** SG
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [Full Stack Engineer (GenAI and Agentic Applications)](https://sg.indeed.com/viewjob?jk=53cfa3c91a3e5b4e) — Capgemini
+- 📍 **Location:** SG
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [SRE - Site Reliability Engineer](https://gr.indeed.com/viewjob?jk=8d241dc2931cb9a5) — NextGen Global
 - 📍 **Location:** Κύπρος, GR
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-23
+- 🕒 **Posted:** 2026-07-23
 
-### [Asp.net/C# - Software Architect](https://gr.indeed.com/viewjob?jk=801bb3f6da2e3d1c) — NextGen Global
+### [Automation QA Engineer](https://gr.indeed.com/viewjob?jk=5d242e0625a01255) — NextGen Global
 - 📍 **Location:** Κύπρος, GR
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-22
+- 🕒 **Posted:** 2026-07-23
 
-### [Senior React.js Developer](https://gr.indeed.com/viewjob?jk=5a9602eb475d4b6e) — NextGen Global
+### [Quality Assurance Engineer](https://gr.indeed.com/viewjob?jk=2960c3516431ff5b) — NextGen Global
 - 📍 **Location:** Κύπρος, GR
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-07-23
 
-### [Firmware & FPGA Development Engineer (SY-BI-BP-2026-154-GRAP)](https://ch.indeed.com/viewjob?jk=fc704202e9a61af7) — CERN
-- 📍 **Location:** Genève, GE, CH
+### [Back-end Development Team Leader](https://gr.indeed.com/viewjob?jk=4109943845f93877) — NextGen Global
+- 📍 **Location:** Κύπρος, GR
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-07-23
+
+### [Softwareentwickler .NET (m/w/d)](https://at.indeed.com/viewjob?jk=776544e32c329e03) — Geislinger Corporation
+- 📍 **Location:** AT
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [C# .NET fejlesztő](https://hu.indeed.com/viewjob?jk=5ff107be93f497d6) — CASON Innovation Kft.
-- 📍 **Location:** Budapest, PE, HU
+### [FullStack Software Engineer .Net Angular 100% (f/m/d)](https://es.indeed.com/viewjob?jk=920642d1d43646a0) — JULIUS BAER
+- 📍 **Location:** Madrid, MD, ES
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Software Engineer](https://ae.indeed.com/viewjob?jk=71f98f401a0321d8) — KBR
+- 📍 **Location:** Abu Dhabi, AZ, AE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineer](https://ae.indeed.com/viewjob?jk=045ae8bc9192f8de) — KBR
+- 📍 **Location:** Abu Dhabi, AZ, AE
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
