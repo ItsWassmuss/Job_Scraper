@@ -1,108 +1,176 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-23 21:41 UTC*
+*Last updated: 2026-09-24 02:30 UTC*
 
-**26 new role(s)** since last run · 177 total in last 6h
+**43 new role(s)** since last run · 53 total in last 6h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469351555/) — Ministerie van Defensie
-- 📍 **Location:** Amersfoort, Utrecht, Netherlands
+### [Middle/Senior Unity Developer R&D](https://www.linkedin.com/jobs/view/4469641091/) — Jobgether
+- 📍 **Location:** Netherlands
+- 🕒 **Posted:** 2026-09-24
+
+### [Azure Cloud Engineer (gn)](https://www.linkedin.com/jobs/view/4469629389/) — SoftwareOne Deutschland GmbH
+- 📍 **Location:** Leipzig, Saxony, Germany
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Software Engineer, Post-Trade (F8B34C7)](https://www.linkedin.com/jobs/view/4471154549/) — Referment
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Back-End Infrastructure Engineer](https://www.linkedin.com/jobs/view/4457001635/) — Pigment
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineer - Structured Data (2189756)](https://www.linkedin.com/jobs/view/4471149743/) — Referment
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineering Manager](https://www.linkedin.com/jobs/view/4469375274/) — MHR
+- 📍 **Location:** Greater Leeds Area
+- 🕒 **Posted:** 2026-09-24
+
+### [Middle/Senior Unity Developer R&D](https://www.linkedin.com/jobs/view/4469638195/) — Jobgether
+- 📍 **Location:** United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Solutions Architect](https://www.linkedin.com/jobs/view/4471165498/) — Galaxi Consulting Group
+- 📍 **Location:** Leeds, England, United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineer - Market Data (30CB790)](https://www.linkedin.com/jobs/view/4471163071/) — Referment
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Quantitative Developer (56819A9)](https://www.linkedin.com/jobs/view/4471158393/) — Referment
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-24
+
+### [Sales Configurator Product Modeler / Developer](https://www.linkedin.com/jobs/view/4471160977/) — ABB
+- 📍 **Location:** Cracow, Małopolskie, Poland
+- 🕒 **Posted:** 2026-09-24
+
+### [Copilot & AI Engineer](https://www.linkedin.com/jobs/view/4448188413/) — Avanade
+- 📍 **Location:** Stockholm, Stockholm County, Sweden
+- 🕒 **Posted:** 2026-09-24
+
+### [Middle/Senior Unity Developer R&D](https://www.linkedin.com/jobs/view/4469641103/) — Jobgether
+- 📍 **Location:** Ireland
+- 🕒 **Posted:** 2026-09-24
+
+### [OutSystems Engineer](https://www.linkedin.com/jobs/view/4469381215/) — AvePoint
+- 📍 **Location:** Singapore
+- 🕒 **Posted:** 2026-09-24
+
+### [Principal Engineer (AI-Driven Software Delivery)](https://www.linkedin.com/jobs/view/4469625654/) — SP Group
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-09-24
+
+### [Senior Test Automation Engineer - CHR & AI SDLC (Freelance kan)](https://www.linkedin.com/jobs/view/4471183281/) — EngiFlex
+- 📍 **Location:** Brussels, Brussels Region, Belgium
+- 🕒 **Posted:** 2026-09-24
+
+### [Business Solution Architect](https://www.linkedin.com/jobs/view/4469379180/) — EKZ
+- 📍 **Location:** Dietikon / Im Berg, Zurich, Switzerland
+- 🕒 **Posted:** 2026-09-24
+
+### [QA Engineer (Híbrido Madrid)](https://www.linkedin.com/jobs/view/4469639211/) — knowmad mood
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-09-24
+
+### [Architect](https://www.linkedin.com/jobs/view/4469641532/) — Canada Immigration | Job Assistance | PNP Visa
+- 📍 **Location:** United Arab Emirates
+- 🕒 **Posted:** 2026-09-24
+
+### [Teamleitung Software Development (m/w/d)](https://www.linkedin.com/jobs/view/4469351801/) — Tesla Automation GmbH
+- 📍 **Location:** Reutlingen, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Softwareentwickler ERP (m/w/d) – Delphi oder C#/.NET & SQL](https://www.linkedin.com/jobs/view/4469352115/) — visuplus
-- 📍 **Location:** Germany
+### [C# / .NET DevOps Engineer](https://www.linkedin.com/jobs/view/4469622280/) — JUXT
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [One Identity Manager Developer / IAM Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4471108935/) — Sopra Steria
-- 📍 **Location:** Germany
+### [Senior Software Engineer, Foundry](https://www.linkedin.com/jobs/view/4469618487/) — Redgate Software
+- 📍 **Location:** Cambridge, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Werkstudent (w/m/d) in der Testautomatisierung (R&D - Software)](https://www.linkedin.com/jobs/view/4469480295/) — Siemens
-- 📍 **Location:** Berlin, Berlin, Germany
+### [Senior DevOps Engineer (C#) / .NET](https://www.linkedin.com/jobs/view/4469618496/) — JUXT
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Product Architect & Software Engineer (AI) (m/w/d)](https://www.linkedin.com/jobs/view/4469318896/) — LS Leasing & Service
-- 📍 **Location:** Munich, Bavaria, Germany
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4469626155/) — Xapien
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4471114335/) — Pigment
-- 📍 **Location:** Greater London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
-
-### [D365 Developer](https://www.linkedin.com/jobs/view/4466870299/) — Softcat
+### [Principal Developer - Government Legal Department - G6](https://www.linkedin.com/jobs/view/4469623260/) — Manchester Digital
 - 📍 **Location:** Manchester, England, United Kingdom
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Dotnet Developer](https://www.linkedin.com/jobs/view/4469467650/) — Coforge
-- 📍 **Location:** Leeds, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
-
-### [Full-Stack Developer - .NET Core, C#, React & Python](https://www.linkedin.com/jobs/view/4469315857/) — Gazelle Global
-- 📍 **Location:** Reading, England, United Kingdom
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Test Engineer](https://www.linkedin.com/jobs/view/4469359401/) — Version 1
-- 📍 **Location:** Belfast, Northern Ireland, United Kingdom
-- 🕒 **Posted:** 2026-09-23
-
-### [C# Developer (Veeam Backup for Hypervisors)](https://www.linkedin.com/jobs/view/4469605254/) — Veeam Software
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
-- 🕒 **Posted:** 2026-09-23
-
-### [Quality Assurance Engineer (Wroclaw)](https://www.linkedin.com/jobs/view/4471129036/) — CGI
+### [Senior Full stack Engineer](https://www.linkedin.com/jobs/view/4471138941/) — Svitla Systems, Inc.
 - 📍 **Location:** Poland
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Backend Engineer (C#/.Net) (m/f/d)](https://www.linkedin.com/jobs/view/4471131169/) — Riverty
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
+### [SENIOR AI/DEVOPS ENGINEER (AZURE)](https://www.linkedin.com/jobs/view/4471146615/) — Svitla Systems, Inc.
+- 📍 **Location:** Poland
 - 🕒 **Posted:** 2026-09-23
 
-### [(Senior) Software Engineer (Customer Identity) (m/f/d)](https://www.linkedin.com/jobs/view/4471129207/) — Riverty
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
+### [Solutions Architect](https://www.linkedin.com/jobs/view/4471145326/) — Ekco
+- 📍 **Location:** Greater Dublin
 - 🕒 **Posted:** 2026-09-23
 
-### [Software Architect](https://www.linkedin.com/jobs/view/4469482941/) — Evitec Solutions
-- 📍 **Location:** Tampere, Pirkanmaa, Finland
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471127871/) — FullStack
+- 📍 **Location:** Santo Domingo Oeste, Santo Domingo, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Developer (teknisen arkkitehdin urapolku), Power Platform & Dynamics 365](https://www.linkedin.com/jobs/view/4467068687/) — Digia Plc
-- 📍 **Location:** Jyväskylä, Central Finland, Finland
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471145072/) — FullStack
+- 📍 **Location:** Santo Domingo Este, Santo Domingo, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Azure Cloud Architect](https://www.linkedin.com/jobs/view/4469493467/) — Evitec Solutions
-- 📍 **Location:** Espoo, Uusimaa, Finland
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471141153/) — FullStack
+- 📍 **Location:** Bonao, Monseñor Nouel, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Backend Engineer - Event Processing & Intelligence Services (C# / Python)](https://www.linkedin.com/jobs/view/4469491719/) — Secomea
-- 📍 **Location:** Copenhagen Municipality, Capital Region of Denmark, Denmark
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471147039/) — FullStack
+- 📍 **Location:** Santiago de los Caballeros, Santiago, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Bliv Software Engineer til Case Management løsninger i en foreningsejet Nykredit-koncern](https://www.linkedin.com/jobs/view/4469611369/) — Nykredit
-- 📍 **Location:** Copenhagen, Capital Region of Denmark, Denmark
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471133603/) — FullStack
+- 📍 **Location:** Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Senior Enterprise Architect](https://www.linkedin.com/jobs/view/4469615034/) — Veeam Software
-- 📍 **Location:** Singapore, Singapore
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471140226/) — FullStack
+- 📍 **Location:** La Vega, La Vega, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Software Engineer, .NET - EA SPORTS FC](https://www.linkedin.com/jobs/view/4469356463/) — EA SPORTS
-- 📍 **Location:** Bucharest, Bucharest, Romania
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471141149/) — FullStack
+- 📍 **Location:** Urb. San Francisco, Duarte, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Solution Architect](https://www.linkedin.com/jobs/view/4469489922/) — Alpha Bank
-- 📍 **Location:** Greece
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471136368/) — FullStack
+- 📍 **Location:** Luperón, Puerto Plata, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Full Stack Drupal Developer voor website- en volksgezondheidsprojecten (V/M/X)](https://www.linkedin.com/jobs/view/4470996925/) — Sciensano
-- 📍 **Location:** Brussels Metropolitan Area
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471133602/) — FullStack
+- 📍 **Location:** San Cristóbal, San Cristóbal, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4471119096/) — Stratio
-- 📍 **Location:** Portugal
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471130715/) — FullStack
+- 📍 **Location:** La Romana, La Romana, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [.NET Developer (IA)](https://www.linkedin.com/jobs/view/4469603596/) — Integer Consulting
-- 📍 **Location:** Lisbon, Lisbon, Portugal
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471134579/) — FullStack
+- 📍 **Location:** Santo Domingo, Dominican Republic
 - 🕒 **Posted:** 2026-09-23
 
-### [AI Senior Backend Engineer](https://www.linkedin.com/jobs/view/4469336448/) — Decskill
-- 📍 **Location:** Portugal
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471138365/) — FullStack
+- 📍 **Location:** San Pedro de Macorís, San Pedro de Macorís, Dominican Republic
+- 🕒 **Posted:** 2026-09-23
+
+### [Senior Software Engineer (CRM+ Platform) - Remote - Latin America](https://www.linkedin.com/jobs/view/4471130721/) — FullStack
+- 📍 **Location:** Higüey, La Altagracia, Dominican Republic
+- 🕒 **Posted:** 2026-09-23
+
+### [Solution Architect](https://www.linkedin.com/jobs/view/4469368241/) — Verisure
+- 📍 **Location:** Pozuelo de Alarcón, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-09-23
+
+### [Software Engineer (Fullstack Quality)](https://www.linkedin.com/jobs/view/4471134745/) — Blip.pt
+- 📍 **Location:** Porto, Portugal
 - 🕒 **Posted:** 2026-09-23
