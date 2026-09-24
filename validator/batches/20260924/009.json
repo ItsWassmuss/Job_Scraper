@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-24T16:03:12+03:00",
   "job_count": 60,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Brabant Water",
