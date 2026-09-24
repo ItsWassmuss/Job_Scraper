@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-24T23:48:37+03:00",
   "job_count": 32,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Rensa Family",
