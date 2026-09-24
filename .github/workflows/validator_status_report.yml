@@ -1,0 +1,29 @@
+name: Validator Status Report
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    name: Send Validator status report
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Send status report
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+        run: python validator/status_report.py
