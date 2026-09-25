@@ -6629,6 +6629,36 @@
       "job_id": "49b54a24342f843a",
       "job_url": "https://es.indeed.com/viewjob?jk=49b54a24342f843a",
       "seen_at": "2026-09-25T04:06:14+03:00"
+    },
+    {
+      "job_id": "c2a405d965ddde83",
+      "job_url": "https://nl.indeed.com/viewjob?jk=c2a405d965ddde83",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "94510f0631b05b3f",
+      "job_url": "https://uk.indeed.com/viewjob?jk=94510f0631b05b3f",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "425f9a8c4f24aa16",
+      "job_url": "https://pl.indeed.com/viewjob?jk=425f9a8c4f24aa16",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "930a4adbbbfe9413",
+      "job_url": "https://no.indeed.com/viewjob?jk=930a4adbbbfe9413",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "b069376608dcbf22",
+      "job_url": "https://be.indeed.com/viewjob?jk=b069376608dcbf22",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "6846f0388d66160f",
+      "job_url": "https://kw.indeed.com/viewjob?jk=6846f0388d66160f",
+      "seen_at": "2026-09-25T06:21:09+03:00"
     }
   ],
   "seen_linkedin": [
@@ -29456,6 +29486,31 @@
       "job_id": "4444280333",
       "job_url": "https://www.linkedin.com/jobs/view/4444280333/",
       "seen_at": "2026-09-25T04:51:17+03:00"
+    },
+    {
+      "job_id": "4470051522",
+      "job_url": "https://www.linkedin.com/jobs/view/4470051522/",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "4470059283",
+      "job_url": "https://www.linkedin.com/jobs/view/4470059283/",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "4470102466",
+      "job_url": "https://www.linkedin.com/jobs/view/4470102466/",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "4445937721",
+      "job_url": "https://www.linkedin.com/jobs/view/4445937721/",
+      "seen_at": "2026-09-25T06:21:09+03:00"
+    },
+    {
+      "job_id": "4469787700",
+      "job_url": "https://www.linkedin.com/jobs/view/4469787700/",
+      "seen_at": "2026-09-25T06:21:09+03:00"
     }
   ],
   "reported": [
