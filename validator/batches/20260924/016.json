@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-24T21:54:47+03:00",
   "job_count": 31,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "DHL",
