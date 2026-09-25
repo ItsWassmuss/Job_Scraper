@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-25T15:51:44+03:00",
   "job_count": 71,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "printed.com",
