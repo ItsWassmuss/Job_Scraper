@@ -1,0 +1,1 @@
+{"schema_version":1,"batch":"validator/batches/20260925/011.json","results":[{"index":3,"source":"Indeed","job_id":"d95db1bc4e93e9fa","url":"https://nl.indeed.com/viewjob?jk=d95db1bc4e93e9fa","status":"REJECTED","reason":"TECHNOLOGY_ROLE: substantive JD does not establish backend/server-side C#/.NET development.","validated":null}]}
