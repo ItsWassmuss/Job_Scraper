@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-25T03:38:13+03:00",
   "job_count": 27,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Pradtke GmbH",
