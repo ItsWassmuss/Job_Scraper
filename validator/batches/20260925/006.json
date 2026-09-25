@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-25T12:36:42+03:00",
   "job_count": 41,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "CowManager",
