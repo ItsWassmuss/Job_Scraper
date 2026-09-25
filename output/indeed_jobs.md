@@ -1,54 +1,105 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-25 02:22 UTC*
+*Last updated: 2026-09-25 07:21 UTC*
 
-**9 new role(s)** since last run · 195 total in last 24h
+**18 new role(s)** since last run · 201 total in last 24h
 
-### [Software engineer](https://nl.indeed.com/viewjob?jk=c2a405d965ddde83) — Wolf Groep
-- 📍 **Location:** Veenendaal, UT, NL
+### [Java Fullstack Engineer](https://nl.indeed.com/viewjob?jk=663fcd09e861815f) — Just Eat Takeaway.com
+- 📍 **Location:** Enschede, OV, NL
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer PLC](https://nl.indeed.com/viewjob?jk=ab88e6c8e80cb094) — Wolf Groep
-- 📍 **Location:** Lisse, ZH, NL
+### [IDAM Engineer](https://uk.indeed.com/viewjob?jk=04516dc701b34810) — NTT DATA
+- 📍 **Location:** Birmingham, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior Cable Design Engineer](https://uk.indeed.com/viewjob?jk=7349de0118a9f127) — ScottishPower
+- 📍 **Location:** Birkenhead, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Architect .NET](https://nl.indeed.com/viewjob?jk=1518f0c951ec8f06) — Topicus
-- 📍 **Location:** Deventer, OV, NL
+### [Director – Software Publisher Services – Europe](https://uk.indeed.com/viewjob?jk=6f0f5263ce6c42ed) — Connor Consulting
+- 📍 **Location:** Remote, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [IT Automation Engineer](https://uk.indeed.com/viewjob?jk=b28e34a75dc1b8c4) — Skanska
+- 📍 **Location:** Watford, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [Automation Software Engineer, Central Maintenance](https://sg.indeed.com/viewjob?jk=9db9c9985593d6c6) — STMicroelectronics
+- 📍 **Location:** SG
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [C# Software Engineer](https://sg.indeed.com/viewjob?jk=162b29de33592aa1) — STARRY RECRUITMENT PTE. LTD.
+- 📍 **Location:** Outram, S00, SG
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [Java Full Stack Developer Technology and Operations](https://sg.indeed.com/viewjob?jk=089af3864b761c85) — KRIS INFOTECH PTE. LTD.
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-09-24
+
+### [Application Engineer (Site Reliability)](https://sg.indeed.com/viewjob?jk=c28f3bbb72baefc9) — U3 PROJECTS PTE. LTD.
+- 📍 **Location:** Singapore, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Test Engineer](https://uk.indeed.com/viewjob?jk=19116f28f9bc43cd) — Tech Grids Limited
-- 📍 **Location:** Sale, ENG, GB
+### [Software Developer](https://sg.indeed.com/viewjob?jk=2f7706fddbb5492b) — Unknown
+- 📍 **Location:** Singapore, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Engineer — Full Stack](https://uk.indeed.com/viewjob?jk=94510f0631b05b3f) — Coordination Group Publications (CGP)
-- 📍 **Location:** Broughton in Furness, ENG, GB
+### [Solution Architect – Public Sector](https://sg.indeed.com/viewjob?jk=b9c6bcd891005346) — Blue Ocean Systems Infotech Pte. Ltd.
+- 📍 **Location:** Outram, S00, SG
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-24
 
-### [Staff InfoSec Engineer](https://pl.indeed.com/viewjob?jk=425f9a8c4f24aa16) — Qualtrics
-- 📍 **Location:** Kraków, ML, PL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [AI Operations Engineer](https://no.indeed.com/viewjob?jk=930a4adbbbfe9413) — CatalystOne Solutions
-- 📍 **Location:** Oslo, N03, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [Backend Developer .NET](https://be.indeed.com/viewjob?jk=b069376608dcbf22) — ZEB
-- 📍 **Location:** Merchtem, VLG, BE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [Programmer/Analyst II - Secret Clearance](https://kw.indeed.com/viewjob?jk=6846f0388d66160f) — V2X
-- 📍 **Location:** Kuwait City, KU, KW
+### [Software Developer](https://sg.indeed.com/viewjob?jk=5dfeb34cc456a399) — Constructor Technology
+- 📍 **Location:** Outram, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
+
+### [Training Content Developer (Marine) — AMK](https://sg.indeed.com/viewjob?jk=e43e544fc3557c07) — Combuilder Pte Ltd
+- 📍 **Location:** Ang Mo Kio, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-09-24
+
+### [React JS Developer](https://sg.indeed.com/viewjob?jk=5f2dfe720d724ed1) — KRIS INFOTECH PTE. LTD.
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-09-24
+
+### [Salesforce Developer](https://ro.indeed.com/viewjob?jk=b912d656bab52fd8) — Accenture
+- 📍 **Location:** București, IF, RO
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-24
+
+### [R&D Engineer](https://be.indeed.com/viewjob?jk=4aebbe0c1e87bd04) — SIOEN Industries NV
+- 📍 **Location:** BE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Backend Developer](https://hu.indeed.com/viewjob?jk=b06fcf45270ad459) — Asura Technologies Zrt.
+- 📍 **Location:** Szeged, CS, HU
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-10
+
+### [Medior C# Software Engineer (.NET)](https://hu.indeed.com/viewjob?jk=3fcdddac87b8e4f3) — CreateYourVision Kft
+- 📍 **Location:** Vác, PE, HU
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-05-01
