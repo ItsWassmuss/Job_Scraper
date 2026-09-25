@@ -41422,6 +41422,15 @@
       "location": "Brussels, BRU, BE",
       "canonical_url": "https://be.indeed.com/viewjob?jk=a940cbaa7d76f27d",
       "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470146901",
+      "company": "Future",
+      "title": "Senior .NET Engineer - Partner Integrations",
+      "location": "Cardiff, Wales, United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470146901/",
+      "reported_at": "2026-09-25T16:01:07+03:00"
     }
   ]
 }
