@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "512c72115ab9c5d3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is project/test engineering; C# is only listed as a plus and backend/server-side .NET development is not required.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "40eb8dde81c368d0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: The job explicitly states that visa sponsorship is unavailable now or in the future.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3a8d44558aa8f365",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Visa sponsorship is unavailable and candidates must already be based in the UK or Ireland.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3e3f0065620efb1f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Swedish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3c78298c9d4d04dd",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Swedish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -137,9 +137,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8023c7809a0abe24",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "At least 4 years of experience in software design and development.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack .NET role building enterprise applications with C#/.NET Core, ASP.NET MVC, REST APIs, Angular and Azure.",
+        "direct_application_link": "https://ie.indeed.com/viewjob?jk=8023c7809a0abe24"
+      }
     },
     {
       "company": "Rakuten Global",
@@ -160,9 +171,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c9efa7573a6941fa",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack Microsoft-stack role building MVC web applications, Web API services and .NET 8 microservices with React.",
+        "direct_application_link": "https://ie.indeed.com/viewjob?jk=c9efa7573a6941fa"
+      }
     },
     {
       "company": "IT Minds",
@@ -183,8 +205,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "885955e62a7ec55c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The internship accepts .NET/C#, Java or JavaScript and does not require backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -206,8 +228,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5d8ba6a3bf57e198",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Platform role may use Java, Python or .NET; backend/server-side C#/.NET is not specifically required.",
       "validated": null
     },
     {
@@ -229,8 +251,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "30c49cdfe56b1c52",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily frontend development and .NET is only preferred knowledge.",
       "validated": null
     },
     {
@@ -252,8 +274,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5b48ddd3bad171ad",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is business development for BESS solutions, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -275,8 +297,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "80fcb246b57e03d1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -298,8 +320,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0861e8b006ee36de",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -321,8 +343,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4a8f2781cd0a19e9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Senior .NET role is focused on architecture and IT4IT work without explicit backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -344,8 +366,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e8ac17af782b096d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -367,8 +389,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1b8af8fcafb33d91",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Senior .NET role is focused on architecture and IT4IT work without explicit backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -390,8 +412,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0346264f7b09dc22",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role requires C#/.NET enterprise application development but does not establish backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -413,8 +435,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "64642f04c92c2289",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Portuguese and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -436,8 +458,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c8194662b475e8a9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Portuguese and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -459,8 +481,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "68822158be1f1de1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Portuguese and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -482,8 +504,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0247fa33968c0a45",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Portuguese and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -505,8 +527,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "12acfc3bb2ac32c4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Portuguese and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -528,8 +550,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e96fe9db3fa07375",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Portuguese and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -543,8 +565,8 @@
       "description": "About NCR Atleos\n\nNCR Atleos, headquartered in Atlanta, is a leader in expanding financial access. Our dedicated 20,000 employees optimize the branch, improve operational efficiency and maximize self-service availability for financial institutions and retailers across the globe.\n\nRole:\nSoftware Engineer II\n\nLocation:\nDundee (hybrid)\n\nGrade:\n10\n\nJob Description\n\nDevelop high quality software which meets requirements, promotes re-use of software components, and facilitates ease of support.\nDiagnose, isolate, and implement remedies for system failures caused by errors in software code.\nIdentifies and implements process improvements in Engineering practices.\nUtilize software-based system maintenance and tracking tools.\nProvide input and technical content for technical documentation, user help materials and cross functional training.\nConduct unit tests, track problems, and implement changes to ensure adherence to test plan and functional/nonfunctional requirements\nAnalyze, design, and implement software mechanisms to improve code stability, performance, and reusability. Participates and leads code review sessions.\nCreate high fidelity estimates of their own work efforts.\nAssist others in estimating task effort and dependencies, responsible for team commitments within the Sprint.\nMay be asked to lead and advise other Engineering resources as part of project activities.\nConsidered subject matter experts in their chosen field.\nParticipates with industry groups, stays current with technology and industry trends, disseminates knowledge to team members, forms best practices.\nCommunicate with Solution Management and other internal teams. Participates in cross-functional collaboration within the organization.\n\nEssential Experience\n\nBachelor’s Degree in computer science or related field\nA minimum of 4 to 6 years of experience in software design and development\nA minimum of 4 years of experience in preferred technology stack: .Net, ASP.Net, C# design/development\nExperience in WPF/ Windows based application is a must\nExperience in SQL, MySQL is an advantage\nExperience in XAML, Test Frameworks, Nuget packages\nExperience in AI Development tools like Copilot, Cursor IDE, Windsurf is an advantage\nObject Oriented programming\nWindows programming\nDeep understanding of Software Development and Quality Assurance best practices\nExcellent written and verbal communication skills\nExcellent teamwork and collaboration skills\nFamiliarity with Continuous Improvement and best practices in coding and executing\n\nDesirable Experience\n\nWorked in any Software Development Life Cycle model and desirable working in Agile environment\nKnowledge of software development standards and protocols.\nXFS knowledge preferred.\nKnowledge about ATMs will be an added advantage\nExperience with tools utilized in development environment: Jira , Jenkins , Subversion/GIT hub , NUnit\nKnowledge of Embedded Hardware, PCB devices, firmware programming and low-level interfaces\n\nOffers of employment are conditional upon passage of screening criteria applicable to the job.\n\nEEO Statement\n\nNCR Atleos is an equal-opportunity employer. It is NCR Atleos policy to hire, train, promote, and pay associates based on their job-related qualifications, ability, and performance, without regard to race, color, creed, religion, national origin, citizenship status, sex, sexual orientation, gender identity/expression, pregnancy, marital status, age, mental or physical disability, genetic information, medical condition, military or veteran status, or any other factor protected by law.\n\nStatement to Third Party Agencies\n\nTo ALL recruitment agencies: NCR Atleos only accepts resumes from agencies on the NCR Atleos preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR Atleos employees, or any NCR Atleos facility. NCR Atleos is not responsible for any fees or charges associated with unsolicited resumes.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nBanking",
       "source": "LinkedIn",
       "job_id": "4435037889",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily WPF/Windows application development and does not establish backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -558,9 +580,20 @@
       "description": "Job Description\n\nAbout the Team\n\nThe .NET Application Integration Services (AIS) squad provides critical engineering capabilities supporting integration, security, middleware, cloud platforms, and application modernization across Euroclear.\n\nThe Team Delivers And Supports\n\nSecurity token services\nAuthentication and authorization platforms\nEnterprise integration components\nCloud-native and hybrid hosting platforms\nReusable .NET engineering frameworks\nApplication modernization initiatives\nTechnical platform services used by hundreds of developers\n\nAs the Krakow engineering hub continues to grow, we are looking for a senior expert capable of combining deep technical expertise with coaching and leadership responsibilities.\n\nRole Overview\n\nWe are seeking a highly experienced Senior Engineering Development Expert to drive complex technical integration initiatives and strengthen the squad's expertise in application security, authentication, identity management, and cloud-native engineering.\n\nThe role includes supporting and managing existing Microsoft Service Fabric on-premises environments that host business-critical applications. It also involves contributing to the evolution of these applications towards modern cloud and container hosting solutions, including Azure AKS, Azure App Service, and OpenShift.\n\nThe successful candidate will act as a senior technical authority, helping development teams design, implement, troubleshoot, and secure business-critical solutions while coaching and mentoring engineers across the organization.\n\nThis role requires strong hands-on expertise and the ability to engage effectively with developers, architects, security specialists, analysts, and operations teams.\n\nKey Responsibilities\n\nService Fabric and On-Premises Platform Engineering\n\nOperate, administer, and support Microsoft Service Fabric clusters hosted in an on-premises environment.\nSupport Service Fabric cluster lifecycle activities, including installation, configuration, upgrades, patching, monitoring, capacity management, resiliency, and operational maintenance.\nSupport the deployment and lifecycle management of applications hosted on Service Fabric.\nInvestigate and resolve complex Service Fabric platform and application incidents.\nAnalyse cluster health, application health, performance, availability, and resource consumption.\nSupport Service Fabric security, certificate management, access controls, and communication between cluster components.\nDevelop and maintain PowerShell-based automation for Service Fabric administration and operational activities.\nProvide technical guidance to application teams on Service Fabric deployment, diagnostics, reliability, and operational best practices.\nAct as a senior escalation point for issues affecting Service Fabric clusters and the applications hosted on them.\n\nAdvanced Security & Identity Integration\n\nDesign and support enterprise authentication and authorization solutions.\nImplement and troubleshoot OAuth 2.0, OpenID Connect, SAML, WS-Federation, and related protocols.\nSupport security token services used by business-critical applications.\nLead complex token migration and identity integration initiatives.\nIntegrate applications with corporate identity providers and external identity systems.\nSupport PKI, certificates, cryptographic keys, and trust chains.\n\nTechnical Integration\n\nDesign and implement complex application-to-application integrations.\nSupport API security patterns and secure service-to-service communication.\nGuide teams on enterprise integration best practices.\nSupport hybrid environments spanning on-premises and cloud platforms.\nDrive modernization of legacy integration components.\n\nCloud & Platform Engineering\n\nDesign and operate secure cloud infrastructures.\nSupport Azure-based services and containerized workloads.\nContribute to platform engineering initiatives.\nImplement infrastructure-as-code and automation practices.\nDefine operational excellence and resiliency standards.\n\nTechnical Leadership\n\nCoach junior and mid-level engineers.\nParticipate in architecture and engineering reviews.\nInfluence technical strategy and engineering standards.\nContribute to Communities of Practice and knowledge-sharing initiatives.\nAct as an escalation point for complex incidents and investigations.\n\nMandatory Skills\n\nSecurity & Identity\n\nOAuth 2.0\nOpenID Connect\nSAML\nMicrosoft Entra ID / Azure AD\nADFS\nKerberos\nActive Directory\ngMSA accounts\nPKI and certificate management\nSecurity token services\n\nSoftware Engineering\n\nC#\n.NET Framework\n.NET 8+\nASP.NET Core\nWeb APIs\nDistributed architectures\nSecure application design\nStrong hands-on experience with Microsoft Service Fabric.\nService Fabric cluster administration in an on-premises environment.\nService Fabric cluster installation, configuration, operation, maintenance, and upgrades.\nService Fabric application deployment and lifecycle management.\nService Fabric monitoring, diagnostics, health management, and troubleshooting.\nService Fabric security and certificate management.\nUnderstanding of Service Fabric reliability, availability, partitioning, replication, and failover concepts.\nExperience supporting business-critical applications hosted on Service Fabric.\nPowerShell automation for Service Fabric administration and operational activities.\n\nMicrosoft Service Fabric\n\nCloud & DevOps\n\nAzure\nAzure DevOps\nGit\nCI/CD\nInfrastructure Automation\nPowerShell\nMonitoring and Observability\n\nIntegration\n\nAPI integration\nService-to-service authentication\nEnterprise middleware\nMessaging and event-driven patterns\n\nNice to Have\n\nKubernetes / OpenShift\nService Mesh technologies\nDapr\nIdentityServer / Duende\nLinux administration\nJava integration experience\nSplunk\nZero Trust security concepts\nCloud security architectures\n\nExperience\n\n8+ years of software engineering experience.\n5+ years in security, identity, application integration, or platform engineering.\nProven experience mentoring engineers and providing technical leadership.\nExperience operating in large-scale regulated environments.\n\nWhy Join Us\n\nWork on business-critical security and integration platforms.\nInfluence strategic technology decisions.\nEngage with architects, security experts, and senior engineering leaders.\nHelp shape the future cloud and identity landscape.\nMentor the next generation of engineers in a growing Krakow hub.\n\nPlease note that this is a permanent position, and we do not offer freelance/contract arrangement for the role.\n\nAbout Us\n\nWhy join us\n\nEmbark on your new adventure at Euroclear, and work at the heart of the global capital markets. We connect over 2,000 financial institutions across the globe. As an open and resilient infrastructure, we contribute to the stability of the financial markets. We help clients cut through complexity, lower costs, and mitigate risks of financial transactions. At Euroclear, we have the clear ambition to use our key role to facilitate and accelerate a sustainable global financial system.\n\nWhat We Offer\n\nWork closely with inspiring, supportive and engaged colleagues from more than 80 different countries.\nPractice your talents in a highly professional international environment.\nJoin a learning and development environment with an emphasis on knowledge sharing and training.\nCompetitive salary and comprehensive benefits.\n\nWays of working\n\nFind your own optimal balance within our hybrid working model, where you can connect at the office 8 days a month and also benefit from remote working.\n\nGreat Place to Work for All\n\nWe are committed to creating an inclusive culture that celebrates diversity and strives to be a Great Place to Work for All. All qualified applicants will be considered for employment, regardless of any aspect that makes them unique (including race, religion, national origin, gender, sexual orientation, age, marital status, pregnancy, disability, ...). If you need any specific accommodation due to disability or any other reason, you can let the recruiter know during your application process. Our values guide how we work together and shape our future: Our mission and values - Euroclear\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nFinancial Services",
       "source": "LinkedIn",
       "job_id": "4461977551",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "8+ years of software engineering experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET application-integration engineering role covering ASP.NET Core, Service Fabric, authentication, middleware and cloud-native systems.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4461977551/"
+      }
     },
     {
       "company": "BearingPoint",
@@ -573,9 +606,20 @@
       "description": "About the role:\n\nWe are seeking a .NET Developer\nto join our growing Software Development team. This role offers the opportunity to work on innovative client projects, collaborate with talented colleagues, and stay at the forefront of the latest Microsoft technologies.\n\nThe role involves designing, developing, and delivering high-quality software solutions using .NET, Angular, and Azure technologies. You will be working within agile, cross-functional teams to build innovative applications for our clients.\n\nAt BearingPoint, you'll join a collaborative and supportive team that values fresh ideas, continuous learning, and professional development. As we continue to grow, we are looking for developers who are passionate about technology and eager to make a real impact.\n\nAbout you:\n\nYou will have at least 4 years' experience in software design and development, with a strong background in Microsoft technologies. You'll ideally have experience building enterprise-scale solutions using technologies such as C# .NET/.NET Core, ASP.NET MVC, Entity Framework, SQL Server, Angular and Azure.\n\nYou will demonstrate:\n\nStrong object-oriented design, modelling and development skills\nExperience working across the full software development lifecycle using DevOps practices\nExcellent communication skills and fluency in English\nThe ability to contribute to estimation activities, identify risks and escalate issues where appropriate\n\nThe following would be considered an advantage:\n\nStrong frontend development experience with JavaScript, Angular (8+), HTML and CSS\nExperience designing and consuming RESTful APIs\nHands-on experience with Azure cloud services\nExperience in client-facing environments\nStrong troubleshooting, performance optimisation and problem-solving skills\nExperience working in Agile delivery environments, particularly on large-scale projects\n\nWhy you will enjoy working at BearingPoint Ireland?\n\nWe work in an open and collaborative way, where new ideas are always welcome. BearingPoint is an environment where potential and high performance is recognised and rewarded.\n\nWhat we offer:\n\nYou will receive a competitive salary where you are rewarded for both your individual performance and company performance. You will also receive a best-in-class benefits package including holidays, private health insurance, pension contributions, gym/club subscription, wellness programmes, mobile phone and much more. In addition, we offer:\n\nHybrid working –\nwhere each team has autonomy to determine their in-person and remote working schedule.\n\nContinuous learning –\nwe understand that it is imperative to invest in our people’s development and we provide external training at prestigious universities such as Oxford and Yale\n\nSocial events –\nour people perform best when they have a good work life balance, monthly events for all to attend\n\nDiversity\n– we are committed to having a diverse workforce where each individual feels they belong and can thrive in a work environment with a strong sense of community\n\nMentoring & coaching –\nevery employee has a development manager to help them grow their career with feedback via continuous conversations\n\nGiving Back –\nyou will have an opportunity to join our many giving back initiatives including our commitment to sustainability. Our Emissions Calculator gathers accurate emissions data and enables our clients to understand their footprint and track progress on emission reduction and pave the way for a better future.\n\nTogether, we are more than business.\n\nTo see more from our people with their experiences of BearingPoint please visit our careers website www.bearingpoint.com\n\nAbout BearingPoint\n\nBearingPoint is an independent management and technology consultancy with European roots and a global reach. The company operates in four units: Consulting, Solutions, Business Services, and Ventures. Consulting covers the advisory business; Solutions provides the tools for successful digital transformation, advanced analytics and regulatory requirements; Business Services provides managed services beyond SaaS; Ventures drives the financing and development of start-ups. BearingPoint’s clients include many of the world’s leading companies and organizations. The firm has a global consulting network with more than 10,000 people and supports clients in over 75 countries, engaging with them to achieve measurable and sustainable success.\n\nBearingPoint is an equal opportunities employer.\n\nPlease click here to view our privacy policy.\n\nNO AGENCIES\n\nBearingPoint does not accept unsolicited cvs from 3rd party recruitment agencies without a written agreement in place for placements. BearingPoint is not responsible for any fees related to unsolicited cvs and no fee will be paid should the candidate be hired by BearingPoint.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nBusiness Consulting and Services",
       "source": "LinkedIn",
       "job_id": "4472061064",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "At least 4 years of experience in software design and development.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack .NET role building enterprise applications with C#/.NET Core, ASP.NET MVC, REST APIs, Angular and Azure.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4472061064/"
+      }
     },
     {
       "company": "Rakuten Kobo Inc.",
@@ -588,9 +632,20 @@
       "description": "Job Description\n\nHere at Rakuten Kobo Inc. we offer a casual working start-up environment and a group of friendly and talented individuals. Our employees rank us highly in terms of commitment to work/life balance. We realize that for our people to be innovative, creative and passionate they need to feel valued and supported. We believe in rewarding all our employees with competitive salaries, performance based annual bonuses, stock options and training opportunities.\n\nIf you’re looking for a company that inspires passion, personal, and professional growth – join Kobo and come help us on our mission of making reading lives better.\n\nThe Role\n\nRakuten Kobo Ireland is looking for a Software Engineer III\nto join our amazing Web team! This is a remote position based in Dublin, Ireland.\n\nYou will be joining one of our development strike teams to deliver awesome new features for our many users to enjoy.\n\nOur engineers are enthusiastic and operate across the development spectrum, from front-end to back-end to CI/CD and infrastructure. We take full responsibility for our work, from requirements gathering and solutioning, to implementation and testing, to deploying and monitoring how our code behaves in front of real customers. Kobo is looking for an engineer who shares these passions and is proud of the work they do.\n\nReporting to the Software Engineering Manager, the Full Stack Software Engineer III plays a vital role in all aspects of delivery from design, planning and implementation through to releasing and monitoring.\n\nResponsibilities\n\nBuilding quality software using the full Microsoft stack including MVC Web Applications, Web API services, .Net 8 microservices and much more.\nPropose designs and Proof of Concepts to Architecture team and work with the team to deliver the implementation to Production.\nParticipate in code reviews; happy to give and receive constructive feedback.\nCommunicate clearly and effectively with teammates, Business stakeholders and other development teams in Kobo.\nMentoring more junior team members of the team and conducting code reviews.\n\nRequired\n\nThe Skillset:\n\nComputer Science or Computer Engineering Degree (or equivalent experience)\nHighly technical and able to communicate well with engineers and cross-functional team members\nExperience with C#, ASP.NET MVC, WebAPI, RESTful Services, .Net 8 Microservices\nExperience with SOLID Principles and Practices, IoC & TDD.\nSome experience with service bus technology e.g. NServiceBus, RabbitMQ.\nStrong experience with React and modern JavaScript/CSS frameworks.\nExperience with Git.\nExperience with designing, implementing, and optimizing observability solutions (metrics, logs, traces).\nExperienced and knowledgeable in CI/CD and different testing strategies and techniques (Unit, Integration, UI tests), including experience with ArgoCD.\nComfortable with and enthusiastic about learning new technologies.\n\nNice to Haves\n\nWorking in an Agile environment and teamDocker, Solr, Kubernetes\nTest automation using Selenium Webdriver or Playwright\nWorking with GitHub or Azure DevOps\nKnowledge of Ruby or other scripting languages\nExperience with MS SQL, RavenDb, EntityFramework.\n\nThe Perks\n\nFlexible hours and remote working environment\n4 extra long weekends around bank holiday weekends\nFull benefits starting from your first day\nPaid volunteer days, unlimited sick days\n4% employer pension contribution\nFlexible spending account\nTalent and development training budget\nFree Kobo device + free weekly eBook or audiobook\nWeekly Kobo Spark sessions\nMaternity/paternity leave top-up\n\nAbout Rakuten Kobo Inc.\n\nRakuten Kobo Inc. is the world’s digital bookseller created by and for booklovers. Owned by Tokyo-based Rakuten Group, Inc. and headquartered in Toronto, Rakuten Kobo’s millions of worldwide users can read anytime, anywhere, and on any device. With a mission to make reading lives better for all, Rakuten Kobo connects readers to stories using thoughtful and personalized curation of eBooks and audiobooks, and the best dedicated eReaders and apps for reading. With the singular focus of making reading lives the best they can be, Kobo’s open platform allows people to fit reading into more moments in their busy lives. To learn more about Rakuten Kobo, visit www.kobo.com.\n\nRakuten Kobo Inc. is an equal opportunity employer. Accessibility accommodations for candidates with disabilities participating in the selection process are available on request. Any information received related to accommodation needs of applicants will be addressed confidentially.  \n\nRakuten Kobo would like to thank all applicants for their interest in this role however only qualified candidates will be shortlisted.  \n\n#RKIND\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nComputers and Electronics Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472053264",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack Microsoft-stack role building MVC web applications, Web API services and .NET 8 microservices with React.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4472053264/"
+      }
     },
     {
       "company": "Microsoft",
@@ -603,8 +658,8 @@
       "description": "Overview\n\nWindows + Devices (W+D) is hiring Software Engineers in Dublin across two teams that share a commitment to making Windows a trusted, intelligent, and reliable platform for customers, enterprises, and partners worldwide.\n\nThe Modern AI Trust platform engineering team\nis transforming what trust means to Microsoft and our customers. The team builds innovative, AI-driven solutions that enable product agility, enterprise-scale automation, intelligent decision systems, trustworthy development, and responsible AI use. As a frontier organization developing solutions for the next generation of Windows, the team is focused on retaining and strengthening the trust of our customers and partners.\n\nThe Windows Silicon & Systems Integration (WSSI) Compat team\nplays a critical role in the development and delivery of Windows across a broad range of devices and silicon, from Arm-based laptops to gaming consoles. The team maintains the health of the Windows application ecosystem, ensuring that every Windows release remains compatible with the broad range of applications customers depend on. Its work spans in-market and new hardware across multiple form factors, silicon vendors, and customer segments, while supporting the continued evolution of Windows for new devices and AI capabilities.\n\nAs a Software Engineer in W+D, your work will contribute to Windows experiences used by more than one billion people and influence engineering teams around the world. Depending on your team placement, you may build AI-powered platforms and automation that strengthen trust across the Windows development lifecycle, or deliver solutions that detect and prevent critical application compatibility issues before they reach customers. Across both teams, you will tackle complex engineering problems, use AI and large-scale data to generate insights, guide engineering decisions, and continuously improve the quality and reliability of Windows.\n\nThis Opportunity Will Allow You To\n\nPlay a fundamental role in defining and building products used by millions of people.\nDevelop innovative AI-powered solutions and help shape the next generation of Windows.\nSolve complex engineering challenges using large-scale data and cutting-edge technologies.\nWork with a high degree of autonomy and have strategic input into what the team delivers.\nCollaborate with engineering teams across Microsoft and deliver impact on a global scale.\nInvest in your professional development through continuous learning, on-the-job experience, and in-person and online training, including Microsoft’s monthly learning day.\nWork in a modern environment as part of a team that values results, flexibility, inclusion, and enjoyment.\n\nMicrosoft’s mission is to empower every person and every organization on the planet to achieve more. As employees, we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day, we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.\n\nResponsibilities\n\nWe’re looking for an experienced Software Engineer II\nto join the Windows and Devices organization. In this role, the ideal candidate will design, implement, ship engineering and data products that transform how Windows is built and shipped. The ideal candidate will forge partnerships and collaborate with others across the engineering and product/program management disciplines within W+D. Finally, as a member of the team, the candidate will have the opportunity to drive scenarios and influence technical direction across teams, mentor less experienced engineers, and contribute to building and maintaining a culture and environment that engenders continuous learning and open collaboration.\n\nQualifications\n\nRequired Qualifications: \n\nBachelor's Degree in Computer Science or related technical field AND professional technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python\nOR equivalent experience.\n\nOther Requirements\n: Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings:\n\nMicrosoft Cloud Background Check\n: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.\n\nPreferred Qualifications\n\nRelevant industry software design and development experience working with a major programming/scripting language (C++, C#, Java, Python).\nStrong design, debugging and problem-solving skills.\nStrong interpersonal skills with demonstrated ability to influence outcomes and communicate technical content to general audiences .\nExperience of leveraging the latest AI technologies in real-world software solutions.\nAbility to resolve ambiguities effectively, prioritize and drive projects to completion, prioritize between multiple needs and adapt to changing circumstances.\nDemonstrated history of promoting engineering excellence within a team; design for reliability, testing, measurement, and understanding of the complete software lifecycle.\nAttention to detail; passion for great design.\nObsession for great end user experiences and outcomes.\nAbility to grow and maintain organizational and interpersonal relationships.\n\n#W+DJOBS\n\n#IrelandWSSIJobs\n\n#Windows\n\n#AI\n\n#Frontier\n\nSoftware Engineering IC3 - The typical base pay range for this role across Ireland is € 63,400.00 - € 105,700.00 per year. Certain roles may be eligible for benefits and other compensation.\n\nFind Additional Benefits And Pay Information Here\n\nhttps://careers.microsoft.com/v2/global/en/corporate-pay/ireland-corporate-pay.html\n\nThis position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.\n\nMicrosoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4454512556",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role accepts multiple programming languages and does not require backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -618,8 +673,8 @@
       "description": "Functiebeschrijving\n\nAls Senior .Net Developer sta je in voor de ontwikkeling van nieuwe applicaties en voor de verbetering en het onderhoud van bestaande applicaties.\n\nJe vertaalt functionele analyses in technische analyses en helpt de analist bij de validatie van technische specificaties van applicaties.\n\nJe bent verantwoordelijk voor het oplossen van bugs op tweedelijnsniveau en biedt technische ondersteuning aan de junior ontwikkelaars.\n\nJe test de ontwikkelde programma’s zodat ze beantwoorden aan de gewenste verbeteringen en aanpassingen.\n\nJe maakt de technische documentatie op, controleert de opgestelde documentatie van de junior ontwikkelaars en werkt eventueel mee aan de functionele documentatie.\n\nDaarnaast volg je de trends en evoluties op betreffende technologieën en methodologieën in je domein.\n\nTot slot stuur je relevante informatie naar je verantwoordelijke en lever je nuttige input voor de reporting naar het management.\n\nProfiel\n\nJe beschikt over een bachelor in de Informatica en hebt minstens 5 jaar ervaring als .Net developer.\nJe hebt een sterke kennis van ontwikkeling in een Microsoft .NET-omgeving (backend en frontend) en bent vertrouwd met technische analyse.\nJe bent vertrouwd met de volgende technologieën: .Net Core, Microsoft .Net, C#, HTML, Oracle, SQL-server, SQL, SOAPUI & NServiceBus.\nJe hebt een goede kennis van de technologieën MVC, WCF, Entity Framework, services REST, Blazor en Azure.\nJe bent op zoek naar een afwisselende functie die uitdagingen met zich meebrengt. Je werkt graag in teamverband. Je bent creatief en hebt verantwoordelijkheidszin. Je neemt initiatief en biedt kwaliteitsvolle oplossingen aan.\nJe hebt eveneens een passieve kennis van de tweede landstaal.\n\nWij bieden\n\nJe krijgt een gevarieerde, uitdagende en maatschappelijk relevante job\nwaarbij je bijdraagt aan IT-oplossingen die een belangrijke rol spelen in de samenleving. Onze slogan 'ICT for society' weerspiegelt dit perfect.\nZoek je een goede balans tussen werk en privéleven? Geniet van flexibele werkuren en maak gebruik van ons zeer uitgebreid telewerkbeleid\n.\nWe bieden ruime interne en externe opleidingsmogelijkheden, waardoor je je technische skills en persoonlijke vaardigheden voortdurend kunt aanscherpen.\nWe bieden je een competitief salaris, aangevuld met extralegale voordelen\nzoals hospitalisatieverzekering, aanvullend pensioenplan, maaltijdcheques, ecocheques,…\nIT-functies kunnen rekenen op een mobiliteitsbudget\nmet de keuze voor een bedrijfswagen en/of terugbetaling openbaar vervoer. Onder bepaalde voorwaarden kan je dit budget zelfs gebruiken voor de betaling van je huur of hypothecaire lening.\nVia ons 'Benefits at Work'-platform geniet je van mooie kortingen op mode, elektronica, daguitstappen, vakantieverblijven, …\nWe voeren een gelijkekansenbeleid\nen vinden o.a. equal pay belangrijk.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting and Software Development",
       "source": "LinkedIn",
       "job_id": "4454098500",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Dutch and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -633,8 +688,8 @@
       "description": "Pour l’un de mes clients basé à Genève\n, je recherche un(e) Back-End Developer\npour rejoindre une équipe technique et contribuer au développement et à l’évolution d’une plateforme applicative.\n\nVotre mission\n\nVous interviendrez principalement sur :\n• La conception, le développement et la maintenance d’ API back-end en C# / ASP.NET\n\n• La conception et l’optimisation des modèles de données et requêtes SQL Server\n\n• Le développement de traitements asynchrones et planifiés\n\n• L’intégration avec SharePoint Online\npour automatiser certains processus documentaires\n• L’évolution d’un moteur de règles métier basé sur JSON\n\n• La rédaction de la documentation technique liée aux API et à l’architecture\n\nVotre environnement technique\n\nC# | ASP.NET | API REST | SQL Server | Azure DevOps | Git | Agile / Scrum\n\nUne expérience avec SharePoint Online\n, les traitements asynchrones/planifiés ou les moteurs de règles JSON constitue un vrai plus.\n\nVotre profil\n\n• Master en informatique, diplôme d’ingénieur IT ou formation équivalente\n• 3 à 5 ans d’expérience\nsur une fonction similaire\n• Solide maîtrise du développement back-end C# / ASP.NET\n\n• Bonne maîtrise de SQL Server\n\n• Expérience des environnements Azure DevOps / Git\n\n• Autonomie, rigueur et capacité à analyser et résoudre des problématiques techniques complexes\n• Bon relationnel avec des interlocuteurs techniques et fonctionnels\n• Français et anglais courants\n\n• SUISSE OU MEMBRE DE L'UE OBLIGATOIRE\n\n#BackendDeveloper #DotNet #CSharp #ASPNet #SQLServer #AzureDevOps #DeveloperJobs #Geneve #ITJobs #Recrutement\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting and Business Consulting and Services",
       "source": "LinkedIn",
       "job_id": "4470341512",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily French and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -648,8 +703,8 @@
       "description": "👨 💻 Programador/a ERP\n\n📍 Madrid | 🧑 💻 Modelo híbrido | 🕒 Jornada completa | 📄 Contrato indefinido\n\nEn TeamSystem\n, ayudamos a que las microempresas, PYMES y asesorías sean más competitivas 💼✨. Lo hacemos a través de soluciones digitales modernas que simplifican procesos, aumentan la productividad y reducen errores.¿Te apasiona el desarrollo de software y quieres formar parte de una empresa tecnológica líder en Europa? 🌍\n\nEn TeamSystem España\n, somos referentes en soluciones digitales de gestión empresarial para pymes, microempresas y profesionales. Como uno de los principales proveedores de software en Europa, ofrecemos soluciones innovadoras en ERP, e-commerce, fintech, CRM y RRHH.\n\n📊 Con una facturación anual superior a los 50 millones de euros, somos una compañía consolidada en el sector B2B SaaS, especializada en facturación electrónica, automatización de pagos y gestión financiera. ¡Y seguimos creciendo!\n\nEn Golden Soft\n, parte del grupo internacional TeamSystem\n, buscamos dos desarrolladores para impulsar la transformación de nuestro ERP, una solución con más de 30 años en el mercado y miles de clientes satisfechos.\n\n🌍 Lo que te espera\n\nUn proyecto único y estable\n, con visión a largo plazo: evolución de nuestro ERP hacia la nube, movilidad e inteligencia artificial.\nIntegración en un grupo internacional\ncon múltiples iniciativas tecnológicas y jornadas anuales en Italia para compartir ideas y avances.\nModelo híbrido de trabajo\n: presencial en Madrid (Arganzuela) + teletrabajo flexible.\nLicencia de GitHub Copilot\npara potenciar tu productividad y creatividad.\n\n🛠️ Tecnologías que usamos\n\nERP\n: Windows App, .NET Framework, Access, SQL Server, PostgreSQL.\nMovilidad\n: Node.js, Angular, React, PostgreSQL.\nCloud & IA\n: Estamos en plena transición hacia arquitecturas modernas, inteligentes y escalables.\n\n🚀 ¿Qué harás en tu día a día?\n\nDesarrollar evolutivos y correctivos\ndel ERP en sus distintas capas: entorno Windows (.NET), movilidad (Node.js, Angular, React), cloud e integración de IA.\nTrabajar en un entorno agile sin rigideces\n, donde lo importante es la colaboración, la entrega de valor y la mejora continua.\nConocer a fondo el ERP\npara entender su lógica de negocio y proponer mejoras técnicas y funcionales con visión de futuro.\nExplorar e incorporar nuevas tecnologías\n, con libertad para innovar y mejorar el producto.\n\n💡 Lo que buscamos en ti\n\nRequisitos 📚\n\nFormación: Grado Medio, Superior o Universitario\nExperiencia mínima: 1 año\nTecnologías ERP: .NET Framework, VB o C#, SQL Server/PostgreSQL, OOP\nTecnologías de movilidad: Node.js, Angular, React\nExperiencia o fuerte interés en desarrollo de software.\nGanas de aprender, aportar ideas y crecer profesionalmente.\nCompromiso con la calidad del código y las buenas prácticas.\nCuriosidad por entender el negocio y cómo la tecnología lo transforma.\n\n🎯 ¿Por qué unirte?\n\nProyecto consolidado, con impacto real y evolución constante.\nEquipo dinámico, colaborativo y con mezcla de perfiles junior y senior.\nFormación continua y oportunidades reales de crecimiento.\nTecnología actual y herramientas que potencian tu desarrollo.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4470331532",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on ERP desktop/cloud modernization; backend/server-side C#/.NET development is not explicitly required.",
       "validated": null
     },
     {
@@ -663,9 +718,20 @@
       "description": "Join us at Wolters Kluwer and be part of a dynamic global technology company that makes a difference every day. We’re innovators with impact. We provide expert software and information solutions that the world’s leading professionals rely on, in the moments that matter most.\n\nWe are currently looking for a Senior Product Software Engineer\nto join our team.\n\nAbout the role:\n\nAs a Senior Software Engineer, you will work as a full-time Full Stack Developer within a hybrid work model, contributing to the design, development, and evolution of scalable software solutions.\n\nThis role requires strong hands-on technical expertise, the ability to work independently with minimal guidance, and accountability for delivering high-quality solutions within a modern, cloud-based, microservices-oriented architecture.\n\nAt this level, engineers are expected to solve complex technical problems, apply best practices, and act as a technical reference for peers while collaborating closely with cross-functional teams.\n\nKey Responsibilities:\n\nEnd-to-End Software Development Design, develop, test, and maintain full stack applications using modern backend and frontend technologies, ensuring high quality, performance, and maintainability.\nBackend Development & Architecture Build and evolve RESTful APIs and microservices based on .NET (.NET Framework, .NET Core, ASP.NET Web API, C#), applying OOP, SOLID principles, Domain-Driven Design (DDD), and Clean Code practices within decoupled architectures.\nFrontend Development Develop and maintain rich web applications using Angular, ensuring usability, performance, and alignment with backend services.\nAsynchronous Communication & Messaging Design and implement asynchronous workflows using RabbitMQ, MassTransit, and Azure Service Bus, ensuring reliability and scalability.\nData Management & Caching Work with SQL-based relational databases and Redis to ensure efficient data storage, access, and caching strategies.\nTesting & Quality Assurance Implement and maintain unit and integration tests, contributing to robust testing frameworks and ensuring system reliability.\nCI/CD & Automation Design, maintain, and improve CI/CD pipelines using Azure DevOps, YAML pipelines, Git, supporting automated builds, testing, and deployments.\nCloud & Containerization Deploy and operate applications using Docker and Kubernetes, contributing to scalable and resilient cloud-native solutions.\nTechnical Problem Solving Analyze complex technical issues, evaluate multiple solutions, and apply sound judgment to resolve problems effectively.\nMonitoring & Traceability Experience with application performance monitoring (APM), observability and tracing tools like Datadog or Grafana.\nCollaboration & Communication Work closely with product, QA, and other engineering teams; explain complex technical topics clearly and contribute to alignment and consensus.\nKnowledge Sharing & Team Impact Act as a technical resource for team members, sharing best practices and contributing to continuous improvement initiatives.\n\nRequired Skills & Experience:\n\nCore Technical Skills:\n\nStrong experience as a Full Stack Software Engineer\nAdvanced knowledge of:\nC#, .NET Framework, .NET Core, ASP.NET Web API\nAngular\nRESTful APIs and microservices architectures\nSQL and relational database design\nRedis\nAsynchronous messaging systems (RabbitMQ, MassTransit, Azure Service Bus)\n\nSolid understanding of:\nOOP, SOLID principles\nDomain-Driven Design (DDD)\nClean Code practices\n\nEngineering Practices:\n\nUnit and integration testing frameworks\nGit, GitHub, and collaborative source code management\nCI/CD with Azure DevOps and YAML pipelines\nContainerization with Docker and orchestration with Kubernetes\nHands-on experience with monitoring and traceability ecosystems (e.g., Datadog, Grafana).\nAgile methodologies (Scrum / Kanban)\n\nCompetencies:\n\nAnalytical Thinking – Ability to break down complex problems and design effective solutions.\nFunctional & Operational Expertise – Deep technical knowledge applied pragmatically to real-world systems.\nAccountability – Ownership of deliverables and ongoing technical responsibilities.\nInclusive Collaboration – Works effectively with diverse roles and teams.\nDrive to Perform – Focus on quality, reliability, and continuous improvement.\n\nIf you think that you have the needed requirements click on the apply button to join us and be the difference\n. If making a difference matters to you, then you matter to us.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or any other protected status, in accordance with local regulations.\n\nOur Interview Practices\n\nTo maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process.\n\nApplicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4425275983",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Strong experience as a Full Stack Software Engineer.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack role building .NET REST APIs and microservices with C#, Angular, messaging, containers and cloud-native architecture.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4425275983/"
+      }
     },
     {
       "company": "emagine",
@@ -678,9 +744,20 @@
       "description": "Key Responsibilities:\n\nLead the design, development, and deployment of fullstack applications using .NET Framework/.NET Core and modern UI frameworks.\nProvide technical leadership and mentorship to a team of developers, ensuring best practices in coding, architecture, and DevOps.\nCollaborate with cross-functional teams to deliver scalable system architectures and microservices-based solutions.\nDevelop and maintain REST APIs, ensuring seamless integration with front-end and back-end systems.\nWork with Optimizely CMS or similar DXP/CMS platforms to deliver content-driven solutions.\nManage and optimize SQL and NoSQL databases for performance and scalability.\nUtilize DevOps tools, such as GitHub workflows and actions, to streamline development and deployment processes.\nStay updated with the latest technologies and trends to drive innovation within the team.\n\nMust-Have Qualifications:\n\nA degree in Computer Science, Business Informatics, or a comparable qualification.\nAt least 8 years of experience as a C# .NET Developer (.NET Framework / .NET Core).\n\nHands-on experience with DXP/CMS platforms like Optimizely, Umbraco or equivalent.\n\nProficiency in SQL and NoSQL databases.\nSolid knowledge of REST APIs.\nExperience with modern UI frameworks: React and Next.js (mandatory).\n\nStrong technical leadership experience, with proven ability to guide teams, make architectural decisions, and communicate effectively\n.\nFamiliarity with DevOps tools, including GitHub workflows and actions.\nSolid experience in designing scalable system architectures and microservices.\n\nEngineering-focused mindset: able to talk about performance, dependency management, communication, problem solving, and investigation.\n\nEnglish proficiency at B2 level or higher (spoken and written).\nAvailability to work in a hybrid model (2 days per week in the Lisbon office).\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nConsulting\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470177781",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "At least 8 years of experience as a C# .NET Developer.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Lead full-stack .NET role designing REST APIs, scalable architectures and microservices with modern frontend frameworks.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470177781/"
+      }
     },
     {
       "company": "Snoonu",
@@ -693,9 +770,20 @@
       "description": "🚀 Welcome to Your Next Adventure!\n\n🛠 What You’ll Get Your Hands On\n\nDesign and build backend services using .NET Core 8 and ensure they integrate smoothly with other parts of the system.\nOptimize database performance through query optimization and implementing efficient data models in PostgreSQL, MongoDB, and DynamoDB.\nParticipate in system design discussions to contribute to architectural improvements and ensure scalability and maintainability of services.\nConduct code reviews to ensure adherence to coding standards and provide feedback to improve team performance.\nImplement refactoring efforts to improve existing codebases for better efficiency and readability.\nWrite unit tests, integration tests, and ensure high test coverage for backend services.\nTroubleshoot and debug complex issues in both production and development environments.\nDocument technical decisions, systems, and processes to support team knowledge sharing and future development.\nParticipate in production deployments, ensuring that all systems function as expected after new releases.\n\n🧙‍♂️ The Magic You Bring\n\n7+ years of experience in backend development, with 5+ years of experience working specifically with .NET Core.\nProficiency in RESTful services and gRPC design and development, with a focus on maintainability and scalability.\nExpertise in relational databases like PostgreSQL and non-relational databases like MongoDB and DynamoDB.\nFamiliarity with message brokers such as RabbitMQ and understanding of asynchronous operations and distributed systems.\nDeep understanding of software design patterns (e.g., Singleton, Factory, Strategy) and the ability to refactor and optimize existing codebases.\nExperience with code refactoring techniques, improving code structure and maintainability while preserving functionality.\nExperience in conducting unit testing, integration testing, and performance testing to ensure application robustness.\n\n✨ Bonus Points If You Have\n\nStrong experience in diagnosing and resolving complex performance issues, such as memory leaks, using advanced profiling and optimization tools.\nAbility to lead large-scale projects, ensuring alignment with both technical and business objectives.\nExperience in mentoring junior developers and guiding team growth.\nFamiliarity with load testing and performance tuning.\nAbility to contribute to technical discussions and offer creative solutions.\nExperience with diagramming tools like Miro\n\nInside Snoonu’s Universe\n\nSnoonu is Qatar’s homegrown Super App, reinventing daily life with blazing-fast delivery, ride-hailing, and shopping - all in one place. Powered by tech, driven by a global team, and obsessed with making life easier.\n\nThe Dream We’re Chasing\n\nTo be the first Qatari Super App that propels the region and its community through innovation and technology. We envision a global expansion where what we do surpasses norms and limitations every time.\n\nThe Quest We’re On\n\nTo radically transform how people live by leveraging technology to connect them with endless possibilities.\n\nOur Everyday Superpowers\n\nBe Customer Obsessed\n: “Focus on the customer and all else will follow.”\n\nAct with Integrity:\n“We are honest, ethical, and trustworthy in everything we do.”\n\nBe Curious and Creative:\n“We constantly innovate and create solutions to bring a lasting positive impact.”\n\nLead by Example and Take Ownership:\n“Be the change you want to see and take ownership.”\n\nWork Smart and Deliver Results\n: “You can do more by doing less, better, and faster.”\n\nIt's All About People:\n“Be a team player; together we are stronger.”\n\nReal Builders Ship:\n“We turn ideas into products, plans into action, and challenges into opportunities.”\n\n💼 Perks & Work-life Magic At Snoonu\n\n🌐 Remote & Global Vibes –\nCollaborate with a worldwide crew.\n\n🧠 Brain Boosters –\nLearning budgets, access to courses, and tools for your growth.\n\n🚒 Builder’s Playground –\nOwn your tasks, own your path! We’re big on autonomy.\n\n🌺 Flexible Time Off –\nWe take recharging seriously. Generous leave and wellness policies.\n\n🛠️ Agile Everything –\nScrum isn’t a buzzword here. It’s how we roll, from product to ops.\n\nBeyond the Code: Giving Back Matters\n\nWe don’t just build app. We’re committed to doing business sustainably and giving back to the community that fuels us. From eco-conscious practices to CSR projects, we’re always finding ways to do better—and we invite you to be a part of that mission.\n\nDiversity Isn’t Just a Buzzword\n\nAt Snoonu, fairness and inclusion are the foundation of everything we do. We’re proud to be an equal opportunity workplace that welcomes people from every walk of life. Be bold. Be you. Thrive here.\n\nLet’s Build the Future Together\n\nApply now to join a tech team where your code sparks change, your voice is heard, and your growth is guaranteed. Let’s make some tech magic together.\n\nStay in the loop—connect with us on LinkedIn!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4426070689",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "7+ years of backend development experience, including 5+ years with .NET Core.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior backend role designing and building .NET Core 8 services with testing, refactoring and performance engineering.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4426070689/"
+      }
     },
     {
       "company": "AvePoint",
@@ -708,8 +796,8 @@
       "description": "About the role:\n\nAs a Pre-Sales Solutions Engineer, you will act as the technical lead throughout the sales cycle, partnering closely with Account Managers to support new business and growth opportunities.  \nYou will take a consultative approach, helping customers understand how AvePoint solutions can address their technical and business needs. This role combines strong technical expertise with customer-facing engagement and commercial awareness.  \nThis is an excellent opportunity for someone looking to develop their career in pre-sales within a fast-paced and innovative technology environment.  \n\nKey responsibilities:\n\nDeliver tailored product demonstrations aligned to customer use cases, both remotely and in person  \n\nLead technical discovery sessions and present solution overviews and deep dives  \n\nSupport customers through evaluation, proof-of-concept and decision-making stages  \n\nBuild and configure demo and proof-of-concept environments  \n\nContribute to RFI/RFP responses, articulating business value and technical capability  \n\nPartner with Sales to understand customer objectives and position solutions effectively  \n\nBuild strong relationships with key business and technical stakeholders  \n\nSupport partner and marketing activities including events, webinars and workshops  \n\nProvide feedback to product and technical teams on market trends and customer requirements  \n\nTake ownership of the technical aspects of deals through to close  \n\nWhat you will bring:\n\nStrong presentation and communication skills, with confidence engaging with technical and non-technical stakeholders  \n\nFluent in English and Arabic  \n\nAbility to translate technical concepts into clear business value  \n\nCommercial mindset with an interest in sales and customer outcomes  \n\nTechnical skills:\n\nExperience with Microsoft 365 technologies (including SharePoint Online)  \n\nKnowledge of Microsoft Azure and identity technologies (e.g. Entra ID)  \n\nUnderstanding of identity, access and permissions management  \n\nFamiliarity with networking basics (TCP/IP, DNS, Active Directory, SMTP, DHCP)  \n\nKnowledge of data protection, backup, migration, and governance concepts  \n\nUnderstanding of SharePoint architecture and cloud/hybrid environments  \n\nBroader awareness of cloud platforms (Azure, AWS, Google Cloud) is beneficial  \n\nAny personal data you share with us during the application process will be processed strictly in compliance with applicable data protection laws and our Privacy Notice.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nData Security Software Products",
       "source": "LinkedIn",
       "job_id": "4451202707",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "FRESHNESS: Configured-source live page showed 1 week ago, which is reliably older than 24 hours.",
       "validated": null
     }
   ]
