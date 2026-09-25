@@ -1,1 +1,0 @@
-{"schema_version":1,"batch":"validator/batches/20260925/011.json","results":[{"index":0,"source":"Indeed","job_id":"2a74801aeaee7026","url":"https://nl.indeed.com/viewjob?jk=2a74801aeaee7026","status":"REJECTED","reason":"LANGUAGE: substantive JD is primarily non-English with no complete official English version.","validated":null}]}
