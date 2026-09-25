@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-24T20:00:54+03:00",
   "job_count": 23,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Proway GmbH",
