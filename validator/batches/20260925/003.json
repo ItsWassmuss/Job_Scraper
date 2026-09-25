@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fa619afcb7b51900",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Current residence in spatial proximity to Bochum is explicitly required.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0fe4a6176ffd77c2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German proficiency at C1 level is explicitly mandatory.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0a18c0a45b71c668",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily PLC/OT and software-defined manufacturing; C# is only one optional technology among several.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2087775c234663d5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily PLC/OT and software-defined manufacturing; C# is only one optional technology among several.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7b2bca67d2403621",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily PLC/OT and software-defined manufacturing; C# is only one optional technology among several.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b20adc8eb3563a48",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily PLC/OT and software-defined manufacturing; C# is only one optional technology among several.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5228e6994b59616a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily PLC/OT and software-defined manufacturing; C# is only one optional technology among several.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "936ecc86ff71672e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend experience is required in C#, Java, or a comparable language; C#/.NET is only an optional alternative, not the required backend stack.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "86ea0af732d491f2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily Python and AI development; .NET is listed only as a plus.",
       "validated": null
     },
     {
@@ -229,8 +229,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "821043c07ce98991",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No explicit backend/server-side C#/.NET role evidence; the role is a general Digital Workplace application-development position.",
       "validated": null
     },
     {
@@ -252,8 +252,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8c87b1f5bc32e4a1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary development is modern C++; C# is optional and backend work is only a possible secondary contribution.",
       "validated": null
     },
     {
@@ -275,8 +275,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "604764b7fda072c6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: French is explicitly indispensable for this backend .NET role.",
       "validated": null
     },
     {
@@ -298,8 +298,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6c70fce358e2a806",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No explicit backend/server-side C#/.NET role evidence; the student role covers general tools, plugins, integrations, and frontend work.",
       "validated": null
     },
     {
@@ -321,8 +321,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e94773296153786f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C#/.NET is used for automation visualizations and image-processing solutions, not an explicit backend/server-side .NET role.",
       "validated": null
     },
     {
@@ -344,8 +344,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "49b54a24342f843a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Business-fluent Spanish is explicitly required.",
       "validated": null
     },
     {
@@ -367,9 +367,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2937613ece7f49f1",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "At least 5 years of experience in .NET architecture/development and the listed related technologies.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops modular application tools and microservices using .NET Core/C# and supports CI/CD, data, and AI tooling for Airbus engineering planning.",
+        "direct_application_link": "https://es.indeed.com/viewjob?jk=2937613ece7f49f1"
+      }
     },
     {
       "company": "Pilatus Aircraft Ltd",
@@ -382,8 +393,8 @@
       "description": "Flieg mit uns in die Zukunft und werde Teil des Teams bei einem der innovativsten Flugzeughersteller der Welt.\n\nCloud & Platform Engineer\n\nDeine Aufgaben Verantwortung für Design, Engineering und Betrieb der globalen Cloud-Infrastruktur (Microsoft Azure) von Pilatus sowie Unterstützung der Entwicklungsteams bei DevOps-Themen\nDesign, Implementierung und Betrieb moderner Plattformdienste wie Kubernetes (in Cloud- und On-Premises-Umgebungen), GitHub, Observability-Lösungen sowie weiterer Kernplattformen für einen stabilen und effizienten IT-Betrieb\nSicherstellung eines sicheren Identity & Access Managements (IAM) für die Cloud-Plattformen mittels Microsoft Entra ID sowie Verwaltung von Cloud-Identitäten, Berechtigungen und Secrets\nAutomatisierung von Infrastruktur- und Betriebsprozessen mittels Infrastructure as Code (IaC) und moderner Automatisierungstechnologien\nMitarbeit bei der Definition und Weiterentwicklung globaler Architekturstandards, Prozesse und technischer Dokumentationen\nBearbeitung technischer Anfragen und Störungen im 2nd-/3rd-Level-Support, einschliesslich Pikett-Bereitschaft\n\nDamit überzeugst Du uns Abgeschlossene Informatikausbildung (HF/FH oder vergleichbar) sowie mehrjährige Berufserfahrung als Cloud Engineer, Platform Engineer oder DevOps Engineer\nFundierte Kenntnisse in mehreren der folgenden Bereiche: Microsoft Azure, Kubernetes, Infrastructure as Code (z. B. Terraform) GitHub inklusive GitHub Copilot, Observability- und Monitoring-Lösungen sowie Microsoft Entra ID\nErfahrung im Design, Aufbau und Betrieb von skalierbaren, hochverfügbaren Plattformen und Cloud-Lösungen\nAnalytische Denkweise sowie Begeisterung für komplexe und global ausgerichtete IT-Infrastrukturen\nSehr gute Deutsch- und Englischkenntnisse in Wort und Schrift (mindestens Niveau C1)\nSelbstständige, engagierte und verantwortungsbewusste Persönlichkeit mit ausgeprägter Teamfähigkeit\n\nWas wir Dir bieten Ein engagiertes, internationales Team und einzigartige Projekte \nFlexible Arbeitszeiten und individuelle Wahlmöglichkeiten in der beruflichen Vorsorge \nFörderung von Aus- und Weiterbildungen sowie Raum für fachliche und persönliche Weiterentwicklung \nVergünstigte Verpflegung in unserem Personalrestaurant und diverse Rabatte für Mitarbeitende \nTeamevents, an welchen wir unsere Erfolge gemeinsam feiern\n\nWerde Teil unserer Pilatus Familie Mit unseren Stelleninseraten sprechen wir alle an und setzen uns für Diversität und Vielfalt im Unternehmen ein – wir freuen uns auf Deine Online-Bewerbung.\nFür Impressionen: Check Instagram «pilatusaircraft» & LinkedIn\n\nDEINE ANSPRECHPERSON\nMaria Gageatu\nHR Recruiter\n+41 41 666 90 50\npilatus-aircraft.com\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nAirlines and Aviation",
       "source": "LinkedIn",
       "job_id": "4470048430",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is cloud/platform/DevOps infrastructure engineering and does not involve backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -397,8 +408,8 @@
       "description": "Role Overview\n: We are looking for a Senior Platform Engineer to design, build, and scale and evolution of the Azure AI Platform as a reusable enterprise product. The role builds cloud-native platform capabilities and hybrid-cloud ecosystems from the ground up for a large Financial Enterprise. You will be responsible for creating a robust foundation for our application teams, with a specific focus on operationalizing AI services, maintaining rigorous security standards.\n\nKey Responsibilities\n\nInfrastructure: Architect and deploy production-ready modular Azure AI platform capabilities. Define platform boundaries, service contracts, tenancy patterns, scaling models and secure integration standards.\nShared AI Capabilities integration Build shared AI service capabilities as platform products by standardizing access to Azure OpenAI, AI Search, Document Intelligence, and other agent/tool orchestration pattern\nStandardize application consumption through APIs, SDKs, templates, and reference implementations\nInfrastructure as Code:\nDefine reusable Terraform modules and templatized patterns that provision cloud resources with standard network, identity, security, tagging, observability, built in by default.\nImplement policy-as-code and automated validation to ensure every deployment passes checks for naming standards, approved SKUs, network isolation, compliance requirements\nProvide self-service provisioning paths through GitHub Actions or platform APIs so teams can request standardized infrastructure pattern\nOperate AI orchestration as an enterprise capability with clear service contracts, reusable patterns, release management, platform documentation, onboarding journeys, and continuous improvement based on application demand.\nAI Runtime: Engineer production runtimes on AKS and Azure Container Apps for APIs, agents, MCP servers and asynchronous workloads.\nAPI & Connectivity: Manage API lifecycles using Azure APIM and Kong, ensuring secure and performant communication between services.\n\nTechnical Requirements\n\nCloud: 8+ years experience with Azure Cloud Platform.\nIaC: Expertise in Terraform and GitHub Actions, including modular design, automated testing and controlled promotion.\nAI Stack: Familiarity with Azure AI Foundry and OpenAI Service.\nNetworking: Expert knowledge of Network Architecture (VNETs, Peering, Firewalls, Private Links).\nAPIs: Hands-on experience with Azure API Management or Kong.\nDeployment Architecture: Proven ability to create professional Cloud Architectures and provide Solutions Architecture guidance.\nDeep hands-on expertise with AKS, Azure Container Apps, Azure AI Foundry, Azure OpenAI, APIM, identity and private networking.\nExperience with Kubernetes, containers, platform APIs, SDK design, observability and SRE practices.\nAbility to translate security, risk and compliance requirements into automated platform controls.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471819359",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is Azure AI platform and infrastructure engineering with no backend/server-side C#/.NET development evidence.",
       "validated": null
     },
     {
@@ -412,8 +423,8 @@
       "description": "Deliver application enhancements and new functionality using C# and .NET technologies.\nDevelop and optimise solutions within the Thinkwise low-code platform.\nDesign, improve, and maintain SQL Server databases, stored procedures, and queries.\nImplement reliable integrations between internal and external systems.\nTranslate business requirements into scalable technical solutions.\nResolve application issues and improve platform stability and performance.\nDeliver automation initiatives that support operational efficiency.\nProduce testing, deployment, and technical documentation to support knowledge transfer.\n\nWork with .NET and SQL on business-critical systems.Deliver impactful solutions in a dynamic international setting.\n\nSeveral years of experience as a Software Developer.\nStrong expertise in C#, .NET Framework, and/or .NET Core.\nExtensive experience with Microsoft SQL Server and complex SQL development.\nProven hands-on experience with the Thinkwise platform.\nExperience with API integrations and connecting business-critical systems.\nAble to communicate in Dutch\n\nOur client is an international organisation operating in a fast-paced environment where technology is central to supporting operational, logistical, and commercial processes.\n\nStart date: ASAP\nHours: 24 - 32 hours (3 or 4 days)\nLocation: Netherlands, Zuid Holland\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nInternship\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nStaffing and Recruiting",
       "source": "LinkedIn",
       "job_id": "4470025666",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No explicit backend/server-side .NET role evidence; the role centers on general application, Thinkwise, SQL, and integration development.",
       "validated": null
     },
     {
@@ -427,8 +438,8 @@
       "description": "Enterprise IT-Spezialist mit agilem Mindset und Hands-On Mentalität und Teil der SYZYGY Group.\nMit mehr als 100 Spezialist:innen entwickeln und betreiben wir maßgeschneiderte Softwarelösungen für große Unternehmen wie Continental, Deutsche Bahn, Porsche, Samsung oder Telefonica (o2).\nWir erstellen individuelle Lösungen, die mitdenken. Dabei sind wir hands-on, tech-hungrig, ein wenig nerdy, kommunikativ und echte Teamplayer.\nAktuell suchen wir (vor Ort in Bad Homburg, hybrid oder remote):\nTeamlead Software Development .NET (w/m/d)\n\nDu willst technische Verantwortung übernehmen, Menschen entwickeln und trotzdem selbst nah am Code bleiben? Als Teamlead Software Development .NET gibst Du Deinem Team Orientierung und schaffst den Rahmen für gute technische Entscheidungen.\nDann bist Du bei uns goldrichtig! Wir, SYZYGY Techsolutions wachsen und suchen Dich als Teamlead (w/m/d) für eines unserer Software Development Teams.\n\nAufgaben\n\nFührung & Entwicklung\n\nDu leitest ein motiviertes Team von Softwareentwickler:innen fachlich und disziplinarisch. Dabei förderst Du individuelle Stärken und sorgst für eine produktive, wertschätzende Zusammenarbeit.\nTechnische Verantwortung\n\nDu verantwortest die Architektur und die technische Ausrichtung Deines Teams – mit Fokus auf .NET.\nHands-on-Entwicklung\n\nDu bleibst selbst aktiv im Code und arbeitest je nach Bedarf als Entwickler:in, Techlead oder Sparringspartner:in.\nKundenorientierte Lösungen\n\nDu analysierst Anforderungen, entwickelst gemeinsam mit Deinem Team passende Lösungen und setzt sie in enger Abstimmung mit der Kundenseite um\n\nProfil\n\nIn der Enterprise-Webentwicklung mit .NET bringst Du langjährige Erfahrung mit. Idealerweise kennst Du Dich auch mit React und TypeScript aus.\nSoftwareentwickler:innen hast Du bereits fachlich oder disziplinarisch geführt und weißt, wie Du Teams motivierst und weiterentwickelst.\nMit agilen Methoden wie Scrum bist Du vertraut und führst Teams sicher durch komplexe Projekte.\nAuch in herausfordernden Situationen triffst Du Entscheidungen klar und überzeugend.\nEin offener und klarer Kommunikationsstil sowie sehr gute Deutschkenntnisse runden Dein Profil ab.\n\nWir bieten\n\nFull remote, Office oder hybrid\n\nDu arbeitest am liebsten im Homeoffice? Du kommst gerne jeden Tag ins Büro? Oder bevorzugst Du die Mischung? Bei uns ist alles möglich. Mit unserer State-of-the-Art Hardware hast Du volle Flexibilität.\n\nFlexible Arbeitszeiten & voller Überstundenausgleich\n\nMorgens mal später anfangen. Oder mal früher in den Feierabend. Kein Problem. Unsere flexiblen Arbeitszeiten machen es möglich. Und sollten doch mal Überstunden anfallen, bekommst Du hierfür den vollen Freizeitausgleich. \n\nGehaltspaket\n\nZusätzlich zum Gehalt bekommst Du optional Zuschüsse zu vermögenswirksamen Leistungen und zur betrieblichen Altersvorsorge. Außerdem honorieren wir langjährige, engagierte Mitarbeit in Form einer Sonderzahlung. Und Du profitierst von attraktiven Rabattprogrammen.\n\nWeiterbildung & Trainings\n\nNutze Dein jährliches Weiterbildungsbudget, um an Trainings oder Konferenzen teilzunehmen. Gestalte aktiv Deine Entwicklung, wir unterstützen Dich dabei!\n\nUrlaub & Workation\n\nBei uns gibt es bei Vollzeit 32 freie Tage im Jahr: 30 Tage Jahresurlaub und Heiligabend sowie Silvester sind arbeitsfrei. Zusätzlich gibt es für besondere Anlässe Sonderurlaubstage. Außerdem ist temporäres Arbeiten im Ausland möglich.\n\nMentale & physische Gesundheit\n\nDu erhältst professionelles Mental Health Coaching sowie über unseren Wellpass-Benefit flexiblen Zugang zu einem großen Netzwerk aus Sport- und Wellnessangeboten – vor Ort und online.\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469794246",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: A valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -442,8 +453,8 @@
       "description": "Wir sind als eine der führenden europäischen Management- und Technologieberatungen ein echter Tech-Player. Wir sehen uns als Vordenker*innen, handeln und denken strategisch, entwickeln mit unseren Kunden maßgeschneiderte Lösungen, sowie präzise Prozesse und implementieren innovative Technologien. Weltweit sind wir über 50.000 tech-affine und kluge Köpfe – gemeinsam gestalten wir die Zukunft unserer Kunden und die der Gesellschaft.\n\nBist du bereit, das digitale Europa mitzugestalten?\n\nAufgaben\n\nDu entwickelst, konfigurierst und erweiterst Identity-Management-Lösungen auf Basis von One Identity Manager\nKundenspezifische Prozesse, Skripte, Templates, Workflows und Datenmodellerweiterungen setzt du mit den relevanten OneIM-Werkzeugen um\nActive Directory, LDAP, Microsoft Entra ID, Exchange Online sowie SAP- und HR-Systeme integrierst du in bestehende Lösungen\nSynchronisations-, Provisionierungs-, Deprovisionierungs- und Reconciliation-Prozesse sowie asynchrone ITSM-Schnittstellen entwickelst und betreust du\nDu unterstützt Migrationen, Releasewechsel und kontrollierte Transporte über Entwicklungs-, Test- und Produktionsumgebungen\nJob-Queue-, Synchronisations-, Connector-, Performance- und Produktionsprobleme analysierst und behebst du inklusive Root-Cause-Analyse\nBei Test, Validierung, Abnahme und Betriebsüberführung wirkst du mit und unterscheidest Standard-Releasewechsel, Customizing, Schnittstellenanpassung und Technologiewechsel\nTechnische Lösungen dokumentierst du nachvollziehbar und transferierst Know-how an Projekt- und Betriebsteams\nDu entwickelst KI-gestützte Lösungsansätze und Automatisierungen, bewertest deren Mehrwert sowie Einsatzgrenzen kritisch und leitest daraus konkrete Impulse ab, bestehende Prozesse weiterzuentwickeln sowie neue zu etablieren\nBeratung heißt Flexibilität: Dein Projekteinsatz richtet sich nach unseren Kund*innen und deiner Projektsituation – du arbeitest deutschlandweit in unseren Offices, beim Kunden vor Ort und von zu Hause\n\nProfil\n\nDu hast ein abgeschlossenes Studium der (Wirtschafts-)Informatik, Mathematik, Wirtschaftswissenschaften oder eine vergleichbare Berufsausbildung\nPraktische Entwicklungserfahrung mit One Identity Manager in Projekt- oder Betriebsumgebungen bringst du mit\nMehrere OneIM-Komponenten, insbesondere Designer, Manager, Object Browser, Job Queue Info und Synchronization Editor, sind dir vertraut\nDu verfügst über Entwicklungskenntnisse in C#/.NET oder belastbare OneIM-Skripting-Erfahrung sowie Kenntnisse in SQL und relationalen Datenbanken\nOneIM-Datenmodell, Templates, Prozesse, Events, Job Chains, Skripte und kundenspezifische Erweiterungen verstehst du\nErfahrung mit AD-/LDAP-Anbindungen sowie Provisionierung, Synchronisation und Reconciliation ergänzt dein Profil\nTechnische Änderungen kannst du sauber testen, dokumentieren und kontrolliert über mehrere Umgebungsstufen transportieren\nDeine Fähigkeiten mit One Identity Starling Connect und SuccessFactors-Integration sind besonders wertvoll\nDu arbeitest hands-on, analysierst komplexe Fehler systematisch und stimmst dich sicher mit relevanten Schnittstellen ab\nDu weißt, wie man KI-Tools gezielt und reflektiert einsetzt, Ergebnisse kritisch bewertet und aktuelle technologische Entwicklungen sowie innovative Impulse wirkungsvoll in deine Arbeit, Projekte und Kundenlösungen einbringst\nGute Deutsch- und Englischkenntnisse (mind. B2) runden dein Profil ab\n\nWir bieten\n\nWeiterbildung: umfangreiche fachliche und methodische Trainings inkl. Zertifizierungen sowie vielfältige Entwicklungsperspektiven innerhalb des Unternehmens\nWork-Life-Balance: hybrides Arbeiten innerhalb von Deutschland und für einen begrenzten Zeitraum in definierten EU-Ländern, Familienservice, Firmenfitness sowie die Möglichkeit zu einem Sabbatical\nFlexible Urlaubsgestaltung: 30 Tage Urlaub und die Möglichkeit zur individuellen Erhöhung oder Verringerung des jährlichen Urlaubs um bis zu 5 Tage\nSpenditCard: Monatlich stehen dir zusätzlich zum Gehalt 50 Euro steuerfreies Guthaben zur Verfügung, die du flexibel für Shops in deiner Nähe nutzen kannst\nIT-Equipment: Wir unterstützen dich bei der Ausstattung von benötigtem Zusatzequipment für ein optimales ortsflexibles Arbeiten\nMobilität: Firmenwagen und Dienstfahrrad per Gehaltsumwandlung sowie Bezuschussung des Deutschlandtickets\nUnser Mindset: Teamspirit, offene Türen, Duzkultur, gelebte Vielfalt\n\nVielfalt ist eine wichtige Grundlage unserer Unternehmenskultur. Wir möchten ein inklusives Umfeld schaffen, das die Diversität all unserer 2.700 Mitarbeitenden in Deutschland und Österreich berücksichtigt und in dem du dich bestmöglich entfalten kannst. Denn wir bei Sopra Steria sind davon überzeugt, dass deine Individualität der Schlüssel zu einem nachhaltigen Unternehmenserfolg ist. \n\nWir setzen uns für eine nachhaltige Zukunft ein: Ob mit konzernweiten Stipendien- und Corporate Volunteering-Programmen oder mit Projekten zur Förderung von Bildung, Chancengleichheit und digitale Inklusion – wir übernehmen Verantwortung für die Gesellschaft. Wir glauben fest daran, dass digitale Innovationen ein Schlüssel zu Gleichberechtigung, Inklusion und Klimaschutz sind.\n\nImpressum\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4469783737",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: A valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -457,8 +468,8 @@
       "description": "Company Description\nStateTick is a software-defined machine control ecosystem that unifies building, testing, simulating, and running industrial machines in a single environment. The platform brings machine logic, industrial I/O, HMI, testing, diagnostics, and virtual commissioning together around a common machine application, eliminating fragmented engineering workflows. Users can build modular control logic, connect real industrial hardware, create operator interfaces, run automated tests, and inspect live machine states and signals, while using TwinTick for 3D simulation and virtual commissioning. The core idea is to build control once, validate it virtually, and then operate the real machine on the same platform. StateTick supports modern industrial connectivity standards including EtherCAT, OPC UA, Modbus TCP, and serial communication.\nRole Description\nThe Senior Software Developer will design, implement, and maintain core components of StateTick’s machine control and simulation platform. Day-to-day responsibilities include developing robust back-end services, optimizing industrial connectivity modules, and integrating real-time data flows for I/O, diagnostics, and virtual commissioning. The role involves collaborating with product and engineering teams to define architecture, review code, ensure high-quality releases, and contribute to testing and performance tuning. This is a full-time, on-site position located in the Greater Schweinfurt Area, working closely with cross-functional stakeholders to deliver reliable solutions for industrial automation customers.\nQualifications\n\nStrong foundation in Computer Science principles, including algorithms, data structures, and software architecture.\nMinimum 7 years of C++ experience\nProficiency in Software Development and Programming, with experience building complex, production-grade systems.\nHands-on expertise in Back-End Web Development, focusing on APIs, microservices, and scalable server-side applications.\nAdvanced knowledge of Object-Oriented Programming (OOP) and related design patterns.\nExperience with industrial automation, control systems, or real-time applications is highly beneficial.\nFamiliarity with industrial communication protocols (e.g., EtherCAT, OPC UA, Modbus TCP, serial) is a strong plus.\nAbility to write clean, maintainable code, conduct thorough code reviews, and collaborate effectively in an agile team environment.\nBachelor’s or Master’s degree in Computer Science, Software Engineering, or a related technical field, or equivalent practical experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4469774944",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend work is explicitly C++-based; there is no backend/server-side C#/.NET development evidence.",
       "validated": null
     },
     {
@@ -472,8 +483,8 @@
       "description": "What You Will Do\n\nAs a Technical Implementation Engineer, you will support the technical delivery of customer implementations and workplace technology solutions. Working with Technical Specialists and Project teams, you will complete software installations, system configurations, data migrations, troubleshooting activities, and technical support throughout the implementation lifecycle.\n\nThis role offers an excellent opportunity to develop expertise in enterprise software, infrastructure technologies, system integrations, and customer-facing technical consulting while contributing to successful customer outcomes.\n\nHow You Will Do It\n\nTechnical Delivery & Support\n\nComplete the installation, configuration, and deployment of workplace and employee business software solutions.\nTroubleshoot software, server, authentication, and integration issues during customer implementations.\nComplete data migrations and data validation activities as part of project delivery.\nSupport testing activities to ensure solutions are configured and operating correctly before deployment.\nDocument technical issues, resolutions, and project activities accurately.\n\nCustomer Engagement\n\nWork with customers and internal teams to understand technical requirements and business needs.\nParticipate in customer meetings and provide implementation updates when required.\nAssist customers with system setup, user adoption, and technical queries.\nBuild positive relationships with customers through responsive and professional support.\n\nProject Collaboration\n\nCollaborate with Project Managers, Consultants, other Technical Specialists, and other stakeholders to support successful project delivery.\nContribute to project documentation, technical procedures, and knowledge-sharing activities.\nEscalate risks, issues, or technical challenges to senior team members in a timely manner.\nSupport project milestones and deadlines through effective organisation and prioritisation.\n\nContinuous Learning & Improvement\n\nDevelop technical expertise across company solutions, implementation processes, and supporting technologies.\nParticipate in training, certifications, and professional development opportunities.\nLearn implementation best practices and contribute ideas for improving delivery processes.\nStay informed about emerging technologies and industry trends.\nAssist with the other product implementations.\n\nWhat We Look For\n\nYour passion for customer service and understanding that their success is directly tied to our product and company success.\nAbility to provide effective communications to both colleagues and customers. Providing clarity on the technical aspects of the installation, for those non-technical.\nProven experience in business analysis and requirements gathering; having the innate ability to focus on customer needs early to mitigate potential implementation roadblocks.\nBringing the team together for the success of the project. Previous experience in conflict management and team building.\nProven ability to ramp on new technology quickly through instruction and self-training.\nMentor clients in new technologies and processes, for a successful product adoption.\n\nTechnical Knowledge Of\n\nInternet Information Services\nMicrosoft SQL Server\nCreating SQL Scripts (Microsoft)\nData migration experience\nExperience with SAML authentication\nSoftware Installation\nServer configuration\nMicrosoft Outlook\n\nAbout Us\n\nJohnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education.\n\nFor more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevate customer performance, turn goals into real-world results and help move society forward.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIndustrial Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4469794164",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is implementation, installation, configuration, migration, and technical support with no backend/server-side C#/.NET development evidence.",
       "validated": null
     },
     {
@@ -487,8 +498,8 @@
       "description": "Description\n\nJoin GlobalLogic’s Presales Team within the Healthcare Business Unit, supporting clients across the EMEA region. This strategic role focuses on engaging new clients, solving real-world healthcare challenges, and launching data-driven AI/ML projects. You will work closely with clients and internal stakeholders to translate complex business needs into impactful solutions. If you’re passionate about applying data science in a meaningful domain and want to shape the future of healthcare, we’d love to hear from you.\n\nRequirements\n\nBachelor’s or Master’s degree in Software Engineering, Data Science, Computer Science, Statistics, Applied Mathematics, or related field.\n5+ years of experience in Senior Engineer or Lead Engineer or Tech Lead roles, ideally with exposure to healthcare projects.\nGood expertise and skills using Claude/Codex or equivalent AI tools to do research, planning, software development and testing.\nProficiency in Python and/or any other programming language (C/C++, JAVA, C#, etc)\nStrong communication and visualization skills for storytelling with data.\nFamiliarity with cloud environments (Azure, AWS, or GCP) and their native services.\nExperience with LLM and GenAI constraints and limitations and how to overcome those.\nEnglish proficiency at Advanced level.\nGood presentation and demonstration skills\n\nPreferred Qualifications (Nice To Have)\n\nExperience working with medical data (EHR, imaging, wearables, clinical trials, etc.).\nFamiliarity with healthcare regulations related to data and AI (e.g., HIPAA, GDPR, FDA AI/ML guidelines).\nKnowledge of FHIR, HL7, or other healthcare interoperability standards.\nInvolvement in presales, proposal writing, or technical advisory work.\nExperience working with data ingestion and data processing frameworks\nUnderstanding of MLOps/AIOps concepts and tools.\n\nJob responsibilities\n\nLead the design and development of solutions across HealthTech and MedTech projects.\nBe comfortable with ambiguity, onsite/embedded work, have willingness to travel and work directly at the customer’s environment, building solutions under a hard deadline with incomplete requirements.\nParticipate in technical presales by analyzing business cases and identifying opportunities for AI/ML application.\nLead Discovery and/or Advisory projects, understand cusmoter’s needs, collect inputs and painpoints from the customer and create working SW prototypes within limited time to demonstrate feasibility & value.\nCollaborate with software engineers, cloud architects, and QA to further develop prototypes into scalable production systems.\nContribute to the development of GlobalLogic’s healthcare-focused AI accelerators and reusable components.\nPresent technical solutions to clients, both business and technical audiences.\nEnsure adherence to privacy, security, and compliance standards for data and AI usage.\nAuthor clear documentation and contribute to knowledge sharing within the team.\n\nWhat we offer\n\nEmpowering Projects:\nWith 500+ clients spanning diverse industries and domains, we provide an exciting opportunity to contribute to groundbreaking projects that leverage cutting-edge technologies. As a team, we engineer digital products that positively impact people’s lives.\n\nEmpowering Growth:\nWe foster a culture of continuous learning and professional development. Our dedication is to provide timely and comprehensive assistance for every consultant through our dedicated Learning & Development team, ensuring their continuous growth and success.\n\nDE&I Matters:\nAt GlobalLogic, we deeply value and embrace diversity\n. We are dedicated to providing equal\nopportunities for all individuals, fostering an inclusive\nand empowering work environment.\n\nCareer Development:\nOur corporate culture places a strong emphasis on career development, offering abundant opportunities for growth. Regular interactions with our teams ensure their engagement, motivation, and recognition. We empower our team members to pursue their career goals with confidence and enthusiasm.\n\nComprehensive Benefits:\nIn addition to equitable compensation, we provide a comprehensive benefits package that prioritizes the overall well-being of our consultants. We genuinely care about their health and strive to create a positive work environment.\n\nFlexible Opportunities:\nAt GlobalLogic, we prioritize work-life balance by offering flexible opportunities tailored to your lifestyle. Explore relocation and rotation options for diverse cultural and professional experiences in different countries with our company.\n\nAbout GlobalLogic\n\nGlobalLogic, a Hitachi Group Company, is a trusted digital engineering partner to the world’s largest and most forward-thinking companies. Since 2000, we’ve been at the forefront of the digital revolution – helping create some of the most innovative and widely used digital products and experiences. Today we continue to collaborate with clients in transforming businesses and redefining industries through intelligent products, platforms, and services.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4470027687",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on AI/ML, presales, prototyping, and data solutions; C# is only one optional language among several.",
       "validated": null
     },
     {
@@ -502,9 +513,20 @@
       "description": "Senior .NET Software Engineer\n\nLocation:\nRomania – Remote\nLanguage:\nEnglish C1 – fluent spoken and written communication required\n\nWe are\nWizeline, a global AI-native technology solutions provider, develops cutting-edge, AI-powered digital products and platforms. We partner with clients to leverage data and AI, accelerating market entry and driving business transformation. As a global community of innovators, we foster a culture of growth, collaboration, and impact.\nWith the right people and the right ideas, there’s no limit to what we can achieve.\n\nAre you a fit?\nWe are looking for a Senior .NET Software Engineer\nwho combines strong hands-on development skills with deep knowledge of distributed systems, cloud architectures, and event-driven solutions\n.\nThis role is ideal for an autonomous engineer who understands not only how to build scalable systems, but also the architectural trade-offs behind technical decisions.\n\nKey Responsibilities\nDesign and develop high-performance, secure backend applications\nusing modern .NET and C#\n.\nDesign and evolve distributed and event-driven architectures\n, considering scalability, resilience, fault tolerance, and data consistency.\nLead end-to-end system design\nfor complex banking and fintech use cases.\nWork with cloud platforms, containerized environments, and CI/CD pipelines\n.\nDesign solutions for distributed-system challenges such as asynchronous communication, messaging, idempotency, failures, and transactional consistency\n.\nDevelop comprehensive testing strategies across integration boundaries and asynchronous workflows.\nCommunicate architectural decisions clearly through technical discussions and architectural diagrams\n.\n\nMust-have Skills\n8+ years of professional software engineering experience\n, with strong hands-on experience in .NET/C#\n.\nProven experience building enterprise-grade backend applications\nin production environments.\nStrong knowledge of distributed systems and event-driven architectures\n.\nExperience with messaging systems, asynchronous communication, and event-driven patterns\n.\nStrong experience with at least one major cloud platform: Azure, AWS, or GCP\n.\nPractical experience with containers, cloud infrastructure, networking, and CI/CD\n.\nStrong understanding of system resilience, fault tolerance, data consistency, and idempotency\n.\nEnglish C1 or higher\n, with fluent spoken and written communication.\n\nNice-to-have\nExperience in Banking, Fintech, or other highly regulated environments\n.\nExperience with architectural documentation and technical design reviews.\nExperience with modern AI-assisted development tools\n.\nAI Tooling Proficiency:\nLeverage one or more AI tools to optimize and augment day-to-day work, including drafting, analysis, research, or process automation. Provide recommendations on effective AI use and identify opportunities to streamline workflows.\n\nWhat we offer\nA High-Impact Environment\nCommitment to Professional Development\nFlexible and Collaborative Culture\nGlobal Opportunities\nVibrant Community\nTotal Rewards\n\nSpecific benefits are determined by the employment type and location.\n\nFind out more about our culture here .\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nIndustries\n\nBanking",
       "source": "LinkedIn",
       "job_id": "4470033892",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "8+ years of professional software engineering experience with strong hands-on .NET/C# experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Designs and develops high-performance backend applications in modern .NET/C# and distributed, event-driven architectures for banking and fintech use cases.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470033892/"
+      }
     },
     {
       "company": "Pauwels Consulting",
@@ -517,8 +539,8 @@
       "description": "Our client is seeking a professional to support and improve the software delivery lifecycle for modern applications. The role focuses on optimizing developer workflows through CI/CD automation, cloud-native deployments, and the implementation of engineering best practices.\n\nResponsibilities\n\nDesign and maintain automated CI/CD pipelines tailored for .NET applications.\nDevelop and support GitHub Actions workflows and Jenkins pipelines.\nManage and improve deployment processes on Kubernetes and OpenShift platforms.\nOptimize the end-to-end developer experience from environment setup to production operations.\nIntegrate security and quality controls directly into the delivery pipelines.\nSupport development teams with the adoption of DevOps and platform best practices.\n\nRequirements\n\n3+ years of experience in DevOps, CI/CD, or Platform Engineering.\nYou have experience with .NET and C# development.\nYou possess hands-on experience with GitHub Actions and Jenkins.\nYou bring a strong understanding of Kubernetes, OpenShift, and Docker.\nYou have experience with Git and version control workflows.\nYou're proactive and have a customer-oriented mindset.\nYou are fluent in English.\n\nNice to Haves\n\nKnowledge of the Azure cloud platform.\nExposure to AI-enabled engineering tools and automation.\nActive knowledge of French or Dutch.\n\nOffer\n\nStart date: ASAP\nDuration: 6 months (plus extension)\nLocation: Brussels\nWorking model: Hybrid\nContract: open to both permanent employees and freelancers\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nStaffing and Recruiting",
       "source": "LinkedIn",
       "job_id": "4471677899",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily DevOps, CI/CD, platform engineering, and deployment automation rather than backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -532,8 +554,8 @@
       "description": "About AKASA\n\nAt AKASA, our mission is to build the future of healthcare with AI. As the leading provider of generative AI solutions for the healthcare revenue cycle, we help health systems comprehensively capture and communicate the full patient clinical journey. By empowering health systems to streamline their operations, they can focus on what matters most - delivering quality patient care. We have raised over $205M in funding from investors such as Andreessen Horowitz, BOND, and Costanoa Ventures.\n\nThis is the most exciting time to join AKASA. Revenue bookings for our new AI-native product suite have grown over 20x since launching in 2024. In this time, we have broken our record for the largest deal in company history three times consecutively. This growth is driven by the massive improvement we are generating for our customers across clinical quality and documentation accuracy, both top priority areas for health system leaders.\n\nOur deployments have been recognized nationally as \"one of the most comprehensive real-world uses of GenAI in healthcare finance to date\" (link). Our customer base represents more than $120B+ in net patient revenue and includes the most innovative health systems in the country, like Cleveland Clinic, Duke, Stanford, and Johns Hopkins.\n\nSome of our recent recognitions include being named one of America's Top Startup Employers 2026 by Forbes, #1 most promising healthcare RCM startup of 2025 by Black Book Market Research, and one of the fastest-growing GenAI startups to watch by AIM Research. Our CEO was ranked among the “Top 50 Healthcare Technology CEOs” by the Healthcare Technology Report, and we have been certified as a “Great Place to Work” for the past 6 years in a row.\n\nWe’re building on this momentum to redefine what’s possible in healthcare. We’re looking for exceptional people to help us accelerate that reality.\n\nAbout The Role\n\nAs an Applied AI Engineer, you will be building AI-powered solutions across our Clinical Documentation and Medical Coding suite. You will work closely with the product, design, and machine learning teams to design and build the services, APIs, and tools that undergird our SaaS products.\n\nTogether with the broader team, you will work on AI-native products that correct clinical errors for hundreds of thousands of patients, and deliver hundreds of millions of dollars in measurable value for our customers.\n\nThese products improve the quality of physician documentation, help clinicians identify missing diagnoses, convert documentation to medical codes and ensure financial integrity for health systems. The interfaces you develop help thousands of clinicians and hospital staff tackle some of the most challenging and high-impact patient encounters in U.S. healthcare.\n\nWhat You'll Do\n\nBuild features and products driven by LLMs. You will touch the whole stack, from designing agentic systems for revenue cycle workflows to the infrastructure that runs them in production across hundreds of hospitals.\nWork alongside strong subject matter experts on complex, challenging problems that span from high-stakes clinical diagnoses to regulated medical billing with no easy answers.\nDeploy the evaluation frameworks and experimentation loops that deliver reliable, production-grade systems. You'll use data-driven and statistical approaches to balance across medical coding guidelines, user feedback, and auditability.\nPartner directly with product, clinical, and revenue cycle experts to push the frontier of what AI can do inside the healthcare revenue cycle.\n\nWhat We're Looking For\n\nBachelor of Science in Computer Science/Software Engineering or related field\n3+ years in a technical role with a strong foundation in AI and data analysis or backend systems\n1+ years shipping production AI systems to end users\nExperience designing offline/online evaluations and landing agentic systems\nProficiency in Python\nThrives in a startup environment working on challenging problems\nHealthcare technology experience (EDI,HL7,FHIR) is a plus\n\nWhat We Offer\n\nFlexible paid time off (PTO)\nExpansive coverage for health, dental, and vision\nEmployer contribution to Health Savings Accounts (HSA)\nGenerous parental leave policy\nFull employee coverage for life insurance\nHome office stipend\nCell phone/internet reimbursement\nCompany-paid holidays\n401(K) plan\n\nCompensation\n\nBased on market data and other factors, the salary range for this position is $180,000-$250,000 + Equity. However, a salary higher or lower than this range may be appropriate for a candidate whose qualifications differ meaningfully from those listed in the job description.\n\nWe’re committed to doing the best work of our lives, together. Come see if we're the right team for you.\n\nAKASA is a proud equal opportunity employer and we believe that a diverse and inclusive workforce is an imperative. We welcome people of different backgrounds, genders, races, ethnicities, abilities, sexual orientations, and perspectives, just to name a few. We do not discriminate based upon any protected class and we encourage candidates of all identities and backgrounds to apply. AKASA considers qualified applicants regardless of criminal histories in accordance with the San Francisco Fair Chance Ordinance.\n\nAKASA is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at recruiting@akasa.com.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4470040568",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily applied AI/Python; there is no backend/server-side C#/.NET development evidence.",
       "validated": null
     }
   ]
