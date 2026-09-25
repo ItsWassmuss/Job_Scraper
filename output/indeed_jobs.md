@@ -1,38 +1,53 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-25 19:23 UTC*
+*Last updated: 2026-09-25 20:22 UTC*
 
-**6 new role(s)** since last run · 214 total in last 24h
+**9 new role(s)** since last run · 217 total in last 24h
 
-### [Application Engineer](https://nl.indeed.com/viewjob?jk=0c7d30c982a4c237) — Yokogawa
-- 📍 **Location:** Amersfoort, UT, NL
+### [Full Stack Developer (C#/.NET & Angular)](https://de.indeed.com/viewjob?jk=cf8cce55f47a9da5) — NeoGeo New Media GmbH
+- 📍 **Location:** Elmshorn, SH, DE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Frontend Developer (Angular)](https://de.indeed.com/viewjob?jk=f929d6508d6b3b82) — NeoGeo New Media GmbH
+- 📍 **Location:** Elmshorn, SH, DE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Backend Developer (C#/.NET)](https://de.indeed.com/viewjob?jk=fe0dac9ae2eec6bd) — NeoGeo New Media GmbH
+- 📍 **Location:** Elmshorn, SH, DE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [DevOps Engineer](https://de.indeed.com/viewjob?jk=ba7e4ed5e936de4a) — NeoGeo New Media GmbH
+- 📍 **Location:** Elmshorn, SH, DE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [QA Automation Engineer](https://uk.indeed.com/viewjob?jk=c4a0e93dfad75f93) — Softcat
+- 📍 **Location:** Manchester, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Senior DevOps Engineer](https://uk.indeed.com/viewjob?jk=e12773d4318afe45) — Insolvency Service
+- 📍 **Location:** Birmingham, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Project Engineer - Automation](https://uk.indeed.com/viewjob?jk=30791dcb27e4ea35) — University of Sheffield
-- 📍 **Location:** Blackburn, ENG, GB
+### [Senior Developer](https://uk.indeed.com/viewjob?jk=4c6871192f87d22a) — Insolvency Service
+- 📍 **Location:** Birmingham, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Jobshare Software engineer Assoc - Jobshare/Part - time](https://ie.indeed.com/viewjob?jk=529dcbcd9ca766c3) — JPMorganChase
-- 📍 **Location:** DUBLIN 2, D, IE
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-09-25
-
-### [Civil Environmental Engineer (Engineer Grade 2) - Barriers Mitigation Division](https://ie.indeed.com/viewjob?jk=013238b499e59359) — Inland Fisheries Ireland
+### [Software Engineer III](https://ie.indeed.com/viewjob?jk=227dd295ffd55afd) — Rakuten Kobo
 - 📍 **Location:** Dublin, D, IE
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Solution Architect](https://gr.indeed.com/viewjob?jk=8b9b6367e9103dc0) — EPAM Systems
-- 📍 **Location:** Αθήνα, GRI, GR
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-25
-
-### [Devops engineer állás](https://hu.indeed.com/viewjob?jk=4fe7f42d3c5f5482) — Bluebird International Zrt.
-- 📍 **Location:** Budapest, PE, HU
+### [Fullstack developer - Core Banking](https://be.indeed.com/viewjob?jk=d9234366578225f8) — DELEN PRIVATE BANK
+- 📍 **Location:** Antwerpen, VLG, BE
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
