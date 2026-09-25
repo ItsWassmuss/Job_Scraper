@@ -41173,6 +41173,105 @@
       "location": "Singapore, S00, SG",
       "canonical_url": "https://sg.indeed.com/viewjob?jk=2f7706fddbb5492b",
       "reported_at": "2026-09-25T13:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470093472",
+      "company": "Bosch Hungary",
+      "title": "Senior Fullstack Developer – .NET Core / Angular / React",
+      "location": "Budapest, Budapest, Hungary",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470093472/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4444496561",
+      "company": "Fluke Corporation",
+      "title": "Staff Software Engineer - hybrid",
+      "location": "Wrocław, Dolnośląskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4444496561/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4442636077",
+      "company": "GAMING1",
+      "title": "BACKEND ENGINEER - TECHNOLOGY DEPARTMENT (LIEGE-BELGIUM)",
+      "location": "Liège, Walloon Region, Belgium",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4442636077/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470157030",
+      "company": "Hays",
+      "title": "Senior Full Stack Engineer",
+      "location": "Cracow, Małopolskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470157030/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470153368",
+      "company": "LMW HR Group",
+      "title": "NET Developer (Junior / Mid-Level) | Hybrid",
+      "location": "Metamorfosi, Attiki, Greece",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470153368/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4331956948",
+      "company": "Medpace",
+      "title": "Senior Software Engineer",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4331956948/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4461146132",
+      "company": "Mountain Warehouse",
+      "title": "Senior Full Stack Developer (C#/React/TypeScript)  - REMOTE working",
+      "location": "United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4461146132/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4443901051",
+      "company": "StarHub",
+      "title": "Application Engineer",
+      "location": "Singapore, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4443901051/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4460496902",
+      "company": "Suvoda",
+      "title": "Software Developer II (C#, .NET)",
+      "location": "Iaşi, Iaşi, Romania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4460496902/",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "6c0a197413eb1ff5",
+      "company": "TATWEER MIDDLE EAST AND AFRICA L.L.C",
+      "title": "Senior Full Stack Developer",
+      "location": "Dubai, DU, AE",
+      "canonical_url": "https://ae.indeed.com/viewjob?jk=6c0a197413eb1ff5",
+      "reported_at": "2026-09-25T15:01:08+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "a940cbaa7d76f27d",
+      "company": "WIRE IT",
+      "title": "Full-Stack .NET Angular Developer",
+      "location": "Brussels, BRU, BE",
+      "canonical_url": "https://be.indeed.com/viewjob?jk=a940cbaa7d76f27d",
+      "reported_at": "2026-09-25T15:01:08+03:00"
     }
   ]
 }
