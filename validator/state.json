@@ -41636,6 +41636,69 @@
       "location": "Cardiff, Wales, United Kingdom",
       "canonical_url": "https://www.linkedin.com/jobs/view/4470146901/",
       "reported_at": "2026-09-25T16:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470154724",
+      "company": "Change Digital – Digital & Tech Recruitment",
+      "title": "Software Engineer",
+      "location": "Edinburgh, Scotland, United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470154724/",
+      "reported_at": "2026-09-25T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470096941",
+      "company": "Endava",
+      "title": "Full-Stack Software Engineer with OAuth",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470096941/",
+      "reported_at": "2026-09-25T19:01:07+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "8acdb8ae6e4960c6",
+      "company": "Future Publishing",
+      "title": "Senior .NET Engineer - Partner Integrations",
+      "location": "Cardiff, WLS, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=8acdb8ae6e4960c6",
+      "reported_at": "2026-09-25T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470302740",
+      "company": "Hays",
+      "title": "Software Developer (.NET / C#)",
+      "location": "Dublin, County Dublin, Ireland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470302740/",
+      "reported_at": "2026-09-25T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4463192427",
+      "company": "Julius Baer",
+      "title": "12 months Contract - C# Backend Developer (Through an External Agency Payroll Provider)",
+      "location": "Singapore, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4463192427/",
+      "reported_at": "2026-09-25T19:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4462837685",
+      "company": "MRM",
+      "title": "Senior Backend Developer (.NET)",
+      "location": "Bucharest, Bucharest, Romania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4462837685/",
+      "reported_at": "2026-09-25T19:01:07+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "02a0b8f72dc99ca4",
+      "company": "RENISHAW",
+      "title": "Full Stack Software Engineer",
+      "location": "Wotton-under-Edge, ENG, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=02a0b8f72dc99ca4",
+      "reported_at": "2026-09-25T19:01:07+03:00"
     }
   ]
 }
