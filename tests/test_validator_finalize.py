@@ -681,9 +681,13 @@ def test_pending_batch_creates_missing_open_marker(tmp_path):
     summary = finalize_batches(tmp_path, now=FIXED_TIME)
 
     marker = tmp_path / "validator/open_batches/20260921-001.open"
+    sidecar_marker = batch_path.with_suffix(".open")
     assert marker.read_text(encoding="utf-8") == "open\n"
+    assert sidecar_marker.read_text(encoding="utf-8") == "open\n"
     assert summary["markers_created"] == [marker]
+    assert summary["sidecar_markers_created"] == [sidecar_marker]
     assert summary["markers_removed"] == []
+    assert summary["sidecar_markers_removed"] == []
     assert _read(batch_path)["finalized"] is False
 
 
@@ -691,14 +695,18 @@ def test_completed_batch_removes_open_marker(tmp_path):
     _write_state(tmp_path, _state())
     batch_path = _write_batch(tmp_path, [_job(1, "REJECTED")])
     marker = tmp_path / "validator/open_batches/20260921-001.open"
+    sidecar_marker = batch_path.with_suffix(".open")
     marker.parent.mkdir(parents=True)
     marker.write_text("open\n", encoding="utf-8")
+    sidecar_marker.write_text("open\n", encoding="utf-8")
 
     summary = finalize_batches(tmp_path, now=FIXED_TIME)
 
     assert _read(batch_path)["finalized"] is True
     assert not marker.exists()
+    assert not sidecar_marker.exists()
     assert summary["markers_removed"] == [marker]
+    assert summary["sidecar_markers_removed"] == [sidecar_marker]
 
 
 def test_already_finalized_batch_removes_stale_open_marker(tmp_path):
@@ -708,10 +716,16 @@ def test_already_finalized_batch_removes_stale_open_marker(tmp_path):
         payload={"finalized": True, "jobs": "not validated again"},
     )
     marker = tmp_path / "validator/open_batches/20260921-001.open"
+    sidecar_marker = (
+        tmp_path / "validator/batches/20260921/001.open"
+    )
     marker.parent.mkdir(parents=True)
     marker.write_text("open\n", encoding="utf-8")
+    sidecar_marker.write_text("open\n", encoding="utf-8")
 
     summary = finalize_batches(tmp_path, now=FIXED_TIME)
 
     assert not marker.exists()
+    assert not sidecar_marker.exists()
     assert summary["markers_removed"] == [marker]
+    assert summary["sidecar_markers_removed"] == [sidecar_marker]

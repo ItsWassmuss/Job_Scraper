@@ -109,7 +109,14 @@ def test_builds_standard_jobs_from_top_level_jobs_only(tmp_path):
     assert summary["created_markers"] == [
         tmp_path / "validator/open_batches/20260920-001.open"
     ]
+    assert summary["created_sidecar_markers"] == [
+        tmp_path / "validator/batches/20260920/001.open"
+    ]
     assert summary["created_markers"][0].read_text(encoding="utf-8") == "open\n"
+    assert (
+        summary["created_sidecar_markers"][0].read_text(encoding="utf-8")
+        == "open\n"
+    )
     assert (indeed_path.read_bytes(), linkedin_path.read_bytes()) == source_bytes
 
 
@@ -328,4 +335,5 @@ def test_open_marker_collision_rolls_back_new_batch(tmp_path):
         prepare_batches(tmp_path, now=FIXED_HELSINKI_TIME)
 
     assert not (tmp_path / "validator/batches/20260920/001.json").exists()
+    assert not (tmp_path / "validator/batches/20260920/001.open").exists()
     assert marker.read_text(encoding="utf-8") == "existing\n"
