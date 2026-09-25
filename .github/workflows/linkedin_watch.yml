@@ -92,8 +92,10 @@ jobs:
           git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
           if [ "${{ github.event.inputs.backfill }}" != "true" ]; then
             new_batches="$RUNNER_TEMP/validator-new-batches.txt"
+            new_sidecar_markers="$RUNNER_TEMP/validator-new-sidecar-open-markers.txt"
             new_markers="$RUNNER_TEMP/validator-new-open-markers.txt"
             : > "$new_batches"
+            : > "$new_sidecar_markers"
             : > "$new_markers"
             if [ -d validator/batches ]; then
               while IFS= read -r -d '' batch; do
@@ -102,6 +104,14 @@ jobs:
                   git add -- "$batch"
                 fi
               done < <(find validator/batches -type f -name '[0-9][0-9][0-9].json' -print0)
+
+              while IFS= read -r -d '' marker; do
+                if [[ "$marker" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.open$ ]] \
+                  && ! git cat-file -e "FETCH_HEAD:$marker" 2>/dev/null; then
+                  printf '%s\n' "$marker" >> "$new_sidecar_markers"
+                  git add -- "$marker"
+                fi
+              done < <(find validator/batches -type f -name '[0-9][0-9][0-9].open' -print0)
             fi
 
             if [ -d validator/open_batches ]; then
@@ -123,6 +133,10 @@ jobs:
               mkdir -p -- "$(dirname "$batch")"
               git restore --worktree -- "$batch"
             done < "$new_batches"
+            while IFS= read -r marker; do
+              mkdir -p -- "$(dirname "$marker")"
+              git restore --worktree -- "$marker"
+            done < "$new_sidecar_markers"
 
             rm -rf -- validator/open_batches/
             if git cat-file -e HEAD:validator/open_batches 2>/dev/null; then

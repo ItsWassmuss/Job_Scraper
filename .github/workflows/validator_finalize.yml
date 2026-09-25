@@ -55,7 +55,8 @@ jobs:
 
           is_open_marker_path() {
             local path="$1"
-            [[ "$path" =~ ^validator/open_batches/[0-9]{8}-[0-9]{3}\.open$ ]]
+            [[ "$path" =~ ^validator/open_batches/[0-9]{8}-[0-9]{3}\.open$ \
+              || "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.open$ ]]
           }
 
           invalid_changes=0

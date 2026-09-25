@@ -118,6 +118,10 @@ def _open_marker_path(root: Path, batch_path: Path) -> Path:
     )
 
 
+def _sidecar_open_marker_path(batch_path: Path) -> Path:
+    return batch_path.with_suffix(".open")
+
+
 def _nonempty_string(value: Any) -> str | None:
     if isinstance(value, str) and value.strip():
         return value
@@ -464,7 +468,9 @@ def finalize_batches(
 
     pending_batches = 0
     pending_marker_paths: list[Path] = []
+    pending_sidecar_marker_paths: list[Path] = []
     stale_marker_paths: list[Path] = []
+    stale_sidecar_marker_paths: list[Path] = []
 
     # Validate every candidate batch before mutating state.
     for path in batch_paths:
@@ -477,10 +483,13 @@ def finalize_batches(
 
         finalized = payload.get("finalized")
         marker_path = _open_marker_path(root, path)
+        sidecar_marker_path = _sidecar_open_marker_path(path)
 
         if finalized is True:
             if marker_path.exists():
                 stale_marker_paths.append(marker_path)
+            if sidecar_marker_path.exists():
+                stale_sidecar_marker_paths.append(sidecar_marker_path)
             continue
 
         if finalized is not False:
@@ -529,6 +538,7 @@ def finalize_batches(
         ):
             pending_batches += 1
             pending_marker_paths.append(marker_path)
+            pending_sidecar_marker_paths.append(sidecar_marker_path)
             continue
 
         for index, job in enumerate(
@@ -657,6 +667,19 @@ def finalize_batches(
             handle.write("open\n")
         markers_created.append(marker_path)
 
+    sidecar_markers_created: list[Path] = []
+    for marker_path in pending_sidecar_marker_paths:
+        if marker_path.exists():
+            if not marker_path.is_file():
+                raise ValueError(
+                    f"{marker_path} must be a regular file"
+                )
+            continue
+
+        with marker_path.open("x", encoding="utf-8") as handle:
+            handle.write("open\n")
+        sidecar_markers_created.append(marker_path)
+
     markers_removed: list[Path] = []
     markers_to_remove = stale_marker_paths + [
         _open_marker_path(root, path)
@@ -672,6 +695,21 @@ def finalize_batches(
         marker_path.unlink()
         markers_removed.append(marker_path)
 
+    sidecar_markers_removed: list[Path] = []
+    sidecar_markers_to_remove = stale_sidecar_marker_paths + [
+        _sidecar_open_marker_path(path)
+        for path, _ in finalized_payloads
+    ]
+    for marker_path in sidecar_markers_to_remove:
+        if not marker_path.exists():
+            continue
+        if not marker_path.is_file():
+            raise ValueError(
+                f"{marker_path} must be a regular file"
+            )
+        marker_path.unlink()
+        sidecar_markers_removed.append(marker_path)
+
     return {
         "scanned_batches": len(batch_paths),
         "pending_batches": pending_batches,
@@ -681,7 +719,9 @@ def finalize_batches(
         ],
         "seen_added": seen_added,
         "markers_created": markers_created,
+        "sidecar_markers_created": sidecar_markers_created,
         "markers_removed": markers_removed,
+        "sidecar_markers_removed": sidecar_markers_removed,
     }
 
 
@@ -715,8 +755,18 @@ def _print_summary(
     )
 
     print(
+        f"Sidecar open markers created: "
+        f"{len(summary['sidecar_markers_created'])}"
+    )
+
+    print(
         f"Open markers removed: "
         f"{len(summary['markers_removed'])}"
+    )
+
+    print(
+        f"Sidecar open markers removed: "
+        f"{len(summary['sidecar_markers_removed'])}"
     )
 
     if summary["finalized_files"]:

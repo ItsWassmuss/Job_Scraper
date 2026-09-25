@@ -310,6 +310,7 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
 
     created_files: list[Path] = []
     created_markers: list[Path] = []
+    created_sidecar_markers: list[Path] = []
     if ready_jobs:
         day_dir.mkdir(parents=True, exist_ok=True)
         open_batch_root.mkdir(parents=True, exist_ok=True)
@@ -320,6 +321,7 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
             if largest_batch_number > 999:
                 raise RuntimeError(f"No three-digit batch numbers remain in {day_dir}")
             path = day_dir / f"{largest_batch_number:03d}.json"
+            sidecar_marker_path = path.with_suffix(".open")
             marker_path = open_batch_root / f"{day}-{largest_batch_number:03d}.open"
             batch_jobs = ready_jobs[offset:offset + BATCH_SIZE]
             payload = {
@@ -330,6 +332,7 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
             }
 
             batch_created = False
+            sidecar_marker_created = False
             marker_created = False
             try:
                 batch_handle = path.open("x", encoding="utf-8")
@@ -338,6 +341,13 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
                     json.dump(payload, batch_handle, indent=2, ensure_ascii=False)
                     batch_handle.write("\n")
 
+                sidecar_marker_handle = sidecar_marker_path.open(
+                    "x", encoding="utf-8"
+                )
+                sidecar_marker_created = True
+                with sidecar_marker_handle:
+                    sidecar_marker_handle.write("open\n")
+
                 marker_handle = marker_path.open("x", encoding="utf-8")
                 marker_created = True
                 with marker_handle:
@@ -345,11 +355,14 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
             except Exception:
                 if marker_created and marker_path.exists():
                     marker_path.unlink()
+                if sidecar_marker_created and sidecar_marker_path.exists():
+                    sidecar_marker_path.unlink()
                 if batch_created and path.exists():
                     path.unlink()
                 raise
 
             created_files.append(path)
+            created_sidecar_markers.append(sidecar_marker_path)
             created_markers.append(marker_path)
 
     summary = {
@@ -364,6 +377,7 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
         "ready": len(ready_jobs),
         "created_files": created_files,
         "created_markers": created_markers,
+        "created_sidecar_markers": created_sidecar_markers,
     }
     return summary
 
@@ -390,8 +404,13 @@ def _print_summary(summary: dict[str, Any], root: Path = REPO_ROOT) -> None:
         marker_names = [
             str(path.relative_to(root)) for path in summary["created_markers"]
         ]
+        sidecar_marker_names = [
+            str(path.relative_to(root))
+            for path in summary["created_sidecar_markers"]
+        ]
         print(f"Batch files: {', '.join(names)}")
         print(f"Open markers: {', '.join(marker_names)}")
+        print(f"Sidecar open markers: {', '.join(sidecar_marker_names)}")
     else:
         print("No new jobs available for batching.")
 
