@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-25T13:57:59+03:00",
   "job_count": 62,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Experimentelles Software Engineering",
