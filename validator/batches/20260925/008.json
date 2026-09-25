@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-25T14:41:33+03:00",
   "job_count": 31,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "NN GROUP",
