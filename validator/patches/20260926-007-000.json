@@ -1,1 +1,0 @@
-{"schema_version":1,"batch":"validator/batches/20260926/007.json","results":[{"index":0,"source":"LinkedIn","job_id":"4463381337","url":"https://www.linkedin.com/jobs/view/4463381337/","status":"REJECTED","reason":"TECHNOLOGY_ROLE: role is primarily platform automation/CI/CD and infrastructure tooling, not backend/server-side C#/.NET development.","validated":null}]}
