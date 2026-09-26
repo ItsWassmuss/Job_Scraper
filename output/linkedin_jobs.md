@@ -1,24 +1,20 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-26 20:37 UTC*
+*Last updated: 2026-09-26 21:34 UTC*
 
-**5 new role(s)** since last run · 79 total in last 6h
+**4 new role(s)** since last run · 55 total in last 6h
 
-### [IT Support Engineer with German](https://www.linkedin.com/jobs/view/4454012658/) — Inetum
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Senior Softwareentwickler (m/w/d) .NET / Fullstack & Database Migration](https://www.linkedin.com/jobs/view/4471064621/) — APRIORI - business solutions AG
+- 📍 **Location:** Memmingen, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-26
 
-### [Engineering Manager - Database (Hybrid remote)](https://www.linkedin.com/jobs/view/4436363834/) — Auctane
-- 📍 **Location:** Zielona Góra, Lubuskie, Poland
+### [Enterprise Architect](https://www.linkedin.com/jobs/view/4470315623/) — Northern
+- 📍 **Location:** York, England, United Kingdom
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior .NET Architect](https://www.linkedin.com/jobs/view/4468241994/) — Methodius IT Recruitment
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Senior AI Engineer – Agentic Systems](https://www.linkedin.com/jobs/view/4464369191/) — ABB
+- 📍 **Location:** Cracow Metropolitan Area
 - 🕒 **Posted:** 2026-09-26
 
-### [Software Development Engineer, RDS SQL Server](https://www.linkedin.com/jobs/view/4463678014/) — Amazon Web Services (AWS)
-- 📍 **Location:** Dublin, County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-26
-
-### [Technical Architect Power Platform CE](https://www.linkedin.com/jobs/view/4417119919/) — HSO
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
+### [(Senior) Software Engineer (Customer Identity) (m/f/d)](https://www.linkedin.com/jobs/view/4472411310/) — Riverty
+- 📍 **Location:** Stockholm, Stockholm County, Sweden
 - 🕒 **Posted:** 2026-09-26
