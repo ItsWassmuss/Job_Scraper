@@ -1,32 +1,50 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-26 08:23 UTC*
+*Last updated: 2026-09-26 09:22 UTC*
 
-**5 new role(s)** since last run · 221 total in last 24h
+**8 new role(s)** since last run · 190 total in last 24h
 
-### [Software Engineer – SECS/GEM & Factory Automation](https://sg.indeed.com/viewjob?jk=46047f0176fcfcd9) — INSPHERE TECHNOLOGY PTE. LTD.
-- 📍 **Location:** City Hall, S00, SG
+### [Senior Product Development Engineer](https://uk.indeed.com/viewjob?jk=d5aed3d3fbdb07a5) — Grundfos Pumps
+- 📍 **Location:** Tadworth, ENG, GB
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-26
 
-### [Software Validation Engineer](https://sg.indeed.com/viewjob?jk=dc0d3a92746ae189) — ASIA SEARCH PTE. LTD.
-- 📍 **Location:** Outram, S00, SG
+### [Software Engineer (.NET/SQL Server)](https://sg.indeed.com/viewjob?jk=1aca0d099332b25a) — SECUR FOUNDRY PTE. LTD.
+- 📍 **Location:** Woodlands, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [SOFTWARE ENGINEER](https://sg.indeed.com/viewjob?jk=3dca30bae75a12de) — Unknown
-- 📍 **Location:** Ang Mo Kio, S00, SG
+### [Digital Engineer](https://sg.indeed.com/viewjob?jk=a4a36f0c6624530f) — WEIMA BUILDERS PTE. LTD.
+- 📍 **Location:** Serangoon, S00, SG
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Dynamics 365 CRM Developer](https://sg.indeed.com/viewjob?jk=545ec3f5c089f7d9) — AVATAR MODERN TECHNO SERVICES PTE. LTD.
-- 📍 **Location:** Outram, S00, SG
+### [Software Engineer, Full Stack - #1651](https://sg.indeed.com/viewjob?jk=b1af18d19d02bcf4) — JOBSTER PRIVATE LTD.
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-09-25
+
+### [Cloud Platforms Advisory Systems Engineer](https://sg.indeed.com/viewjob?jk=869e33673fa2956e) — Dell Technologies
+- 📍 **Location:** Bedok, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Dynamics 365 CRM Developer](https://sg.indeed.com/viewjob?jk=68be70a6a3fa3dcb) — AVN DIGITAL PTE. LTD.
+- 📍 **Location:** Ang Mo Kio, S00, SG
 - **Work mode:** On-site
 - **Job type:** contract
 - 🕒 **Posted:** 2026-09-25
 
-### [Software developer– Semiconductor Test (C#, C++, .NET)](https://sg.indeed.com/viewjob?jk=51b88f63054f6220) — INFRASOFT TECHNOLOGIES PTE LTD
+### [Dynamics 365 CRM Developer](https://sg.indeed.com/viewjob?jk=aef5011228a44d90) — AVENSYS SERVICES PTE. LTD.
+- 📍 **Location:** Ang Mo Kio, S00, SG
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Developer – Semiconductor Test (C#, C++, .NET](https://sg.indeed.com/viewjob?jk=ce300943857f6664) — INFRASOFT TECHNOLOGIES PTE LTD
 - 📍 **Location:** Tanjong Pagar, S00, SG
 - **Work mode:** On-site
 - **Job type:** contract
