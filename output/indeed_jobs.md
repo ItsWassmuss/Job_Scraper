@@ -1,34 +1,33 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-26 07:23 UTC*
+*Last updated: 2026-09-26 08:23 UTC*
 
-**5 new role(s)** since last run · 219 total in last 24h
+**5 new role(s)** since last run · 221 total in last 24h
 
-### [Senior Backend Developer](https://uk.indeed.com/viewjob?jk=a92debe0d809d09a) — The Granite Group
-- 📍 **Location:** Liverpool, ENG, GB
+### [Software Engineer – SECS/GEM & Factory Automation](https://sg.indeed.com/viewjob?jk=46047f0176fcfcd9) — INSPHERE TECHNOLOGY PTE. LTD.
+- 📍 **Location:** City Hall, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-26
 
-### [Backend Developer](https://uk.indeed.com/viewjob?jk=dcc8c3977ff5ca77) — The Granite Group
-- 📍 **Location:** Liverpool, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Solutions Consultant](https://uk.indeed.com/viewjob?jk=b59e40f600180198) — Zones
-- 📍 **Location:** London, ENG, GB
+### [Software Validation Engineer](https://sg.indeed.com/viewjob?jk=dc0d3a92746ae189) — ASIA SEARCH PTE. LTD.
+- 📍 **Location:** Outram, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Integration Specialist](https://es.indeed.com/viewjob?jk=00a19a0dd22cc77c) — Accenture
-- 📍 **Location:** Madrid, MD, ES
+### [SOFTWARE ENGINEER](https://sg.indeed.com/viewjob?jk=3dca30bae75a12de) — Unknown
+- 📍 **Location:** Ang Mo Kio, S00, SG
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Integration Specialist](https://es.indeed.com/viewjob?jk=3cbab6566d08c55f) — Accenture
-- 📍 **Location:** Barcelona, CT, ES
+### [Dynamics 365 CRM Developer](https://sg.indeed.com/viewjob?jk=545ec3f5c089f7d9) — AVATAR MODERN TECHNO SERVICES PTE. LTD.
+- 📍 **Location:** Outram, S00, SG
 - **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** contract
+- 🕒 **Posted:** 2026-09-25
+
+### [Software developer– Semiconductor Test (C#, C++, .NET)](https://sg.indeed.com/viewjob?jk=51b88f63054f6220) — INFRASOFT TECHNOLOGIES PTE LTD
+- 📍 **Location:** Tanjong Pagar, S00, SG
+- **Work mode:** On-site
+- **Job type:** contract
 - 🕒 **Posted:** 2026-09-25
