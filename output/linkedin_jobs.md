@@ -1,60 +1,52 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-26 13:40 UTC*
+*Last updated: 2026-09-26 14:39 UTC*
 
-**14 new role(s)** since last run · 92 total in last 6h
+**12 new role(s)** since last run · 104 total in last 6h
 
-### [Full Stack Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4470560505/) — esveo
-- 📍 **Location:** Dresden, Saxony, Germany
+### [Solution Architect](https://www.linkedin.com/jobs/view/4445313025/) — Aon
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior Web Developer - Tools](https://www.linkedin.com/jobs/view/4417064701/) — Rockstar Games
-- 📍 **Location:** Dundee, Scotland, United Kingdom
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4406542359/) — JTI
+- 📍 **Location:** Bucharest, Bucharest, Romania
 - 🕒 **Posted:** 2026-09-26
 
-### [Consulting Solution Architect](https://www.linkedin.com/jobs/view/4451240474/) — Atos
-- 📍 **Location:** England, United Kingdom
+### [MES Implementation Architect](https://www.linkedin.com/jobs/view/4453254921/) — Accenture Romania
+- 📍 **Location:** Cluj-Napoca, Cluj, Romania
 - 🕒 **Posted:** 2026-09-26
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4444008566/) — Tripadvisor
-- 📍 **Location:** Oxford, England, United Kingdom
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4435447078/) — Kaizen Gaming
+- 📍 **Location:** Thessaloniki Metropolitan Area
 - 🕒 **Posted:** 2026-09-26
 
-### [Software Developer – API & AI/LLM](https://www.linkedin.com/jobs/view/4454823215/) — HBK - Hottinger Brüel & Kjær
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Développeur C#.Net Confirmé H/F](https://www.linkedin.com/jobs/view/4237029854/) — Extia
+- 📍 **Location:** Liège, Walloon Region, Belgium
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior Sinequa Search Specialist / Sinequa Developer - Praca zdalna K/M](https://www.linkedin.com/jobs/view/4461184399/) — Astek
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Data Architect](https://www.linkedin.com/jobs/view/4454584721/) — Keyrus
+- 📍 **Location:** Brussels, Brussels Region, Belgium
 - 🕒 **Posted:** 2026-09-26
 
-### [Principal Engineer - Service Delivery/IX Platform](https://www.linkedin.com/jobs/view/4425842659/) — Sabre
-- 📍 **Location:** Cracow, Małopolskie, Poland
+### [(Senior) Fullstack Developer (m/f/d) - Tieto Tech Consulting](https://www.linkedin.com/jobs/view/4454541077/) — Tieto
+- 📍 **Location:** Linz, Upper Austria, Austria
 - 🕒 **Posted:** 2026-09-26
 
-### [Software Engineer (C#/.Net) (m/f/d)](https://www.linkedin.com/jobs/view/4459312698/) — Riverty
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
+### [(Senior) Fullstack Developer (m/f/d) - Tieto Tech Consulting](https://www.linkedin.com/jobs/view/4454534173/) — Tieto
+- 📍 **Location:** Vienna, Vienna, Austria
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior .NET utvecklare](https://www.linkedin.com/jobs/view/4461990719/) — Skandia
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
+### [Full Stack Developer](https://www.linkedin.com/jobs/view/4470563374/) — Ria Money Transfer
+- 📍 **Location:** Alcobendas, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-09-26
 
-### [Senior .NET-utvecklare – API & tekniskt ledarskap](https://www.linkedin.com/jobs/view/4463643236/) — CGI
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
+### [Software Engineer, Windows (VPN)](https://www.linkedin.com/jobs/view/4366602190/) — Proton
+- 📍 **Location:** Barcelona, Catalonia, Spain
 - 🕒 **Posted:** 2026-09-26
 
-### [MS Dynamics 365 CE/Power Platform-konsulenter – funksjonelle og tekniske profiler](https://www.linkedin.com/jobs/view/4427095048/) — CGI
-- 📍 **Location:** Oslo, Oslo, Norway
+### [.Net Developer](https://www.linkedin.com/jobs/view/4472291049/) — Bee Engineering ICT
+- 📍 **Location:** Lisbon, Lisbon, Portugal
 - 🕒 **Posted:** 2026-09-26
 
-### [Solution Engineer, Data & AI](https://www.linkedin.com/jobs/view/4472287147/) — Microsoft
-- 📍 **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- 🕒 **Posted:** 2026-09-26
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4426384502/) — SteelSeries
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-09-26
-
-### [GIS Developer (Scale-Up Phase / Air Defense Command & Control Systems)](https://www.linkedin.com/jobs/view/4432702102/) — Atos
-- 📍 **Location:** Çankaya, Ankara, Türkiye
+### [Senior Solution Architect](https://www.linkedin.com/jobs/view/4416126717/) — Cognite
+- 📍 **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-09-26
