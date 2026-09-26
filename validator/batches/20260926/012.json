@@ -14,9 +14,20 @@
       "description": "***Full English proficiency required***\n\nProxima is an American company with offices in Latin America that provides IT and operational services to the insurance industry. We are looking for a Software Engineer for one of our client companies\n\nAs a Software Engineer (.Net Developer), you will be responsible for overall product development. You will be managing day-to-day development activities on targeted accounts and/or targeted areas of functionality within a team environment.\n\nESSENTIAL JOB FUNCTIONS:\nDevelop web applications according to specifications or business requirements.\nAbility to analyze business requirements and translate these into web design documents and technical specifications.\nAbility to work with a diverse project team, including .Net Developers, Database Developers, QA Staff, Business Analysts, and Project Managers.\nMaintain and debug existing web modules.\nPerform unit testing of modifications and enhancements to ensure system integrity.\nUnderstands Insuresoft’s products, release schedules, organizational structure and business goals/objectives.\nDevelops a working knowledge of product, including its configurability options and available functionality.\nUtilizes internal defect tracking software as projects are completed and on an ongoing basis as required.\nRelies on broad experience and judgment to plan and accomplish goals.\nRequires a certain degree of creativity or latitude to accomplish position responsibilities.\nPerforms other duties as assigned.\n\nCOMPETENCY & EDUCATION SPECIFICATIONS:\nB.A./B.S. in Computer Science or related discipline and/or equivalent, relevant work experience.\nMicrosoft Developer Certification or graduate degree is a plus!\n3+ years experience in the following programming language(s)/operating platforms ~ ASP/ASP.Net, C#, VB.Net, & SQL Server\nDocumented experience programming in a Windows environment is required.\nKnowledge of various software development life cycle models.\nExperience working with solutions geared towards the insurance industry preferred.\nExcellent organizational, written, and communication skills.\nStrong problem solving and analytical skills.\nAbility to reason logically and provide solutions.\nStrong work ethic and the ability to deliver solutions under deadlines.\n\nENVIRONMENT & PHYSICAL DEMANDS:\nWorks 40+ hours per week.\nAvailability to be ‘on call’ or work after hours on occasion, as required.\n\nBENEFITS:\nStarting salary $2,400/mo, plus benefits\nGrowth opportunities in an international organization\n100% remote work.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInsurance",
       "source": "LinkedIn",
       "job_id": "4472403131",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote",
+        "required_experience": "3+ years experience in ASP/ASP.Net, C#, VB.Net, & SQL Server",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software Engineer (.Net Developer) developing and maintaining web applications using ASP/ASP.Net, C#, VB.Net, and SQL Server.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4472403131/"
+      }
     }
   ]
 }
