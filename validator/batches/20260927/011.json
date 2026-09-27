@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-27T19:36:17+03:00",
   "job_count": 7,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Exceltech Computers Pte. Ltd.",
