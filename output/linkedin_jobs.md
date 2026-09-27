@@ -1,40 +1,44 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-27 16:36 UTC*
+*Last updated: 2026-09-27 17:37 UTC*
 
-**9 new role(s)** since last run · 48 total in last 6h
+**10 new role(s)** since last run · 44 total in last 6h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4453912464/) — Siemens eMobility
-- 📍 **Location:** Eindhoven, North Brabant, Netherlands
+### [Software Engineer - Angular/.net (m/w/d)](https://www.linkedin.com/jobs/view/4471302230/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-27
 
-### [Real Time Motion Platform Software Designer](https://www.linkedin.com/jobs/view/4436471765/) — Sioux Technologies
-- 📍 **Location:** Eindhoven, North Brabant, Netherlands
+### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4471093582/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-09-27
 
-### [Fullstack Software Developer](https://www.linkedin.com/jobs/view/4387290896/) — HDI Group
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4471097277/) — Sano - Moderne Tierernährung GmbH
+- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
 - 🕒 **Posted:** 2026-09-27
 
-### [(Senior) CRM Solution Architect (m/w/d)](https://www.linkedin.com/jobs/view/4408829602/) — Houses of KaDeWe
-- 📍 **Location:** Berlin, Germany
+### [CT Engineering - Software Engineer](https://www.linkedin.com/jobs/view/4435254169/) — EY
+- 📍 **Location:** Katowice, Śląskie, Poland
 - 🕒 **Posted:** 2026-09-27
 
-### [Software Architekt - Digital Health Excellence Center (w/m/d)](https://www.linkedin.com/jobs/view/4385086319/) — EY
-- 📍 **Location:** Eschborn, Hesse, Germany
+### [Integration Architect](https://www.linkedin.com/jobs/view/4417712204/) — Norrin
+- 📍 **Location:** Helsinki Metropolitan Area
 - 🕒 **Posted:** 2026-09-27
 
-### [Software Architekt - Digital Health Excellence Center (w/m/d)](https://www.linkedin.com/jobs/view/4385085342/) — EY
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
+### [Senior .NET Software Developer](https://www.linkedin.com/jobs/view/4472441938/) — HR Design Consulting
+- 📍 **Location:** Bucharest, Romania
 - 🕒 **Posted:** 2026-09-27
 
-### [Solution Architect](https://www.linkedin.com/jobs/view/4444677017/) — Carglass® España
-- 📍 **Location:** Mollet del Vallès, Catalonia, Spain
+### [Senior Software Developer - GeoDefence](https://www.linkedin.com/jobs/view/4472444972/) — HR Design Consulting
+- 📍 **Location:** Bucharest, Romania
 - 🕒 **Posted:** 2026-09-27
 
-### [Microsoft Dynamics 365/CRM (.Net Developer)](https://www.linkedin.com/jobs/view/4435454375/) — emagine
-- 📍 **Location:** Lisbon, Lisbon, Portugal
+### [Senior Architect – Cloud and AI](https://www.linkedin.com/jobs/view/4441578191/) — Concentrix
+- 📍 **Location:** Cluj, Romania
 - 🕒 **Posted:** 2026-09-27
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4470819155/) — insightix
-- 📍 **Location:** Riyadh, Saudi Arabia
+### [Full-stack Developer .NET / Angular](https://www.linkedin.com/jobs/view/4454596185/) — ITS Group Benelux
+- 📍 **Location:** Melle, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-09-27
+
+### [Solution Architect Customer Engagement D365](https://www.linkedin.com/jobs/view/4417127815/) — HSO
+- 📍 **Location:** Ghent, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-09-27
