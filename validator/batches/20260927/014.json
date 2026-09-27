@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5aeb645d65696a6e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily DevOps/infrastructure; .NET is only listed as a plus.",
       "validated": null
     }
   ]
