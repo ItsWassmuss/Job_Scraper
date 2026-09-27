@@ -1,10 +1,10 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-27 07:23 UTC*
+*Last updated: 2026-09-27 09:24 UTC*
 
-**1 new role(s)** since last run · 61 total in last 24h
+**1 new role(s)** since last run · 56 total in last 24h
 
-### [Senior Embedded Software Engineer](https://uk.indeed.com/viewjob?jk=76686e26f240dc17) — Videojet Technologies
-- 📍 **Location:** Nottingham, ENG, GB
+### [Software Development Engineer, AWS Security](https://uk.indeed.com/viewjob?jk=70e6ab85040e0e1f) — Amazon.com
+- 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-17
