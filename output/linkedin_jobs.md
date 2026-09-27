@@ -1,44 +1,48 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-27 02:33 UTC*
+*Last updated: 2026-09-27 07:33 UTC*
 
-**10 new role(s)** since last run · 11 total in last 6h
+**11 new role(s)** since last run · 13 total in last 6h
 
-### [Software Entwickler*in C# (all genders)](https://www.linkedin.com/jobs/view/4470589123/) — INTEX EDV-Software GmbH
-- 📍 **Location:** Saarbrücken, Saarland, Germany
+### [Software Engineer Systemen](https://www.linkedin.com/jobs/view/4472429282/) — Eekels Technology B.V.
+- 📍 **Location:** Emmen, Drenthe, Netherlands
 - 🕒 **Posted:** 2026-09-27
 
-### [Azure Cloud Engineer (gn)](https://www.linkedin.com/jobs/view/4471075488/) — SoftwareOne Deutschland GmbH
-- 📍 **Location:** Leipzig, Saxony, Germany
-- 🕒 **Posted:** 2026-09-27
-
-### [Senior Software Engineer, Post-Trade (8E4C70D)](https://www.linkedin.com/jobs/view/4472414388/) — Referment
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-27
-
-### [.NET Developer/ Azure](https://www.linkedin.com/jobs/view/4471089059/) — Shokworks, Inc.
-- 📍 **Location:** Dominican Republic
-- 🕒 **Posted:** 2026-09-27
-
-### [Back-End Software Engineer](https://www.linkedin.com/jobs/view/4472408937/) — Xe.com
-- 📍 **Location:** Alcobendas, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-09-27
-
-### [Full Stack Software Engineer (Senior)](https://www.linkedin.com/jobs/view/4472430026/) — Xe.com
-- 📍 **Location:** Alcobendas, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-09-27
-
-### [Fullstack Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4467896655/) — Halian | Managed Services, Recruitment Agency & Contract Staffing
-- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
-- 🕒 **Posted:** 2026-09-27
-
-### [Solutions Architect (Presales)](https://www.linkedin.com/jobs/view/4470577408/) — Socium - Teams Done Differently
-- 📍 **Location:** Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-09-27
-
-### [AI Software Engineer](https://www.linkedin.com/jobs/view/4471060937/) — Haystack
+### [Software Entwickler Fullstack (m/w/d)](https://www.linkedin.com/jobs/view/4470587579/) — Xivotec GmbH
 - 📍 **Location:** Germany
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-27
 
-### [DevOps-medarbejder til .NET løsninger](https://www.linkedin.com/jobs/view/4472412570/) — Fødevarestyrelsen
-- 📍 **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- 🕒 **Posted:** 2026-09-26
+### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4471079546/) — Sano - Moderne Tierernährung GmbH
+- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4472418898/) — TaskVerse
+- 📍 **Location:** Germany
+- 🕒 **Posted:** 2026-09-27
+
+### [PreSales Solution Architect (Azure) (m/w/d)](https://www.linkedin.com/jobs/view/4471090212/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4470585580/) — Know How Resourcing
+- 📍 **Location:** Manchester, England, United Kingdom
+- 🕒 **Posted:** 2026-09-27
+
+### [Forward-Deployed AI Engineer (Internship or Full-Time, Dublin)](https://www.linkedin.com/jobs/view/4472436218/) — Gemmo AI
+- 📍 **Location:** Dublin, County Dublin, Ireland
+- 🕒 **Posted:** 2026-09-27
+
+### [Expert Software Engineer](https://www.linkedin.com/jobs/view/4470590612/) — Fineksus
+- 📍 **Location:** Sariyer, Istanbul, Türkiye
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Engineer (.NET)](https://www.linkedin.com/jobs/view/4472419632/) — Torentify
+- 📍 **Location:** Switzerland
+- 🕒 **Posted:** 2026-09-27
+
+### [Back End Developer](https://www.linkedin.com/jobs/view/4472420616/) — Torentify
+- 📍 **Location:** Switzerland
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4472426461/) — Torentify
+- 📍 **Location:** Switzerland
+- 🕒 **Posted:** 2026-09-27
