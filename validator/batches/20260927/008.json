@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-27T16:36:06+03:00",
   "job_count": 10,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Computer konkret AG",
