@@ -45790,6 +45790,33 @@
       "location": "Al Asimah, Kuwait",
       "canonical_url": "https://www.linkedin.com/jobs/view/4470598368/",
       "reported_at": "2026-09-27T13:01:00+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4445234570",
+      "company": "CGI",
+      "title": "Senior Full Stack Software Engineer (.NET / TypeScript)",
+      "location": "Bristol, England, United Kingdom",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4445234570/",
+      "reported_at": "2026-09-27T21:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "57ff4a5566b55ab0",
+      "company": "Exceltech Computers Pte. Ltd.",
+      "title": "Full Stack Developer",
+      "location": "Bedok, S00, SG",
+      "canonical_url": "https://sg.indeed.com/viewjob?jk=57ff4a5566b55ab0",
+      "reported_at": "2026-09-27T21:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4401107644",
+      "company": "Extia",
+      "title": "Staff Backend Software Engineer",
+      "location": "Lisboa, Lisbon, Portugal",
+      "canonical_url": "https://www.extia-group.com/pt-en/join-us/Staff-Backend-Software-Engineer",
+      "reported_at": "2026-09-27T21:01:04+03:00"
     }
   ]
 }
