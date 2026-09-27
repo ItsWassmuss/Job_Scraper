@@ -1,1 +1,0 @@
-{"schema_version":1,"batch":"validator/batches/20260926/015.json","results":[{"index":0,"source":"LinkedIn","job_id":"4472294600","url":"https://www.linkedin.com/jobs/view/4472294600/","status":"REJECTED","reason":"TECHNOLOGY_ROLE: C#/.NET is described as particularly valuable rather than required/primary backend technology.","validated":null}]}
