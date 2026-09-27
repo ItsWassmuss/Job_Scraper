@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-09-27T23:34:21+03:00",
+  "job_count": 1,
+  "finalized": false,
+  "jobs": [
+    {
+      "company": "Social Value Portal",
+      "title": "Growth Operations Engineer",
+      "location": "Remote, GB",
+      "url": "https://uk.indeed.com/viewjob?jk=5aeb645d65696a6e",
+      "direct_url": "http://uk.indeed.com/job/growth-operations-engineer-5aeb645d65696a6e",
+      "company_url": "https://uk.indeed.com/cmp/Social-Value-Portal",
+      "date_posted": "2026-09-27",
+      "description": "**Job Summary**\n\nWe are seeking a dynamic and detail\\-oriented Growth Operations Engineer to join our innovative team. In this role, you will be at the forefront of optimizing our technical infrastructure, ensuring seamless deployment, scaling, and maintenance of our growth\\-focused platforms. Your expertise will drive efficiency, reliability, and scalability across our cloud and on\\-premises environments, empowering us to accelerate user engagement and business expansion. If you thrive in a fast\\-paced environment and possess a passion for cutting\\-edge technology, this is your opportunity to make a significant impact.\n\n**Responsibilities**\n\n* Design, implement, and manage scalable cloud infrastructure using tools such as AWS, Azure, Google Cloud Platform, and OpenStack to support growth initiatives.\n* Automate deployment pipelines with Jenkins, GitLab CI/CD, Terraform, Ansible, Chef, Puppet, and Shell Scripting to streamline software releases and updates.\n* Monitor system performance and troubleshoot issues proactively using tools like New Relic, Splunk, Elasticsearch, and Nagios to ensure high availability.\n* Collaborate with development teams on microservices architecture utilizing Docker, Kubernetes, Weblogic, JBoss, Tomcat, WebSphere, and REST APIs for efficient service delivery.\n* Maintain configuration management and version control using SVN, GitHub, GitLab, TFS, or similar platforms to ensure consistency across environments.\n* Conduct disaster recovery planning and implement strategies to safeguard data integrity and system resilience in cloud and on\\-premises setups.\n* Support software development lifecycle (SDLC), including system testing, debugging, release management, and continuous integration practices.\n\n**Requirements**\n\n* Proven experience with cloud computing platforms such as AWS (Amazon Web Services), Microsoft Azure or Google Cloud Platform.\n* Strong knowledge of virtualization technologies including VMware and Virtualization concepts.\n* Hands\\-on experience with containerization tools like Docker and Kubernetes for deploying scalable applications.\n* Proficiency in scripting languages such as Python, PowerShell, Bash (Unix shell), Groovy or Perl for automation tasks.\n* Familiarity with database systems including MySQL, Microsoft SQL Server, Oracle Database or T\\-SQL for data management.\n* Understanding of networking fundamentals including TCP/IP protocols, firewalls, DNS, WAN/LAN configurations and TCP socket programming.\n* Experience with DevOps practices such as continuous integration/continuous deployment (CI/CD), release management and system testing.\n* Knowledge of software development frameworks like Ruby on Rails or.NET is a plus.\n* Ability to gather requirements effectively through collaboration with cross\\-functional teams in an Agile/Scrum environment.\n* Strong troubleshooting skills combined with a proactive approach to incident management and system optimization.\n\nJoin us as a Growth Operations Engineer to help shape the future of our platform’s scalability and reliability! We are committed to fostering an inclusive environment where innovation thrives—empowering you to grow your skills while making a meaningful impact on our business growth journey.\n\nPay: £26,672\\.47\\-£66,428\\.64 per year\n\nApplication question(s):\n\n* Please create a 60\\-second introduction video highlighting your experience, relevant skills, and professional background, then upload the video and paste the shareable link here.\n\nWork Location: Remote",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "5aeb645d65696a6e",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
