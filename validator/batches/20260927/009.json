@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-27T17:37:23+03:00",
   "job_count": 7,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Lumera",
