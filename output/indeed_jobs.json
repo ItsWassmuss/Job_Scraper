@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27 12:21 UTC",
-  "total": 56,
+  "scraped_at": "2026-09-27 13:24 UTC",
+  "total": 55,
   "new_count": 0,
   "jobs": [
     {
@@ -937,24 +937,6 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "One Big Circle",
-      "title": "Junior Application Software Engineer",
-      "location": "Bristol, ENG, GB",
-      "url": "https://uk.indeed.com/viewjob?jk=72290eada2672279",
-      "direct_url": "http://uk.indeed.com/job/junior-application-software-engineer-72290eada2672279",
-      "company_url": "https://uk.indeed.com/cmp/One-Big-Circle",
-      "date_posted": "2026-09-26",
-      "description": "**Junior Application Software Engineer**\n\n**£26\\.5k \\- £32k**\n\n**Bristol**\n\n**About One Big Circle**\n\n***Be part of an award\\-winning workplace: The Sunday Times Best Medium\\-sized Technology Company 2025***\n\nFormed in 2017, One Big Circle is a fast\\-growing Bristol technology company that provides “Intelligent Video” solutions. We focus entirely on solving real\\-world industry problems by fusing new technology in the field of Video, IOT, Cloud and AI providing end to end solutions which allow our customers to dramatically improve their operational efficiency and safety. Our culture is one of high\\-quality technical delivery and we work at a speed that many industries are unaccustomed to; we have done this by building a team dynamic that challenges and empowers our people and creating an environment where everyone contributes and learns. We are growing, profitable and have ambitious plans to continue expansion in and beyond our existing markets.\n\nWe are looking for a proactive and motivated individual to join our team to support the business.\n\nWe have built a culture where people feel supported, included, and empowered to do their best work. Our team is growing, and we’d love for you to be part of the journey.\n\n**Role Summary**\n\nAn exciting opportunity to kick\\-start your career as a **junior software engineer** in a fast\\-growing, office\\-based, hands\\-on team. This role is ideal if you enjoy being a **broad generalist** \\- someone who likes connecting systems, figuring out how different technologies work together, and building practical solutions that make things happen.\n\nYou’ll be working across a range of projects and products, helping to integrate services, move data between systems, and turn complex processes into reliable, working software. We don’t expect you to know everything upfront \\- what matters most is your curiosity, your willingness to learn by doing, and your interest in understanding how real\\-world systems fit together.\n\n**Responsibilities**\n\n* You will help create and test software within a skilled team that likes getting things done.\n* You will learn a range of current and new technologies from experienced software and hardware engineers.\n* You will be given increasing responsibility for elements of each project as you continue to prove yourself.\n\nThere is flexibility in shaping the role around your strengths and interests, but some of the key technical areas you might encounter are listed below:\n\n**You’ll gain experience of a range of full\\-stack relevant technologies such as:**\n\n* Python, C\\#\n* Video Streaming\n* Complex data\\-platform architecture, multi\\-tenant, partitioned, and access\\-controlled environments supporting secure and scalable data access\n* Docker \\& Microservices\n* Modern Web Applications built in React.js, and TypeScript\n\n**Personal Qualities and Experience**\n\nYou are someone who enjoys learning new skills, finding out things and also learning from mistakes. We’d like you to be reliable, curious, and ready to deal with problems and get them solved. We strongly encourage those from under\\-represented groups to be confident in applying to us.\n\n**You do not need to have any formal experience working in software**, but you should be able to demonstrate your interest by having done something or worked on a ‘passion project’ yourself. You might have built a full\\-stack web app, made something interesting using AWS services, built and optimized CICD deployment pipelines, or some other relevant activity. You should have some familiarity with at least one general purpose programming language.\n\nYou will also be keen to contribute ideas to both the business and the social side of the company.\n\n**Company Benefits Include:**\n\n* Auto enrolment Pension Scheme\n* 25 Days Holiday plus bank holidays\n* Life Assurance\n* Private Healthcare Cover\n* Work related training courses as required\n* Complimentary snacks and refreshments including fresh fruit\n* **Office\\-Centric role**\n* Access to Bike to Work Scheme\n* Secure bike storage and shower facilities\n* Social events\n\n**How to Apply**\n\nJoin an award\\-winning team, named ‘*The Sunday Times Best Medium\\-sized Technology Company 2025’*. At One Big Circle, you’ll be part of a fast\\-growing team where your ideas and contributions are truly valued.\n\nPlease send your CV and covering letter to **jobs@onebigcircle.co.uk**\n\nPlease visit our careers page at **onebigcircle.co.uk/careers** to view our full list of current vacancies, including similar roles that may be of interest.\n\nBy applying for this role, you understand that we will process your personal information in accordance with our privacy policy, accessible at https://onebigcircle.co.uk/privacy\\-policy/\n\nSuccessful applicants will be required to pass a BPSS (Baseline Personnel Security Standard) check.\n\nFind out more about us at **www.onebigcircle.co.uk**\n\nJob Types: Full\\-time, Permanent\n\nPay: £26,500\\.00\\-£32,000\\.00 per year\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "jobs@onebigcircle.co.uk",
       "ats": "Indeed"
     },
     {
