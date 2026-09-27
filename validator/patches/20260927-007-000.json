@@ -1,1 +1,0 @@
-{"schema_version":1,"batch":"validator/batches/20260927/007.json","results":[{"index":0,"source":"LinkedIn","job_id":"4471080910","url":"https://www.linkedin.com/jobs/view/4471080910/","status":"REJECTED","reason":"TECHNOLOGY_ROLE: role is primarily cloud platform, infrastructure, and DevOps; no backend/server-side C#/.NET development evidence.","validated":null}]}
