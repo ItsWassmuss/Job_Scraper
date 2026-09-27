@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27 18:24 UTC",
+  "scraped_at": "2026-09-27 19:24 UTC",
   "total": 57,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wolf Groep",
@@ -1030,24 +1030,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Epona Legal",
-      "title": "AI Software Engineer hybrid job in Breda area",
-      "location": "Breda, NB, NL",
-      "url": "https://nl.indeed.com/viewjob?jk=9f9e0de3a0fb589a",
-      "direct_url": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3250&ProjectId=143591&DepartmentId=18959&MediaId=5&SkipAdvertisement=False",
-      "company_url": "https://nl.indeed.com/cmp/Epona-Legal",
-      "date_posted": "2026-09-23",
-      "description": "**AI Software Engineer**\n\n\nBreda, Netherlands (hybrid) · Senior, 7\\+ years · Legal \\& professional services\n\n\nEpona365 is a cloud\\-native platform built on Microsoft 365, used by legal and professional services firms across Europe. It integrates deeply with SharePoint, Exchange, Teams and Office, and runs asynchronous workers for OCR and metadata prediction, and semantic search.\n\n\nWe are looking for a senior engineer with strong AI knowledge. You will work across the full stack \\- .NET services, Office add\\-ins for Excel and Outlook, the web UI and Azure infrastructure \\- with AI features as your focus. We use AI coding agents throughout the development cycle, from analyzing stories to writing code and resolving review comments: developers here direct outcomes rather than type code.\n\n\n**What you will work on**\n\n\n* Azure AI features \\- filing and metadata suggestions, semantic search over firm documents, agentic workflows on Azure AI Agents.\n* .NET microservices \\- APIs, workers and processing pipelines.\n* Office add\\-ins and web UI \\- TypeScript and the Office JavaScript API.\n* Microsoft 365 integrations \\- Graph SDK, SharePoint CSOM, Exchange Web Services.\n* Azure infrastructure \\- Container Apps, Bicep, Azure Pipelines, Docker.\n\nYou also help decide what we build: brainstorming new AI use cases with sales and consultants, prototyping quickly, and being honest about what is feasible today and what is not.\n\n\n**Must haves**\n\n\n* 7\\+ years of professional development experience.\n* Deep C\\# and .NET \\- services, APIs and asynchronous workers \\- plus solid TypeScript.\n* Experience shipping AI features in production: features real users depend on, not research or notebooks.\n* Hands\\-on with Azure OpenAI / Azure AI Foundry: prompt design, structured outputs, tool calling.\n* Retrieval\\-augmented generation: chunking and embedding documents, vector search, and grounding answers so they stay traceable to a source.\n* Judgement about when not to use a language model, and awareness of cost, latency and prompt injection.\n* Comfortable with AI coding agents: you can specify, review and correct machine\\-written code.\n* Able to explain to non\\-technical colleagues, in plain language, what a model can and cannot do.\n\n**Nice to haves**\n\n\n* Semantic Kernel or Microsoft.Extensions.AI, and the Azure AI Agent Service.\n* Azure AI Search (vector and hybrid) and Azure AI Document Intelligence.\n* Model Context Protocol, or Microsoft 365 Copilot extensibility.\n* SharePoint development, or front\\-end single\\-page application experience.\n* Legal tech, document management or another regulated sector.\n\nYou are analytical and proactive, communicate clearly, and enjoy working in an international, multidisciplinary team.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
