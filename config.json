@@ -3,7 +3,6 @@
     "title": ".NET Backend Job Tracker",
     "subtitle": "26-country Indeed coverage"
   },
-
   "keywords": {
     "include": [
       "developer",
@@ -44,7 +43,6 @@
     "fuzzy_domain": [],
     "fuzzy_exclude": []
   },
-
   "search_terms": {
     "linkedin": [
       "(\".NET\" OR \"C#\" OR \"ASP.NET\" OR \"ASP.NET Core\" OR dotnet)"
@@ -61,63 +59,239 @@
     "governmentjobs": [],
     "workday": []
   },
-
   "locations": {
     "linkedin": [
-      { "name": "Netherlands", "location": "Netherlands", "geoId": "" },
-      { "name": "Germany", "location": "Germany", "geoId": "" },
-      { "name": "United Kingdom", "location": "United Kingdom", "geoId": "" },
-      { "name": "Poland", "location": "Poland", "geoId": "" },
-      { "name": "Sweden", "location": "Sweden", "geoId": "" },
-      { "name": "Ireland", "location": "Ireland", "geoId": "" },
-      { "name": "Norway", "location": "Norway", "geoId": "" },
-      { "name": "Finland", "location": "Finland", "geoId": "" },
-      { "name": "Denmark", "location": "Denmark", "geoId": "" },
-      { "name": "Singapore", "location": "Singapore", "geoId": "" },
-      { "name": "Czech Republic", "location": "Czech Republic", "geoId": "" },
-      { "name": "Romania", "location": "Romania", "geoId": "" },
-      { "name": "Turkey", "location": "Turkey", "geoId": "" },
-      { "name": "Greece", "location": "Greece", "geoId": "" },
-      { "name": "Belgium", "location": "Belgium", "geoId": "" },
-      { "name": "Switzerland", "location": "Switzerland", "geoId": "" },
-      { "name": "Austria", "location": "Austria", "geoId": "" },
-      { "name": "Spain", "location": "Spain", "geoId": "" },
-      { "name": "Portugal", "location": "Portugal", "geoId": "" },
-      { "name": "Hungary", "location": "Hungary", "geoId": "" },
-      { "name": "Bahrain", "location": "Bahrain", "geoId": "" },
-      { "name": "Kuwait", "location": "Kuwait", "geoId": "" },
-      { "name": "Oman", "location": "Oman", "geoId": "" },
-      { "name": "Qatar", "location": "Qatar", "geoId": "" },
-      { "name": "Saudi Arabia", "location": "Saudi Arabia", "geoId": "" },
-      { "name": "United Arab Emirates", "location": "United Arab Emirates", "geoId": "" }
+      {
+        "name": "Netherlands",
+        "location": "Netherlands",
+        "geoId": ""
+      },
+      {
+        "name": "Germany",
+        "location": "Germany",
+        "geoId": ""
+      },
+      {
+        "name": "Poland",
+        "location": "Poland",
+        "geoId": ""
+      },
+      {
+        "name": "Sweden",
+        "location": "Sweden",
+        "geoId": ""
+      },
+      {
+        "name": "Ireland",
+        "location": "Ireland",
+        "geoId": ""
+      },
+      {
+        "name": "Norway",
+        "location": "Norway",
+        "geoId": ""
+      },
+      {
+        "name": "Finland",
+        "location": "Finland",
+        "geoId": ""
+      },
+      {
+        "name": "Denmark",
+        "location": "Denmark",
+        "geoId": ""
+      },
+      {
+        "name": "Singapore",
+        "location": "Singapore",
+        "geoId": ""
+      },
+      {
+        "name": "Czech Republic",
+        "location": "Czech Republic",
+        "geoId": ""
+      },
+      {
+        "name": "Romania",
+        "location": "Romania",
+        "geoId": ""
+      },
+      {
+        "name": "Turkey",
+        "location": "Turkey",
+        "geoId": ""
+      },
+      {
+        "name": "Greece",
+        "location": "Greece",
+        "geoId": ""
+      },
+      {
+        "name": "Belgium",
+        "location": "Belgium",
+        "geoId": ""
+      },
+      {
+        "name": "Switzerland",
+        "location": "Switzerland",
+        "geoId": ""
+      },
+      {
+        "name": "Austria",
+        "location": "Austria",
+        "geoId": ""
+      },
+      {
+        "name": "Spain",
+        "location": "Spain",
+        "geoId": ""
+      },
+      {
+        "name": "Portugal",
+        "location": "Portugal",
+        "geoId": ""
+      },
+      {
+        "name": "Hungary",
+        "location": "Hungary",
+        "geoId": ""
+      },
+      {
+        "name": "Bahrain",
+        "location": "Bahrain",
+        "geoId": ""
+      },
+      {
+        "name": "Kuwait",
+        "location": "Kuwait",
+        "geoId": ""
+      },
+      {
+        "name": "Oman",
+        "location": "Oman",
+        "geoId": ""
+      },
+      {
+        "name": "Qatar",
+        "location": "Qatar",
+        "geoId": ""
+      },
+      {
+        "name": "Saudi Arabia",
+        "location": "Saudi Arabia",
+        "geoId": ""
+      },
+      {
+        "name": "United Arab Emirates",
+        "location": "United Arab Emirates",
+        "geoId": ""
+      }
     ],
     "indeed": [
-      { "location": "Netherlands", "country": "Netherlands" },
-      { "location": "Germany", "country": "Germany" },
-      { "location": "United Kingdom", "country": "UK" },
-      { "location": "Poland", "country": "Poland" },
-      { "location": "Sweden", "country": "Sweden" },
-      { "location": "Ireland", "country": "Ireland" },
-      { "location": "Norway", "country": "Norway" },
-      { "location": "Finland", "country": "Finland" },
-      { "location": "Denmark", "country": "Denmark" },
-      { "location": "Singapore", "country": "Singapore" },
-      { "location": "Czech Republic", "country": "Czech Republic" },
-      { "location": "Romania", "country": "Romania" },
-      { "location": "Turkey", "country": "Turkey" },
-      { "location": "Greece", "country": "Greece" },
-      { "location": "Belgium", "country": "Belgium" },
-      { "location": "Switzerland", "country": "Switzerland" },
-      { "location": "Austria", "country": "Austria" },
-      { "location": "Spain", "country": "Spain" },
-      { "location": "Portugal", "country": "Portugal" },
-      { "location": "Hungary", "country": "Hungary" },
-      { "location": "Bahrain", "country": "Bahrain" },
-      { "location": "Kuwait", "country": "Kuwait" },
-      { "location": "Oman", "country": "Oman" },
-      { "location": "Qatar", "country": "Qatar" },
-      { "location": "Saudi Arabia", "country": "Saudi Arabia" },
-      { "location": "United Arab Emirates", "country": "United Arab Emirates" }
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      },
+      {
+        "location": "Germany",
+        "country": "Germany"
+      },
+      {
+        "location": "United Kingdom",
+        "country": "UK"
+      },
+      {
+        "location": "Poland",
+        "country": "Poland"
+      },
+      {
+        "location": "Sweden",
+        "country": "Sweden"
+      },
+      {
+        "location": "Ireland",
+        "country": "Ireland"
+      },
+      {
+        "location": "Norway",
+        "country": "Norway"
+      },
+      {
+        "location": "Finland",
+        "country": "Finland"
+      },
+      {
+        "location": "Denmark",
+        "country": "Denmark"
+      },
+      {
+        "location": "Singapore",
+        "country": "Singapore"
+      },
+      {
+        "location": "Czech Republic",
+        "country": "Czech Republic"
+      },
+      {
+        "location": "Romania",
+        "country": "Romania"
+      },
+      {
+        "location": "Turkey",
+        "country": "Turkey"
+      },
+      {
+        "location": "Greece",
+        "country": "Greece"
+      },
+      {
+        "location": "Belgium",
+        "country": "Belgium"
+      },
+      {
+        "location": "Switzerland",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Austria",
+        "country": "Austria"
+      },
+      {
+        "location": "Spain",
+        "country": "Spain"
+      },
+      {
+        "location": "Portugal",
+        "country": "Portugal"
+      },
+      {
+        "location": "Hungary",
+        "country": "Hungary"
+      },
+      {
+        "location": "Bahrain",
+        "country": "Bahrain"
+      },
+      {
+        "location": "Kuwait",
+        "country": "Kuwait"
+      },
+      {
+        "location": "Oman",
+        "country": "Oman"
+      },
+      {
+        "location": "Qatar",
+        "country": "Qatar"
+      },
+      {
+        "location": "Saudi Arabia",
+        "country": "Saudi Arabia"
+      },
+      {
+        "location": "United Arab Emirates",
+        "country": "United Arab Emirates"
+      }
     ],
     "glassdoor": [],
     "ziprecruiter": [],
@@ -131,24 +305,19 @@
       }
     }
   },
-
   "location_filter": {
     "terms": []
   },
-
   "employers": {
     "priority": [],
     "exclude": []
   },
-
   "priority_topics": {
     "terms": []
   },
-
   "role_categories": {
     "terms": []
   },
-
   "jobspy": {
     "proxies": [],
     "user_agent": ""
