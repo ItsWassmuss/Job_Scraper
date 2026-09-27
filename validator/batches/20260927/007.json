@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-09-27T15:35:16+03:00",
+  "job_count": 1,
+  "finalized": false,
+  "jobs": [
+    {
+      "company": "Rocken®",
+      "title": "Cloud Platform & Automation Specialist (m/w/d)",
+      "location": "Zurich, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4471080910/",
+      "date_posted": "2026-09-27",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Wer prägt die Zukunft inklusiver Bildung? Unser Rocken Partner ist eine führende Hochschule im Bereich Heilpädagogik und Sonderpädagogik. Mit Studiengängen in Schulischer Heilpädagogik, Logopädie, Psychomotoriktherapie und Gebärdensprachdolmetschen bildet die Institution Fachkräfte aus, die echten Unterschied machen. Das Tätigkeitsfeld umfasst Lehre, Forschung und Dienstleistungen – von der Heilpädagogischen Früherziehung bis zur beruflichen Inklusion. Multiprofessionelle Teams arbeiten an praxisnahen Projekten und entwickeln innovative Ansätze für die gesellschaftliche Teilhabe. Die Arbeitsweise ist geprägt von wissenschaftlicher Expertise, ethischem Anspruch und dem Fokus auf nachhaltige Entwicklung. Hier werden Theorie und Praxis sinnvoll verknüpft. Bereit für eine Tätigkeit mit echtem Impact? Dann freuen wir uns darauf, dich mit unserem Rocken Partner zu vernetzen.\n\nVerantwortung\n\nSicherstellung eines stabilen Plattformbetriebs auf Basis von Linux, Containern und Open-Source-Technologien.\nAufbau durchgängiger Delivery-Pipelines für automatisierte Softwarebereitstellung und reproduzierbare Betriebsabläufe.\nBetreuung und technische Weiterentwicklung digitaler Fachapplikationen samt Schnittstellen, Authentifizierung und Lifecycle-Management.\nGestaltung hybrider Infrastruktur mit Azure, Microsoft 365, Entra ID, Intune und Kubernetes.\nUmsetzung von Schutz-, Überwachungs- und Wiederherstellungsmechanismen sowie technische Begleitung von Projekten und Standards.\n\nQualifikationen\n\nHöhere IT-Ausbildung oder entsprechende Berufspraxis im Bereich System Engineering, Software Engineering und DevOps.\nMehrjährige Erfahrung mit LAMP-Umgebungen, Containerisierung, Netzwerkdiensten, Zertifikatsmanagement und relationalen Datenbanken.\nPraxiswissen in Deployment-Automation, GitHub Actions, CI/CD und idealerweise Kubernetes.\nKenntnisse in SSO, IAM, Zugriffskontrollen, Reverse Proxies, Web Application Firewalls oder vergleichbaren Security-Verfahren.\nAnalytische und verantwortungsbewusste Persönlichkeit mit Interesse an neuen Technologien sowie sehr guten Deutsch- und Englischkenntnissen.\n\nBenefits\n\nAttraktive Weiterbildungs- und Entwicklungsmöglichkeiten\nOffene Unternehmenskultur\nInteressante und abwechslungsreiche Tätigkeiten/Projekte\nEingespieltes und dynamisches Team\nFlache Hierarchien\nKomfortables Büro mit moderner Infrastruktur\nFamilienfreundliche Anstellungsbedingungen, Kinderbetreuung\nGute Verkehrsanbindung und Erreichbarkeit\nFlexible Arbeitszeitgestaltung\nHomeoffice\n\nROCKEN Jobs\n\nhttps://rocken.jobs\n\nProfil Erstellen\n\nhttps://rocken.jobs/application/profil-erstellen/\n\nnew\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInternet Publishing",
+      "source": "LinkedIn",
+      "job_id": "4471080910",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
