@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27 16:23 UTC",
+  "scraped_at": "2026-09-27 17:24 UTC",
   "total": 56,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Wolf Groep",
@@ -1012,24 +1012,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Exceltech Computers Pte. Ltd.",
-      "title": "Full Stack Developer",
-      "location": "Bedok, S00, SG",
-      "url": "https://sg.indeed.com/viewjob?jk=57ff4a5566b55ab0",
-      "direct_url": "https://www.mycareersfuture.gov.sg/job/d238a6bebe8efa7aa872c55b318b51ff",
-      "company_url": "https://sg.indeed.com/cmp/Exceltech-Computers-Pte.-Ltd.",
-      "date_posted": "2026-09-27",
-      "description": "**Requirements:**  \n\n1\\. Proven professional experience working on .NET Core stack.\n  \n  \n\n2\\. Strong proficiency in .NETCore, .NET 8, C\\#, Java and related backend technologies.\n  \n  \n\n3\\. Experience building microservices architecture and implementing event\\-driven design patterns.\n  \n  \n\n4\\. Proficiency in Entity Framework (EF) for database management.\n  \n  \n\n5\\. Familiarity with Docker and containerization principles.\n  \n  \n\n6\\. Knowledge of Domain\\-Driven Design (DDD) principles and their application in backend development.\n  \n  \n\n7\\. Experience implementing OAuthfor authentication and authorization.\n  \n  \n\n8\\. Understanding of security best practices and their application in backend development.\n  \n  \n\n9\\. Hands\\-on experience with AWS services such as S3, Lambda, API Gateway, RDS, etc.\n  \n  \n\n10\\. Proficiency in frontend technologies such as HTML, CSS, and JavaScript, ASP.NET and WebForms.\n  \n  \n\n11\\. Experience writing unit tests and maintaining a design system with Storybook.\n  \n  \n\n12\\. Strong problem\\-solving skillsand attention to detail.\n  \n  \n\n13\\. Excellent communication andcollaboration skills.\n  \n  \n\n14\\. Knowledge and experience inutilizing generative AI to develop and review codes via Spec Driven Development(SDD).\n  \n  \n\n15\\. Hands\\-on experience withlegacy .NET Framework (4\\.x) applications, including maintenance and incrementalmodernisation.\n  \n  \n\n16\\. Experience with Oracledatabases, including query optimisation and integration with .NET applications.\n  \n  \n\n17\\. Proficiency in deploying andconfiguring applications on IIS and Windows Server, with working knowledge ofWeb.config transformations for environment\\-specific deployments.\n  \n  \n\n18\\. Hands\\-on experience with JavaQuarkus framework, including building and deploying cloud\\-native microservices,with working knowledge of OpenTelemetry for distributed tracing andobservability.\n  \n  \n\n**Preferred Qualifications:**  \n\n19\\. Preferably more than 5 yearsof experience as a full stack software engineer.\n  \n  \n\n20\\. Experience working in bothUnix and Windows operating environments are preferred.\n  \n  \n\n21\\. AWS certification (e.g., AWSCertified Developer, AWS Certified Solutions Architect).\n  \n  \n\n22\\. Experience with Node.js forserver\\-side development.\n  \n  \n\n23\\. Familiarity with RDSdatabases such as MSSQL.\n  \n  \n\n24\\. Knowledge of CI/CD pipelines and DevOps practices.\n  \n  \n\n25\\. Understanding of Agile development methodologies.\n  \n  \n\n26\\.Experience with event\\-driven development patterns and architectures, as well as frontend development using React or other Single Page Application (SPA)frameworks.\n  \n  \n\nThe Company's principal activity is manpower contracting services with other information technology and computer services.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
