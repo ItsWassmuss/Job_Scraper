@@ -46712,6 +46712,24 @@
       "location": "Częstochowa, Śląskie, Poland",
       "canonical_url": "https://www.linkedin.com/jobs/view/4470851172/",
       "reported_at": "2026-09-28T14:00:58+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471351127",
+      "company": "Capgemini",
+      "title": "Cloud Engineer (Cloud-native, AWS/Azure/GCP)",
+      "location": "Gdańsk, Pomorskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471351127/",
+      "reported_at": "2026-09-28T15:01:08+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "a0ed161a372aeed1",
+      "company": "Unknown",
+      "title": "Senior SharePoint & Full-Stack Developer (React / .NET)",
+      "location": "Doha, DAW, QA",
+      "canonical_url": "https://qa.indeed.com/viewjob?jk=a0ed161a372aeed1",
+      "reported_at": "2026-09-28T15:01:08+03:00"
     }
   ]
 }
