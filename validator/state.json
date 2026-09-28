@@ -46599,6 +46599,24 @@
       "location": "SG",
       "canonical_url": "https://sg.indeed.com/viewjob?jk=8fc16da0d1da33a6",
       "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471332750",
+      "company": "Ampstek",
+      "title": "Dotnet Developer",
+      "location": "Greater Gothenburg Metropolitan Area",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471332750/",
+      "reported_at": "2026-09-28T14:00:58+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470851172",
+      "company": "ZF Group",
+      "title": "Supply Chain Solutions Developer (m/f/d)",
+      "location": "Częstochowa, Śląskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470851172/",
+      "reported_at": "2026-09-28T14:00:58+03:00"
     }
   ]
 }
