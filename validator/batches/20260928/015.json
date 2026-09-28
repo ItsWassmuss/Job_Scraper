@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "900a1dfd4a1ddabc",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is platform/M365 engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7470881ec78c3301",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role develops .NET desktop applications with WPF/XAML; no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5cf78a7cd269a5e1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Python/FastAPI, not .NET/C#.",
       "validated": null
     },
     {
@@ -91,9 +91,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d30d8e6dd93eeb1e",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "3–6 years of software engineering experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack software engineer building production features across backend and frontend systems for a secure document platform, including APIs, integrations, workers, and analytics.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=d30d8e6dd93eeb1e"
+      }
     },
     {
       "company": "Deloitte",
@@ -114,9 +125,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a650a347f4c58fb7",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack internship building data-intensive applications, APIs, and processing workflows with C#/.NET and SQL Server, plus React interfaces.",
+        "direct_application_link": "https://lu.indeed.com/viewjob?jk=a650a347f4c58fb7"
+      }
     },
     {
       "company": "Incoretex GmbH",
@@ -129,8 +151,8 @@
       "description": "Incoretex ist ein schnell wachsendes High-Tech Unternehmen an der Schnittstelle von IoT, Sensortechnologie und KI. Die Technologie von Incoretex erleichtert die Integration von KI in bestehende Produkte und senkt deutlich die Zeit und Kosten, die mit der traditionellen Produktentwicklung verbunden sind. Gemeinsam mit renommierten Partnern aus verschiedenen Industrien schaffen wir somit anspruchsvolle High-Tech-IoT-Anwendungen für spannende, weltweite Märkte.\n\nFür den Ausbau unseres Softwareteams suchen wir Unterstützung am Standort Aachen.\n\nAufgaben\n\nEigenverantwortliche Planung, Steuerung und Umsetzung von Softwareprojekten im MERN-Stack\n\nTechnische und organisatorische Betreuung von Kundenprojekten – von der Anforderungsaufnahme bis zur erfolgreichen Auslieferung\n\nDirekte Abstimmung mit Kunden sowie Übersetzung fachlicher Anforderungen in technische Konzepte und konkrete Entwicklungsaufgaben\n\nSelbstständige Entwicklung und Weiterentwicklung kundenspezifischer Softwarelösungen\n\nKoordination von Projektbeteiligten sowie Überwachung von Terminen, Budgets und Qualitätszielen\n\nPriorisierung und Nachverfolgung von Aufgaben, Anforderungen und Fehlerbehebungen\n\nDurchführung von Tests, Qualitätssicherung und technischer Dokumentation\n\nUnterstützung bei der Inbetriebnahme und Einführung neuer Funktionen\n\nBearbeitung technischer Supportanfragen sowie Analyse und Behebung von Fehlern\n\nKontinuierliche Verbesserung bestehender Anwendungen, Entwicklungsprozesse und Systemarchitekturen\n\nRegelmäßige Kommunikation des Projektfortschritts gegenüber Kunden und internen Ansprechpartnern\n\nQualifikation\n\nAbgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung bzw. Qualifikation\n\nFundierte praktische Erfahrung in der Softwareentwicklung mit dem MERN-Stack (MongDB, Express.js, React, Node.js)\n\nErfahrung in der eigenverantwortlichen Leitung und Umsetzung von Softwareprojekten\n\nSicherer Umgang mit JavaScript bzw. TypeScript sowie modernen Webtechnologien\n\nErfahrung mit REST-APIs, Datenbanken, Git und gängigen Entwicklungs- und Deploymentprozessen\n\nFähigkeit, Kundenanforderungen strukturiert aufzunehmen und in technisch sinnvolle Lösungen zu überführen\n\nAusgeprägte Kunden- und Serviceorientierung sowie ein professionelles und verbindliches Auftreten\n\nSehr gute Kommunikationsfähigkeit und Freude an der Zusammenarbeit mit Kunden und technischen Teams\n\nStrukturierte, lösungsorientierte und selbstständige Arbeitsweise\n\nHohes Verantwortungsbewusstsein und die Fähigkeit, mehrere Aufgaben und Projekte zuverlässig zu priorisieren\n\nAnalytisches Denkvermögen und eine pragmatische Herangehensweise an technische Herausforderungen\n\nGute Deutsch- und Englischkenntnisse in Wort und Schrift\n\nBereitschaft, neben Entwicklungs- und Projektleitungsaufgaben auch technische Supportthemen zu übernehmen\n\nErfahrung in Python, Java oder C++, Parallelen/Async Prozessen/Systemen, im Umgang mit Mikro-PCs/Controllern, in den Grundlagen der Elekrotechnik und Hands-on-Mentalität sind von Vorteil\n\nBenefits\n\nEin hochmotiviertes und engagiertes Team\n\nTiefe Einblicke in ein schnell wachsendes Technologie-Unternehmen an der Schnittstelle von IoT, Sensortechnologie und KI\n\nÜbernahme von selbstständigen und eigenverantwortlichen Themenfeldern innerhalb von Projekten\n\nDiverse Benefits: Flexible Arbeitszeiten, regelmäßige Teamevents, Urban Sports Club usw.\n\nWir haben Dein Interesse geweckt? Sende uns Deine vollständige (Anschreiben + Lebenslauf) und aussagekräftige Bewerbung!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471206622",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary stack is MERN (MongoDB, Express.js, React, Node.js), not backend .NET/C#.",
       "validated": null
     },
     {
@@ -144,8 +166,8 @@
       "description": "Vi har nu ett nytt behov och söker därför en konsult och kollega med nedan kvalifikationer. Tjänsten är en del av vår konsultverksamhet vilket innebär att du blir anställd av oss och arbetar hos kund alt. interna projekt och åtaganden.\n\nDin profil (Skall krav)\n\nMinst tre (3) års Systemvetenskaplig utbildning alternativt civilingenjör eller motsvarande akademisk utbildning\nMinst 5 års sammanlagd erfarenhet av backendutveckling med C# och .NET\nErfarenhet av minst 2 tidigare uppdrag med C# och .NET i eventdrivna system\nErfarenhet av att arbeta med Docker och Kubernetes från minst 1 projekt/uppdrag.\nMinst 2 års sammanlagd erfarenhet av testautomation (ex. enhetstester) och integrationstester\nErfarenhet av att ha agerat Tech Lead, eller motsvarande roll, i minst 2 tidigare uppdrag där samordning av ett teams tekniska arbete, inklusive kvalitetssäkring och stöd till övriga utvecklare har varit en del av rollens arbetsuppgifter.\nDokumenterad erfarenhet av att använda AI-baserade utvecklingsverktyg som stöd vid systemutveckling, exempelvis för kodgenerering, kodgranskning, testning, felsökning eller dokumentation, från minst 1 projekt/uppdrag.\n\nMeriterande\n\nErfarenhet av modernisering eller migrering av tjänster från lokal driftmiljö (on-premise) till GCP (Google Cloud Platform) från minst 2 projekt/uppdrag.\nErfarenhet av eventdriven arkitektur, till exempel Kafka, RedPanda eller liknande från minst 2 projekt/uppdrag.\nErfarenhet av att skapa och förvalta molninfrastruktur med Infrastructure as Code (IaC) från minst 1 projekt/uppdrag.\nErfarenhet av prestandaoptimering av distribuerade backendsystem med höga krav på svarstider och genomströmning från minst 1 projekt/uppdrag\nErfarenhet av backendutveckling Scala och/eller java från minst 1 projekt/uppdrag.\nDokumenterad erfarenhet av att designa, utveckla och implementera AI-agenter som integrerats med externa system, API:er eller datakällor från minst 1 projekt/uppdrag.\n\nSista ansökningdatum:\n06-10-2026\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nOther\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471532668",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive JD is primarily Swedish with no complete official English version.",
       "validated": null
     },
     {
@@ -159,9 +181,20 @@
       "description": "About Justera Group\n\nJustera Group AB is a leading Swedish IT consulting firm with great experience specializing in building high-performing technology teams and delivering end-to-end IT solutions. Led by dynamic female executives, Justera Group focuses on helping businesses harness the power of digital technologies to continuously evolve in today’s rapidly changing economy. The company has deep expertise in IT consultancy, software development, and recruitment services, providing clients with purpose-driven, well-trained consultants who consistently deliver efficient and effective results. Justera Group manages the entire talent lifecycle, from hiring to ongoing management, ensuring the right fit for each project on time and within budget. With their strong commitment to quality, collaboration, and client success, Justera Group is a trusted partner for technology innovation across Sweden.\n\nAbout the Role:\n\nWe are looking for an experienced Fullstack Software Engineer to join a product team working with business-critical digital products for a leading company in the automotive industry.\n\nYou will join a Scrum team responsible for continuously improving and evolving existing digital solutions. The role covers the full development lifecycle, with work across both frontend and backend. The balance between the two will depend on your experience, strengths, and the needs of the team.\n\nThis is a role for someone who is comfortable taking ownership, working independently, and contributing from day one. You will work closely with other Senior Software Engineers, Product, Business Analysis, and Technical leadership to deliver reliable and scalable solutions.\n\nThe team works with digital customer experiences, including an online platform and solutions supporting the customer journey around test drives.\n\nKey Responsibilities:\n\nDevelop, enhance, and maintain production software across frontend and backend.\nWork as part of a Scrum team throughout the full software development lifecycle.\nBuild and maintain scalable solutions using modern development practices.\nContribute to testing, documentation, technical diagrams, and other development artefacts.\nCollaborate closely with developers, product owners, business analysts, and technical leadership.\nTake ownership of assigned work and contribute independently to the team's delivery.\nContinuously improve existing products and solutions based on business and customer needs.\nContribute to technical discussions and help identify practical solutions to development challenges.\n\nRequirements:\n\nFormal education in Software Development, Computer Science, or a related field.\n7–10 years of relevant professional experience in software development.\nStrong experience with C# and .NET.\nExperience with React Router 7.\nStrong knowledge of TypeScript.\nExperience with Node.js.\nExperience with serverless architecture and AWS.\nExperience working with GraphQL.\nExperience working in Agile/Scrum development teams.\nAbility to work independently and take ownership from day one.\nStrong communication and collaboration skills.\n\nIt is a plus if you have experience with:\n\nRemix\nGitHub\nDatadog\nHeadless CMS\nNoSQL\nAzure AD\n\nWhat We Offer:\n\nA dynamic and innovative workplace driving advancements in cutting-edge robotic technologies\nThe opportunity to collaborate with talented cross-functional teams on meaningful and impactful projects\nCompetitive compensation and comprehensive benefits package\nA supportive culture that fosters continuous learning, growth, and professional development\nFlexible hybrid working model for an optimal work-life balance\n25 days of annual leave to recharge and relax\nAn annual wellness allowance of 3,500 SEK to support your health and wellbeing\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4471531653",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "7–10 years of relevant professional experience in software development",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack software engineer developing and maintaining production software across frontend and backend using C#/.NET, React Router, TypeScript, Node.js, AWS, and GraphQL.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4471531653/"
+      }
     },
     {
       "company": "Deploja",
@@ -174,8 +207,8 @@
       "description": "Vi har nu ett nytt behov och söker därför en konsult och kollega med nedan kvalifikationer. Tjänsten är en del av vår konsultverksamhet vilket innebär att du blir anställd av oss och arbetar hos kund alt. interna projekt och åtaganden.\n\nDin profil (Skall krav)\n\nminst 5 års dokumenterad erfarenhet av systemutveckling i .NET-miljö (C#, .NET Core eller senare).\ndokumenterad erfarenhet av både frontend- och backendutveckling i minst två uppdrag.\ngod kunskap och erfarenhet av att utveckla och konsumera REST API:er och JSON i minst två uppdrag.\npraktisk erfarenhet av testdriven utveckling samt arbete med enhetstester, integrationstester och leveranstester.\nerfarenhet av att skapa user stories utifrån verksamhetens krav och behov.\nerfarenhet av att arbeta i agila utvecklingsteam enligt Scrum.\ngoda kunskaper i svenska och engelska, både i tal och skrift.\nförmåga att dokumentera lösningar och utvecklingsarbete på ett strukturerat sätt.\n\nMeriterande\n\nerfarenhet av systemintegrationer mot betalningslösningar, användarhantering eller jämförbara administrativa system.\nerfarenhet att hantera användarsupport (3rd line).\nerfarenhet av att kommunicera teknik och tekniska lösningar till personer som inte har samma bakgrund\n\nSista ansökningdatum:\n09-10-2026\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471540375",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Swedish is explicitly mandatory and the substantive JD is primarily Swedish.",
       "validated": null
     },
     {
@@ -189,8 +222,8 @@
       "description": "Do you want to meet one recruiter and be matched with multiple interesting opportunities?\n\nCurrently, we are hiring multiple senior software engineers for our startups/scaleup customers.\n\nWe work with companies in AI, consumer apps, and enterprise SaaS. They are all looking for product engineers. Engineers who don't only code, but like to think broader about what the product should achieve.\n\nHere's what we are looking for:\nExperience building software in Python, TypeScript, C# or C++. No need to know all these, but you need at least deep experience in one of these languages.\nAI-assisted development. You work with Claude Code, Codex, or similar.\nProduct thinking. You don't see your job as someone who writes code, you solve problems for the users. This means understanding users and crafting an experience for them.\n\nThe offer\nWe can offer full-time employment with competitive salary in the form of cash compensation and equity.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4472795655",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# is only one of several alternative languages; no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -204,8 +237,8 @@
       "description": "About Justera Group\n\nJustera Group AB is a leading Swedish IT consulting firm with great experience specializing in building high-performing technology teams and delivering end-to-end IT solutions. Led by dynamic female executives, Justera Group focuses on helping businesses harness the power of digital technologies to continuously evolve in today’s rapidly changing economy. The company has deep expertise in IT consultancy, software development, and recruitment services, providing clients with purpose-driven, well-trained consultants who consistently deliver efficient and effective results. Justera Group manages the entire talent lifecycle, from hiring to ongoing management, ensuring the right fit for each project on time and within budget. With their strong commitment to quality, collaboration, and client success, Justera Group is a trusted partner for technology innovation across Sweden.\n\nAbout the Role:\n\nVi söker en erfaren Cloud Engineer med inriktning mot Microsoft Azure för ett tekniskt utmanande uppdrag inom en verksamhet med höga krav på säkerhet, tillgänglighet och prestanda.\n\nDu blir en del av ett tekniskt starkt plattformsteam där du får stort inflytande över tekniska lösningar, arkitektur och arbetssätt. Rollen innebär att bygga, förvalta och vidareutveckla en modern Azure-plattform med stort fokus på automation, Infrastructure as Code, säkerhet och stabil drift.\n\nKey Responsibilities:\n\nDesigna, bygga och vidareutveckla molninfrastruktur i Microsoft Azure.\nImplementera och förvalta infrastruktur med Infrastructure as Code (IaC).\nUtveckla lösningar för monitorering, loggning och observability.\nArbeta med nätverk, säkerhet och identitetshantering i Azure.\nSäkerställa governance, compliance och säkerhetskrav i molnplattformen.\nBygga, underhålla och förbättra CI/CD-pipelines.\nAutomatisera infrastrukturoperationer och utveckla scriptinglösningar.\nBidra till arkitektur- och designbeslut inom cloud och infrastructure.\nVara specialist inom infrastruktur och automation.\nDela kunskap och best practices med andra tekniska team.\n\nRequirements:\n\nMinst 5 års erfarenhet inom flera av följande områden:\nAzure-infrastruktur\nAzure DevOps\nInfrastructure as Code\nCloud automation\nPowerShell och scripting\nSecurity as Code\nAzure Landing Zones\nAzure Well-Architected Framework\nCloud Adoption Framework\nGod förståelse för nätverk, säkerhet och identitetshantering i Azure.\nErfarenhet av automatisering och moderna DevOps-principer.\nErfarenhet av agila arbetssätt.\nFörmåga att arbeta självständigt såväl som tillsammans med tekniska team.\nFlytande svenska och engelska i tal och skrift.\n\nWhat We Offer:\n\nA dynamic and innovative workplace driving advancements in cutting-edge robotic technologies\nThe opportunity to collaborate with talented cross-functional teams on meaningful and impactful projects\nCompetitive compensation and comprehensive benefits package\nA supportive culture that fosters continuous learning, growth, and professional development\nFlexible hybrid working model for an optimal work-life balance\n25 days of annual leave to recharge and relax\nAn annual wellness allowance of 3,500 SEK to support your health and wellbeing\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4471530720",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is cloud/infrastructure engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -219,8 +252,8 @@
       "description": "Tâches et responsabilités\n\nEn tant que Senior M365 SharePoint Engineer\n, vous intervenez sur des initiatives stratégiques liées à la gestion documentaire, à la transformation digitale, à l’automatisation des processus métier et à la gouvernance des contenus d’entreprise.\n\nVous participez à la mise en place, à l’évolution et à l’optimisation de l’écosystème Microsoft 365, avec un focus sur SharePoint, Teams, Power Platform, Microsoft Purview et SharePoint Premium.\n\nVous concevez, développez, implémentez et industrialisez de manière autonome des solutions centrées sur SharePoint et M365. Vous transformez les besoins métier en solutions concrètes, configurez les composants nécessaires, mettez en œuvre des workflows avancés, des mécanismes de classification documentaire, des traitements OCR ainsi que des automatisations intelligentes, puis vous assurez leur déploiement, leur exploitation et leur amélioration continue.\n\nVous évoluez dans des environnements documentaires de grande ampleur, pouvant couvrir plusieurs centaines de milliers à plusieurs millions de documents, avec une attention particulière à l’architecture de l’information, à la gouvernance, à la conformité et à la maintenabilité des solutions.\n\nDans ce rôle, vous serez notamment amené à :\n\nDéfinir et faire évoluer l’architecture cible SharePoint en accord avec les standards, les besoins métier et les exigences de gouvernance documentaire.\nConcevoir et déployer des architectures documentaires adaptées à de grands volumes, y compris les intégrations avec la plateforme Microsoft Azure.\nÉlaborer et mettre en œuvre les modèles de métadonnées, taxonomies, types de contenu et règles de classification.\nAppliquer les stratégies de records management, archivage, rétention et gestion documentaire réglementée.\nConcevoir et automatiser des workflows métier complexes via Power Automate, Power Apps et les services Microsoft 365.\nPréparer, encadrer et sécuriser les migrations documentaires complexes vers Microsoft 365 et SharePoint à l’aide d’outils tels que SPMT, Microsoft Migration Manager ou ShareGate.\nMettre en place des solutions OCR, de content processing et d’enrichissement automatique des métadonnées dans des environnements SharePoint.\nExploiter SharePoint Premium et d’autres services M365 pour automatiser la classification, l’extraction d’informations et l’enrichissement des contenus.\nConcevoir des modèles de traitement documentaire intelligent permettant d’identifier, classer et extraire automatiquement les informations clés.\nAutomatiser les processus documentaires afin de limiter les interventions manuelles et d’améliorer l’efficacité opérationnelle.\nMettre en œuvre les exigences de sécurité, de conformité et de confidentialité en lien avec GDPR, ISO27001 et NIS2.\nContribuer à la gouvernance Microsoft 365, Purview, Entra ID, Teams et OneDrive.\nDévelopper ou configurer des solutions en s’appuyant sur SharePoint REST API, Graph API, OData ainsi que sur des pratiques de PnP Provisioning & Scripting.\nIntégrer, selon les besoins, des composants liés à la signature électronique et à la modélisation des processus métier en BPMN.\nParticiper à la gestion de projet dans des cadres Agile, Waterfall ou Scrum, en collaboration avec les parties prenantes concernées.\nAssurer le test management, la qualité, la cohérence et la maintenabilité des solutions déployées.\nAccompagner les utilisateurs dans l’adoption des bonnes pratiques de collaboration numérique et de gestion documentaire.\nRéaliser une veille active sur Microsoft 365, SharePoint, l’intelligence artificielle, les Content Services et l’Information Management.\n\nVotre profil\n\nVous disposez d’une expérience confirmée en tant que Senior SharePoint Designer ou dans une fonction équivalente orientée Microsoft 365.\nVous maîtrisez M365 SharePoint ainsi que la conception de dépôts documentaires à grande échelle et l’architecture de l’information dans des environnements SharePoint et Microsoft 365.\nVous avez une expertise approfondie de la plateforme Microsoft 365, notamment Teams, OneDrive, Purview, Search et Entra ID.\nVous possédez une très bonne connaissance de Microsoft Azure, en particulier des intégrations, Blob Storage, Logic Apps, Key Vault et des stratégies de rétention.\nVous avez déjà mené des migrations documentaires complexes et maîtrisez des outils comme SPMT, Microsoft Migration Manager et ShareGate.\nVous maîtrisez la Power Platform, en particulier Power Automate et Power Apps.\nVous êtes à l’aise avec les concepts de gestion documentaire et archivistique, tels que l’Ingestion Room, les stratégies de rétention et la gouvernance de l’information.\nVous avez une solide expérience des sujets OCR, content processing et enrichissement de métadonnées dans des environnements SharePoint.\nVous connaissez les exigences de conformité et de sécurité liées à GDPR, ISO27001, NIS2 et à la gestion documentaire réglementée.\nVous maîtrisez SharePoint REST API, Graph API, OData ainsi que PnP Provisioning & Scripting.\nUne expérience en signature électronique, BPMN, PRINCE2, gestion de projet et test management est attendue.\nVous parlez le néerlandais, le français et l’anglais.\n\nOffre\n\nVous ferez partie d'une PME belge en pleine croissance, où l’initiative et le développement personnel sont encouragés. Nous vous offrirons un environnement de travail agréable, entouré(e) de collègues sympathiques. Ensemble, nous élaborerons un plan de carrière, avec une attention particulière et un budget dédié à la formation ou à la certification complémentaire. Vous pouvez compter sur un salaire attractif, complété par des avantages extra-légaux, y compris une voiture de société.\n\n(Freelance est également possible)\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471548226",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is M365/SharePoint engineering, not backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -234,8 +267,8 @@
       "description": "We are knowmad mood!\n\nSomos una compañía líder en transformación digital, en constante evolución y a la vanguardia de la tecnología.\n\nFormado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo. Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y del mercado, a la vez que proporciona valor, visión, creatividad, expertise, profesionalidad y pasión por la tecnología en cada proyecto.\n\nLos valores que marcan nuestro rumbo y nos guían hacia la excelencia son la colaboración, la innovación, el compromiso, la diversión y la conﬁanza.\n\nEn knowmad mood buscamos desarrolladores .NET con un mínimo de 5 años de experiencia para trabajar en nuestra comunidad Microsoft en Sevilla.\n\nSería una posición híbrida al 50%\n\n¿Que buscamos?\n\n5 años de experiencia con Net Core.\nEstás familiarizado con trabajar con formatos de datos como JSON y XML\nHas trabajado con bases de datos como Microsoft SQL Server y PostgreSQL y no relacionales como MongoDB y Redis.\nTrabajas con principios SOLID y DDD.\nConocimientos de testing.\nTienes experiencia trabajando con GIT.\nTienes experiencia trabajando con Microservicios.\n\n¿Qué ofrecemos?\n\nContrato indefinido\nVacaciones 🌴: 22 días de vacaciones + 2 días de libre disposición, además de los días 24 y 31 de diciembre libres.\nContrato indefinido 📄: Desde el primer día, con opción de 12 o 14 pagas.\nRetribución flexible 💳: Tarjeta restaurante, cheque guardería, seguro médico, formación y otros beneficios con ventajas fiscales.\nClub de ventajas 🎁: Descuentos en tecnología, ocio y formación.\nFormación continua 📚: Acceso a Udemy Business, cursos de idiomas, certificaciones oficiales y formación técnica.\nPlan de carrera 🚀: Acompañamiento para crecer, especializarte o asumir nuevos retos.\nBienestar integral 💚: Programas de nutrición, actividad física y equilibrio emocional.\nConciliación +VIDA 👨 👩 👧 👦: Asistencia personal y familiar 24/7.\nAmbiente inclusivo 🌍: Entorno diverso y multicultural.\nEventos sociales 🎮: Actividades para conectar con el equipo.\n\n¡ Apúntate y te daremos más detalles!\n🚀\n\nPara estar al corriente de nuestras novedades síguenos aquí -> knowmad mood\n\nEn knowmad mood\nnos comprometemos con la igualdad de oportunidades y el respeto a la diversidad. Aplicamos nuestro Plan de Igualdad y el principio de no discriminación en todos nuestros procesos de selección.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471546087",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive JD is primarily Spanish with no complete official English version.",
       "validated": null
     },
     {
@@ -249,9 +282,20 @@
       "description": "Full Stack .Net Engineering\n\nCapgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.\n\nYOUR ROLE\n\nSenior Full Stack Engineer (.NET/C#) with strong autonomy, responsible for delivering secure, high quality full stack software.\n\nYOUR PROFILE\n\nBachelor’s degree in Computer Science, Engineering, or related field\nStrong expertise in .NET / C# (mandatory)\nProven experience as a Senior Full Stack Engineer\nExperience with Blazor\nSolid software engineering practices:\nClean code, secure coding\nUnit and integration testing\nCI/CD pipelines, Git\nExperience with Docker/Podman deployment\nExperience delivering reliable and secure production software\nKnowledge in Cloud platforms (AWS or Azure)\nAbility to work autonomously and contribute to technical direction\nHybrid Model (2 times per week in Porto)\nEnglish communication skills are mandatory\n\nWhat You’ll Love About Working Here\n\nJoin a multicultural and inclusive team environment.\nEnjoy a supportive atmosphere promoting work life balance.\nHybrid work.\nYour career growth is central to our mission. Our array of career growth programs and diverse professionals are crafted to support you in exploring a world of opportunities.\nAccess valuable training and certifications in cutting edge technologies.\nEngage in exciting projects.\nHealth and life insurance.\nReferral program with bonuses for talent recommendations.\nGreat office locations.\n\nAbout Capgemini\n\nCapgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology, and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nEngineering Services",
       "source": "LinkedIn",
       "job_id": "4470899741",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack engineer delivering secure production software with mandatory .NET/C#, Blazor, testing, CI/CD, containers, and cloud platforms.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470899741/"
+      }
     },
     {
       "company": "Capgemini Engineering",
@@ -264,9 +308,20 @@
       "description": "Full Stack .Net Engineering\n\nCapgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.\n\nYOUR ROLE\n\nSenior Full Stack Engineer (.NET/C#) with strong autonomy, responsible for delivering secure, high quality full stack software.\n\nYOUR PROFILE\n\nBachelor’s degree in Computer Science, Engineering, or related field\nStrong expertise in .NET / C# (mandatory)\nProven experience as a Senior Full Stack Engineer\nExperience with Blazor\nSolid software engineering practices:\nClean code, secure coding\nUnit and integration testing\nCI/CD pipelines, Git\nExperience with Docker/Podman deployment\nExperience delivering reliable and secure production software\nKnowledge in Cloud platforms (AWS or Azure)\nAbility to work autonomously and contribute to technical direction\nHybrid Model (2 times per week in Porto)\nEnglish communication skills are mandatory\n\nWhat You’ll Love About Working Here\n\nJoin a multicultural and inclusive team environment.\nEnjoy a supportive atmosphere promoting work life balance.\nHybrid work.\nYour career growth is central to our mission. Our array of career growth programs and diverse professionals are crafted to support you in exploring a world of opportunities.\nAccess valuable training and certifications in cutting edge technologies.\nEngage in exciting projects.\nHealth and life insurance.\nReferral program with bonuses for talent recommendations.\nGreat office locations.\n\nAbout Capgemini\n\nCapgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology, and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nEngineering Services",
       "source": "LinkedIn",
       "job_id": "4471216267",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack engineer delivering secure production software with mandatory .NET/C#, Blazor, testing, CI/CD, containers, and cloud platforms.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4471216267/"
+      }
     }
   ]
 }
