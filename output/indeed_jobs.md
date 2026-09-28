@@ -1,179 +1,180 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-28 18:18 UTC*
+*Last updated: 2026-09-28 19:18 UTC*
 
-**33 new role(s)** since last run · 145 total in last 24h
+**30 new role(s)** since last run · 175 total in last 24h
 
-### [WMS Engineer](https://nl.indeed.com/viewjob?jk=3c4fa16f28f5f239) — FloraHolland
-- 📍 **Location:** Aalsmeer, NH, NL
+### [Senior PLC engineer](https://nl.indeed.com/viewjob?jk=0fa252d607554f53) — Yunex Traffic
+- 📍 **Location:** Zoetermeer, ZH, NL
 - **Work mode:** On-site
 - **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Senior Software Developer](https://de.indeed.com/viewjob?jk=d40f2b96241c273b) — OpenText
-- 📍 **Location:** Grasbrunn, BY, DE
+### [Senior .Net Developer](https://nl.indeed.com/viewjob?jk=18600668d205bb45) — Capgemini
+- 📍 **Location:** Utrecht, UT, NL
 - **Work mode:** On-site
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Assistant Editor (Master's/PhD holder) - Mechanical Engineering (Electronics)](https://uk.indeed.com/viewjob?jk=ecb1e9d3494caeec) — MDPI AG
-- 📍 **Location:** Manchester, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Fullstack Developer (Vue/.Net) - UK (Mainly Remote)](https://uk.indeed.com/viewjob?jk=5c0663a9f8048105) — JOURNi
-- 📍 **Location:** Banbury, ENG, GB
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-28
-
-### [Heat pump engineer/plumber](https://uk.indeed.com/viewjob?jk=533c73ba91574374) — Installio
-- 📍 **Location:** Bath, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Programmer (Entry Level) – SQL & Data Programming](https://uk.indeed.com/viewjob?jk=a6412fdeb7957d12) — Next 15
-- 📍 **Location:** London, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Senior Fullstack Engineer](https://uk.indeed.com/viewjob?jk=e1db6e0f3cc45280) — OAG Aviation Worldwide
-- 📍 **Location:** Remote, GB
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-28
-
-### [Security Architect](https://uk.indeed.com/viewjob?jk=6708c9e4aa6d5fa8) — Allwyn UK
-- 📍 **Location:** Warrington, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Engineering Operations Coordinator – fixed term](https://uk.indeed.com/viewjob?jk=a0a164a84f6093a1) — Humanscale
-- 📍 **Location:** London, ENG, GB
-- **Work mode:** Remote in-state eligible
-- **Job type:** temporary
-- 🕒 **Posted:** 2026-09-28
-
-### [Staff Software Engineer](https://uk.indeed.com/viewjob?jk=0b04d5811a074c31) — Checkout.com
-- 📍 **Location:** London, ENG, GB
+### [(Senior) Java Developer Manufacturing Solutions (m/w/d)](https://de.indeed.com/viewjob?jk=42d20a26e8585338) — Vaillant Group
+- 📍 **Location:** Remscheid, NW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Civil Engineering Summer Placement](https://uk.indeed.com/viewjob?jk=7206c59b73602294) — Amey
+### [(Senior) Java Developer Manufacturing Solutions (m/f/d)](https://de.indeed.com/viewjob?jk=909e2ca58af051f5) — Vaillant Group
+- 📍 **Location:** Remscheid, NW, DE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Senior Software Entwickler .NET 80-100% (m/w)](https://de.indeed.com/viewjob?jk=6deded07bcbc1c3a) — Unknown
+- 📍 **Location:** Friedrichshafen, BW, DE
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-06-30
+
+### [Senior Enterprise Architect](https://uk.indeed.com/viewjob?jk=e06f91e9a0f775d3) — HM Land Registry
+- 📍 **Location:** Whoberley, ENG, GB
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Cable Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=90394b1b12446bd3) — SSE PLC
+- 📍 **Location:** Inverness, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Protection and Control Engineering opportunities](https://uk.indeed.com/viewjob?jk=71d637f0afb9a534) — SSE PLC
 - 📍 **Location:** Perth, SCT, GB
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-27
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
 
-### [Backend Engineer (.NET)](https://uk.indeed.com/viewjob?jk=093b6d6d767d4c5f) — Benifex
-- 📍 **Location:** Southampton, ENG, GB
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-21
+### [Electrical Engineering Opportunities](https://uk.indeed.com/viewjob?jk=f06c1a4e4ce05122) — SSE PLC
+- 📍 **Location:** Perth, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
 
-### [Software Development Engineer II, Audio, Twitch & Games (ATG) Security](https://uk.indeed.com/viewjob?jk=30c9101b618393be) — Amazon.com
+### [Overhead Line Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=d701f9ab958cc730) — SSE PLC
+- 📍 **Location:** Inverness, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Electrical Engineering Opportunities](https://uk.indeed.com/viewjob?jk=67bc7d9af6c76429) — SSE PLC
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Electrical Engineering Opportunities](https://uk.indeed.com/viewjob?jk=98deed675043ee2a) — SSE PLC
+- 📍 **Location:** Aberdeen, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Protection and Control Engineering opportunities](https://uk.indeed.com/viewjob?jk=5a4049503527c108) — SSE PLC
+- 📍 **Location:** Aberdeen, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Geotechnical Engineering opportunities](https://uk.indeed.com/viewjob?jk=96c0b666fb5f65a4) — SSE PLC
+- 📍 **Location:** Perth, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Overhead Line Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=88b7a7510b7317b7) — SSE PLC
+- 📍 **Location:** Aberdeen, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Overhead Line Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=9793168ee96dbd2a) — SSE PLC
+- 📍 **Location:** Perth, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Geotechnical Engineering opportunities](https://uk.indeed.com/viewjob?jk=ac7239984c882c71) — SSE PLC
+- 📍 **Location:** Inverness, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Cable Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=d97fd05a0a274be0) — SSE PLC
+- 📍 **Location:** Perth, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Protection and Control Engineering opportunities](https://uk.indeed.com/viewjob?jk=97a9f1ec41421a30) — SSE PLC
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Overhead Line Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=17799260c08d404e) — SSE PLC
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Geotechnical Engineering opportunities](https://uk.indeed.com/viewjob?jk=098bd6726514db62) — SSE PLC
+- 📍 **Location:** Aberdeen, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Electrical Engineering Opportunities](https://uk.indeed.com/viewjob?jk=f7fe21666496c62e) — SSE PLC
+- 📍 **Location:** Inverness, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Geotechnical Engineering opportunities](https://uk.indeed.com/viewjob?jk=cdadf34008ad5b89) — SSE PLC
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Cable Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=c604c1cb03543ee3) — SSE PLC
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Protection and Control Engineering opportunities](https://uk.indeed.com/viewjob?jk=628c89d1b06733bc) — SSE PLC
+- 📍 **Location:** Inverness, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Cable Project Engineering Opportunities](https://uk.indeed.com/viewjob?jk=7723bce2957eab71) — SSE PLC
+- 📍 **Location:** Aberdeen, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Senior AI Software Engineer (Azure)](https://uk.indeed.com/viewjob?jk=196c9395632b808d) — Capgemini
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
+- 🕒 **Posted:** 2026-09-28
 
-### [Windows Engineer, Digital Infrastructure, Cloud & Foundation Services](https://pl.indeed.com/viewjob?jk=3743ac05062618f3) — Harman
-- 📍 **Location:** Łódź, LO, PL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-23
-
-### [Backendutvecklare .NET](https://se.indeed.com/viewjob?jk=d788e7d37962cb98) — Deploja AB
-- 📍 **Location:** Solna, AB, SE
+### [Senior AI Software Engineer (Azure) - Cardiff](https://uk.indeed.com/viewjob?jk=80bc3e3890175c00) — Capgemini
+- 📍 **Location:** Cardiff, WLS, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-28
 
-### [Fullstack software engineer](https://se.indeed.com/viewjob?jk=f4c915aefd6c63dc) — Justera Group
-- 📍 **Location:** Göteborg, O, SE
+### [Senior Software Engineer (.NET and Azure)](https://uk.indeed.com/viewjob?jk=7bf5352d5686e94c) — Capgemini
+- 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-28
 
-### [Senior Back-end/Python Developer](https://se.indeed.com/viewjob?jk=527a0732bf9a2b70) — Optilon AB
-- 📍 **Location:** Malmö, M, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Platform Engineer](https://se.indeed.com/viewjob?jk=7b14d4f5126f8049) — Avinode Group
-- 📍 **Location:** Göteborg, O, SE
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-28
-
-### [Senior Software Engineer (Full Stack)](https://se.indeed.com/viewjob?jk=c8222d2585d9d503) — 4C Strategies
+### [Software Engineer ﻿](https://se.indeed.com/viewjob?jk=159d7abcc93c521b) — Saab
 - 📍 **Location:** Stockholm, AB, SE
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-22
-
-### [Platform Engineer](https://se.indeed.com/viewjob?jk=dea7d4999847b56c) — Avinode Group
-- 📍 **Location:** Göteborg, O, SE
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-01
-
-### [Integration Platform Engineer (.NET/API)](https://se.indeed.com/viewjob?jk=8b0d0cbb5d22356e) — Hemsö
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-01
-
-### [Senior Software Engineer - IAM](https://no.indeed.com/viewjob?jk=408713ea81d3f0ef) — Aize AS
-- 📍 **Location:** Lysaker, N30, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Backend- og DevOps-udvikler til vores IT Digital Commerce-team](https://dk.indeed.com/viewjob?jk=f1b063a271a36b17) — Arp-Hansen Hotel Group
-- 📍 **Location:** København, D84, DK
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Medior Backend .NET Developer](https://be.indeed.com/viewjob?jk=5fba15a097baff58) — Keystone Solutions
-- 📍 **Location:** Brussels, BRU, BE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [.Net FullStack Developer](https://be.indeed.com/viewjob?jk=fda06d81a5671167) — Egov Select
-- 📍 **Location:** Brussels, BRU, BE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [.Net FullStack Developer](https://be.indeed.com/viewjob?jk=4f4ec5572dea3c06) — Egov Select
-- 📍 **Location:** Brussels, BRU, BE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Senior Data Engineer](https://ch.indeed.com/viewjob?jk=79e74be62ed332eb) — Zühlke Engineering AG
-- 📍 **Location:** Schlieren, ZH, CH
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Project Controls Engineer - Data Centres](https://es.indeed.com/viewjob?jk=d0d62788b56427e5) — Turner & Townsend Pty Limited
-- 📍 **Location:** Barcelona, CT, ES
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [DESARROLLADOR .NET](https://es.indeed.com/viewjob?jk=c81a7a4cb73e4335) — knowmad mood
-- 📍 **Location:** Madrid, MD, ES
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Engineering Manager - Remarketing](https://es.indeed.com/viewjob?jk=c3df489c7a71d342) — Nextlane
-- 📍 **Location:** Madrid, MD, ES
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-28
-
-### [Fullstack .Net Cloud AWS](https://es.indeed.com/viewjob?jk=cb652e2c7f3b9125) — Tecdata Engineering
-- 📍 **Location:** Barcelona, CT, ES
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-28
-
-### [.Net Developer](https://pt.indeed.com/viewjob?jk=4453915cb83eff5e) — LUZA Group
-- 📍 **Location:** Cascais, P11, PT
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-28
-
-### [Senior Developer](https://kw.indeed.com/viewjob?jk=68d7acdecca1548e) — Menzies Aviation
-- 📍 **Location:** Kuwait City, KU, KW
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
