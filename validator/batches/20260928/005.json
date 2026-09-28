@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-28T12:44:01+03:00",
   "job_count": 48,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "CERN",
