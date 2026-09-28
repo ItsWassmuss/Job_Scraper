@@ -185,6 +185,36 @@
         "name": "United Arab Emirates",
         "location": "United Arab Emirates",
         "geoId": ""
+      },
+      {
+        "name": "Bulgaria",
+        "location": "Bulgaria",
+        "geoId": ""
+      },
+      {
+        "name": "Lithuania",
+        "location": "Lithuania",
+        "geoId": ""
+      },
+      {
+        "name": "Luxembourg",
+        "location": "Luxembourg",
+        "geoId": ""
+      },
+      {
+        "name": "Cyprus",
+        "location": "Cyprus",
+        "geoId": ""
+      },
+      {
+        "name": "Estonia",
+        "location": "Estonia",
+        "geoId": ""
+      },
+      {
+        "name": "Latvia",
+        "location": "Latvia",
+        "geoId": ""
       }
     ],
     "indeed": [
@@ -291,6 +321,30 @@
       {
         "location": "United Arab Emirates",
         "country": "United Arab Emirates"
+      },
+      {
+        "location": "Bulgaria",
+        "country": "Bulgaria"
+      },
+      {
+        "location": "Lithuania",
+        "country": "Lithuania"
+      },
+      {
+        "location": "Luxembourg",
+        "country": "Luxembourg"
+      },
+      {
+        "location": "Cyprus",
+        "country": "Cyprus"
+      },
+      {
+        "location": "Estonia",
+        "country": "Estonia"
+      },
+      {
+        "location": "Latvia",
+        "country": "Latvia"
       }
     ],
     "glassdoor": [],
