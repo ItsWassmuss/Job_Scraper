@@ -2,8 +2,8 @@
 Pipelines (see __main__) include LinkedIn's guest endpoint, JobSpy-backed
 Indeed/Glassdoor, public-sector boards, and a priority-employer sweep
 (allowlist-filtered LinkedIn + optional direct Greenhouse/Workday probes). Each
-writes {basename}.{json,md,html} digests and accumulates into all_jobs.json for
-the dashboard and triage agent.
+writes {basename}.{json,md,html} per-source snapshots consumed by downstream
+workflows.
 
 Tune the search in config.json: title keywords, board-specific search terms,
 priority employers, locations, and LinkedIn geoIds / JobSpy locations.
@@ -112,12 +112,7 @@ PROFILE_LABEL = re.sub(
     str(_cfg("profile.title", "Job")), flags=re.I).strip() or "Job"
 PROFILE_SUBTITLE = str(_cfg("profile.subtitle", "All locations"))
 
-# Title keywords, from config.json → keywords.include. A title matches if it
-# contains any of these (case-insensitive). See config.example.json for the
-# documented default list and tuning notes (deliberately tight — generic
-# titles like "Research Scientist" or "Professor" are left out because they
-# pull in unrelated roles; qualified forms like "Environmental Data Scientist"
-# still match via "environmental data").
+# Broad programming/software title signals from config.json → keywords.include.
 KEYWORDS = _cfg("keywords.include", [])
 
 # Seconds to wait between API probes — keeps us polite
@@ -139,13 +134,14 @@ def _build_title_re(terms: list) -> re.Pattern:
 
 EXCLUDED_SENIORITY_RE = _build_title_re(_cfg("keywords.exclude", []))
 
-# Multi-word phrases keep substring semantics; single-word keywords ("mle",
-# "devops") are word-bounded so they can't match inside a word ("Hamlet").
+# Plain alphanumeric tokens are word-bounded. Phrases and punctuation-bearing
+# signals use literal matching so terms such as ".NET", "C#", and "ASP.NET"
+# do not depend on boundaries around punctuation.
 _KEYWORD_RE = re.compile(
     "|".join(
-        re.escape(k) if " " in k else rf"\b{re.escape(k)}\b"
+        rf"\b{re.escape(k)}\b" if re.fullmatch(r"[A-Za-z0-9]+", k) else re.escape(k)
         for k in KEYWORDS
-    ),
+    ) or r"(?!x)x",
     re.IGNORECASE,
 )
 
@@ -187,42 +183,18 @@ _SR_MGR_RE = re.compile(
 _HEAD_OF_RE = re.compile(r"\bhead\s+of\b", re.IGNORECASE)
 
 
-def role_is_relevant(title: str, company: str = "") -> bool:
-    """Check whether a job title is relevant to the configured search.
-
-    When the fuzzy pre-filter is configured (keywords.fuzzy_seniority and
-    keywords.fuzzy_domain both non-empty), applies a broad fuzzy match that
-    catches title variants the exact-phrase KEYWORDS miss. Deliberately
-    permissive — downstream filtering (triage agent, manual review) can
-    tighten the cut.
-
-    When the fuzzy pre-filter is not configured (either list empty), falls
-    back to the keyword filter (keywords.include) — the same filter used by
-    non-LinkedIn sources.
-    """
+def _title_passes_keyword_gate(title: str) -> bool:
+    """Apply the shared title-only exclusion and positive keyword gate."""
     if not title:
         return False
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
-    if not _FUZZY_ENABLED:
-        return bool(_KEYWORD_RE.search(title))
-    # Fuzzy mode: broad pre-filter for domain-specific seniority + domain tokens.
-    if _FUZZY_EXCLUDE_RE and _FUZZY_EXCLUDE_RE.search(title):
-        return False
-    # Director+ : seniority token + domain token (e.g. "Director of Engineering")
-    if _SENIORITY_RE.search(title) and _DOMAIN_RE.search(title):
-        return True
-    # Senior Manager : (senior|sr) + manager + domain (e.g. "Senior Engineering Manager")
-    if _SR_MGR_RE.search(title) and _DOMAIN_RE.search(title):
-        return True
-    # "head of" + domain token or priority company (e.g. "Head of Engineering",
-    # "Head of Dropbox" — LLM decides if it's engineering)
-    if _HEAD_OF_RE.search(title) and (_DOMAIN_RE.search(title) or _is_priority_company(company)):
-        return True
-    # Seniority token + priority company (e.g. "VP at Google")
-    if _SENIORITY_RE.search(title) and _is_priority_company(company):
-        return True
-    return False
+    return bool(_KEYWORD_RE.search(title))
+
+
+def role_is_relevant(title: str, company: str = "") -> bool:
+    """Return whether a title passes the broad programming/software prefilter."""
+    return _title_passes_keyword_gate(title)
 
 
 # ---------------------------------------------------------------------------
@@ -260,20 +232,13 @@ def fetch(url, *, retries=4, _base_wait=30.0):
 
 
 def title_matches_keywords(title: str) -> bool:
-    """True if a job title matches any keyword in keywords.include and is not
-    a junior/student posting (keywords.exclude). This is the config-driven
-    keyword filter used by all non-LinkedIn-partition sources."""
-    if EXCLUDED_SENIORITY_RE.search(title):
-        return False
-    return bool(_KEYWORD_RE.search(title))
+    """Return whether a title passes the broad programming/software prefilter."""
+    return _title_passes_keyword_gate(title)
 
 
 def text_matches_keywords(title: str, *parts: str) -> bool:
-    """Like title_matches_keywords, but allows source-specific summary text to carry the signal."""
-    if EXCLUDED_SENIORITY_RE.search(title or ""):
-        return False
-    text = " ".join([title or "", *(p or "" for p in parts)])
-    return bool(_KEYWORD_RE.search(text))
+    """Apply the title-only prefilter; source-specific body parts are ignored."""
+    return _title_passes_keyword_gate(title)
 
 
 # Geographic scope for the curated/legacy ATS path and the NEOGOV board (which
@@ -528,7 +493,7 @@ def scrape_curated_employers() -> list:
 
 LINKEDIN_SEARCH_TERMS = _cfg("search_terms.linkedin", [])
 
-LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
+LINKEDIN_LOOKBACK_SECONDS = 21600         # 6h — normal watcher requests the last 6 hours
 LINKEDIN_PRIORITY_LOOKBACK_SECONDS = 86400 # 24h — priority digest is a daily 8pm PT run
 
 # Geographies to search. geoId is LinkedIn's authoritative region filter; an
@@ -609,6 +574,7 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
         ) or re.search(r'base-search-card__subtitle[^>]*>\s*([^<]+)', card)
         location_m = re.search(r'job-search-card__location[^>]*>\s*([^<]+)', card)
         time_m = re.search(r'<time[^>]*datetime="([^"]+)"', card)
+        time_text_m = re.search(r'<time\b[^>]*>(.*?)</time>', card, re.DOTALL | re.I)
         # LinkedIn shows pay on the card when the poster provides it.
         salary_m = re.search(r'job-search-card__salary-info[^>]*>\s*([^<]+)', card)
 
@@ -624,6 +590,12 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
             re.sub(r'\s+', ' ', html_mod.unescape(salary_m.group(1).strip()))
             if salary_m else ""
         )
+        relative_age_text = ""
+        if time_text_m:
+            visible_time_text = re.sub(r'<[^>]+>', ' ', time_text_m.group(1))
+            relative_age_text = re.sub(
+                r'\s+', ' ', html_mod.unescape(visible_time_text)
+            ).strip()
         parsed.append({
             "id": urn.group(1),
             "company": company,
@@ -631,13 +603,41 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
             "location": location,
             "date_posted": time_m.group(1) if time_m else "",
             "salary": salary,
+            "_relative_age_text": relative_age_text,
         })
     return parsed, raw_count
 
 
+def _linkedin_relative_age_seconds(text: str) -> int | None:
+    """Return a confidently parsed LinkedIn relative age, or None."""
+    normalized = re.sub(r'\s+', ' ', str(text or '')).strip().lower()
+    normalized = re.sub(r'^(?:posted|reposted)\s+', '', normalized)
+    if normalized in {"just now", "moments ago"}:
+        return 0
+
+    match = re.fullmatch(
+        r'(\d+)\s*'
+        r'(second|seconds|sec|secs|minute|minutes|min|mins|'
+        r'hour|hours|hr|hrs|day|days|week|weeks)\s+ago',
+        normalized,
+    )
+    if not match:
+        return None
+
+    multipliers = {
+        "second": 1, "seconds": 1, "sec": 1, "secs": 1,
+        "minute": 60, "minutes": 60, "min": 60, "mins": 60,
+        "hour": 3600, "hours": 3600, "hr": 3600, "hrs": 3600,
+        "day": 86400, "days": 86400,
+        "week": 604800, "weeks": 604800,
+    }
+    return int(match.group(1)) * multipliers[match.group(2)]
+
+
 def _linkedin_search(terms: list[str], lookback_seconds: int,
                      geos: list[dict] | None = None,
-                     max_results: int = 500) -> tuple[list[dict], int]:
+                     max_results: int = 500,
+                     max_age_seconds: int | None = None) -> tuple[list[dict], int]:
     """
     Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
     ID across every geography and sorts by recency. Used by both the general
@@ -645,6 +645,9 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
 
     Returns (jobs, total_raw_cards). total_raw_cards == 0 across everything means
     LinkedIn gave us no data at all — the callers' block guard.
+
+    max_age_seconds optionally applies a conservative local filter using the
+    card's visible relative age. Unknown ages are retained.
 
     Pagination: the guest API returns 10 cards per page. We step by 10 to avoid
     skipping cards. max_results caps the total cards fetched per term per geo
@@ -664,6 +667,10 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     total_raw_cards = 0
     consecutive_empty = 0
     pages_fetched = 0
+    age_evaluated_ids: set[str] = set()
+    age_kept = 0
+    age_dropped = 0
+    age_unknown_kept = 0
     for geo in geos:
         geo_param = f"&geoId={geo['geoId']}" if geo.get("geoId") else ""
         for term in terms:
@@ -718,6 +725,19 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
                         continue
                     if not role_is_relevant(p["title"], p["company"]):
                         continue
+                    if max_age_seconds is not None:
+                        if p["id"] in age_evaluated_ids:
+                            continue
+                        age_evaluated_ids.add(p["id"])
+                        relative_age = _linkedin_relative_age_seconds(
+                            p.get("_relative_age_text", "")
+                        )
+                        if relative_age is not None and relative_age > max_age_seconds:
+                            age_dropped += 1
+                            continue
+                        age_kept += 1
+                        if relative_age is None:
+                            age_unknown_kept += 1
                     jobs_by_id[p["id"]] = {
                         "company": p["company"],
                         "title": p["title"],
@@ -733,6 +753,12 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     print(f"  ✅ LinkedIn search complete: {pages_fetched} pages, "
           f"{total_raw_cards} raw cards, {len(jobs)} unique jobs"
           f"{' (rate-limited during run)' if _RATE_LIMITED else ''}")
+    if max_age_seconds is not None:
+        hours = max_age_seconds / 3600
+        window = f"{int(hours)}h" if hours.is_integer() else f"{max_age_seconds}s"
+        print(f"  🕒 LinkedIn local age filter: {age_kept} kept, "
+              f"{age_dropped} proven older than {window} dropped, "
+              f"{age_unknown_kept} unknown-age kept")
     return jobs, total_raw_cards
 
 
@@ -991,18 +1017,16 @@ def _enrich_linkedin_postings(jobs: list) -> tuple[int, int]:
 def scrape_linkedin_recent() -> list:
     print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
     jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS,
-                                        max_results=100)
+                                        max_results=1000,
+                                        max_age_seconds=LINKEDIN_LOOKBACK_SECONDS)
     # Block guard (mirrors Indeed's): zero raw cards across every term means
-    # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
+    # LinkedIn gave us nothing — rate-limited or blocked, not a quiet 6-hour window.
     # Reuse the previous results so we don't clobber the dedupe baseline.
     if raw_cards == 0:
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "linkedin_jobs.json"))
         print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               f"preserving previous {len(prev)} result(s)")
         return prev
-    before = len(jobs)
-    jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-    print(f"  📍 Location filter: {before} → {len(jobs)} roles")
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
     _enrich_linkedin_postings(jobs)
     return jobs
@@ -1077,13 +1101,6 @@ def _jobspy_user_agent():
     if raw in (None, "", []):
         raw = os.environ.get("JOBSPY_USER_AGENT", "")
     return str(raw or "").strip() or None
-
-# jobspy returns the full JD (markdown) for many boards. We keep a trimmed copy
-# in source JSONs and all_jobs.json so the dashboard, deterministic scorer, and
-# optional triage agent can judge roles from the actual description instead of
-# title alone.
-JOBSPY_JD_MAX_CHARS = 6000
-
 
 def _coerce_bool(value):
     if isinstance(value, bool):
@@ -1165,7 +1182,7 @@ def _ingest_jobspy_df(df, *, label: str, jobs_by_id: dict[str, dict]) -> int:
             "direct_url": str(row.get("job_url_direct", "") or ""),
             "company_url": str(row.get("company_url", "") or ""),
             "date_posted": str(row.get("date_posted", "") or ""),
-            "description": str(row.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+            "description": str(row.get("description", "") or ""),
             "salary": format_salary(
                 row.get("min_amount", ""),
                 row.get("max_amount", ""),
@@ -1255,6 +1272,7 @@ def scrape_indeed_recent(hours_old: int | None = None) -> list:
         terms=INDEED_SEARCH_TERMS,
         hours_old=h,
         prev_basename="indeed_jobs",
+        results_wanted=1000,
     )
 
 
@@ -1382,7 +1400,7 @@ def _google_jobs_description(raw: dict) -> str:
                 parts.append(title)
             if isinstance(items, list):
                 parts.extend(str(item) for item in items if item)
-    return "\n".join(p for p in parts if p).strip()[:JOBSPY_JD_MAX_CHARS]
+    return "\n".join(p for p in parts if p).strip()
 
 
 def _normalize_serpapi_google_job(raw: dict) -> dict | None:
@@ -1438,7 +1456,7 @@ def _normalize_oxylabs_google_job(raw: dict) -> dict | None:
         "url": url,
         "direct_url": "",
         "date_posted": _posted_text_to_iso(str(raw.get("date") or raw.get("posted_at") or "")),
-        "description": str(raw.get("description", "") or "")[:JOBSPY_JD_MAX_CHARS],
+        "description": str(raw.get("description", "") or ""),
         "salary": str(raw.get("salary", "") or ""),
         "job_type": "",
         "is_remote": is_remote,
@@ -1775,7 +1793,7 @@ def _normalize_hiringcafe_job(raw: dict) -> dict | None:
             "date_posted", "datePosted", "created_at", "createdAt", "dateFetched",
             "estimated_publish_date",
         )) or ""),
-        "description": re.sub(r"<[^>]+>", " ", str(desc or ""))[:JOBSPY_JD_MAX_CHARS],
+        "description": re.sub(r"<[^>]+>", " ", str(desc or "")),
         "salary": _hiringcafe_salary(raw),
         "job_type": str(job_type or ""),
         "is_remote": is_remote,
@@ -2421,7 +2439,7 @@ def _parse_csucareers_listing(html: str) -> list[dict]:
             "direct_url": url,
             "date_posted": "",
             "closing_date": (close_m.group(1)[:10] if close_m else ""),
-            "description": description[:JOBSPY_JD_MAX_CHARS],
+            "description": description,
             "salary": "",
             "ats": "CSUCareers",
         })
@@ -2799,7 +2817,7 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     """
     Maintain all_jobs.json — a cumulative, URL/content-deduped master of every role the
     scrapers surface, each stamped with first_seen. The per-source JSONs are
-    rolling windows that overwrite every run (LinkedIn keeps only ~1h), so this
+    rolling windows that overwrite every run (LinkedIn keeps only ~6h), so this
     master is what the triage agent and the dashboard's Rank tab read to see
     everything from the last ALL_JOBS_PRUNE_DAYS days. Returns count added.
     """
@@ -2871,7 +2889,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     """
     # Single chokepoint for the company exclusion: every source (LinkedIn,
     # Indeed, priority, CalCareers) funnels through here, so dropping excluded
-    # companies once keeps all digests AND all_jobs.json clean.
+    # companies once keeps all per-source digests clean.
     before = len(jobs)
     jobs = [j for j in jobs if not _is_excluded_company(j.get("company", ""))]
     if len(jobs) < before:
@@ -2885,15 +2903,6 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
 
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
-
-    # Accumulate into the cumulative master. Guarded: a bug here must never
-    # break the scrape/commit path that the digests and dashboard depend on.
-    try:
-        # Merge the full current source window, not only brand-new notifications:
-        # existing sparse LinkedIn records can gain salary/description later.
-        _merge_into_all_jobs(jobs)
-    except Exception as e:
-        print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
     # Push the highly-relevant new roles to Pushover (no-op without creds).
     try:
@@ -3256,9 +3265,6 @@ if __name__ == "__main__":
 
     if "--linkedin-only" in sys.argv:
         jobs = scrape_linkedin_recent()
-        before = len(jobs)
-        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-        print(f"📍 Location filter: {before} → {len(jobs)} roles")
         save_linkedin_results(jobs)
         sys.exit(0)
 
@@ -3306,8 +3312,8 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if "--linkedin-merge-backfill" in sys.argv:
-        # Merge per-term AND per-partition backfill results into linkedin_jobs.json
-        # + all_jobs.json. Run after all --linkedin-backfill-term or
+        # Merge per-term AND per-partition backfill results into linkedin_jobs.json.
+        # Run after all --linkedin-backfill-term or
         # --linkedin-backfill-partition jobs have completed.
         import glob
         print("🔗 Merging backfill results…")
@@ -3342,7 +3348,7 @@ if __name__ == "__main__":
             print(f"  time window (e.g. 30 min).")
         print()
         save_linkedin_results(all_jobs)
-        print(f"  ✅ Merge complete: {len(all_jobs)} jobs in linkedin_jobs.json + all_jobs.json")
+        print(f"  ✅ Merge complete: {len(all_jobs)} jobs in linkedin_jobs.json")
         for tf in all_files:
             os.remove(tf)
         print(f"  🗑  Cleaned up {len(all_files)} partition files")

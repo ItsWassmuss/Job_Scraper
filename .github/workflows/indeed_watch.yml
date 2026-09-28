@@ -1,13 +1,8 @@
 name: Indeed Watcher
 
 on:
-  # Native GitHub cron, hourly at :47 during the active window (8am–8pm PT ≈
-  # 15:00–03:00 UTC). Offset from LinkedIn (:17) to reduce contention on the
-  # commit-push concurrency group. (Indeed has no watchdog backup, so this
-  # native schedule is its only automatic trigger — add cron-job.org too if you
-  # want belt-and-suspenders.)
-  schedule:
-    - cron: "47 15-23,0-3 * * *"
+  # Indeed is triggered externally through workflow_dispatch. It keeps its
+  # normal 24-hour lookback and explicitly dispatches LinkedIn at the end.
   workflow_dispatch:
     inputs:
       backfill:
@@ -26,6 +21,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
+      actions: write
       contents: write
 
     steps:
@@ -83,7 +79,13 @@ jobs:
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/indeed_jobs.json output/indeed_jobs.md output/indeed_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          git add -f output/indeed_jobs.json output/indeed_jobs.md output/indeed_jobs.html output/workflow_runs.jsonl output/notified.json
           git diff --cached --quiet || git commit -m "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase -X ours origin main
           git push
+
+      - name: Dispatch LinkedIn watcher
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh -R ${{ github.repository }} workflow run linkedin_watch.yml --ref main

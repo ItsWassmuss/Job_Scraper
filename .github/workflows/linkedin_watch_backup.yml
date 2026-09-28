@@ -1,21 +1,14 @@
 name: Workflow Watchdog
 
-# Backup-dispatches linkedin_watch.yml (hourly) and scrape_jobs.yml (daily) if
-# the GitHub Actions scheduler silently skips a slot. Fires at minute :33 of
-# the same active window as linkedin_watch, well after that workflow's :13
-# slot (~20 min after the scheduled fire — past normal GH latency). :33 is
-# off-peak, so this fallback is less likely to be throttled than :00.
+# Manual fallback for checking whether Indeed has already run in the current
+# UTC hour and dispatching it if needed. A rescued Indeed run explicitly
+# dispatches LinkedIn at its end.
 on:
-  schedule:
-    - cron: "33 15-23,0-3 * * *"
   workflow_dispatch:
 
 # NOTE: deliberately NOT in the job-scraper-commit-push concurrency group.
-# The watchdog never commits or pushes — it only dispatches. When it held that
-# group while dispatching, a second rescue (Indeed) would replace the first
-# rescue (LinkedIn) in the group's single pending slot and cancel it (verified:
-# cancelled linkedin_watch runs at the exact second of indeed dispatches,
-# 2026-06-03/04). The dispatched workflows still serialize among themselves.
+# The watchdog never commits or pushes — it only dispatches. The dispatched
+# workflows still serialize among themselves.
 
 jobs:
   watchdog:
@@ -24,37 +17,11 @@ jobs:
       actions: write
       contents: read
     steps:
-      - name: LinkedIn — dispatch backup if no run this UTC hour
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -e
-          current_hour=$(date -u +%Y-%m-%dT%H)
-          last=$(gh -R ${{ github.repository }} run list \
-            --workflow=linkedin_watch.yml --limit 1 \
-            --json createdAt,status)
-          status=$(echo "$last" | jq -r '.[0].status')
-          createdAt=$(echo "$last" | jq -r '.[0].createdAt')
-          if [ "$status" = "in_progress" ] || [ "$status" = "queued" ]; then
-            echo "linkedin_watch in flight ($status); nothing to do"
-            exit 0
-          fi
-          if [ "${createdAt:0:13}" = "$current_hour" ]; then
-            echo "linkedin_watch already ran this hour at $createdAt"
-            exit 0
-          fi
-          echo "No linkedin_watch run in $current_hour, dispatching backup"
-          gh -R ${{ github.repository }} workflow run linkedin_watch.yml --ref main
-
       - name: Indeed — dispatch backup if no run this UTC hour
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          # If the previous step just dispatched a LinkedIn rescue, give it time
-          # to start running (leave the concurrency group's single pending slot)
-          # before this dispatch adds Indeed to the same group.
-          sleep 90
           current_hour=$(date -u +%Y-%m-%dT%H)
           last=$(gh -R ${{ github.repository }} run list \
             --workflow=indeed_watch.yml --limit 1 \
@@ -71,25 +38,3 @@ jobs:
           fi
           echo "No indeed_watch run in $current_hour, dispatching backup"
           gh -R ${{ github.repository }} workflow run indeed_watch.yml --ref main
-
-      - name: Priority Employer — dispatch backup if >25h stale
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -e
-          last=$(gh -R ${{ github.repository }} run list \
-            --workflow=scrape_jobs.yml --limit 1 \
-            --json createdAt,status)
-          status=$(echo "$last" | jq -r '.[0].status')
-          createdAt=$(echo "$last" | jq -r '.[0].createdAt')
-          if [ "$status" = "in_progress" ] || [ "$status" = "queued" ]; then
-            echo "scrape_jobs in flight ($status); nothing to do"
-            exit 0
-          fi
-          hours_since=$(python3 -c "from datetime import datetime, timezone; d=datetime.fromisoformat('$createdAt'.replace('Z','+00:00')); print(int((datetime.now(timezone.utc)-d).total_seconds()/3600))")
-          if [ "$hours_since" -lt 25 ]; then
-            echo "scrape_jobs ran ${hours_since}h ago; nothing to do"
-            exit 0
-          fi
-          echo "scrape_jobs stale (${hours_since}h), dispatching backup"
-          gh -R ${{ github.repository }} workflow run scrape_jobs.yml --ref main
