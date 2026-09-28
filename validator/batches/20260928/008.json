@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-28T15:52:19+03:00",
   "job_count": 2,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "HeadHunters Hub",
