@@ -46288,6 +46288,87 @@
       "location": "London, England, United Kingdom",
       "canonical_url": "https://www.linkedin.com/jobs/view/4421872021/",
       "reported_at": "2026-09-28T11:01:00+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470840227",
+      "company": "A",
+      "title": "Software Engineer",
+      "location": "Saudi Arabia",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470840227/",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4446755114",
+      "company": "Danske Bank",
+      "title": "Full Stack Engineer with a strong backend focus in Customer Capabilities Tribe",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4446755114/",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4454243373",
+      "company": "Endava",
+      "title": "Senior Full Stack Development Consultant",
+      "location": "Cluj-Napoca, Cluj, Romania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4454243373/",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472472939",
+      "company": "Epergne Solutions",
+      "title": "Software Engineer",
+      "location": "Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472472939/",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471337172",
+      "company": "RAPSYS TECHNOLOGIES PTE LTD",
+      "title": "Software Engineer",
+      "location": "Singapore, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471337172/",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471335188",
+      "company": "RAPSYS TECHNOLOGIES PTE LTD",
+      "title": "Software Engineer (Full STack)",
+      "location": "Singapore, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471335188/",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470827854",
+      "company": "SLG",
+      "title": "Full-Stack Software Engineer .NET | C# | Azure",
+      "location": "Bascharage, Luxembourg, Luxembourg",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470827854/",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "ced804b4511d2667",
+      "company": "Slalom Consulting",
+      "title": "Senior Software Engineer (Full-Stack)",
+      "location": "Manchester, ENG, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=ced804b4511d2667",
+      "reported_at": "2026-09-28T13:01:05+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "8fc16da0d1da33a6",
+      "company": "User Experience Researchers Pte Ltd",
+      "title": "Software Engineer",
+      "location": "SG",
+      "canonical_url": "https://sg.indeed.com/viewjob?jk=8fc16da0d1da33a6",
+      "reported_at": "2026-09-28T13:01:05+03:00"
     }
   ]
 }
