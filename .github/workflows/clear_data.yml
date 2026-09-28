@@ -2,8 +2,8 @@ name: Clear Job Data
 
 # Resets ALL scraped job data so you can start fresh — useful when you've
 # changed search terms and want to purge old, irrelevant results.
-# Clears every per-source JSON the dashboard reads, the rolling accumulator
-# (all_jobs.json), and the Pushover dedup tracker (notified.json).
+# Clears every per-source JSON the dashboard reads and the Pushover dedup
+# tracker (notified.json).
 #
 # Unlike the scraper workflows, this ALWAYS commits — no ENABLE_DATA_COMMITS
 # check. If you triggered this manually, you want the files cleared.
@@ -55,11 +55,6 @@ jobs:
                   json.dump(empty_source, f)
               print(f"✅ {path} cleared")
 
-          # Accumulator (all_jobs.json)
-          with open("output/all_jobs.json", "w", encoding="utf-8") as f:
-              json.dump({"updated_at": now, "jobs": []}, f)
-          print("✅ output/all_jobs.json cleared")
-
           # Pushover dedup tracker
           with open("output/notified.json", "w", encoding="utf-8") as f:
               json.dump({"ids": []}, f)
@@ -71,7 +66,7 @@ jobs:
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add -f \
-            output/all_jobs.json output/notified.json \
+            output/notified.json \
             output/jobs.json output/linkedin_jobs.json output/indeed_jobs.json \
             output/glassdoor_jobs.json output/ziprecruiter_jobs.json \
             output/google_jobs.json output/hiringcafe_jobs.json \
