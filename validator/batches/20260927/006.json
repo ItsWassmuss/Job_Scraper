@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-27T14:35:50+03:00",
   "job_count": 20,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Nutreco",
