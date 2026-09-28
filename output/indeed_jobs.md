@@ -1,22 +1,30 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-28 02:22 UTC*
+*Last updated: 2026-09-28 07:24 UTC*
 
-**3 new role(s)** since last run · 8 total in last 24h
+**5 new role(s)** since last run · 12 total in last 24h
 
-### [Application engineer Industrial Automation](https://nl.indeed.com/viewjob?jk=f6904ec41cfa3536) — Wolf Groep
-- 📍 **Location:** Utrecht, UT, NL
+### [IT Partnering and Innovation Developer](https://uk.indeed.com/viewjob?jk=695b89224f95e345) — Lancaster University
+- 📍 **Location:** Lancaster, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-27
+
+### [Senior Software Engineer (Full-Stack)](https://uk.indeed.com/viewjob?jk=ced804b4511d2667) — Slalom Consulting
+- 📍 **Location:** Manchester, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer](https://sg.indeed.com/viewjob?jk=8fc16da0d1da33a6) — User Experience Researchers Pte Ltd
+- 📍 **Location:** SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Graduate Civil Engineer](https://uk.indeed.com/viewjob?jk=bf7b8f8a0a05118f) — Amey
-- 📍 **Location:** Perth, SCT, GB
+### [Principal - Solution Architect, Software Engineering](https://sg.indeed.com/viewjob?jk=2bbb042804577d96) — Slalom Consulting
+- 📍 **Location:** SG
 - **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-09-27
+- 🕒 **Posted:** 2026-07-01
 
-### [Graduate Engineer](https://uk.indeed.com/viewjob?jk=a5a39ba432a677b0) — Amey
-- 📍 **Location:** Glasgow, SCT, GB
+### [SK(주) AX 유럽법인, GigaX Europe 현채 채용(MES/WMS C# 운영자)](https://hu.indeed.com/viewjob?jk=8958fcac42919a41) — GigaX Europe
+- 📍 **Location:** Budapest, PE, HU
 - **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-09-27
+- 🕒 **Posted:** 2026-09-28
