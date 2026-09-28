@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-28T10:39:18+03:00",
   "job_count": 40,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Lancaster University",
