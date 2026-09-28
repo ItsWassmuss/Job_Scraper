@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c47504a9d2616939",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "99c6cda39cf0ce20",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cb21d5f884144dcf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "AVAILABILITY: employer careers page states all positions are currently filled and no openings are available.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "42c376517e9a8ff4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ac45ce97cf5c8d8a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German B2 is explicitly mandatory.",
       "validated": null
     },
     {
@@ -137,9 +137,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4169f13fb7dcae49",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops scalable C#/.NET backend services and ASP.NET APIs for PuttView sports technology.",
+        "direct_application_link": "https://de.indeed.com/viewjob?jk=4169f13fb7dcae49"
+      }
     },
     {
       "company": "Unknown",
@@ -160,8 +171,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ecea71070e0c393c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -183,8 +194,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "45f53ff3daede366",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: existing UK work authorization is explicitly required.",
       "validated": null
     },
     {
@@ -206,8 +217,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f6e4bee3b6e67242",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -229,8 +240,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a8bb2d545563e936",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: minimum five years' UK residence is explicitly required.",
       "validated": null
     },
     {
@@ -252,8 +263,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "45de173214cb7750",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -275,8 +286,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6c3fe7523142cc1d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -298,9 +309,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f6ab6c85fbef45b6",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Minimum 6–8 years of experience in backend development",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior backend developer for DHI's MUSE application, primarily backend, using C# and .NET Core.",
+        "direct_application_link": "https://pl.indeed.com/viewjob?jk=f6ab6c85fbef45b6"
+      }
     },
     {
       "company": "Agile Resources",
@@ -321,8 +343,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "21d24919dab0db2c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -344,8 +366,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b5f8352ca0b566c1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: full JD is primarily Swedish with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -367,8 +389,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8aabd2bab9e69b9c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -390,8 +412,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cccfaf73c8e161a2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -413,8 +435,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "677a652f98ca209d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -436,8 +458,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d5351919305b8571",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: full JD is primarily French with no complete official English version confirmed.",
       "validated": null
     },
     {
@@ -459,8 +481,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "30a029b1ba8f6ab2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -482,8 +504,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "858b83cb955408dd",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -505,8 +527,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4b928c7028b1aee3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -528,8 +550,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c1d4d1457a7b7b45",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -551,8 +573,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "44d5e6ea96dac9b5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -574,8 +596,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d5242f2974b364b0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -597,8 +619,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ae986c8e1b216e61",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -620,8 +642,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "dc382be2ac6fd42b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -643,9 +665,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "51e56a1207e82b73",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Hands-on experience building applications with C# and .NET; hands-on Azure experience required",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Builds full-stack digital products with C#/.NET, including backend services, APIs, databases, and Azure-based integrations.",
+        "direct_application_link": "https://lu.indeed.com/viewjob?jk=51e56a1207e82b73"
+      }
     },
     {
       "company": "Platform Science",
@@ -658,8 +691,8 @@
       "description": "Wie wij zijn\n\nBij Platform Science werken we aan het verbinden van alles wat beweegt. Opgericht in 2015, zijn wij een open IoT-platform dat samenwerkt met innovatieve vlootbeheerders, applicatieontwikkelaars, voertuigfabrikanten en leveranciers in de transportsector. Samen leveren we revolutionaire oplossingen aan supply chain professionals over de hele wereld.\n\nOnze medewerkers vormen een betrokken, diverse groep mensen die geloven in de kracht van goede ideeën. We nemen mensen aan met verschillende achtergronden en perspectieven om een bedrijfscultuur te bouwen die groei stimuleert door middel van innovatie. We hechten veel waarde aan doordachte acties en empathie voor anderen. Uitdagingen benaderen we met veerkracht en creativiteit, waarbij we transparantie aanmoedigen. Ongeacht onze achtergrond of verantwoordelijkheden: we zijn één team.\n\nOver de functie\n\nPlatform Science is op zoek naar een Senior Software Engineer\nom mee te bouwen aan FleetHours+, ons next-generation platform voor urenregistratie en loonberekening binnen de Europese transport- en logistieksector. In deze rol overbrug je de kloof tussen functieaanvragen en logische technische oplossingen, waarbij je samen met onze Tech Lead complexe implementaties ontwerpt. Als senior lid van een toegewijd internationaal Scrum-team stuur je zowel backend- als frontend-ontwikkeling aan en zorg je ervoor dat het platform schaalbaar en krachtig blijft.\n\nBelangrijkste verantwoordelijkheden\n\nTechnisch Ontwerp: Vertaal complexe functionele vragen naar functionele/technische specificaties en modulaire componenten.\nFull-Stack Development: Besteed tot 50% van je tijd aan coderen, het implementeren van robuuste backend-services in C# en moderne frontend-modules in Angular.\nArchitectuur & Samenwerking: Spar met de Tech Lead en Architect over nieuwe functies en technische implementaties; fungeer als hun vervanger bij afwezigheid.\nTeamleiderschap: Begeleid en coach junior developers, stel gedetailleerde Jira-tickets op en onderhoud duidelijke technische documentatie.\nKwaliteit & Onderhoud: Onderhoud bestaande codebases en waarborg de nauwkeurigheid van alle technische objecten en componenten.\n\nErvaring\n\nVereiste ervaring\n\nTechnische vaardigheid: Uitstekend programmeerniveau in C# en ervaring met het creëren van schaalbare microservices.\nOpleiding: Diploma op HBO/Universitair niveau in Informatica of een gerelateerd technisch vakgebied.\nTaaleisen: Uitstekende lees- en schrijfvaardigheid in het Nederlands en een goed professioneel niveau in het Engels zijn verplicht.\nTools: Ervaring met Microsoft Visual Studio, GitHub (en GitHub Actions) en Atlassian-tools (Jira, Confluence).\nModellering: Sterk vermogen om UML-diagrammen en conceptuele modellen te maken en te begrijpen.\n\nGewenste ervaring\n\nSector kennis: Ervaring in de transport- en logistieksector of kennis van salaris-/HRM-systemen.\nTech Stack: Goed niveau in programmeren met Angular en kennis van MongoDB.\n\nEigenschappen van een succesvolle kandidaat\n\nProactieve houding: Een professionele, zelfgemotiveerde werknemer die de volledige verantwoordelijkheid neemt voor projectresultaten.\nHeldere communicator: Sterk vermogen om technische concepten schriftelijk en mondeling te communiceren, inclusief presenteren voor een publiek.\nNauwkeurigheid: Zeer precies in het dagelijkse werk, ervoor zorgend dat technische componenten voldoen aan strikte functionele eisen.\nAgile mindset: Zeer vertrouwd met werken in een Scrum-omgeving en samenwerken in een internationale setting.\n\nWho We Are\n\nAt Platform Science, we’re working to connect everything that moves.\n\nFounded in 2015, we are an open IoT platform that partners with innovative fleets, application developers, vehicle manufacturers, and equipment providers in the transportation industry to deliver revolutionary solutions to supply chain professionals across the globe.\n\nOur employees are an engaging, diverse group of people who believe in the power of great ideas. We hire people with different experiences and perspectives to build a company culture that fuels growth through innovation.\n\nWe value thoughtful actions and empathy for others. We approach challenges with resiliency\nand creativity\n, while encouraging transparency\nbecause, no matter our backgrounds or responsibilities, we are one team\n.\n\nAbout The Role\n\nPlatform Science is seeking a Senior Software Engineer\nto help build FleetHours+\n, our next-generation platform for hours registration and wage calculation within the European transport and logistics sector. In this role, you will bridge the gap between feature requests and logical technical solutions, architecting complex implementations alongside our Tech Lead. As a senior member of a dedicated international Scrum team, you will drive both backend and frontend development, ensuring the platform remains scalable and high-performing.\n\nEssential Responsibilities\n\nTechnical Design: Translate complex feature requests into functional/technical specifications and modular components.\nFull-Stack Development: Spend up to 50% of your time coding, implementing robust backend services in C# and modern frontend modules in Angular.\nArchitecture & Collaboration: Spar with the Tech Lead and Architect regarding new features and technical implementations; act as their deputy during absences.\nTeam Leadership: Guide and coach junior developers, create detailed Jira tickets, and maintain clear technical documentation.\nQuality & Maintenance: Maintain existing code bases and ensure the accuracy of all technical objects and components.\n\nExperience\n\nRequired Experience\n\nTechnical Proficiency: Excellent level of programming in C# and experience in creating scalable microservices.\nEducation: HBO/University level degree in Computer Science or a related technical field.\nLanguage Requirements: Excellent reading and writing skills in Dutch and a good professional level in English are mandatory.\nTools: Experience with Microsoft Visual Studio, GitHub (and GitHub Actions), and Atlassian tools (Jira, Confluence).\nModeling: Strong ability to create and understand UML diagrams and conceptual models.\n\nPreferred Experience\n\nIndustry Knowledge: Experience in the transport and logistics branch or knowledge of salary/HRM systems.\nTech Stack: Good level of programming in Angular and knowledge of MongoDB.\n\nTraits of a Successful Candidate\n\nProactive Attitude: A professional, self-motivated worker who takes full ownership of project outcomes.\nClear Communicator: Strong ability to communicate technical concepts in writing and speaking, including presenting to an audience.\nAccuracy: Highly precise in daily work, ensuring technical components meet strict functional requirements.\nAgile Mindset: Deeply familiar with working in a Scrum environment and collaborating in an international setting.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4352880551",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Dutch reading/writing proficiency is explicitly mandatory.",
       "validated": null
     },
     {
@@ -673,8 +706,8 @@
       "description": "As a Software Engineer C#/C++/JAVA, you develop and test software for high-tech products and machines.\n\nIn this role, you support our customers in the semiconductor, analytical instrumentation, and medical equipment industries, within the triangle of Nijmegen, Enschede, and Zwolle, by delivering smart, sustainable, and reliable software solutions. Your software expertise plays an essential role in bringing these high-tech solutions to life.\n\nWhat excites you as a Software Engineer C#/C++/JAVA?\n\nFrom our office in Apeldoorn and at our clients’ locations, you enjoy working on:\n\nDeveloping software in C#, C++, and/or Java\nWorking in an agile environment\nSafeguarding (code) quality through reviews and testing\nDeveloping yourself as a Software Engineer\n\nSounds good? We’d love to tell you more…\n\nYour future workplace\n\nThis is what you bring to the table\n\nYou hold a Bachelor’s or Master’s degree, preferably in Computer Science, Technical Informatics, or Computer Engineering\nYou have at least 2–3 years of experience in technical software development\nYou have experience in technical domains such as the semiconductor, medical, or analytical industry\nYou have knowledge of various development methodologies and techniques such as Design - Patterns, UML, and Agile\nYou are a team player and keep the common goal in mind\nYou have a good command of both Dutch and English, spoken and written\nYou possess a valid European driver’s license and are willing to travel\n\nThis is what you can expect in return from Sioux\n\nFlexible 32-40 hour working week, with room to work from home.\nA healthy work-life balance is very important to us. We have 28 holidays with an option to acquire an additional 12 holidays.\nYou will work with passionate colleagues who share your drive for technology and business success.\nBy combining our expertise in software, electronics, mechanics, mechatronics, mathematics and assembly, we make the impossible possible for our customers and get to work on challenging high-tech projects.\nYou get a lot of freedom and responsibility; after all, you know exactly what you are doing.\nPersonal coaching and a training budget of €6000 per year, so that you can continue to develop yourself.\nWe also find it important to have fun together. We organize a lot for our employees, from events together with your partner and family, summer barbecues, innovative knowledge sessions to tasty lunches and after work drinks.\nYou will be working at a prime location in a green, wooded environment, close to the Veluwe National Park. The perfect base within the triangle of Enschede, Zwolle, and Nijmegen.\n\nHigh Tech & High Fun\n\nWe can tell you all about the typical Sioux-culture and the high-tech challenging projects. About how you can develop yourself, like nowhere else. But we’d rather have you hear it from our own employees.\n\nGo to testimonials >\n\nIf you want to know more about our challenging projects, please click here.\n\nImportant note:\n\nThis position requires access to controlled technology, as defined in the US Export Administration Regulations (15 C.F.R.\n\n730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require Sioux to proceed with candidates who are immediately eligible to access controlled technology.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIndustrial Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4417340178",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -688,8 +721,8 @@
       "description": "Software Engineer .NET & AI (m/w/d) 80.000 €\n\n| Cloud, Architektur & Modernisierung | Festanstellung - bis 80.000€ - Bundesweit - Frankfurt am Main präferiert\n\nFür meinen Kunden, ein etabliertes Technologie- und Beratungshaus mit Fokus auf digitale Transformations- und Softwareentwicklungsprojekte im Finanzumfeld, suche ich erfahrene Software Architekten, Software Engineers sowie .NET- und KI-Spezialisten (m/w/d)\n.\nDeine Aufgaben\n\nEntwicklung und Umsetzung moderner Softwarearchitekturen im .NET-Umfeld\nModernisierung und Weiterentwicklung bestehender Enterprise- und Legacy-Systeme\nKonzeption und Implementierung von Microservice-, API- und Cloud-Architekturen\nDefinition und Etablierung von Architektur- und Technologiestandards\nBeratung von Fachbereichen und Kunden zu technischen Lösungsansätzen\nDurchführung von Architektur-Workshops und technischen Reviews\nCoaching sowie fachliche Unterstützung von Entwicklungsteams\nBewertung und Einführung neuer Technologien, insbesondere in den Bereichen KI, DevSecOps, Observability und Zero Trust\n\nDein Profil\n\nMindestens 5 Jahre Berufserfahrung als Software Engineer, Software Architect oder in einer vergleichbaren Position\nSehr gute Kenntnisse in C# und .NET\nPraktische Erfahrung im Einsatz von KI-gestützten Entwicklungstools wie GitHub Copilot, Claude oder vergleichbaren Lösungen\nErfahrung in der Entwicklung moderner Webanwendungen\nIdealerweise Kenntnisse in Angular, React oder Vue.js\nGute Kenntnisse in JavaScript und TypeScript\nErfahrung mit Cloud-Plattformen wie Azure, AWS oder GCP\nErfahrung mit Kubernetes sowie Infrastructure as Code (IaC)\nIdealerweise Branchenkenntnisse im Banking- oder Finanzumfeld\nReisebereitschaft für Kundenprojekte\nSehr gute Deutsch- sowie gute Englischkenntnisse\n\nDas Angebot\n\nAttraktives Gehaltspaket von bis zu 80.000 € jährlich (Fixgehalt zzgl. variablem Anteil)\nUnbefristete Festanstellung\n30 Tage Urlaub\nSpannende Architektur- und Transformationsprojekte im Finanzumfeld\nModerne Cloud-, KI- und Softwareentwicklungstechnologien\nFlexible Arbeitszeiten und moderne Arbeitsmodelle\nHybrides Arbeiten mit hohem Remote-Anteil\nGeringe Reisetätigkeit\nGesundheits- und Fitnessprogramme\nRegelmäßige Firmenevents und eine starke Teamkultur\nJobRad sowie Zuschuss zum Deutschlandticket\nMöglichkeit zur mobilen Arbeit aus dem EU-Ausland\nAttraktive Mitarbeitervergünstigungen und Prämienprogramme\n\nInteresse geweckt?\n\nAndreas Steck\n\nBei Interesse an dieser Position freue ich mich auf die Zusendung Ihres aktuellen Lebenslaufs, vorzugsweise per E-Mail an .\nBitte teilen Sie mir in Ihrer Nachricht außerdem mit:\nAuf welche Position Sie sich beziehen\nIhre Gehaltsvorstellung\nOb die angebotene Remote-Regelung für Sie infrage kommt\n\nFür Rückfragen stehe ich Ihnen gerne auch telefonisch unter 069 13385 111\nzur Verfügung.\nSollte diese Position aktuell nicht für Sie interessant sein, freue ich mich ebenfalls über eine Empfehlung aus Ihrem Netzwerk.\n\nDesired Skills and Experience\n\nC#, .NET, Cloud, Javascript, Typescript, AI, KI, Claude, Copilot, Deutsch fließend\n\nSThree_Germany is acting as an Employment Agency in relation to this vacancy.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472726823",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: very good German is explicitly mandatory.",
       "validated": null
     },
     {
@@ -703,8 +736,8 @@
       "description": "Referenz 16-255648\n\nUnser Mandant ist ein etabliertes, deutschlandweit tätiges Unternehmen mit mehreren Geschäftsfeldern und langfristig gewachsenen Strukturen. Innerhalb einer modernen IT-Organisation werden Softwarelösungen und Schnittstellen entwickelt, die von einer großen Anzahl von Anwendern täglich genutzt werden. Zur Verstärkung des Entwicklungsteams suchen wir einen Software-Entwickler (m/w/d) mit Schwerpunkt C#/.NET, der aktiv an der Weiterentwicklung innovativer Anwendungen mitwirkt.\n\nDiese Position bietet die Möglichkeit, in einem stabilen Marktumfeld moderne Technologien einzusetzen, neue Themen aktiv mitzugestalten und sich fachlich kontinuierlich weiterzuentwickeln.\n\nWenn das für dich spannend klingt, dann bewirb dich noch heute als Software Developer (m/w/d) C# / .NET.\n\nIhre Benefits\n\nFlexible Arbeitszeiten sowie die Möglichkeit zum mobilen Arbeiten (6 Tage/Monat)\nUnbefristete Festanstellung mit attraktiven Zusatzleistungen\nBetriebliche Altersvorsorge und weitere finanzielle Benefits\nIndividuelle Weiterbildungs- und Entwicklungsmöglichkeiten\nModernes Technologieumfeld mit Gestaltungsspielraum und langfristiger Perspektive\n\nIhre Aufgaben\n\nKonzeption und Entwicklung moderner Webanwendungen sowie leistungsfähiger Schnittstellen\nWeiterentwicklung, Modernisierung und Optimierung bestehender Anwendungen und APIs\nEntwicklung, Erweiterung und Integration relationaler Datenbanksysteme\nErstellung und Pflege technischer Dokumentationen\nMitarbeit an der Versionsverwaltung, an Build-Prozessen und am Release-Management\nAnalyse, Abstimmung und Umsetzung fachlicher Anforderungen in Zusammenarbeit mit verschiedenen Fachbereichen\nEvaluierung neuer Technologien sowie aktive Mitgestaltung technologischer Weiterentwicklungen\n\nIhr Profil\n\nAbgeschlossenes Studium der Informatik, eine Ausbildung im Bereich Anwendungsentwicklung oder eine vergleichbare Qualifikation\nMehrjährige Erfahrung in der Softwareentwicklung von Vorteil\nFundierte Kenntnisse in Microsoft C# und ASP.NET\nErfahrung mit objektorientierter Programmierung sowie modernen Architektur- und Entwurfsmustern\nGute Kenntnisse im Umgang mit relationalen SQL-Datenbanken\nIdealerweise Erfahrung mit Versionsverwaltungssystemen wie Git oder SVN sowie agilen Methoden\nStrukturierte, eigenverantwortliche Arbeitsweise, Teamfähigkeit sowie sehr gute Deutsch- und Englischkenntnisse\n\nWeitere Details\n\nVertragsart: Personalvermittlung, (40 Stunden/Woche)\nBranche: Informationstechnologie\nKarrierestufe: Professional/Experienced\nGehaltsrahmen: 50.000 bis 80.000 EUR/Jahr\nHomeoffice-Option\n\nDie Amadeus Fire AG ist Ihr spezialisierter Personaldienstleister im kaufmännischen und IT-Bereich. An über 20 Standorten bundesweit finden täglich Fach- und Führungskräfte mit unserer Hilfe eine neue berufliche Herausforderung.\n\nIhre Vorteile In Der Zusammenarbeit Mit Amadeus Fire\n\nOhne Anschreiben einfach bewerben\nPersönliche Betreuung und Coaching\nEine Bewerbung, zahlreiche Möglichkeiten\n35 Jahre Erfahrung\n100% kostenlos für Bewerber\n\nFür einen ersten vertraulichen Kontakt steht Ihnen Philipp Farien\n(Tel +49 (0) 621 15093-40 ) gerne zur Verfügung. Wir freuen uns auf Ihre Bewerbung per Online-Formular oder unter Angabe der Referenznummer 16-255648 per E-Mail an: pv.it.mannheim@amadeus-fire.de\n\nAmadeus Fire AG\n\nNiederlassung Mannheim\n\nKonrad-Zuse-Ring 26\n\n68163 Mannheim\n\n#Sonstige-IT\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472740977",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: very good German is explicitly mandatory.",
       "validated": null
     },
     {
@@ -718,8 +751,8 @@
       "description": "Wer wir sind\n\n﻿ CYTENA\nist ein junges und schnell wachsendes Hightech-Unternehmen, das sich der Entwicklung automatisierter, hochpräziser Laborgeräte für die Life-Science-Forschung und die pharmazeutische Industrie widmet. Seine preisgekrönten Geräte werden in renommierten akademischen und pharmazeutischen Labors weltweit eingesetzt, um Arbeitsabläufe in zahlreichen Anwendungsbereichen zu automatisieren, darunter die Entwicklung stabiler Zelllinien, Einzelzell-Omics, Hochdurchsatz-Screening und Wirkstoffforschung. Seit 2019 ist CYTENA\nTeil der BICO\n-Gruppe.\n\nOur mission is: At CYTENA, we make the development of modern therapies faster, safer, and more affordable.\n\nWerden Sie Teil von CYTENA als Senior Software Engineer (m/w/d)\nund spielen Sie eine Schlüsselrolle bei der Entwicklung und Weiterentwicklung unserer Softwarelösungen für innovative Life-Science-Technologien.\n\nAufgaben\n\nDesign, Entwicklung und Wartung von Softwarekomponenten für BICO-Produkte mit End-to-End-Verantwortung – von der Architektur bis zur produktiven Lösung\nProduktiver Einsatz von KI-gestützter Entwicklung als fester Bestandteil unseres Arbeitsalltags: KI-Coding-Assistants gezielt steuern, Ergebnisse kritisch reviewen und in eine saubere, wartbare Architektur überführen\nAktives Mitgestalten, wie wir KI-gestützte Entwicklungsansätze im Team etablieren und weiterentwickeln\nDurchführung von Prototypen und Machbarkeitsstudien für neue Produkt- und Analyse-Workflows\nEnge Zusammenarbeit in interdisziplinären Teams aus Software, Hardware, Optik und Applikation\nSicherstellung der Softwarequalität durch automatisierte Tests, Code Reviews und Best Practices\nMentoring von Junior Engineers sowie aktive Förderung des Wissensaustauschs im Team\n\nQualifikationen\n\nAbgeschlossenes Studium in Informatik, Software Engineering o. Ä. – oder eine vergleichbare Qualifikation\nMehrjährige Berufserfahrung (typ. 5+ Jahre) mit fundierter Expertise in C#/.NET\nOffenheit für KI-gestützte Entwicklung und die Bereitschaft, diese Arbeitsweise aktiv mitzugestalten\nErfahrung mit DevOps-Praktiken, Tools und modernen Entwicklungsprozessen\nSehr gute Englischkenntnisse; Deutschkenntnisse von Vorteil\nPraktische Erfahrung mit KI-gestützter Entwicklung (z. B. GitHub Copilot, Cursor, Claude) und die Fähigkeit, KI-generierten Code kritisch zu bewerten und produktiv einzusetzen von Vorteil\nErfahrung mit Bildverarbeitung und Bildanalyse, Anwendung und Integration von KI-basierter Analyse von Vorteil\nErfahrung mit Webfrontends (React oder vergleichbare Frameworks) von Vorteil\nKenntnisse in Container-Technologien (Docker, Kubernetes) oder weiteren Stacks wie Python oder C++ von Vorteil\n\nWas wir bieten\n\nEin Teil von CYTENA\nzu sein bedeutet gleichzeitig ein Teil von etwas Großem zu sein, denn unser Ziel ist es die Zukunft der medizinischen Entwicklung mitzugestalten. Wir sind ein aufstrebendes Life-Science Unternehmen mit mehrfach ausgezeichneten Produkten und einem coolen Team, das sich besonders durch Spaß, Freundlichkeit, Zusammenarbeit und Hilfsbereitschaft auszeichnet.\n\nAgile Start-up Kultur: Wir sind ein dynamisches und international tätiges Unternehmen und sind stolz auf unsere flache Organisationsstruktur. Wir arbeiten agil und in funktionsübergreifenden Teams.\nFlexibles Arbeiten: Bei uns geht es um Ergebnisse. Wir wollen, dass unsere Mitarbeitenden so produktiv und glücklich wie möglich sind und setzen deshalb auf ein flexibles Arbeitsmodell.\nTeambildung: Zusammenarbeit wird bei uns großgeschrieben! Wir sind aufgeschlossen, helfen einander und veranstalten gerne Teamevents.\nBenefits: Das CYTENA Team gibt immer sein Bestes, dafür möchten wir etwas zurückgeben. Bei uns gibt es die Wahl zwischen drei tollen Benefits: ÖPNV-Jobticket, Givve Card oder Hansefit – Deine Wahl!\nOn top: Wir bieten kostenloses Obst, Wasser und Kaffee, eine Müsli-Bar und weitere Snacks, ein gut angebundenes Office mit traumhafter Dachterrasse, Bällebad, Chillout Area, Tiefgaragen-Stellplätze und noch vieles mehr …\nGreen City Freiburg: Unser neues und modernes Green City Office findest Du im Güterbahnhof-Areal, das neue lebendige Stadtviertel von Freiburg. Vor den Toren des Hochschwarzwaldes im sonnigen Südwesten Deutschlands befindet sich die grüne Universitätsstadt mit ihrem historischen Stadtzentrum, ihrem unschlagbaren Charme und einem vielfältigen Freizeit- und Kulturangebot.\nBetriebliche Altersvorsorge: Die Zukunft von unseren Mitarbeitenden liegt uns am Herzen. Es besteht die Möglichkeit eine Direktversicherung mit attraktiven Konditionen und einem übergesetzlichen Arbeitgeberzuschuss bei unserem Versicherungspartner abzuschließen.\nDie Chance, etwas zu bewegen: Wir sind Teil der Life-Science Branche und unsere Arbeit ist eine großartige Möglichkeit, zur Entwicklung neuer Medikamente und Behandlungen beizutragen, die Hunderttausenden von Menschen weltweit helfen können. Wir sind zukunftsprägend!\n\nDu möchtest ein Teil unserer Erfolgsgeschichte werden? Dann bewirb dich online über unser Bewerbungsportal. Bitte beachte, dass wir aus datenschutzrechtlichen Gründen keine Bewerbungen per E-Mail annehmen können!\n\nAt CYTENA\n, we don’t just accept difference — we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products, and our community. We are an equal opportunity workplace and will always pride ourselves on being a collaborative environment.\n\nBICO leverages a global portfolio of pioneering brands fusing automation, intelligence, and data to unlock scientific discovery at scale in pharma and biotech. With 53,600+ instruments installed in over 65 countries, BICO products, software, and solutions are found in more than 3,500 laboratories, including the world’s top 20 pharmaceutical companies, and have been cited in over 13,000 publications. BICO strives towards the vision to enable life-science labs to accelerate the discoveries that change lives. BICO is listed on Mid-Cap, Nasdaq Stockholm under BICO.  www.bico.com\n\n#DISPENDIX\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nBiotechnology Research",
       "source": "LinkedIn",
       "job_id": "4435567614",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -733,8 +766,8 @@
       "description": "Your Tasks\n\nDevelopment of cloud-based and service-oriented solutions for international use in industrial insurance business\nUse of various frameworks and technologies to develop and integrate the required software components using modern architectural concepts, such as Microsoft Dynamics 365 CRM / CE and Power Platform\nEstablishment of maximum automation for multi-regional operation of services in the Azure Cloud by using Infrastructure-as-Code\nContinuous improvement of our software development process and application of modern methods, e.g., pair programming\nClose collaboration with other developers, business analysts, and subject matter experts within a Scrum team\n\nYour Profile\n\nSeveral years of experience in software development with at least one higher-level programming language, preferably C# and TypeScript\nIn-depth knowledge of relational and non-relational databases (preferably Azure SQL)\nIdeally, experience with the Microsoft Azure Cloud (e.g., Azure Functions, Azure Data Factory, Azure AD)\nStrong sense of quality with an eye for clean software architecture, clean code, usability, automated testing, and effective CI/CD (Azure DevOps)\nEnthusiasm for new technologies, especially in connection with AI, as well as strong interest in professional and personal development\nOpenness and willingness to give and receive regular feedback\nVery good command of English (C1) as well as good German skills (B2)\n\nFlexible working hours\n\nFlexitime arrangements and flexible working time models allow for a perfect work-life balance – however it suits you.\n\nHealth management\n\nStay healthy with us: thanks to preventive measures, a wide variety of sports and various partnerships.\n\nMobile working\n\nWhether from home or on the road – our remote working model (up to 60 % mobile) offers you more freedom and independence.\n\nFurther training\n\nWe satisfy your thirst for knowledge – for example with further training, subject-specific seminars or work and study programmes.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInsurance",
       "source": "LinkedIn",
       "job_id": "4387290897",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -748,8 +781,8 @@
       "description": "Your Tasks\n\nDevelopment of cloud-based and service-oriented solutions for international use in industrial insurance business\nUse of various frameworks and technologies to develop and integrate the required software components using modern architectural concepts, such as Microsoft Dynamics 365 CRM / CE and Power Platform\nEstablishment of maximum automation for multi-regional operation of services in the Azure Cloud by using Infrastructure-as-Code\nContinuous improvement of our software development process and application of modern methods, e.g., pair programming\nClose collaboration with other developers, business analysts, and subject matter experts within a Scrum team\n\nYour Profile\n\nSeveral years of experience in software development with at least one higher-level programming language, preferably C# and TypeScript\nIn-depth knowledge of relational and non-relational databases (preferably Azure SQL)\nIdeally, experience with the Microsoft Azure Cloud (e.g., Azure Functions, Azure Data Factory, Azure AD)\nStrong sense of quality with an eye for clean software architecture, clean code, usability, automated testing, and effective CI/CD (Azure DevOps)\nEnthusiasm for new technologies, especially in connection with AI, as well as strong interest in professional and personal development\nOpenness and willingness to give and receive regular feedback\nVery good command of English (C1) as well as good German skills (B2)\n\nFlexible working hours\n\nFlexitime arrangements and flexible working time models allow for a perfect work-life balance – however it suits you.\n\nHealth management\n\nStay healthy with us: thanks to preventive measures, a wide variety of sports and various partnerships.\n\nMobile working\n\nWhether from home or on the road – our remote working model (up to 60 % mobile) offers you more freedom and independence.\n\nFurther training\n\nWe satisfy your thirst for knowledge – for example with further training, subject-specific seminars or work and study programmes.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInsurance",
       "source": "LinkedIn",
       "job_id": "4387296635",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -763,8 +796,8 @@
       "description": "Vollzeit, unbefristet\n\nKennziffer: *Sch9639\n\nDiese Herausforderungen warten auf Sie\n\nHYDACs Machine Application Tool Chain (MATCH) ist eine TÜV-zertifizierte Software-Suite zur Entwicklung und Wartung von Steuerungssoftware für mobile Arbeitsmaschinen. Sie umfasst unter anderem auch mehrere Desktop-Tools. In diesem Kontext sind Ihre Aufgaben:\n\nWeiterentwicklung und Pflege eines umfangreichen Desktop-Tools auf Basis von .NET und WPF\nKonzeption und Umsetzung neuer Funktionen für ein Produkt mit heterogener Kunden- und Nutzerbasis\nAnalyse komplexer Problemstellungen sowie Entwicklung und Testing nachhaltiger Lösungen\nMitarbeit an Architekturentscheidungen sowie technologischer und methodischer Weiterentwicklung\nZusammenarbeit mit anderen Entwicklern, Produktmanagement und Fachbereichen\nUnterstützung unserer internationalen Kunden bei technischen Fragestellungen\nIntegration und Kommunikation mit Embedded-Steuergeräten und hardwarenahen Systemen\n\nWie Sie uns begeistern\n\nErfolgreich abgeschlossenes Hochschulstudium im Bereich Informatik, technische Informatik oder ähnlich (Master/Diplom)\nMehrjährige Berufserfahrung in der Entwicklung mit C#/.NET sowie fundierte Kenntnisse in WPF, MVVM und Desktop-Anwendungsarchitekturen\nErfahrung in der Arbeit innerhalb eines Entwicklungsteams, einschließlich Code Reviews und gemeinsamer Architekturarbeit\nSehr gute Deutschkenntnisse in Wort und Schrift sowie gute Englischkenntnisse\nFähigkeit, technische Sachverhalte verständlich zu erklären und Anforderungen sicher zu erfassen\nIdealerweise Erfahrung mit CAN-Bus, ISOBUS o.ä.\nLust, mit uns den Weg in eine stärker KI-gestützte Softwareentwicklung zu gehen\n\nDas haben wir zu bieten\nAttraktive Vergütung plus starke Zusatzleistungen\nFlexibel arbeiten: Beruf, Familie und Freizeit im Einklang\nBetriebliche Altersvorsorge & Gesundheitsangebote\nWertschätzung & Mitgestaltung im Familienunternehmen\nZugang zu Sonderkonditionen & Rabatten\nVergünstigtes Deutschlandticket durch Arbeitgeberzuschuss\n\nHYDAC – Firmenverbund & Familienunternehmen\n\nSeit der Gründung im Jahr 1963 hat HYDAC eine beeindruckende Entwicklung durchlaufen – Von einem Spezialisten für Speichertechnik zu einem globalen Unternehmen mit über 20 Produktbereichen. In den vergangenen 60 Jahren haben wir unser Angebot kontinuierlich ausgebaut und heute zählt HYDAC mit rund 10.000 Mitarbeitenden weltweit zu den führenden Anbietern von Hydraulik- und Engineering-Lösungen. Unser Portfolio umfasst neben klassischen Komponenten auch innovative Systemlösungen für Bereiche wie Elektromobilität und Wasserstoff.\n\n#BePartOfTheFamily:\nWir entwickeln uns kontinuierlich weiter, wachsen als Unternehmen und Arbeitgeber national und international. Gleichzeitig sind die menschliche Nähe und die Atmosphäre eines Familienunternehmens fest in unseren Wurzeln verankert und bilden die Grundpfeiler der HYDAC Unternehmenskultur.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nMachinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4434156910",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -778,8 +811,8 @@
       "description": "NAXCON GmbH, headquartered in Weil am Rhein with additional offices, including Stuttgart, is one of Germany's leading engineering and IT service providers.\nOur experts possess extensive expertise in software and hardware development, modern electronics, and cutting-edge technologies such as Artificial Intelligence (AI).\nIn addition to delivering high-quality engineering solutions for our customers, we are passionate about driving our own innovation projects as well as research and development activities. Renowned companies from a wide range of industries place their trust in our expertise, reflecting the outstanding knowledge, professionalism, and commitment of our engineers.\n\nPosition\n: Software Developer Level 4\nLocation\n: Bremen, Germany\nField\n: Defence\nType\n: Full-time\n\nTasks:\n\nProgramming, testing, and analyzing software components, primarily in accordance with architectural specifications and/or in coordination with a Level 4 or Level 5 software developer\nProgramming and testing software components, in part according to design specifications\nDocumenting the software components for which you are responsible\nIntegration of software subsystems consisting of multiple software components, including within the target system\nTechnical leadership of Level 1, 2, and 3 software developers\nSupport with system integration\n\nRequirements:\n\nMaster's degree in computer science or equivalent\nSeveral years of professional experience in software development\nExperience collaborating on large-scale software projects\nExcellent programming and design skills in an object-oriented programming language\nExcellent written and spoken English and German skills\nExcellent knowledge of the C# programming language\nComprehensive understanding of overall system and software architecture\n\nMust-haves\n\nSkilled C# / .NET developer\nExperience in asynchronous programming\nExcellent written and spoken German (business-fluent and in the context of software development—technical terminology)\n\nNice-to-haves\n\nUnity (Dependency Injection Framework; not the game development engine)\nProtobuf\nNetworking\n\nTools\n\nExperience with Azure DevOps\nVisual Studio, Resharper, Git\n\nWhat we offer:\nInternational Working Environment: Join a diverse and multicultural team where people from different backgrounds and cultures collaborate to achieve outstanding results.\nGerman Language Development: Whether you are a beginner or an advanced speaker, we provide a supportive environment to help you improve your German language skills.\nDedicated Point of Contact: You will have a personal contact within the company who will support and guide you throughout your employment.\nProfessional Growth: Our engineers have the opportunity to work on exciting projects across different industries, continuously expanding their expertise and developing new skills.\nRegular Team Events: We organize regular company events to strengthen team spirit, encourage collaboration, and create a positive working atmosphere.\nCompetitive Compensation: We value our employees and offer an attractive compensation package that reflects your qualifications, experience, and performance.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nDefense and Space Manufacturing and Engineering Services",
       "source": "LinkedIn",
       "job_id": "4472748418",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -793,8 +826,8 @@
       "description": "Are you ready to shape your future with confidence?\n\nGemeinsam die Welt jeden Tag ein bisschen besser machen. Für diesen Anspruch setzen wir bei EY alles in Bewegung und gehen als Team „all in“. Schließlich haben wir ein klares Ziel vor Augen: nachhaltigen Wert und Wachstum zu schaffen – für unsere Mandant:innen, Mitarbeitenden und die gesamte Gesellschaft. Unser globales Netzwerk aus rund 400.000 Mitarbeitenden weltweit bietet dir alle Möglichkeiten zu wachsen, dich zu entwickeln, dich zu spezialisieren sowie deine Stärken und Interessen beruflich zu verfolgen. Wir glauben daran, dass der richtige Karriereweg so individuell ist wie du.\n\nDeine Aufgaben\n\nAls Teil unseres international aufgestellten Digital Health Excellence Centers arbeitest du mit Kolleg:innen aus verschiedenen Ländern zusammen – und bist gleichzeitig an einem unserer deutschen Standorte in Köln, Berlin, Düsseldorf, Frankfurt/Main, Hamburg, München oder Stuttgart verankert. Wir realisieren sowohl internationale Projekte als auch Vorhaben für deutsche Verwaltungen auf Bundes-, Landes- und Kommunalebene und gestalten dabei moderne, sichere Systeme für Millionen von Menschen.\n\nIm Fokus steht dabei die digitale Transformation des Gesundheitswesens – von interoperablen IT-Lösungen bis hin zu innovativen Digital-Health-Strategien. Dabei übernimmst du vielfältige Aufgaben:\n\nZielarchitekturen & Referenzarchitekturen definieren (Domänen-/Modul-Schnittstellen, Datenflüsse, Persistenzstrategien) für Web-/Mobile-Healthcare-Projekte\nAnalyse von Anforderungen und Erstellung technischer Konzepte sowie Modellierungen\nZusammenarbeit mit Projektmanagern, Scrum Mastern und Entwicklern zur Umsetzung agiler Projekte; Durchführung Code-naher Reviews\nSicherstellung von Interoperabilität und Einhaltung von Standards wie HL7/FHIR, OMOP oder openEHR\nBeratung zu Technologie-Trends und deren Anwendung im Gesundheitswesen\n\nDein Skillset\n\nAbgeschlossenes Studium in Informatik, Wirtschaftsinformatik, (Software-)Engineering oder einem vergleichbaren IT-nahen Fachgebiet sowie mindestens 4 Jahre Berufserfahrung, davon idealerweise 2 Jahre im Healthcare-Umfeld sowie Deutsch- und Englischkentnisse auf C1 Niveau\nTiefes Verständnis von Softwarearchitekturen (Netzwerk, Infrastruktur, Sicherheit, Persistenz, Anwendung, Frontend) sowie Erfahrung mit Datenbankdesign und Modellierung\nKenntnisse in Web- und Mobile-Entwicklung (z. B. Angular, ASP.net, Ruby on Rails, Android/iOS) und gängigen Programmiersprachen (Java, C++, C#, Python, PHP)\n\nDein Mindset\n\nAgil: Du bist der Meinung, dass eine flexible Denkweise genauso wichtig für den Erfolg ist wie Wissen und Fähigkeiten.\nNeugierig: Du bist ambitioniert und engagiert. Wir suchen Menschen, die in Chancen und nicht in Herausforderungen denken und durch gezielte Fragen bessere Lösungen finden.\nTeamorientiert: Du schätzt vielfältige Perspektiven und arbeitest gerne im Team. Wir suchen Menschen, die gemeinsam mit uns etwas erreichen und ein vertrauensvolles Arbeitsumfeld schaffen wollen.\n\nDeine Benefits\n\nBei EY arbeitest du in leistungsstarken, interdisziplinären Teams mit innovativen Technologien. In einem flexiblen und inklusiven Arbeitsumfeld unterstützen wir dich in deinen unterschiedlichen Lebenssituationen. Inspirierende Kolleg:innen sowie Trainings- und Entwicklungsmöglichkeiten on- und off-the-Job helfen dir dabei, über dich hinauszuwachsen und die Fähigkeiten weiterzuentwickeln, die du zukünftig brauchst. Eine steile Lernkurve ist dir garantiert. Mehr über unsere Benefits.\n\nBewirb dich noch heute!\n\nMehr Informationen zum Bewerbungsprozess bei EY findest du auf unserer Karriereseite.\n\nWas andere über uns sagen, findest du auf kununu und Glassdoor.\n\nBei EY leben wir Vielfalt und begrüßen alle Bewerbungen. Sag uns gerne frühzeitig Bescheid, wenn wir dich hinsichtlich eines barrierefreien Bewerbungsprozesses unterstützen können.\n\nDu hast noch Fragen? Unser Recruitment Center beantwortet diese gerne unter +49 6196 996 10005.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nProfessional Services",
       "source": "LinkedIn",
       "job_id": "4385093069",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -808,8 +841,8 @@
       "description": "Are you ready to shape your future with confidence?\n\nGemeinsam die Welt jeden Tag ein bisschen besser machen. Für diesen Anspruch setzen wir bei EY alles in Bewegung und gehen als Team „all in“. Schließlich haben wir ein klares Ziel vor Augen: nachhaltigen Wert und Wachstum zu schaffen – für unsere Mandant:innen, Mitarbeitenden und die gesamte Gesellschaft. Unser globales Netzwerk aus rund 400.000 Mitarbeitenden weltweit bietet dir alle Möglichkeiten zu wachsen, dich zu entwickeln, dich zu spezialisieren sowie deine Stärken und Interessen beruflich zu verfolgen. Wir glauben daran, dass der richtige Karriereweg so individuell ist wie du.\n\nDeine Aufgaben\n\nAls Teil unseres international aufgestellten Digital Health Excellence Centers arbeitest du mit Kolleg:innen aus verschiedenen Ländern zusammen – und bist gleichzeitig an einem unserer deutschen Standorte in Köln, Berlin, Düsseldorf, Frankfurt/Main, Hamburg, München oder Stuttgart verankert. Wir realisieren sowohl internationale Projekte als auch Vorhaben für deutsche Verwaltungen auf Bundes-, Landes- und Kommunalebene und gestalten dabei moderne, sichere Systeme für Millionen von Menschen.\n\nIm Fokus steht dabei die digitale Transformation des Gesundheitswesens – von interoperablen IT-Lösungen bis hin zu innovativen Digital-Health-Strategien. Dabei übernimmst du vielfältige Aufgaben:\n\nZielarchitekturen & Referenzarchitekturen definieren (Domänen-/Modul-Schnittstellen, Datenflüsse, Persistenzstrategien) für Web-/Mobile-Healthcare-Projekte\nAnalyse von Anforderungen und Erstellung technischer Konzepte sowie Modellierungen\nZusammenarbeit mit Projektmanagern, Scrum Mastern und Entwicklern zur Umsetzung agiler Projekte; Durchführung Code-naher Reviews\nSicherstellung von Interoperabilität und Einhaltung von Standards wie HL7/FHIR, OMOP oder openEHR\nBeratung zu Technologie-Trends und deren Anwendung im Gesundheitswesen\n\nDein Skillset\n\nAbgeschlossenes Studium in Informatik, Wirtschaftsinformatik, (Software-)Engineering oder einem vergleichbaren IT-nahen Fachgebiet sowie mindestens 4 Jahre Berufserfahrung, davon idealerweise 2 Jahre im Healthcare-Umfeld sowie Deutsch- und Englischkentnisse auf C1 Niveau\nTiefes Verständnis von Softwarearchitekturen (Netzwerk, Infrastruktur, Sicherheit, Persistenz, Anwendung, Frontend) sowie Erfahrung mit Datenbankdesign und Modellierung\nKenntnisse in Web- und Mobile-Entwicklung (z. B. Angular, ASP.net, Ruby on Rails, Android/iOS) und gängigen Programmiersprachen (Java, C++, C#, Python, PHP)\n\nDein Mindset\n\nAgil: Du bist der Meinung, dass eine flexible Denkweise genauso wichtig für den Erfolg ist wie Wissen und Fähigkeiten.\nNeugierig: Du bist ambitioniert und engagiert. Wir suchen Menschen, die in Chancen und nicht in Herausforderungen denken und durch gezielte Fragen bessere Lösungen finden.\nTeamorientiert: Du schätzt vielfältige Perspektiven und arbeitest gerne im Team. Wir suchen Menschen, die gemeinsam mit uns etwas erreichen und ein vertrauensvolles Arbeitsumfeld schaffen wollen.\n\nDeine Benefits\n\nBei EY arbeitest du in leistungsstarken, interdisziplinären Teams mit innovativen Technologien. In einem flexiblen und inklusiven Arbeitsumfeld unterstützen wir dich in deinen unterschiedlichen Lebenssituationen. Inspirierende Kolleg:innen sowie Trainings- und Entwicklungsmöglichkeiten on- und off-the-Job helfen dir dabei, über dich hinauszuwachsen und die Fähigkeiten weiterzuentwickeln, die du zukünftig brauchst. Eine steile Lernkurve ist dir garantiert. Mehr über unsere Benefits.\n\nBewirb dich noch heute!\n\nMehr Informationen zum Bewerbungsprozess bei EY findest du auf unserer Karriereseite.\n\nWas andere über uns sagen, findest du auf kununu und Glassdoor.\n\nBei EY leben wir Vielfalt und begrüßen alle Bewerbungen. Sag uns gerne frühzeitig Bescheid, wenn wir dich hinsichtlich eines barrierefreien Bewerbungsprozesses unterstützen können.\n\nDu hast noch Fragen? Unser Recruitment Center beantwortet diese gerne unter +49 6196 996 10005.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nProfessional Services",
       "source": "LinkedIn",
       "job_id": "4385085336",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -823,8 +856,8 @@
       "description": "Werde auch du \"part of netgo group\" - einem der größten IT-Dienstleister Deutschlands. Über 1.500 Mitarbeiter*innen an zahlreichen Standorten in ganz Deutschland erwarten dich als neues Teammitglied. Du legst Wert auf einen modernen Arbeitsplatz, ein familienfreundliches Umfeld und spannende Herausforderungen? Dann bist du bei uns genau richtig!\n\nSystem Engineer Automation (m/w/d) || netgo tax\n\nDein neuer Job\n\nDu hast PowerShell im Blut und denkst in Automatisierung statt Klickpfad? Dann bist du bei uns in der netgo tax genau richtig!\n\nAls System Engineer (m/w/d) mit Fokus auf Automatisierung wirst du zentrale Systeme weiterentwickeln, mit REST-APIs arbeiten und unsere internen Rechenzentrumsplattformen smarter machen. Du sorgst dafür, dass Prozesse effizient, sicher und skalierbar ablaufen – mit einem starken Team im Rücken und viel Freiraum für deine Ideen.\n\nDeine Aufgaben beinhalten folgendes:\n\nEntwicklung und Pflege von Automatisierungen rund um unsere Verwaltungs- und Kundensysteme\nArbeiten mit PowerShell, Baramundi und REST-APIs\nBetreuung und Weiterentwicklung zentraler Infrastrukturen (z. B. AD, Exchange, Windows Server)\nZusammenarbeit mit einem Team, das gemeinsam Lösungen entwickelt\nUnterstützung beim Aufbau und der Weiterentwicklung unserer internen Rechenzentrumsplattform\n\nDas bist du?\n\nDu hast fundierte PowerShell-Kenntnisse und Erfahrung mit REST-APIs\nDu besitzt Know-how in Baramundi und Microsoft Enterprise Access Model\nDu hast bereits Erfahrung mit Windows Server (2016–2025), Active Directory & Exchange\nDu hast Lust, gemeinsam mit einem offenen, hilfsbereiten Team zu wachsen\nDu sprichst sehr gutes Deutsch (Niveau C1-C2) und Englisch (B2)\n\nDas kannst du von uns erwarten\n\nWork-Life-Balance & Flexibilität:\n\nPlane deinen Tag flexibel mit Vertrauensarbeitszeit\nGenieße 30 Tage Urlaub pro Jahr\nArbeiten bis zu 3 Monate im Jahr aus dem EU-Ausland möglich\n\nFitness & Gesundheit:\n\nKostenfreies Training im netgo fitness club und subventionierte Urban Sports Club-Mitgliedschaft\nRegelmäßige Gesundheitsprogramme in Zusammenarbeit mit der Techniker Krankenkasse\n\nFortbildung & Zertifizierungen:\n\nWeiterbildungsangebote und Herstellerzertifizierungen, um stets up-to-date zu bleiben\nZertifizierungen im hauseigenen Pearson VUE Testcenter möglich\n\nFirmenwagen & Mobilität:\n\nFirmenwagen oder Elektrofahrzeuge für Kundentermine\nExklusive JobRad-Angebote für Fahrräder\n\nArbeitskleidung:\n\nBudget für Arbeitskleidung, bequem im Online-Shop bestellbar\n\nSicherheit & Vorsorge:\n\nZuschüsse zur Altersvorsorge und Unterstützung beim Vermögensaufbau\n\nRabatte & Goodies:\n\nVorteile bei über 1.500 Anbietern und Zugang zu Ticketsprinter\n\nFamilienfreundlich:\n\nZuschüsse zur Kinderbetreuung\n\nDafür stehen wir\n\nWir bei netgo glauben an echtes Teamwork, Offenheit und Weiterentwicklung. Unsere Werte bilden das Fundament für unsere tägliche Arbeit:\n\n#Unsere Vielfalt. Unsere Stärke.\n\nVielfalt ist kein Add-on, sondern Teil unserer Identität.\n\n#nahdran\n\nNähe schafft Vertrauen.\n\n#machen\n\nWir übernehmen Verantwortung und packen an.\n\n#Tech mit Herz\n\nWeil wir lieben, was wir tun und up-to-date bleiben.\n\n#zusammenwachsen\n\nWir entwickeln uns gemeinsam weiter und lernen voneinander.\n\nFührung verstehen wir als Verantwortung: Wir kommunizieren offen, schaffen Klarheit, fördern Entwicklung und leben vor, was wir sagen und erwarten. Unsere Prinzipien geben Orientierung, Guidance und sollen empowern – nicht kontrollieren. Du willst nicht nur arbeiten, sondern mitgestalten? Dann bist du bei uns richtig.\n\n#bepartofnetgo – denn unser Herz brennt für IT & Software!\n\nInteresse?\n\nFalls du noch Fragen an uns haben solltest, melde dich doch gerne unter der angegebenen E-Mail-Adresse bei uns. Wir freuen uns auf dich!\n\ne. jobs@netgo.de\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4249045600",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -838,8 +871,8 @@
       "description": "Werde auch du \"part of netgo group\" - einem der größten IT-Dienstleister Deutschlands. Über 1.500 Mitarbeiter*innen an zahlreichen Standorten in ganz Deutschland erwarten dich als neues Teammitglied. Du legst Wert auf einen modernen Arbeitsplatz, ein familienfreundliches Umfeld und spannende Herausforderungen? Dann bist du bei uns genau richtig!\n\nSystem Engineer Automation (m/w/d) || netgo tax\n\nDein neuer Job\n\nDu hast PowerShell im Blut und denkst in Automatisierung statt Klickpfad? Dann bist du bei uns in der netgo tax genau richtig!\n\nAls System Engineer (m/w/d) mit Fokus auf Automatisierung wirst du zentrale Systeme weiterentwickeln, mit REST-APIs arbeiten und unsere internen Rechenzentrumsplattformen smarter machen. Du sorgst dafür, dass Prozesse effizient, sicher und skalierbar ablaufen – mit einem starken Team im Rücken und viel Freiraum für deine Ideen.\n\nDeine Aufgaben beinhalten folgendes:\n\nEntwicklung und Pflege von Automatisierungen rund um unsere Verwaltungs- und Kundensysteme\nArbeiten mit PowerShell, Baramundi und REST-APIs\nBetreuung und Weiterentwicklung zentraler Infrastrukturen (z. B. AD, Exchange, Windows Server)\nZusammenarbeit mit einem Team, das gemeinsam Lösungen entwickelt\nUnterstützung beim Aufbau und der Weiterentwicklung unserer internen Rechenzentrumsplattform\n\nDas bist du?\n\nDu hast fundierte PowerShell-Kenntnisse und Erfahrung mit REST-APIs\nDu besitzt Know-how in Baramundi und Microsoft Enterprise Access Model\nDu hast bereits Erfahrung mit Windows Server (2016–2025), Active Directory & Exchange\nDu hast Lust, gemeinsam mit einem offenen, hilfsbereiten Team zu wachsen\nDu sprichst sehr gutes Deutsch (Niveau C1-C2) und Englisch (B2)\n\nDas kannst du von uns erwarten\n\nWork-Life-Balance & Flexibilität:\n\nPlane deinen Tag flexibel mit Vertrauensarbeitszeit\nGenieße 30 Tage Urlaub pro Jahr\nArbeiten bis zu 3 Monate im Jahr aus dem EU-Ausland möglich\n\nFitness & Gesundheit:\n\nKostenfreies Training im netgo fitness club und subventionierte Urban Sports Club-Mitgliedschaft\nRegelmäßige Gesundheitsprogramme in Zusammenarbeit mit der Techniker Krankenkasse\n\nFortbildung & Zertifizierungen:\n\nWeiterbildungsangebote und Herstellerzertifizierungen, um stets up-to-date zu bleiben\nZertifizierungen im hauseigenen Pearson VUE Testcenter möglich\n\nFirmenwagen & Mobilität:\n\nFirmenwagen oder Elektrofahrzeuge für Kundentermine\nExklusive JobRad-Angebote für Fahrräder\n\nArbeitskleidung:\n\nBudget für Arbeitskleidung, bequem im Online-Shop bestellbar\n\nSicherheit & Vorsorge:\n\nZuschüsse zur Altersvorsorge und Unterstützung beim Vermögensaufbau\n\nRabatte & Goodies:\n\nVorteile bei über 1.500 Anbietern und Zugang zu Ticketsprinter\n\nFamilienfreundlich:\n\nZuschüsse zur Kinderbetreuung\n\nDafür stehen wir\n\nWir bei netgo glauben an echtes Teamwork, Offenheit und Weiterentwicklung. Unsere Werte bilden das Fundament für unsere tägliche Arbeit:\n\n#Unsere Vielfalt. Unsere Stärke.\n\nVielfalt ist kein Add-on, sondern Teil unserer Identität.\n\n#nahdran\n\nNähe schafft Vertrauen.\n\n#machen\n\nWir übernehmen Verantwortung und packen an.\n\n#Tech mit Herz\n\nWeil wir lieben, was wir tun und up-to-date bleiben.\n\n#zusammenwachsen\n\nWir entwickeln uns gemeinsam weiter und lernen voneinander.\n\nFührung verstehen wir als Verantwortung: Wir kommunizieren offen, schaffen Klarheit, fördern Entwicklung und leben vor, was wir sagen und erwarten. Unsere Prinzipien geben Orientierung, Guidance und sollen empowern – nicht kontrollieren. Du willst nicht nur arbeiten, sondern mitgestalten? Dann bist du bei uns richtig.\n\n#bepartofnetgo – denn unser Herz brennt für IT & Software!\n\nInteresse?\n\nFalls du noch Fragen an uns haben solltest, melde dich doch gerne unter der angegebenen E-Mail-Adresse bei uns. Wir freuen uns auf dich!\n\ne. jobs@netgo.de\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4249045591",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -853,8 +886,8 @@
       "description": "Purpose of the Job\n\nResponsible for the overall management, development, and strategic direction of Sonova’s data platform. This role will ensure the data platform is scalable, reliable, and secure, supporting the company’s business objectives and enabling data-driven decision-making across the organization. Managing all associated Data & Analytics project integration activities (particularly in the Databricks/Azure space) from concept to delivery for Sonova Group and Business Units. Manage a team of data engineers, architects and devops.\n\nTasks & Responsibilities\n\nStrategic Leadership:\n\nDefine and execute the strategic vision for the data platform, aligning with business goals and objectives.\nLead the design, implementation, and maintenance of scalable data architectures.\nDevelop and enforce data governance policies and procedures.\n\nTeam Management:\n\nLead, mentor, and develop a high-performing team of data engineers, data architects, and devops.\nFoster a collaborative and innovative team culture.\n\nPlatform Management:\n\nOversee the design, development, and deployment of data pipelines and infrastructure.\nEnsure data reliability, and security across all data assets.\nManage data storage solutions, including data lakes, integration to warehouse, and databases.\n\nCollaboration and Communication:\n\nWork closely with cross-functional teams including IT, product development, and business units to integrate data solutions.\nCommunicate data strategies and insights to stakeholders at all levels of the organization.\nArchitect, extract and transform information from MS D365 systems and other ERP solution\n\nInnovation and Improvement:\n\nStay current with industry trends and emerging technologies in data management and analytics.\nIdentify opportunities for process improvements and implement best practices.\nDrive innovation for the use of advanced analytics, AI, and machine learning.\n\nOther Duties And Responsibilities As Assigned.\n\nWork independently on national and international projects, responsible for analysis of complex business processes and translate to data sources.\nContribute to global Data Architecture decisions and work in consulting functions to the other BI and Data science units.\nRequirements gathering from functional business owners, develop solutions and concepts, orchestrate the implementation with the team\nCustomer Care performing knowledge transfer to client employees from project idea to support post implementation.\nEmbed new solutions in existing data governance and authorization concept and ensure compliance with policies and standards\n\nRequirements\n\nBachelor’s degree in computer science, Information Technology, Data Science, or a related field. Master’s degree preferred.\n10+ years of experience in data management, data engineering, or related roles.\n5+ years of leadership experience in managing data teams and large-scale data platforms.\nAzure experience with at least full cycle implementations\nExtensive experience in project and data management\nExperience in mapping and building data system landscapes and data marketing processes.\nExperience in managing data interfaces as part of a full data pipeline (from sourcing to deployment)\n\nSonova is an equal opportunity employer.\n\nWe team up. We grow talent. We collaborate with people of diverse backgrounds to win with the best team in the market place. We guarantee every person equal treatment in regard to employment and opportunity for employment, regardless of a candidate’s ethnic or national origin, religion, sexual orientation or marital status, gender, genetic identity, age, disability or any other legally protected status.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nMedical Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472766442",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -868,8 +901,8 @@
       "description": "Are you ready to shape your future with confidence?\n\nGemeinsam die Welt jeden Tag ein bisschen besser machen. Für diesen Anspruch setzen wir bei EY alles in Bewegung und gehen als Team „all in“. Schließlich haben wir ein klares Ziel vor Augen: nachhaltigen Wert und Wachstum zu schaffen – für unsere Mandant:innen, Mitarbeitenden und die gesamte Gesellschaft. Unser globales Netzwerk aus rund 400.000 Mitarbeitenden weltweit bietet dir alle Möglichkeiten zu wachsen, dich zu entwickeln, dich zu spezialisieren sowie deine Stärken und Interessen beruflich zu verfolgen. Wir glauben daran, dass der richtige Karriereweg so individuell ist wie du.\n\nDeine Aufgaben\n\nAls Teil unseres international aufgestellten Digital Health Excellence Centers arbeitest du mit Kolleg:innen aus verschiedenen Ländern zusammen – und bist gleichzeitig an einem unserer deutschen Standorte in Köln, Berlin, Düsseldorf, Frankfurt/Main, Hamburg, München oder Stuttgart verankert. Wir realisieren sowohl internationale Projekte als auch Vorhaben für deutsche Verwaltungen auf Bundes-, Landes- und Kommunalebene und gestalten dabei moderne, sichere Systeme für Millionen von Menschen.\n\nIm Fokus steht dabei die digitale Transformation des Gesundheitswesens – von interoperablen IT-Lösungen bis hin zu innovativen Digital-Health-Strategien. Dabei übernimmst du vielfältige Aufgaben:\n\nZielarchitekturen & Referenzarchitekturen definieren (Domänen-/Modul-Schnittstellen, Datenflüsse, Persistenzstrategien) für Web-/Mobile-Healthcare-Projekte\nAnalyse von Anforderungen und Erstellung technischer Konzepte sowie Modellierungen\nZusammenarbeit mit Projektmanagern, Scrum Mastern und Entwicklern zur Umsetzung agiler Projekte; Durchführung Code-naher Reviews\nSicherstellung von Interoperabilität und Einhaltung von Standards wie HL7/FHIR, OMOP oder openEHR\nBeratung zu Technologie-Trends und deren Anwendung im Gesundheitswesen\n\nDein Skillset\n\nAbgeschlossenes Studium in Informatik, Wirtschaftsinformatik, (Software-)Engineering oder einem vergleichbaren IT-nahen Fachgebiet sowie mindestens 4 Jahre Berufserfahrung, davon idealerweise 2 Jahre im Healthcare-Umfeld sowie Deutsch- und Englischkentnisse auf C1 Niveau\nTiefes Verständnis von Softwarearchitekturen (Netzwerk, Infrastruktur, Sicherheit, Persistenz, Anwendung, Frontend) sowie Erfahrung mit Datenbankdesign und Modellierung\nKenntnisse in Web- und Mobile-Entwicklung (z. B. Angular, ASP.net, Ruby on Rails, Android/iOS) und gängigen Programmiersprachen (Java, C++, C#, Python, PHP)\n\nDein Mindset\n\nAgil: Du bist der Meinung, dass eine flexible Denkweise genauso wichtig für den Erfolg ist wie Wissen und Fähigkeiten.\nNeugierig: Du bist ambitioniert und engagiert. Wir suchen Menschen, die in Chancen und nicht in Herausforderungen denken und durch gezielte Fragen bessere Lösungen finden.\nTeamorientiert: Du schätzt vielfältige Perspektiven und arbeitest gerne im Team. Wir suchen Menschen, die gemeinsam mit uns etwas erreichen und ein vertrauensvolles Arbeitsumfeld schaffen wollen.\n\nDeine Benefits\n\nBei EY arbeitest du in leistungsstarken, interdisziplinären Teams mit innovativen Technologien. In einem flexiblen und inklusiven Arbeitsumfeld unterstützen wir dich in deinen unterschiedlichen Lebenssituationen. Inspirierende Kolleg:innen sowie Trainings- und Entwicklungsmöglichkeiten on- und off-the-Job helfen dir dabei, über dich hinauszuwachsen und die Fähigkeiten weiterzuentwickeln, die du zukünftig brauchst. Eine steile Lernkurve ist dir garantiert. Mehr über unsere Benefits.\n\nBewirb dich noch heute!\n\nMehr Informationen zum Bewerbungsprozess bei EY findest du auf unserer Karriereseite.\n\nWas andere über uns sagen, findest du auf kununu und Glassdoor.\n\nBei EY leben wir Vielfalt und begrüßen alle Bewerbungen. Sag uns gerne frühzeitig Bescheid, wenn wir dich hinsichtlich eines barrierefreien Bewerbungsprozesses unterstützen können.\n\nDu hast noch Fragen? Unser Recruitment Center beantwortet diese gerne unter +49 6196 996 10005.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nProfessional Services",
       "source": "LinkedIn",
       "job_id": "4385073828",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -883,8 +916,8 @@
       "description": "Deine Aufgaben\n\nEntwicklung cloudbasierter und serviceorientierter Lösungen für den internationalen Einsatz im Industrieversicherungsgeschäft\nEinsatz verschiedener Frameworks und Technologien zur Entwicklung und Integration der notwendigen Software-Komponenten unter Verwendung aktueller Architekturkonzepte, wie z.B. Microsoft Dynamics 365 CRM / CE und Power Platform\nAufbau eines maximalen Automatisierungsgrads zum multiregionalen Betrieb von Services in der Azure Cloud unter Verwendung von Infrastructure-as-Code\nWeiterentwicklung unseres Software-Development-Prozesses sowie Einsatz moderner Methoden, z.B. Pair Programming\nEnge Zusammenarbeit mit weiteren Entwickler:innen, Business Analyst:innen und Fachexpert:innen in einem Scrum-Team\n\nDein Profil\n\nMehrjährige Erfahrungen in der Softwareentwicklung mit mindestens einer höheren Programmiersprache, vorzugsweise C# und TypeScript\nVertieftes Know-how in relationalen und nicht-relationalen Datenbanken (vorzugsweise Azure SQL)\nIdealerweise Kenntnisse in der Microsoft Azure Cloud (u. a. Azure Functions, Azure Data Factory, Azure AD)\nHohes Qualitätsbewusstsein mit Gespür für saubere Softwarearchitektur, Clean Code, Usability, automatisiertes Testen und funktionierendes CI/CD (Azure DevOps)\nBegeisterung für neue Technologien, insbesondere in Zusammenhang mit AI, sowie hohes Interesse an fachlicher und persönlicher Weiterentwicklung\nOffenheit und Bereitschaft, regelmäßig Feedback zu geben und anzunehmen\nSehr gute Englisch- sowie gute Deutschkenntnisse (mind. B2) in Wort und Schrift\n\nFlexible Arbeitszeiten\n\nGleitzeitregelungen und flexible Arbeitszeitmodelle ermöglichen eine perfekte Work-Life-Balance – ganz wie es zu Dir passt.\n\nGesundheitsmanagement\n\nMit uns bleibst Du gesund – dank Präventionsmaßnahmen, einem breiten Sportangebot und verschiedenen Kooperationen.\n\nMobiles Arbeiten\n\nOb von zu Hause oder unterwegs – unser mobiles Arbeitsmodell (bis zu 60 % mobil) bietet Dir mehr Freiheit und Selbstständigkeit.\n\nWeiterbildung\n\nWir stillen Deinen Wissensdurst – zum Beispiel mit Fortbildungen, fachspezifischen Seminaren oder einem berufsbegleitenden Studium.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInsurance",
       "source": "LinkedIn",
       "job_id": "4387292870",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -898,9 +931,20 @@
       "description": "Net Developer with Azure\n\nLocation: Katowice - 2 days in office / 3 days remote\n\nLet us introduce you the job offer by EY GDS Poland – a member of the global integrated service delivery center network by EY.\n\nThe opportunity\n\nYou will use the most advanced technology stack and have an opportunity to develop and implement new solutions while working with top leaders in their industries. As a part of our global team you will participate in international projects based on .Net on Azure Cloud platform.\n\nYour Key Responsibilities\n\nAnalysing, designing and developing a high quality software for our Clients.\nApplying object-oriented and functional programming styles to real-world software engineering problems.\nDelivering a robust, scalable and testable solutions with use of Azure services.\n\nSkills And Attributes For Success\n\nA background of working with teams and development best practices.\nA willingness to be flexible in responding to issues as they occur and the ability to identify product/deployment improvements to mitigate future occurrences.\nSelf-motivated, Strong communication and team building skills.\nWork iteratively in a team with continuous collaboration.\n\nTo qualify for the role, you must have\n\n1+ years of commercial experience with .Net technologies (C#, .NET Core, Entity Framework or NHibernate, WCF)\nHighly proficiency in OOP\nExperience working with web services / APIs e.g. SOAP / REST\nKnowledge of Clean Code and Unit Testing\nExperience with source code management (GIT), Continuous Integration, Continuous Delivery and automated deployment\nFluent English (spoken and written)\n\nIdeally, you’ll also have\n\nKnowledge of SQL\nWorking knowledge of some of the following Azure services: Functions, Logic apps, Web Apps, SQL Server and others\nAzure certificates will be a plus\n\nWhat We Look For\n\nWe are looking for a top-notch technology savvy specialists willing to move our projects on the new track! If you are tired of supporting outdated solutions, have a strong urge to be best in class and are capable of delivering robust and scalable solutions – join us!\n\nWhat We Offer\n\nEY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across nine locations – Argentina, Hungary, India, the Philippines, Poland, Sri Lanka, Mexico, Spain and the United Kingdom – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business disciplines. In GDS, you will collaborate with EY teams on exciting projects and work with well-known brands from across the globe. We’ll introduce you to an ever-expanding ecosystem of people, learning, skills and insights that will stay with you throughout your career.\n\nContinuous learning: You’ll develop the mindset and skills to navigate whatever comes next.\nSuccess as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.\nTransformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.\nDiverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.\n\nAbout EY\n\nEY | Building a better working world\n\nEY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.\n\nEnabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.\n\nWorking across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.\n\nIf you can demonstrate that you meet the criteria above, please contact us as soon as possible.\n\nThe Exceptional EY Experience. It’s Yours To Build.\n\nIn compliance with the requirements of the Whistleblower Protection Act, our company has established the Procedure for reporting breaches of law and undertaking appropriate follow-up actions . Any misconduct should be reported through the EY Ethics Hotline.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nProfessional Services",
       "source": "LinkedIn",
       "job_id": "4417149115",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "1+ years of commercial experience with .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops .NET solutions on Azure, including scalable software and web services/APIs.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4417149115/"
+      }
     },
     {
       "company": "EY",
@@ -913,9 +957,20 @@
       "description": "Location: Katowice - 2 days in office / 3 days remote\n\nLet us introduce you the job offer by EY GDS Poland – a member of the global integrated service delivery center network by EY.\n\nThe opportunity\n\nWe are looking for a top-notch technology savvy specialists willing to move our projects on the new track! You will use the most advanced technology stack and have an opportunity to develop and implement new solutions while working with top leaders in their industries. As a part of our global team you will participate in international projects based on .Net on Azure Cloud platform.\n\nYour Key Responsibilities\n\nApplying object-oriented and functional programming styles to real-world software engineering problems.\nDemonstrate understanding of high-quality coding and testing practices.\nAdopt Agile software delivery techniques and technologies including Continuous Integration & Continuous Delivery (CI/CD).\nDeveloping solutions using a variety of technologies and tools to marry on-premise and cloud-based systems together.\n\nSkills And Attributes For Success\n\nKnack for writing clean, readable code in line with most well-known software design patterns and good practices.\nEager to learn new technologies and frameworks including Azure Cloud\n\nTo qualify for the role, you must have\n\n3+ years of commercial experience with .Net technologies (C#, .NET Core, Entity Framework or NHibernate, WCF)\nExperience with some of the following Azure services: Functions, Logic apps, Web Apps, SQL Server and others\nKnowledge of Architectural and Design patterns\nExperience working with web services / APIs e.g. SOAP / REST\nKnowledge of Clean Code and Unit Testing\nKnowledge of SQL\nExperience with source code management (GIT), Continuous Integration, Continuous Delivery and automated deployment\nFluent English (spoken and written)\n\nIdeally, you’ll also have\n\nAzure certificates will be a plus\n\nWhat We Look For\n\nAs we are a dynamic team of passionate specialists, and we work in international teams all over the world, we will look for the same business acumen. Facing with customers, we are \"out of box thinking\" professionals.  Our top performers have a team player  attitude and they cope with challenges on the daily basis. If  it all sounds familiar to you - we are looking forward to seeing you on board.\n\nWhat We Offer\n\nEY Global Delivery Services (GDS) is a dynamic and truly global delivery network. We work across nine locations – Argentina, Hungary, India, the Philippines, Poland, Sri Lanka, Mexico, Spain and the United Kingdom – and with teams from all EY service lines, geographies and sectors, playing a vital role in the delivery of the EY growth strategy. From accountants to coders to advisory consultants, we offer a wide variety of fulfilling career opportunities that span all business disciplines. In GDS, you will collaborate with EY teams on exciting projects and work with well-known brands from across the globe. We’ll introduce you to an ever-expanding ecosystem of people, learning, skills and insights that will stay with you throughout your career.\n\nContinuous learning: You’ll develop the mindset and skills to navigate whatever comes next.\nSuccess as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, your way.\nTransformative leadership: We’ll give you the insights, coaching and confidence to be the leader the world needs.\nDiverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs.\n\nAbout EY\n\nEY | Building a better working world\n\nEY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.\n\nEnabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.\n\nWorking across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.\n\nIf you can demonstrate that you meet the criteria above, please contact us as soon as possible.\n\nThe exceptional EY experience. It’s yours to build.\n\nIn compliance with the requirements of the Whistleblower Protection Act, our company has established the Procedure for reporting breaches of law and undertaking appropriate follow-up actions. Any misconduct should be reported through the EY Ethics Hotline.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nProfessional Services",
       "source": "LinkedIn",
       "job_id": "4441827955",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "3+ years of commercial experience with .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops .NET solutions on Azure using web services/APIs, CI/CD, and cloud services.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4441827955/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -928,9 +983,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470876385",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470876385/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -943,9 +1009,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470878367",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470878367/"
+      }
     },
     {
       "company": "Hitachi Energy",
@@ -958,9 +1035,20 @@
       "description": "Opportunity\n\nWe are looking for a Regular Software Developer to join an international team focused on designing, developing, and maintaining .NET applications across both desktop and web platforms. These applications serve as engineering tools that support the design and production of state-of-the-art transformers. The role involves working with technologies such as WPF (XAML), C#, Blazor, WebAPI and SQL, within a service-oriented architecture. You’ll be part of a collaborative environment where code quality, scalability, and teamwork are key.\n\nHow You Will Make An Impact\n\nDevelop and maintain .NET applications (desktop and web) using C#\nAnalyze business and technical requirements and implement appropriate solutions\nDevelop and enhance UI components using XAML and Blazor\nDesign and implement RESTful Web APIs\nWork with messaging and interoperability technologies such as RabbitMQ and ZeroMQ\nParticipate in the full software development lifecycle – from design to deployment\nCollaborate with QA engineers, product owners, and other developers\nWrite and maintain unit tests and contribute to automation efforts\nSupport technical support teams in resolving issues\nWork with Git repositories and CI/CD pipelines in Azure DevOps\nUtilize Azure services including Blob Storage and SQL databases\n\nYour background\n\nMinimum 2 years of experience in software development with C# and .NET\nSolid knowledge of WPF/XAML and basic experience with Blazor\nExperience in maintaining and developing desktop and web applications\nStrong understanding of object-oriented programming and design patterns\nFamiliarity with Git and CI/CD pipelines (preferably Azure DevOps)\nProficiency in Microsoft Visual Studio – but if you prefer JetBrains tools, we’ve got you covered\nAnalytical thinking and problem-solving skills\nGood command of English (working in an international team)\nExperience with MVVM architecture, hands-on experience with Blazor (WebAssembly or Server), experience with service-oriented architecture, and a basic understanding of DevOps practices and deployment automation are preferred but not required.\n\nMore about us\n\nAt Hitachi Energy, we recognize that our people are at the heart of our success. We are committed to providing a supportive and inclusive workplace, competitive rewards, and opportunities for professional and personal growth. Our benefits package is designed to help employees thrive both at work and in their personal lives.\n\nOur Benefits Offering For This Role Generally Includes\n\nPrivate medical care and life insurance\nAccess to fitness and wellness programs\nAccess to benefits platform with discounts and perks\nEmployee Capital Plans (PPK)\nEquipment for working from home or allowances for setting up a workplace at home\nSpectacles and contact lenses allowance\nCompany events and team‑building activities\nPsychological support program\n\nWe are committed to full transparency and compliance with all legal requirements, ensuring that every candidate knows exactly what to expect at each stage of the recruitment process. Once the process is successfully completed, we will share detailed information about financial conditions and benefits with the selected candidate. Before signing the employment contract, you will receive all remaining details of the offer, giving you the time and space to review everything carefully.*\n\nApplicable only for Poland location align with local law regulations\n\nPublication date : 2026-07-17\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4427910207",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 2 years of experience in software development with C# and .NET",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops and maintains C#/.NET desktop and web applications, including RESTful Web APIs and service-oriented components.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4427910207/"
+      }
     },
     {
       "company": "Sonova Group",
@@ -973,8 +1061,8 @@
       "description": "This is your opportunity to work in a scaled agile environment within international teams developing high-tech solutions for the medical hearing health care sector. You will be responsible for the development of tools for building, testing, and releasing firmware for our products.\n\nMore about the role\n\nIn this role, you will be part of our R&D team, and you will be responsible for building an application used by audiologists to adjust the software installed on our new line of hearing aids.\n\nTasks & Responsibilities\n\nDesign, develop, test, and maintain software components and features for Sonova's .NET desktop applications and fitting software platform.\nCollaborate with product managers, designers, engineers and verification engineers to refine requirements and transform them into effective software solutions.\nDevelop intuitive user interfaces using C#, .NET, WPF, and XAML, including prototyping new concepts and workflows.\nEnsure high software quality through clean code practices, code reviews, automated testing, and adherence to architectural guidelines.\nPerform root cause analysis, troubleshoot issues, and contribute to maintaining a reliable and sustainable software platform.\nShare knowledge, support onboarding activities, and contribute to engineering best practices and continuous improvement initiatives.\n\nMore about you\n\nEssential qualifications:\n\nUniversity degree in Computer Science, Software Engineering, or related technical discipline.\n5+ years of professional software development in C# with experience .NET, XAML-based, MVVM capable UI frameworks like Avalonia, Maui, WPF\nSolid understanding of object-oriented analysis and design, software architecture, design patterns, SOLID principles, and clean code practices.\nTrack record of owning features from idea through release and maintenance.\nStrong problem-solving skills and a passion for delivering high-quality software.\nFluent English and confidence communicating in international, distributed teams.\n\nGood to have qualifications:\n\nExperience in regulated environments, ideally medical devices software.\nAn interest in audiology or healthcare technology.\nExperience working with CI/CD pipelines, ideally in Azure DevOps.\n\nWe understand that you may not meet every requirement listed. If you believe this role aligns with your skills and aspirations, we encourage you to apply - even if you don’t fulfill 100% of the qualifications\n\nWhat we offer\n\nAs one of the world’s leading hearing care providers headquartered in Switzerland, we’re committed to building an inclusive culture. We want to create an environment where you can balance a successful career with your commitments and interests outside of work, through our flexible hybrid working model. We offer a wide range of training opportunities for both your professional and personal development, and there are exceptional growth opportunities with individual development plans.\n\nWhy Join Sonova?\n\nAt Sonova, we offer more than just a job — we offer a chance to make an impact. You’ll join a collaborative, inclusive environment where your ideas matter and your leadership shapes how we serve our customers. With our modern office spaces, focus on employee development, and strong company values, you’ll be empowered to grow both personally and professionally.\n\nMake an impact that resonates. Join Sonova and help us bring the world closer through better hearing.\n\nSonova is an equal opportunity employer.\n\nWe team up. We grow talent. We collaborate with people of diverse backgrounds to win with the best team in the market place. We guarantee every person equal treatment in regard to employment and opportunity for employment, regardless of a candidate’s ethnic or national origin, religion, sexual orientation or marital status, gender, genetic identity, age, disability or any other legally protected status.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering\n\nIndustries\n\nMedical Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472770340",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -988,8 +1076,8 @@
       "description": "The Opportunity\n\nJoin our team to drive software development for Hitachi Energy Mission Critical Communication systems. You as a Team Lead will create and evolve a cutting-edge communication solution applicable in wide range of industries evolving in digital age. It is a unique opportunity for you to participate in international projects in interdisciplinary, lead talented software agile teams developing high reliable network solutions.\n\nMore about our product: FOXMAN-UN | Network Management System | Hitachi Energy\n\nHow You'll Make Impact\n\nLead SW development team members\nCoordinate SW development activities across agile teams.\nManage the release process ensuring on-time delivery\nEnsure alignment with project goals and technical requirements.\nCooperate with Department Leaders, QA, UX and Embedded SW specialists\nProvide technical mentorship, support technical and interpersonal skills development of SW team members.\nDrive continuous improvement in SW development processes and tools.\nLead adoption of Artificial Intelligence in SW development.\nSupport software development with a focus on quality and efficiency.\nEnhance code reviews strategy, ensure adherence to coding standards, quality & best practices.  \nFocusing on safety and integrity, which means taking responsibility for your own actions while caring for your colleagues and the business.\n\nYour Background\n\nAt least 5 years of experience in backend or frontend software development.\n3+ years of experience as a Team Leader.\nExperience in SW Development coordination role e.g. Product Owner or Scrum Master, is an advantage.\nBSc or MSc degree in IT from Computer Science, Telecommunication or IT university.  \nStrong Experience in at least one of: C++, C#, Java/Kotlin, JavaScript/TypeScript, Python. \nExperience with applications testing.\nUnderstanding of CI/CD processes and tools e.g. Jenkins, ADO.\nKnowledge of Linux, Docker, and Databases  (PostgreSQL).\nDriving mindset, strong problem-solving skills, focus on quality, pragmatic, solution oriented.\nExcellent communication and collaboration skills.\n\nMore About Us\n\nAt Hitachi Energy, we recognize that our people are at the heart of our success. We are committed to providing a supportive and inclusive workplace, competitive rewards, and opportunities for professional and personal growth. Our benefits package is designed to help employees thrive both at work and in their personal lives.\n\nOur Benefits Offering For This Role Generally Includes\n\nPrivate medical care and life insurance\nAccess to fitness and wellness programs\nAccess to benefits platform with discounts and perks\nEmployee Capital Plans (PPK)\nEquipment for working from home or allowances for setting up a workplace at home\nSpectacles and contact lenses allowance\nCompany events and team‑building activities\nPsychological support program\nFree parking available\n\nYou will receive more specific information during the recruitment process.\n\nPublication date : 2026-09-04\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4427911203",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1003,8 +1091,8 @@
       "description": "Senior Full-Stack Developer – Java & Azure\n\nLocation:\n6 days per month on-site in Kracow - Poland\nContract:\n1 Year Initial\n\nWe’re looking for an experienced Senior Full-Stack Developer\nwith strong Java and Microsoft Azure experience to join a team working on complex integration and cloud-based solutions.\nThis is a hands-on role where you’ll be involved in solution design, development, integration and delivery, working closely with Solution Architects and wider technical teams.\n\nWhat you’ll be working on:\n\nDesigning end-to-end technical solutions for APIs and microservices\nDeveloping and integrating solutions using Java and Azure\nWorking with Azure Functions, Azure Service Bus and API Management (APIM)\nBuilding secure, low-latency communication between backend systems and UI/UX layers\nIntegrating platforms such as Highspot and Pendo\nUsing Application Insights to monitor, debug and optimise applications\nDeveloping and maintaining robust unit tests\nWorking within CRM/API integration environments\nTaking ownership from technical design through to production-ready implementation\nCollaborating with Lead Solution Architects and technical stakeholders\nSupporting future GCP migration discussions and technical planning\n\nSkills Required:\n\nStrong commercial experience with Java development\n7+ years of hands-on Azure development experience\nStrong knowledge of:\nAzure Functions\nAzure Service Bus\nAzure API Management (APIM)\nApplication Insights\nExperience with APIs and microservices\nStrong understanding of integration patterns and CRM environments\nGood experience with unit testing and code quality\nAbility to translate technical designs into production-ready code\nStrong communication skills and the ability to work closely with architects and stakeholders\nGCP experience would be beneficial\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nBanking, Software Development, and Engineering Services",
       "source": "LinkedIn",
       "job_id": "4472750868",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1018,8 +1106,8 @@
       "description": "PROJECT INFORMATION:\n\nRemote work:\nYes\n\nProject language:\nEnglish, Dutch\n\nProject length:\n6 months contracts + prolongations.\n\nStart:\nASAP\n\nAssignment type:\nB2B\n\nSummary:\n\nThe Senior Platform Engineer designs and builds a global Digital Trust Platform to meet digital identity needs across borders and deliver a seamless user experience.\n\nResponsibilities:\n\nThink deeply about systems — their edge cases, failure modes, and life cycles to craft robust yet manageable solutions.\nWork closely with product owners to design systems that speed time-to-market for user-friendly features.\nChampion and practice DevOps best practices.\nOffer mentorship on designing and implementing platform-level solutions.\nHelp define the platform and technology roadmap.\n\nMust Haves:\n\nExperience designing, building, and deploying scalable services.\nProficient in managing and debugging distributed services.\nExpertise in cloud services (Kubernetes, Istio, cert-manager, Open Policy Agent).\nWell-versed in Cloud PaaS (Google Cloud, AWS, or Azure).\nAbility to work with high-volume transaction environments.\n\nNice to Have:\n\nExperience with DevOps best practices.\nKnowledge of performance, reliability, security, scalability in service design.\n\nOther Details:\n\nThis position is centered around activities related to digital services and cloud infrastructure.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471383947",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1033,8 +1121,8 @@
       "description": "Integration Developer (REST/SOAP, ESB, Axway)\n\nO roli\n\nDołącz do Atos jako Integration Developer\ni pracuj nad tworzeniem oraz rozwojem usług integracyjnych wykorzystywanych do komunikacji pomiędzy systemami w środowisku enterprise.\n\nW tej roli będziesz odpowiadać za implementację usług i komponentów integracyjnych, analizę wymagań oraz współpracę z architektami i zespołami projektowymi. Będziesz również wspierać testy, wdrożenia i rozwiązywanie problemów związanych z integracją systemów.\n\nZakres obowiązków\n\nImplementacja usług integracyjnych REST i SOAP.\nTworzenie i rozwój komponentów integracyjnych.\nAnaliza wymagań integracyjnych i ich implementacja.\nWspółpraca z architektami oraz zespołami projektowymi przy realizacji rozwiązań integracyjnych.\nWsparcie testów i wdrożeń rozwiązań integracyjnych.\nAnaliza i rozwiązywanie problemów związanych z komunikacją pomiędzy systemami.\n\nWymagania\n\nDoświadczenie w projektowaniu i implementacji integracji opartych na REST i SOAP.\nPraktyczna znajomość co najmniej jednego narzędzia lub frameworka integracyjnego Apache Camel, Oracle Service Bus (OSB), Mule ESB lub rozwiązania o podobnej funkcjonalności.\nZnajomość architektury SOA (Service-Oriented Architecture).\nZnajomość wzorców EIP (Enterprise Integration Patterns).\nDoświadczenie w implementacji i utrzymaniu usług integracyjnych.\nUmiejętność analizy i rozwiązywania problemów integracyjnych.\nZnajomość języka angielskiego na poziomie minimum B2.\n\nMile widziane\n\nDoświadczenie z platformą Axway.\nDoświadczenie w modelowaniu i implementacji usług na platformach integracyjnych.\nDoświadczenie w projektach wykorzystujących architekturę ESB.\n\nCo oferujemy\n\nHybrydowy model pracy, który możesz realnie kształtować – maksymalnie 2 dni pracy z biura w miesiącu, zależnie od lokalizacji.\nWybór formy współpracy – umowa o pracę lub B2B.\nWynagrodzenie dopasowane do Twojego doświadczenia + roczna premia + prawa autorskie.\nSpotkania służące dzieleniu się pasjami, inicjatywy zespołowe i wspólne aktywności.\nPrywatną opiekę medyczną.\nPlatformę benefitową – zniżki na zakupy, kino i sport.\nMultisport + b-active.\nKursy i certyfikacje wspierające rozwój kompetencji.\nKonferencje i dostęp do knowledge hubs.\nPakiety upominkowe i programy uznaniowe.\nDodatkowe dni wolne i benefity zależne od stażu pracy.\nMożliwość udziału w inicjatywach charytatywnych i ekologicznych.\n\nChoose your future. Choose Atos.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nComputer and Network Security and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470868882",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1048,8 +1136,8 @@
       "description": "fusionSpan is a fast-growing multinational information technology services company, and we are seeking a Mulesoft Developer to join the team.\n\nThis is a long term b2b contract\n. You will be working with US-based team members and clients. We would want some flexibility with hours, so a typical day would be from 12:30 pm to 9 pm local time.\n\nWe are a team of highly committed individuals inspired by technology's role in society.\n\nAs part of the Engineering team, the Mulesoft Developer will design, develop, and maintain Mulesoft integration solutions, develop custom applications, integrate various IT systems, and work on Salesforce implementation projects. This is a client-facing role, where you will be working with multiple non-profit organizations.\n\nResponsibilities\n\nMuleSoft integration development, design, build, test, debug, deploy, APIs, and integrations\nDesign and develop web services with SOAP and REST API's\nDevelop detailed software design documentation and API documentation\nWork on cutting-edge technologies like Big Data, reliable messaging frameworks & ETL\nDo client showcases and demonstrations of developed solutions\nDesign and develop APIs using MuleSoft Anypoint Platform.\nImplement API-led connectivity solutions that cater to enterprise integration needs.\nParticipate in each phase of the software development lifecycle: requirements gathering, design, development, testing, and maintenance.\nCollaborate with business and technical stakeholders to understand the systems integrated with MuleSoft.\nPrepare detailed technical specs for the development and integration of solutions.\nAdhere to coding and design standards. Ensure the code delivered is on time and is of the required quality.\nTroubleshoot and resolve bugs and performance issues.\nPrepare and maintain technical documentation and user manuals.\nConduct unit testing and assist the Quality Assurance team in integration and system tests.\nAid in analyzing and resolving production support issues as they arise.\n\nRequired\n\n2+ years of experience as a Mulesoft developer\nSoftware design and architecture experience\nExperience with a public cloud like AWS/Azure\nExperience with APIs, Rest and/or SOAP web services\nFamiliarity with web or database application development and strong in SQL\nExperience in Agile development methodology/Scrum\nProven experience as a MuleSoft Developer or similar role in API and platform engineering.\nSolid understanding of MuleSoft Anypoint Platform, Mule Runtime, Mule API gateway, and all other MuleSoft products.\nExperience with REST and SOAP web services, RAML in Mule, and use of connectors for integration.\nKnowledge of Integration Design patterns and Microservices architecture.\nExcellent debugging and troubleshooting skills.\nStrong written and verbal communication skills.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nContract\n\nJob function\n\nSales, General Business, and Education\n\nIndustries\n\nWireless Services, Telecommunications, and Communications Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4470878984",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1063,9 +1151,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470869832",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470869832/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1078,9 +1177,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470887118",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470887118/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1093,9 +1203,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470888103",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470888103/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1108,9 +1229,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470872504",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470872504/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1123,9 +1255,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470874448",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470874448/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1138,9 +1281,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470873453",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470873453/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1153,9 +1307,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470873451",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470873451/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1168,9 +1333,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470869830",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470869830/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1183,9 +1359,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470878365",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470878365/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1198,9 +1385,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470886106",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470886106/"
+      }
     },
     {
       "company": "Sii Poland",
@@ -1213,9 +1411,20 @@
       "description": "We are looking for a Senior .NET Developer to join our team and contribute to the cloud transformation of a data-intensive analytical platform. In this role, you will collaborate with innovative and diverse professionals from around the world, designing scalable architectures and modernizing legacy components to ensure performance and reliability.\n\nYour tasks\n\nContributing to the cloud transformation of a data-intensive analytical platform by designing scalable architectures and modernizing legacy components\nEnsuring continuous technological evolution of the product by proposing and implementing modern frameworks and architectural improvements\nApplying Service-Oriented Architecture (SOA) concepts in software design and development\nProviding timely and courteous support to platform users, ensuring issues are understood, analyzed, and resolved promptly\nCollaborating closely with a team of software engineers, analysts, and quality engineers to design and build software solutions that meet business needs\nAdhering to team design and coding procedures and standards\n\nRequirements\n\nMinimum 5 years of experience in software development with a strong focus on .NET technologies\nDeep expertise in designing and implementing web services\nPractical experience with AWS and cloud environments\nHands-on mastery of Redux and Context API in React applications\nStrong understanding of software design principles and best practices\nAdvanced level of English\n\nNice to have\n\nExperience with C#\n\nJob no. JOB-973G4\n\nSii ensures that all hiring decisions are made solely on the basis of qualifications and competence. We are committed to equal and fair treatment of all, regardless of legally protected characteristics. At Sii, we promote a diverse and inclusive work environment, in full compliance with applicable anti-discrimination laws.\n\nBenefits For You\n\nGreat Place to Work\nSolid financial situation\nContracts with the biggest brands\nCentre of internal trainings\nMany experts you can learn from\nOpen and accessible management team\nProfit sharing\nPassion Sponsorship program\nRegular integration events and trips\nComfortable and well-equipped offices\nMySii app\nMedical care\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4470872503",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 5 years of experience in software development with a strong focus on .NET technologies",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer contributing to cloud transformation of a data-intensive platform, including web services and scalable architectures.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4470872503/"
+      }
     },
     {
       "company": "Hitachi Energy",
@@ -1228,8 +1437,8 @@
       "description": "The Opportunity\n\nWe are looking for a software developer with expertise in developing and deploying Applied Artificial Intelligence and Machine Learning solutions as well as Generative AI solutions. You will join a skilled, enthusiastic, and innovative global team to create digital technologies to further enhance the delivery of HVDC solutions. In your work, you will combine theory with practice, creating and validating new technologies that can have a meaningful impact on the energy transition.\n\nOur R&D engineers, developers, and scientists develop breakthrough technologies that change the way the world works, and how industries do business. We constantly push the limits of convention, while retaining our focus on delivering quality products and solutions to our customers.\n\nAt Hitachi Energy our purpose is advancing a sustainable energy future for all. We bring power to our homes, schools, hospitals, and factories. Join us and work with fantastic people, while learning and developing yourself on projects that have a real impact to our communities and society. Bring your passion, bring your energy, and be part of a global team that appreciates a simple truth: Diversity + Collaboration = Great Innovation\n\nHigh-Voltage Direct Current (HVDC) is a key enabler for a carbon-neutral energy system. For over 70 years, Hitachi Energy has delivered numerous technical innovations and delivered many projects. Today and in the future, solutions like HVDC, play an essential role in integrating renewable energy, decarbonizing power systems, and enhancing grid resilience and flexibility.\n\nJoin us at Hitachi Energy HVDC Research and Development if you have a passion for research and wish to contribute to the development and delivery of technologies with real purpose. Through your research projects, you will have the opportunity to learn from and contribute to a global multidisciplinary team with a broad range of experiences, both in technology and business processes.\n\nHow you’ll make an impact \n\nDesign, develop and maintain software solutions for training, deploying and managing the lifecycle of Machine Learning and Generative AI solutions.\nPropose and work on ideas and concepts of new approaches to solving optimization or control problems with business impact, turn them into prototypes and verify them.\nIdentify, propose, develop and deliver AI copilots and workflows that support engineers in their daily work and bring measurable business value.\nApply state-of-the-art software engineering practices across the full development lifecycle (configuration management, static analysis, unit testing, CI/CD).\nWhere necessary, development and release of software to integrate specific AI/ML solution into products / tools / processes.\nDesign data fabric / pipeline architectures to manage data for use in machine learning, artificial intelligence and automation applications.\nCollaborate with a global team of researchers and engineers, both within the Hitachi Energy HVDC Research and Development department, and with other teams across the Hitachi Energy organization to identify and solve real-world challenges.\nShare your knowledge and experience with other team members.\n\nYour background\n\nMaster's degree or equivalent industrial experience in Computer Science, Software Engineering, Electrical Engineering or any related field.\nProgramming experience in C#, Python and related libraries and tech stacks.\nSoftware engineering expertise across the whole software development lifecycle like design, implementation, testing (unit/integration), code quality, CI/CD, release management.\nAbility to conduct all phases of a software project – conceptual work, design, prototyping and verification.\nWorking with structured and unstructured databases (SQL, Postgres, TimescaleDB, NoSQL).\nExperience in architecting performant, scalable and extendable software solutions.\nExperience with Azure OpenAI and Azure AI Services to design and deploy AI solutions.\nGood knowledge of Generative AI, the underlying models and architectures and associated technologies.\nHands‑on experience applying Machine Learning / Data Science and Generative AI (copilots, prompt engineering) to solve practical problems.\nKnowledge of data privacy, IP handling, security for AI tools, and data.\nWillingness to take an interdisciplinary approach, working with experts from different domains, and integrating AI/ML approaches into processes.\nExperience demonstrating your ability to work in a team, your creativity, and your motivation for self-development.\nExcellent written and spoken communication in English.\n\nMore About Us\n\nAt Hitachi Energy, we recognize that our people are at the heart of our success. We are committed to providing a supportive and inclusive workplace, competitive rewards, and opportunities for professional and personal growth. Our benefits package is designed to help employees thrive both at work and in their personal lives.\n\nOur Benefits Offering For This Role Generally Includes\n\nPrivate medical care and life insurance\nAccess to fitness and wellness programs\nAccess to benefits platform with discounts and perks\nEmployee Capital Plans (PPK)\nEquipment for working from home or allowances for setting up a workplace at home\nSpectacles and contact lenses allowance\nCompany events and team‑building activities\nPsychological support program\nFree parking available\n\nAdd if applicable: additional benefits may apply depending on the role, grade, and business requirements.\n\nYou will receive more specific information during the recruitment process.\n\nPublication date : 2026-07-15\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAppliances, Electrical, and Electronics Manufacturing and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4427903335",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1243,8 +1452,8 @@
       "description": "Job Title : Dot Net developer\n\nLocation : Gothenburg, Sweden\n\nWork Mode : Hybrid (3 Days Onsite)\n\nTiming : CET Working Hours\n\nJob Description:\n\nWe are seeking a highly skilled and motivated Senior Software Developer / Technical Lead to design, develop, support, and enhance a portfolio of business-critical applications across Digital Workplace.\n\nThe role requires strong technical expertise, solution design capabilities, stakeholder management skills, and experience supporting both custom-developed and Microsoft ecosystem solutions.\n\nMandatory skills:\n\n.Net, CSharp, SPFX, .Net Core, Power Platform\n\nDesired skills:\n\nAutomation, AI with CoPilot, REST API, WebHook, CI/CD, Git.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nInformation Services",
       "source": "LinkedIn",
       "job_id": "4471380769",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1258,9 +1467,20 @@
       "description": "we are hiring for\n\nFull Stack Developer – C# / .NET – (Infrastructure experience)\nWe are looking for a Full Stack Developer with strong experience in C# and .NET with an infrastructure experience, to join a team responsible for systems handling part number setup and lifecycle management within an automotive environment.\nThe team develops business-critical applications that support product configuration, manufacturing, and enterprise integrations.\nThe role spans the full stack, covering backend services, frontend user interfaces, and relational databases.\nThe ideal candidate has hands-on experience with Azure-based solutions, works comfortably in a DevOps-oriented setup, and has exposure to Infrastructure as Code (IaC) for provisioning and maintaining environments.\nPractical use of AI-assisted development and infrastructure tools is beneficial.\nWe are seeking someone proactive, collaborative, and adaptable, who thrives in a high-delivery agile team, takes ownership from development through deployment, and brings curiosity and a continuous-improvement mindset, including responsible adoption of AI in engineering and platform work.\n\nKey skills: C# / .NET (ASP.NET Core) and REST API development Frontend experience with Angular, Blazor, or similar SPA frameworks Databases: SQL Server / PostgreSQL and NoSQL (Azure Cosmos DB) Cloud-native development on Kubernetes, ideally Azure Red Hat OpenShift (ARO) Azure platform services such as Key Vault, API Management (APIM), and Entra ID (identity & access management) Infrastructure as Code using Terraform CI/CD pipelines, GitOps with Argo CD, and containerization (Docker)\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472749904",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Strong experience in C# and .NET with infrastructure experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack C#/.NET role spanning ASP.NET Core backend services, REST APIs, frontend interfaces, databases, and Azure infrastructure.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4472749904/"
+      }
     },
     {
       "company": "Ampstek",
@@ -1273,9 +1493,20 @@
       "description": "Hi Professionals,\n\nGreetings From Ampstek!!\n\nHope you are high in your spirits. Please stay safe.\n\nOur client is looking for .Net Developer\nto join a high-growth organization. If you are interested share you resume sudhakaran.m@ampstek.com\n\nRole: .Net Developer\n\nLocation: Gothenburg, Sweden(Hybrid)\n\nDuration: Contract\n\nJob Description:\n\nDesign and develop enterprise applications using C#, .NET and .NET Core.\nDevelop modern SharePoint solutions using SPFx (SharePoint Framework).\nBuild custom web parts, extensions, and SharePoint applications using SPFx, TypeScript, React, HTML and CSS.\nDevelop and integrate REST APIs, Web APIs and microservices using .NET Core.\nDevelop workflow automation using Power Automate.\nBuild Canvas Apps and Model-Driven Apps using Power Apps.\nIntegrate SharePoint, Power Platform, .NET applications, and third-party systems.\nWork with Microsoft 365 / SharePoint Online environments.\nDevelop secure and scalable solutions following Microsoft development standards.\nTroubleshoot application, integration, and performance issues\n\nThanks & Regards,\n\nSudhakaran\n\nIT Recruiter | Europe & UK\n\nEmail - sudhakaran.m@ampstek.com\n\nTel - +44(20)45150009\n\nAmpstek Services Limited\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nInformation Services",
       "source": "LinkedIn",
       "job_id": "4471380762",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Experience developing enterprise applications with C#, .NET/.NET Core and REST APIs/microservices",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops enterprise C#/.NET applications, REST/Web APIs, and .NET Core microservices with Microsoft 365 integrations.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4471380762/"
+      }
     },
     {
       "company": "emagine",
@@ -1288,8 +1519,8 @@
       "description": "emagine söker: Cloud Engineer (Azure) – Stockholm\n\nFör vår kund inom finans- och försäkringssektorn söker vi en erfaren Cloud Engineer. Du kommer att bygga, förvalta och vidareutveckla en Azure-plattform med höga krav på säkerhet, tillgänglighet och prestanda. Du ingår i ett tekniskt starkt plattformsteam med korta beslutsvägar och stort inflytande över både arkitektur och arbetssätt.\n\nUppdraget i korthet\n\nStart: ASAP\nOmfattning: 100%\nPlats: Centrala Stockholm, hybrid\nSpråk: Svenska\n\nArbetsuppgifter\n\nDesigna och bygga molninfrastruktur med Infrastructure as Code\nUtveckla lösningar för monitorering, loggning och observability\nArbeta med nätverk, säkerhet och identitetshantering i Azure\nSäkerställa governance och compliance i plattformen\nBygga och förbättra CI/CD-pipelines\nVara specialist inom infrastruktur och automation och sprida best practice till övriga team\n\nKrav\n\nMinst 5 års erfarenhet inom flera av följande områden: Azure-infrastruktur, Azure DevOps, IaC, automatisering och scripting i PowerShell, security-as-code, Azure Landing Zones, Well-Architected Framework och Cloud Adoption Framework\nGod förståelse för nätverk, säkerhet och identitetshantering i Azure\nErfarenhet av agila arbetssätt\nFlytande svenska och engelska i tal och skrift\n\nMeriterande\n\nRelevanta Azure-certifieringar\n\nOm dig\n\nDu är nyfiken och lösningsorienterad och trivs med att gå på djupet i tekniska problem. Uppdraget har många kontaktytor, så du samarbetar gärna och delar med dig av det du kan.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471390631",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1303,8 +1534,8 @@
       "description": "Vill du ta din expertis inom Azure till nästa nivå? Vi söker en person med erfarenhet inom Microsoft Cloud som vill vara med och designa, bygga och optimera framtidens molnlösningar tillsammans med oss på Accelerate. Hos oss får du inte bara arbeta med moderna tekniker och spännande uppdrag – du blir en del av ett värderingsdrivet och passionerat team där du får goda möjligheter till personlig utveckling.\n\nVarför Accelerate?\n\nVi erbjuder dig mer än ett uppdrag – vi erbjuder en plattform för att växa som expert inom Microsoft Cloud så som Azure Infrastruktur, Azure DevOps och andra Microsoft Cloud lösningar! Hos oss får du chansen att arbeta i en modern och framtidsinriktad molnmiljö tillsammans med erfarna kollegor som är Microsoft MVP och Microsoft Certified Trainer inom Azure. Här blir du en del av en kultur där vi lär av varandra och bygger lösningar som verkligen gör skillnad hos våra kunder.\n\nSom konsult hos oss år du\n\nEn skräddarsydd utvecklings- och certifieringsplan\nUtmanande och varierande uppdrag med de senaste teknikerna\nFlexibilitet, frihet och balans mellan jobb och fritid\nKollektivavtal, friskvårdsbidrag och sjuk- och hälsoförsäkring\nEtt sammansvetsat team av vassa specialister som lyfter varandra\nEn trygg och säker anställning med bra förmåner\n\nVi tror på gemenskap och kompetensutbyte – här utvecklas vi tillsammans och stöttar varandra för att alltid ligga i framkant.\n\nOm rollen\n\nSom Azure Cloud Engineer hos oss är du en nyckelspelare i att skapa stabila, säkra och moderna molnplattformar åt våra kunder. Du blir motorn bakom en friktionsfri resa från kod till produktion genom att automatisera, effektivisera och optimera kundernas Azure-miljöer. Vi ser dig som den som frigör kraften i molnet, så att utvecklingsteamen kan fokusera på innovation.\n\nExempel på vad du kommer att göra\n\nBygga och underhålla en modern, säker och skalbar infrastruktur i Azure med Infrastructure as Code.\nHantera lösningar inom PaaS (Platform as a Service) och IaaS (Infrastructure as a Service), inklusive Azure VM, Azure Virtual Desktop, Azure Kubernetes Service (AKS), Azure Container Apps m.m.\nSäkerställa governance och compliance genom att implementera och hantera Azure Policy, RBAC och Workload Identity Federation.\nOptimera och implementera effektiva lösningar för monitorering och loggning med hjälp av Azure Monitor, Log Analytics och Application Insights.\nSäkerställa hög tillgänglighet och lösa komplexa utmaningar inom nätverk och säkerhet i Azure.\n\nVem är du?\n\nVi söker dig som är har gedigen erfarenhet som Cloud Engineer och som brinner för Cloud lösningar såsom Azure, automation och säkerhet. Du har ett lösningsfokuserat mindset och vill hjälpa våra kunder att bygga hållbara och effektiva molnlösningar. Du uttrycker dig obehindrat på svenska och engelska i både tal och skrift. För denna position krävs svenskt medborgarskap, vi utför även bakgrundskontroll av slutkandidat.\n\nVi tror att du gillar att jobba med:\n\nCloud Infrastruktur: Azure VM, Azure Network, Azure Virtual Desktop, Azure Kubernetes Services\nAzure-tjänster som Function Apps, App Services, Key Vault och Storage Accounts\nSäkerhet och compliance: Entra ID, Managed Identities, RBAC, Azure Policy, Microsoft Security\nMonitorering och loggning: Azure Monitor, Log Analytics, Application Insights\nInfrastructure as Code: som t ex Bicep\nErfarenhet av att bygga cloudmiljöer enligt CAF (Cloud Adotions Framework) eller liknande.\n\nPlus om du har\n\nCertifieringar som AZ-104 och/eller AZ-204\nErfarenhet av: Azure Landing Zones\nAZ-400, AZ-305 eller motsvarande\n\nPlaceringsort\n\nAccelerate finns på flertal orter i Sverige och Norge. För denna tjänst utgår du från vårt kontor i Göteborg, med möjlighet till hybridarbete.\n\nÖnskad start är snarast eller enligt överenskommelse. Har du frågor? Kontakta Jesper Carlsson på jesper.carlsson@iver.se\nVi ser fram emot att träffa dig! Välkommen till Accelerate\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4435237155",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1318,8 +1549,8 @@
       "description": "As a Software Engineer reporting to an Engineering Manager, you'll play a critical role in maintaining and evolving Nasdaq's Clearing technology platform, supporting some of the world's largest clearing houses with mission-critical systems that operate 24/7.\n\nYou'll thrive in this position if you're driven by innovation, comfortable diving into established production systems and large legacy codebases, and bring a genuine passion for building high-quality technology solutions across a broad technology stack—including Java backend services, front-end interfaces, DevOps tooling, and cloud infrastructure.\n\nKey Responsibilities\n\nOwn the analysis, troubleshooting, and enhancement of production systems powering critical clearing and settlement functions, ensuring system stability while making thoughtful improvements to legacy codebases.\nShape and improve the next-generation Clearing System through full lifecycle participation—from design and implementation to testing and deployment—delivering systems that meet the highest quality standards.\nCollaborate in agile ceremonies and maintain clear, up-to-date technical documentation to support team alignment and knowledge sharing.\nConduct code and design reviews with the team to continuously improve system quality, architectural decisions, and engineering best practices.\nParticipate in 24/7 on-call support rotations to ensure high availability and rapid incident resolution for mission-critical clearing services.\n\nRequired Qualifications\n\nBachelor's degree in Computer Science or related field, or equivalent practical experience.\n1 - 3 years of experience in Java backend development.\nGenuine interest in learning and working with existing production systems, including large legacy codebases—comfortable understanding existing architectures and making improvements while maintaining stability.\nSelf-driven with a sense of structure and creativity, able to balance innovation with operational excellence.\nExperience working effectively in agile teams with strong collaboration and communication skills.\n\nPreferred Qualifications\n\nExperience working with tools or platforms such as Gradle, Git, GitLab, Jenkins, AWS, or Kubernetes.\nFamiliarity with capital markets domains such as clearing, settlement, trading, financial instruments, or corporate actions.\nExposure to global teams and cultural nuances in cross-border collaboration.\n\nThis position will be located in Stockholm and offers the opportunity for a hybrid work environment at least 3 days a week in-office, subject to change, providing flexibility and accessibility for qualified candidates.\n\nCome as You Are\n\nNasdaq is an equal opportunity employer. We welcome applications from candidates of all backgrounds and identities.\n\nWe are committed to fostering an inclusive workplace where diverse perspectives, experiences, and identities are valued and celebrated.\n\nWe ensure that individuals with disabilities are provided with reasonable accommodation throughout the hiring process.\n\nBenefits & Rewards\n\nWe offer a competitive, holistic total rewards package designed to support the financial, physical, and emotional well-being of our employees and their families.\n\nIn addition to base salary, Nasdaq provides a generous annual bonus/commission (short-term incentive), equity (long-term incentive), comprehensive benefits, and opportunities for growth.\n\nWe utilize a structured job architecture and career framework to ensure growth opportunities are transparent, fair, and accessible to all employees. The pay range you see reflects the full salary band for this job level, including room for progression over time. The actual offer will depend on factors like your skills, experience, qualifications, and location, and will fall within a portion of the posted range that's appropriate for this role.\n\nFor more information, visit Nasdaq Benefits & Rewards Career Page.\n\nCome as You Are\n\nNasdaq is an equal opportunity employer. We welcome applications from candidates of all backgrounds and identities.\n\nWe are committed to fostering an inclusive workplace where diverse perspectives, experiences, and identities are valued and celebrated.\n\nWe ensure that individuals with disabilities are provided with reasonable accommodation throughout the hiring process.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology, Product Management, and Engineering\n\nIndustries\n\nFinancial Services",
       "source": "LinkedIn",
       "job_id": "4472761154",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1333,8 +1564,8 @@
       "description": "CLOAS Developer – 6 Month Contract, Hybrid, Dublin\n\nWhat’s involved\n\nDeveloping and supporting CLOAS solutions within a .NET environment.\nSupporting batch processes and job scheduling across the application environment.\nDeveloping and supporting ETL processes and SSIS packages.\nCreating and managing data extracts for export to a range of data stores.\nWorking with SQL Server, including database design and schema creation or expansion.\nIntegrating with REST services and supporting source control and Agile delivery practices.\n\nWhat’s needed\n\n4+ years’ experience in CLOAS development.\nHands-on experience working with CLOAS in a .NET environment.\nExperience with batch processes, job scheduling and related application support.\nStrong ETL and SSIS experience, including SSIS package creation and support.\nExperience with SQL Server, database design and schema creation or expansion.\nExperience with C#, Visual Studio, SVN source control and consuming REST services.\n\nWhat’s on offer:\n\nCompetitive Daily Rate\n\nVantage Resources is an equal opportunity employer and is committed to creating a diverse working environment by recruiting people from different backgrounds and cultures. All qualified applicants will receive consideration for engagement and/or employment without regard to race, color, religion, gender, gender identity sexual orientation, national origin, culture, disability or age. An inclusive and diverse workforce is an essential part of the development of our organisation’s culture which we believe enhances both our working environment and the service we provide to our customers.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472752300",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -1348,8 +1579,8 @@
       "description": "About Platform Engineering\n\nPlatform Engineering (platformengineering.org) is home to the world's largest community of platform engineers. Through events like PlatformCon, which brings together over 35,000+ participants every year, we connect thousands of professionals, share best practices, and help shape the future of how teams build and scale internal developer platforms.\n\nWe're looking for a Senior AI Automation & Systems Engineer to own the technical infrastructure behind our content and design operation, from planning and research, through AI-assisted production and quality control, to publishing and distribution.\n\nThis position is fully remote and is open to applicants based in Europe.\n\nWhat You Will Do\n\nTake technical ownership of our content and design factory: tooling selection, automation pipelines, quality management, and agent orchestration that let a small team produce at scale.\nDesign and development (structuring, prompting, QA) of complex multistep content and design creation workflows and interfaces as skills in model harnesses and external content workflow tools (e.g., AirOps, n8n).\nThink through the user journey and create UI integrations into existing solutions (e.g., Supabase databases) or vibe-code and maintain UI and interfaces for workflows, databases, etc. (search, export data, import to other workflows).\nKeep our stack modular and replaceable, evaluating tools continuously and making changes before we become dependent on the wrong ones.\nReduce manual overhead systematically by building automations and agent workflows that replace repetitive processes.\nWork with leadership as a peer on architectural decisions and infrastructure direction, not just as an implementer.\n\nWhat We're Looking For\n\nStrong technical background: database schemas, REST/GraphQL API integrations, RAG/vector databases design/implementation, and automation pipelines, end-to-end and without hand-holding.\nFluency with AI as a development tool. You use Claude Code, Cursor, or similar and actively think about where agents can replace manual work.\nUnderstanding of professional content creation (i.e., structure, tonality, narrative and ability to differentiate between great and ok content pieces).\nCommercial mindset and strong prioritization: you know which systems move the needle and focus there.\nOwn a roadmap and hold architecture conversations with leadership.\nStrong software engineering fundamentals; you don't need to be a traditional full-stack engineer, but you should be comfortable writing, reviewing and maintaining production code.\n\nWhy You'll Love Working With Us\n\nYour work will directly enable a community of 35,000+ platform engineers worldwide.\nReal ownership of core infrastructure, with the autonomy to shape it.\nFully remote across Europe, strong async culture, low-ego team.\nCompetitive salary and room to grow as our ambitions scale.\n\nIf this sounds like a fit, we would love to hear from you!\n\nHave questions before applying? Reach out to us at careers@platformengineering.org\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nEducation",
       "source": "LinkedIn",
       "job_id": "4472746270",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side .NET/C# evidence.",
       "validated": null
     }
   ]
