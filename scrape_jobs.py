@@ -2,8 +2,8 @@
 Pipelines (see __main__) include LinkedIn's guest endpoint, JobSpy-backed
 Indeed/Glassdoor, public-sector boards, and a priority-employer sweep
 (allowlist-filtered LinkedIn + optional direct Greenhouse/Workday probes). Each
-writes {basename}.{json,md,html} digests and accumulates into all_jobs.json for
-the dashboard and triage agent.
+writes {basename}.{json,md,html} per-source snapshots consumed by downstream
+workflows.
 
 Tune the search in config.json: title keywords, board-specific search terms,
 priority employers, locations, and LinkedIn geoIds / JobSpy locations.
@@ -2889,7 +2889,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     """
     # Single chokepoint for the company exclusion: every source (LinkedIn,
     # Indeed, priority, CalCareers) funnels through here, so dropping excluded
-    # companies once keeps all digests AND all_jobs.json clean.
+    # companies once keeps all per-source digests clean.
     before = len(jobs)
     jobs = [j for j in jobs if not _is_excluded_company(j.get("company", ""))]
     if len(jobs) < before:
@@ -2903,15 +2903,6 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
 
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
-
-    # Accumulate into the cumulative master. Guarded: a bug here must never
-    # break the scrape/commit path that the digests and dashboard depend on.
-    try:
-        # Merge the full current source window, not only brand-new notifications:
-        # existing sparse LinkedIn records can gain salary/description later.
-        _merge_into_all_jobs(jobs)
-    except Exception as e:
-        print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
     # Push the highly-relevant new roles to Pushover (no-op without creds).
     try:
@@ -3321,8 +3312,8 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if "--linkedin-merge-backfill" in sys.argv:
-        # Merge per-term AND per-partition backfill results into linkedin_jobs.json
-        # + all_jobs.json. Run after all --linkedin-backfill-term or
+        # Merge per-term AND per-partition backfill results into linkedin_jobs.json.
+        # Run after all --linkedin-backfill-term or
         # --linkedin-backfill-partition jobs have completed.
         import glob
         print("🔗 Merging backfill results…")
@@ -3357,7 +3348,7 @@ if __name__ == "__main__":
             print(f"  time window (e.g. 30 min).")
         print()
         save_linkedin_results(all_jobs)
-        print(f"  ✅ Merge complete: {len(all_jobs)} jobs in linkedin_jobs.json + all_jobs.json")
+        print(f"  ✅ Merge complete: {len(all_jobs)} jobs in linkedin_jobs.json")
         for tf in all_files:
             os.remove(tf)
         print(f"  🗑  Cleaned up {len(all_files)} partition files")

@@ -89,7 +89,7 @@ jobs:
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/all_jobs.json output/notified.json
+          git add -f output/linkedin_jobs.json output/linkedin_jobs.md output/linkedin_jobs.html output/workflow_runs.jsonl output/notified.json
           if [ "${{ github.event.inputs.backfill }}" != "true" ]; then
             new_batches="$RUNNER_TEMP/validator-new-batches.txt"
             new_sidecar_markers="$RUNNER_TEMP/validator-new-sidecar-open-markers.txt"
