@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-29T10:37:16+03:00",
   "job_count": 31,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "RWE",
