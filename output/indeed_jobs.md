@@ -1,78 +1,69 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-29 10:17 UTC*
+*Last updated: 2026-09-29 11:18 UTC*
 
-**13 new role(s)** since last run · 195 total in last 24h
+**11 new role(s)** since last run · 190 total in last 24h
 
-### [Electrical Design and Automation Engineer (f/m/x)](https://de.indeed.com/viewjob?jk=eab9d0649e34f137) — ZEISS Group
-- 📍 **Location:** Oberkochen, BW, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Software-Architekt / -Entwickler, C/C++ (m/w/d) in German](https://de.indeed.com/viewjob?jk=4ff38210239ee3f2) — Text Control
-- 📍 **Location:** Bremen, HB, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2023-04-13
-
-### [Technical Support Engineer (C#, JavaScript) (all genders)](https://de.indeed.com/viewjob?jk=1c041a713ee45263) — Text Control
-- 📍 **Location:** Bremen, HB, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2023-04-13
-
-### [Working Student in Software Development (all genders)](https://de.indeed.com/viewjob?jk=dda21fc1e04d9a2f) — Text Control
-- 📍 **Location:** Bremen, HB, DE
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2023-04-13
-
-### [Entwickler im technischen Support (C#, JavaScript) (m/w/d) in German](https://de.indeed.com/viewjob?jk=234ef47281bd4576) — Text Control
-- 📍 **Location:** Bremen, HB, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2023-04-13
-
-### [PHP Developer 12-Month FTC](https://uk.indeed.com/viewjob?jk=d06688c41afe636f) — Focus Group (UK)
-- 📍 **Location:** Shoreham by Sea, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
-
-### [Automation Test Engineer](https://uk.indeed.com/viewjob?jk=c6353365d094a62e) — HORBAX
-- 📍 **Location:** Coventry, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior .NET Developer](https://be.indeed.com/viewjob?jk=baf4f47fe27b84a4) — Evoke
-- 📍 **Location:** VLG, BE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
-
-### [Backend Developer .NET](https://be.indeed.com/viewjob?jk=16407fdd58e82e09) — Evoke
-- 📍 **Location:** VLG, BE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Full Stack Engineer](https://es.indeed.com/viewjob?jk=3747d6677cfdb120) — LanguageWire
-- 📍 **Location:** ES
+### [Service Engineer](https://nl.indeed.com/viewjob?jk=9cad594206d8ed99) — MYntwrk
+- 📍 **Location:** Lemmer, FR, NL
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Java Developer (IR-551)](https://es.indeed.com/viewjob?jk=70041d0e77e08195) — Intellectsoft
-- 📍 **Location:** ES
+### [Engineering Operations Coordinator – Maternity Leave Cover](https://uk.indeed.com/viewjob?jk=d548f2e610d2349a) — Humanscale
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- **Job type:** temporary, fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Engineering Operations Coordinator – Maternity Leave Cover](https://uk.indeed.com/viewjob?jk=ef2a796387f274b3) — Humanscale
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- **Job type:** temporary, fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Photonics Support Engineer](https://se.indeed.com/viewjob?jk=4e4709f7204b2e69) — Thorlabs Inc
+- 📍 **Location:** Mölndal, O, SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer – Industrial Automation](https://be.indeed.com/viewjob?jk=b10c7aa80a27fdad) — m.design
+- 📍 **Location:** Houthalen, VLG, BE
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Backend Engineer (m/f/d), Barcelona](https://es.indeed.com/viewjob?jk=83f806b78825ad68) — Schwarz Gruppe
-- 📍 **Location:** Barcelona, CT, ES
+### [Project Engineer/Scientist - Radiation (SY-STI-BMP-2026-235-GRAE)](https://ch.indeed.com/viewjob?jk=508a3733d8e9e1a3) — CERN
+- 📍 **Location:** Genève, GE, CH
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [.Net Developer](https://bh.indeed.com/viewjob?jk=a06864968823ce3a) — Unknown
+### [2nd Level Support Engineer](https://at.indeed.com/viewjob?jk=aeaea9406274709b) — Sprecher Automation
+- 📍 **Location:** Linz, O, AT
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [IT Integration Senior Developer](https://es.indeed.com/viewjob?jk=3e9fd16d9f1fcd35) — WTW
+- 📍 **Location:** Madrid, MD, ES
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [AI Integration Developer](https://bh.indeed.com/viewjob?jk=8a875218b78ce8b9) — Unknown
 - 📍 **Location:** BH
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-09-29
+
+### [Licensed Aircraft Engineer Level II (Gulfstream/Bombardier)](https://qa.indeed.com/viewjob?jk=2feee2ae04f05c71) — Qatar Airways
+- 📍 **Location:** Doha, DAW, QA
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-29
+
+### [Microsoft Dynamics 365 Developer](https://ae.indeed.com/viewjob?jk=022211a307da9265) — Insights Marketing & Communication
+- 📍 **Location:** Dubai, DU, AE
 - **Work mode:** On-site
 - **Job type:** contract
 - 🕒 **Posted:** 2026-09-29
