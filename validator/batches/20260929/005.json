@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "432479bef895f4cc",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No backend/server-side .NET/C# role evidence; C# is only one of several possible languages, while the JD centers on JavaScript/Python web frameworks.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6569ee1830091e62",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Security-system installation role with no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b2283bab97e7030b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET is only one of several optional backend technologies; the role does not establish backend/server-side .NET/C# as primary or required.",
       "validated": null
     },
     {
@@ -83,8 +83,8 @@
       "description": "🚀 Full-Stack Engineer / Technical Lead KI & Automatisierung (m/w/d)\n\nDu willst KI nicht nur ausprobieren, sondern produktive Lösungen bauen, die im echten Arbeitsalltag einen Unterschied machen?\n\nBei Kanzleipakt entwickelst du KI- und Automatisierungslösungen, die den Alltag von rund 4.000 Menschen in Steuerkanzleien verbessern.\n\nDas Besondere: Du kommst nicht in ein fertiges Setup. Du hilfst dabei, ein neues KI-Team von Grund auf aufzubauen – inklusive Architektur, Entwicklungsstandards, Toolauswahl und technischer Roadmap. Und du bleibst dabei hands-on.\n\n🎯 Das bringst du mit:\n\nMehrjährige Erfahrung in der Softwareentwicklung\nErfahrung mit produktiven Softwarelösungen\nSicherer Umgang mit TypeScript/JavaScript oder Python\n\nErfahrung mit APIs und Systemintegration\nGutes Architekturverständnis\nAnspruch an saubere, wartbare und stabile Software\nHands-on-Mentalität und pragmatische Lösungsorientierung\nEigeninitiative und Lust, technische Themen wirklich voranzutreiben\n\nPluspunkte:\nErfahrung mit LLMs, KI-Agenten, RPA, n8n, Browser Automation oder DATEV.\n\n🚀 Was dich erwartet:\n\nAufbau eines neuen KI- und Automatisierungsbereichs\nEntwicklung produktiver KI-Anwendungen und KI-Agenten\nArchitekturentscheidungen und technische Standards von Anfang an mitgestalten\nPrototypen in stabile, wartbare Software überführen\nAutomatisierung von realen Kanzleiprozessen\nDirekter Austausch mit Anwender und technisch starken Kanzleien\nHoher technischer Gestaltungsspielraum statt langer Entscheidungswege\nNach einer gemeinsamen Startphase in Hannover: flexibler Arbeitsort und flexible Arbeitszeiten\n\nUnbefristete Festanstellung und moderne technische Ausstattung\n\nDein Tech-Umfeld\n\nTypeScript · JavaScript · Python · LLMs · KI-Agenten · n8n · RPA · Browser Automation · AWS Bedrock · DATEV APIs\n\n➡️ Dabei musst du nicht alles davon bereits beherrschen. Entscheidend ist, dass du mehrjährige Erfahrung in der Softwareentwicklung\nmitbringst, produktive Systeme verstehst und Lust hast, dich tief in neue KI-Technologien einzuarbeiten.\n\n💻 Deine Aufgaben:\n\nKI-Anwendungen und KI-Agenten entwickeln\nAutomatisierte Workflows und interne Tools bauen\nAPIs und bestehende Systeme integrieren\nDATEV-APIs und die DATEVconnect-Welt technisch erschließen\nArchitektur und Entwicklungsstandards definieren\nCode Reviews und Pair Programming durchführen\nTests, Logging und Deployment-Strategien etablieren\nRPA- und Browser-Automatisierungen weiterentwickeln\nTechnische Anforderungen gemeinsam mit Anwender in funktionierende Lösungen übersetzen\nEntwickler technisch unterstützen und beim Aufbau des neuen Teams mitwirken\n\nDu willst KI, Softwareentwicklung und Automatisierung mit echtem Praxisimpact verbinden? Dann bewirb dich jetzt!\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nFinancial Services",
       "source": "LinkedIn",
       "job_id": "4473097982",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on TypeScript/JavaScript or Python for AI and automation, with no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -98,8 +98,8 @@
       "description": "W firmie ABB\npomagamy przedsiębiorstwom działać sprawniej i czyściej – i każdy człowiek w naszej firmie się do tego przyczynia. Będziesz mieć możliwość przewodzenia, otrzymasz wsparcie w rozwoju i poczujesz dumę z wpływu, jaki wspólnie wywieramy. Dołącz do nas i pomóż zarządzać tym, co napędza świat.\n\nStanowisko To Podlega\n\nInnovation Enablement Manager\n\n__\n\nAs a Sales Configurator Product Modeler / Developer you will be a member of a team developing and maintaining sales configurators solutions supporting the operations and customers of ABB Electrification (EL) - Distribution Solution (ELDS) and Service (ELSE). You will be working in a cross-functional team which operates in an international environment.\n\nIn this role you will be responsible for the modelling and maintenance of distribution systems and service products (switchgears, grid components and service offering ) in the new global ELDS/SE sales configurator platform(s). You will closely collaborate with product sales configurators, portfolio managers and engineers to design, implement, test and troubleshoot the product models. Together with the internal ABB IS and Business Teams you will have unique opportunity to learn the product portfolio and based on that design and deliver the future platform ensuring it meets the needs of our customers and sales team\n\nThe work model for the role is: #hybrid;\n\nYou Will Be Mainly Accountable For\n\nDesign, implement, test, and troubleshoot product models for ELDS and ELSE.\nDevelop the product models as defined by the Product Managers / Sales Configurators Portfolio Managers and Engineers. Ensure product models are well-structured to enable high quality change management and simplify the future maintenance\nCollaborate with relevant IS and Business stakeholders to deliver a user-friendly and efficient Sales Configurator solution.\nWork closely with the platform supplier / implementation partner to ensure the integrity of the product model is guaranteed as the platform evolves.\nProvide technical support, troubleshooting and fixing issues reported by users.\nContribute to the overall sales configurator development process\n\nQualifications For The Role\n\nYou are highly skilled in product modelling and configuration within sales configurator tools and enjoy working in the industrial technology and engineering sector\nYou have established experience in the software development lifecycle, including working with tools such as Azure DevOps\nYou possess solid expertise in programming languages such as .NET, Python, Java, or similar technologies\nYou are highly adept in configurator platforms, with experience in Configit ACE considered an advantage\nYou are passionate about teamwork and collaboration, while also demonstrating a proactive, solution-oriented, and independent working style\nYou are resilient in agile, fast-paced environments and are motivated by continuous learning and development\nYou have proven experience or a strong understanding of industrial product portfolios; knowledge of ABB’s DS and SE Division portfolio is considered a plus\n\nAby zbudować czystszą, mądrzejszą przyszłość, potrzebne są różne umysły: ciekawe, odważne i kreatywne. Dlatego witamy ludzi z każdego środowiska i o różnych doświadczeniach.\n\nChcesz wywrzeć wpływ?\n\nAplikuj już dzisiaj lub odwiedź stronę https://www.abb.com\n, aby dowiedzieć się więcej o wpływie naszych rozwiązań na całym świecie.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAutomation Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4471273774",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Product-modeling/configurator role; .NET appears only among alternative languages and no backend/server-side .NET/C# development is established.",
       "validated": null
     },
     {
@@ -113,9 +113,20 @@
       "description": "Responsibilities\n\nDevelop, enhance, and maintain scalable full-stack applications across both frontend and backend environments.\nBuild and deliver high-quality, production-ready software following the Software Development Lifecycle (SDLC).\nDesign and implement cloud-native, serverless solutions using AWS services.\nDevelop modern web applications using React, TypeScript, Node.js, and GraphQL.\nCollaborate closely with Product Owners, Business Analysts, Technical Managers, and fellow engineers within a cross-functional product team.\nParticipate in solution design, architecture discussions, code reviews, and technical decision-making.\nEnsure software quality through automated testing, debugging, and continuous integration practices.\nCreate and maintain technical documentation, architecture diagrams, and other engineering artifacts.\nContribute to the continuous improvement of development processes, tools, and engineering standards.\nSupport the Test Drive platform to deliver exceptional customer experiences.\n\nRequired Skills\n\nTechnical Skills\nStrong experience with C#\n\nStrong experience with TypeScript\n\nHands-on experience with Node.js\n\nHands-on experience with React\n\nExperience building and deploying Serverless applications on AWS\n\nExperience working with GraphQL\n\nExperience developing both frontend and backend applications (Full Stack Development)\n\nPreferred Skills\nExperience with Remix\n\nExperience using GitHub\nand modern CI/CD practices\nExperience with Datadog\nmonitoring and observability tools\nExperience with Headless CMS\nplatforms\nExperience working with NoSQL databases\n\nExperience with Azure Active Directory (Azure AD / Entra ID)\n\nExperience working in Agile product development environments\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nTemporary\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4471273921",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop and maintain full-stack applications across frontend and backend using C#, TypeScript, Node.js, React, AWS serverless services, and GraphQL.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4471273921/"
+      }
     },
     {
       "company": "Magello",
@@ -128,8 +139,8 @@
       "description": "Du som gillar att röra dig över hela stacken och som brinner för utveckling, det här är för dig!\n\nMagello jobbar tillsammans med våra kunder för att lösa deras verkliga problem. Vårt fokus är hållbar digital utveckling, med tyngdpunkt inom  AI, cloud, teknisk förändring,  integration och digitala tjänster.  Vi arbetar med några av Sveriges mest kända och viktigaste varumärken och myndigheter.\n\nVad kommer du göra?\n\nVi är konsulter, vilket innebär att våra arbetsuppgifter ser lite olika ut. Vi har utmanande uppdrag inom flera branscher, både inom privat och offentlig sektor. Som fullstackutvecklare hos oss är du en del av ett utvecklingsteam med fokus att förstå och lösa kundens utmaningar utifrån deras faktiska behov.\n\nAtt lösa problem och att bygga hållbara digitala tjänster är det vi gör bäst på Magello. Oavsett om du är ute hos kund eller jobbar inhouse kommer du att få stöd från oss andra. Du kommer att rapportera till och arbeta nära en av våra konsultchefer. Du kommer också att ha ett internt team av konsulter som blir din bas hos Magello.\n\nFör oss är digitala tjänster ett annat ord för produkter, verktyg och lösningar som används i en teknisk värld. Exempel på platser där du som fullstackutvecklare skulle kunna hjälpa till att lösa problem är Skatteverket, Pricer, ICA och Scania.\n\nVem söker vi?\n\nVi förstår att du tickar vissa av dessa boxar mer än andra och därmed håller vi alltid ett öppet sinne i vår rekrytering. Men för att lyckas väl i rollen tror vi att du har några av följande kompetenser:\n\nMinst sex års erfarenhet inom systemutveckling.\nEtt tekniskt modersmål i Java eller .NET\nDin tekniska tyngd inom backend\nErfarenhet av JavaScript/TypeScript ramverk, som Angular, React eller Vue\nErfarenhet av att arbeta med molnplattform som Amazon Web Services (AWS), Azure eller Google Cloud Platform (GCP)\nErfarenhet av att arbeta med CI/CD\nErfarenhet eller intresse av att använda AI som verktyg inom yrket\nErfarenhet av att arbeta med agila metodiker i systemutveckling som Kanban eller Scrum\n\nVi anställer fullstackutvecklare löpande så skicka in din ansökan om du tycker att Magello låter intressant. Om vi tror att du skulle kunna passa hos oss, tar vi ett möte. Vi lägger lika stor vikt vid din personlighet som din tekniska kompetens. Vi ser fram emot att höra från dig!\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4226074996",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Swedish, and no complete official English version for the same posting was confirmed.",
       "validated": null
     }
   ]
