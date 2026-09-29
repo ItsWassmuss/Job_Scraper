@@ -1,236 +1,136 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-29 09:37 UTC*
+*Last updated: 2026-09-29 10:34 UTC*
 
-**58 new role(s)** since last run · 123 total in last 6h
+**33 new role(s)** since last run · 154 total in last 6h
 
-### [Head of Engineering](https://www.linkedin.com/jobs/view/4473209743/) — Zineps
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
-- 🕒 **Posted:** 2026-09-29
-
-### [Traineeship Software Developer (Low-Code / Pega)](https://www.linkedin.com/jobs/view/4473216411/) — BPM Company
-- 📍 **Location:** Utrecht, Netherlands
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior C# Entwickler - remote (w/m/d)](https://www.linkedin.com/jobs/view/4463345214/) — VALUE AG
-- 📍 **Location:** Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Fullstack Entwickler - C#/Angular - remote (w/m/d)](https://www.linkedin.com/jobs/view/4463372435/) — VALUE AG
-- 📍 **Location:** Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Middle C# Developer for MS365](https://www.linkedin.com/jobs/view/4449352102/) — Veeam Software
+### [Distributed Systems Engineer 4/5 - Cloud Platform Infrastructure Engineering Tooling](https://www.linkedin.com/jobs/view/4406717058/) — Netflix
 - 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior C# Developer for MS365](https://www.linkedin.com/jobs/view/4449787714/) — Veeam Software
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Microsoft Dynamics 365 (Senior) Developer](https://www.linkedin.com/jobs/view/4452289228/) — Deloitte
+- 📍 **Location:** Katowice, Śląskie, Poland
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4473222129/) — Seargin
-- 📍 **Location:** Poland
+### [Microsoft Dynamics 365 (Senior) Developer](https://www.linkedin.com/jobs/view/4452272520/) — Deloitte
+- 📍 **Location:** Cracow, Małopolskie, Poland
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Consultant – .NET Developer with Power Platform](https://www.linkedin.com/jobs/view/4471286978/) — Ampstek
-- 📍 **Location:** Gothenburg, Västra Götaland County, Sweden
+### [Cloud COE Architect (Azure & AWS)](https://www.linkedin.com/jobs/view/4473212659/) — ValueLabs
+- 📍 **Location:** Malmo, Skåne County, Sweden
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Architect](https://www.linkedin.com/jobs/view/4473203627/) — Infinity Quest
+### [Creative Solutions Engineer (11 month parental leave cover)](https://www.linkedin.com/jobs/view/4467790126/) — Precis
 - 📍 **Location:** Stockholm, Stockholm County, Sweden
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior .NET Architect](https://www.linkedin.com/jobs/view/4472496462/) — Methodius IT Recruitment
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Manager, Tax Technology — VAT (Wolt & Deliveroo Tax Platform & Business Projects)](https://www.linkedin.com/jobs/view/4473222357/) — Wolt
+- 📍 **Location:** Helsinki, Uusimaa, Finland
 - 🕒 **Posted:** 2026-09-29
 
-### [Azure DevOps Engineer](https://www.linkedin.com/jobs/view/4473212451/) — Archer Recruitment
-- 📍 **Location:** County Dublin, Ireland
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4473209204/) — Finalto
-- 📍 **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4473096810/) — Frencken
-- 📍 **Location:** Changi, East Region, Singapore
-- 🕒 **Posted:** 2026-09-29
-
-### [Manufacturing Systems Engineer 2](https://www.linkedin.com/jobs/view/4473204762/) — Illumina
+### [QA Engineer](https://www.linkedin.com/jobs/view/4471701366/) — MindGraph
 - 📍 **Location:** Singapore
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior QA / Test Automation Engineer](https://www.linkedin.com/jobs/view/4473098863/) — Sourceability
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Cloud Intern](https://www.linkedin.com/jobs/view/4473212345/) — Razer
-- 📍 **Location:** Singapore
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Solutions Engineer](https://www.linkedin.com/jobs/view/4450144118/) — Hydrolix
-- 📍 **Location:** Singapore
-- 🕒 **Posted:** 2026-09-29
-
-### [.NET Developer](https://www.linkedin.com/jobs/view/4471282638/) — Coforge
-- 📍 **Location:** Bucharest Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior QA Engineer - Automation & Manual](https://www.linkedin.com/jobs/view/4473210343/) — Luxoft
-- 📍 **Location:** Bucharest, Romania
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior QA Engineer - Automation & Manual | Bucharest / Hybrid](https://www.linkedin.com/jobs/view/4473204126/) — Luxoft
-- 📍 **Location:** Bucharest, Romania
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Data & AI Architect – Azure, Databricks & Agentic AI](https://www.linkedin.com/jobs/view/4471292632/) — Yoursoft Alternative
+### [Senior Full Stack .NET Developer- Romania](https://www.linkedin.com/jobs/view/4471296840/) — EVA's
 - 📍 **Location:** Romania
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Quality Assurance Automation Engineer](https://www.linkedin.com/jobs/view/4472767710/) — MPower Plus
-- 📍 **Location:** Bucharest, Romania
+### [Principal Solution Architect](https://www.linkedin.com/jobs/view/4471282996/) — Kyvogen
+- 📍 **Location:** Greece
 - 🕒 **Posted:** 2026-09-29
 
-### [Full Stack Developer](https://www.linkedin.com/jobs/view/4473209514/) — FABAY
-- 📍 **Location:** Ümraniye, Istanbul, Türkiye
+### [.NET Architect](https://www.linkedin.com/jobs/view/4361324502/) — Axxes IT Consultancy
+- 📍 **Location:** Flemish Region, Belgium
 - 🕒 **Posted:** 2026-09-29
 
-### [Developer](https://www.linkedin.com/jobs/view/4438483827/) — GlassHouse Türkiye
-- 📍 **Location:** İzmir, Türkiye
+### [Software Engineer  - Medical Imaging (Fullstack)](https://www.linkedin.com/jobs/view/4351849823/) — Medpace
+- 📍 **Location:** Leuven, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-09-29
 
-### [Principal AI Engineer](https://www.linkedin.com/jobs/view/4471277682/) — Netcompany
-- 📍 **Location:** Athens, Attiki, Greece
+### [Application Cloud Architect (Java, Semantic Web Stack) - EU Institution (based in Belgium)](https://www.linkedin.com/jobs/view/4433954407/) — NRB International Organisations (TRASYS)
+- 📍 **Location:** Brussels Region, Belgium
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior .NET Developer](https://www.linkedin.com/jobs/view/4471279385/) — itenium
-- 📍 **Location:** Mechelen, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4471272716/) — Apollo Solutions
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [IT Application Support Engineer](https://www.linkedin.com/jobs/view/4473202645/) — Rubio Monocoat
-- 📍 **Location:** Izegem, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [QA Engineer/Test Specialist](https://www.linkedin.com/jobs/view/4473207243/) — NTT DATA Europe & Latam
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [Low code & AI automation engineer](https://www.linkedin.com/jobs/view/4471274573/) — Hays
-- 📍 **Location:** Antwerp Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Java Developer (Brussels)](https://www.linkedin.com/jobs/view/4471885067/) — Wire IT
+### [IAM Support Engineer – Azure & Entra ID](https://www.linkedin.com/jobs/view/4471297613/) — Pauwels Consulting
 - 📍 **Location:** Schaerbeek, Brussels Region, Belgium
 - 🕒 **Posted:** 2026-09-29
 
-### [Cloud Solution Architect FR/NL](https://www.linkedin.com/jobs/view/4471292142/) — SOFTWAY MEDICAL
-- 📍 **Location:** Charleroi, Walloon Region, Belgium
+### [Senior Full-Stack Power Platform & Copilot Studio Engineer (w/m/x)](https://www.linkedin.com/jobs/view/4426334081/) — Avanade
+- 📍 **Location:** Innsbruck, Tyrol, Austria
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Dotnet Developer](https://www.linkedin.com/jobs/view/4453418489/) — ALTEN
-- 📍 **Location:** Lugano, Ticino, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471268646/) — SGI
-- 📍 **Location:** Basel, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [EI&C Software Application Engineer](https://www.linkedin.com/jobs/view/4471277928/) — Proclinical Staffing
-- 📍 **Location:** Visp, Valais, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [IT Solution Architect](https://www.linkedin.com/jobs/view/4471275846/) — Computer Futures
-- 📍 **Location:** Schaffhausen, Schaffhausen, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [(Junior) Machine Learning & Java Engineer](https://www.linkedin.com/jobs/view/4473214303/) — SUMEX AG
-- 📍 **Location:** Zurich, Zurich, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [Software-Entwickler:in (M/W/D)*](https://www.linkedin.com/jobs/view/4424893494/) — TGW Logistics
-- 📍 **Location:** Marchtrenk, Upper Austria, Austria
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Developer (M/F/D)*](https://www.linkedin.com/jobs/view/4424889537/) — TGW Logistics
-- 📍 **Location:** Marchtrenk, Upper Austria, Austria
-- 🕒 **Posted:** 2026-09-29
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4470881190/) — COSMO CONSULT
-- 📍 **Location:** Graz, Styria, Austria
-- 🕒 **Posted:** 2026-09-29
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4470863943/) — COSMO CONSULT
-- 📍 **Location:** Traun, Upper Austria, Austria
-- 🕒 **Posted:** 2026-09-29
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4470869659/) — COSMO CONSULT
-- 📍 **Location:** Wiener Neustadt, Lower Austria, Austria
-- 🕒 **Posted:** 2026-09-29
-
-### [Desarrollador/a .NET C#](https://www.linkedin.com/jobs/view/4453537017/) — BETWEEN Group
-- 📍 **Location:** Sant Cugat del Vallès, Catalonia, Spain
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior .NET & SharePoint Developer – Hybrid Valencia](https://www.linkedin.com/jobs/view/4473203835/) — All European Careers
-- 📍 **Location:** Valencian Community, Spain
-- 🕒 **Posted:** 2026-09-29
-
-### [.Net Software Engineer | €42K - €50K](https://www.linkedin.com/jobs/view/4473210395/) — Joppy
-- 📍 **Location:** Greater Barcelona Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [IT Integration Senior Developer](https://www.linkedin.com/jobs/view/4471706213/) — WTW
+### [.Net Developer - 100% Remote, Spain](https://www.linkedin.com/jobs/view/4462219651/) — UST
 - 📍 **Location:** Madrid, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4471281911/) — LanguageWire
-- 📍 **Location:** Spain
-- 🕒 **Posted:** 2026-09-29
-
-### [Consultor/a Dynamics 365 CRM & Power Platform | Full Remote SPAIN | €35K - €40K](https://www.linkedin.com/jobs/view/4473204612/) — Joppy
-- 📍 **Location:** Spain
-- 🕒 **Posted:** 2026-09-29
-
-### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464320250/) — Nexthink
+### [Full Stack Developer (.Net/React)](https://www.linkedin.com/jobs/view/4358859778/) — UST
 - 📍 **Location:** Madrid, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior .Net Developer](https://www.linkedin.com/jobs/view/4471297191/) — Decskill
+### [API Architect](https://www.linkedin.com/jobs/view/4471705490/) — K-LAGAN
+- 📍 **Location:** Barcelona, Catalonia, Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4471707464/) — LanguageWire
+- 📍 **Location:** Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [Automation Project Engineer](https://www.linkedin.com/jobs/view/4463831367/) — BETWEEN Group
+- 📍 **Location:** Valencia, Valencian Community, Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [Dynamics platform Owner](https://www.linkedin.com/jobs/view/4473223520/) — Infinity Quest
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [Forward Deployment Engineer](https://www.linkedin.com/jobs/view/4471450070/) — PrithviTech Global Pvt Ltd |India| US| UAE| Netherlands
+- 📍 **Location:** Barcelona, Catalonia, Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [.NET Specialist | IT Service Owner | Madrid](https://www.linkedin.com/jobs/view/4462214656/) — UST
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [Backend Developer](https://www.linkedin.com/jobs/view/4409291522/) — UST
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [Fullstack Developer](https://www.linkedin.com/jobs/view/4409293471/) — UST
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-09-29
+
+### [Full Stack Developer – React & .NET](https://www.linkedin.com/jobs/view/4471706450/) — emagine
 - 📍 **Location:** Lisbon, Portugal
 - 🕒 **Posted:** 2026-09-29
 
-### [.NET Developer (fullstack)](https://www.linkedin.com/jobs/view/4473206449/) — Fyld
-- 📍 **Location:** Lisbon, Lisbon, Portugal
+### [.NET Developer](https://www.linkedin.com/jobs/view/4443897754/) — Adentis Portugal
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-09-29
 
-### [Desenvolvedor .Net](https://www.linkedin.com/jobs/view/4471299118/) — Decskill
-- 📍 **Location:** Lisbon, Portugal
+### [AI Software Engineer | Senior](https://www.linkedin.com/jobs/view/4473219665/) — Hexa Consulting
+- 📍 **Location:** Porto, Portugal
 - 🕒 **Posted:** 2026-09-29
 
-### [D365 Developer](https://www.linkedin.com/jobs/view/4471289731/) — Hiscox
-- 📍 **Location:** Lisboa, Lisbon, Portugal
+### [Quality Engineering Architect - Automation & AI](https://www.linkedin.com/jobs/view/4473211813/) — Hexa Consulting
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-09-29
 
-### [.NET Developer with Angular Experience](https://www.linkedin.com/jobs/view/4471292176/) — Qualysoft
-- 📍 **Location:** Budapest, Budapest, Hungary
+### [Senior Sitecore Engineer / Architect](https://www.linkedin.com/jobs/view/4473217497/) — Linnk Group
+- 📍 **Location:** Doha, Qatar
 - 🕒 **Posted:** 2026-09-29
 
-### [Customer Support Engineer](https://www.linkedin.com/jobs/view/4471286516/) — Bluebird
-- 📍 **Location:** Budapest, Hungary
+### [Azure API Management (APIM) Developer](https://www.linkedin.com/jobs/view/4473222425/) — Arab Solutions
+- 📍 **Location:** Doha, Qatar
 - 🕒 **Posted:** 2026-09-29
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4473223220/) — Premier Supplies LLC
-- 📍 **Location:** Dubai, United Arab Emirates
+### [Senior Camunda BPM Engineer](https://www.linkedin.com/jobs/view/4473202983/) — Linnk Group
+- 📍 **Location:** Doha, Qatar
 - 🕒 **Posted:** 2026-09-29
 
-### [FULL-STACK SOFTWARE ENGINEER .NET | C# | AZURE](https://www.linkedin.com/jobs/view/4473089129/) — SL IMMO
-- 📍 **Location:** Bascharage, Luxembourg, Luxembourg
+### [Sr.  QA  Engineer - Arabic Speaking](https://www.linkedin.com/jobs/view/4471704384/) — Edge Corporation
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471282904/) — Roobley
-- 📍 **Location:** Paphos Municipality, Paphos, Cyprus
+### [Senior Presales Solution Engineer](https://www.linkedin.com/jobs/view/4462964337/) — Couchbase
+- 📍 **Location:** Dubai, Dubai, United Arab Emirates
 - 🕒 **Posted:** 2026-09-29
