@@ -48634,6 +48634,78 @@
       "location": "GR",
       "canonical_url": "https://gr.indeed.com/viewjob?jk=1cc389d88df1308d",
       "reported_at": "2026-09-29T07:01:02+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4460295458",
+      "company": "Cyberr",
+      "title": "Fullstack .Net/Angular Developer",
+      "location": "Luxembourg, Luxembourg",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4460295458/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4464331384",
+      "company": "Danske Bank",
+      "title": "Senior .NET Software Engineer for Markets Post-Trade Technology Tribe",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4464331384/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470876368",
+      "company": "Deloitte",
+      "title": "Intern Fullstack Software Engineer (.NET & React) 1",
+      "location": "Luxembourg, Luxembourg, Luxembourg",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470876368/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4470872475",
+      "company": "Hatko Innovative Solutions",
+      "title": "Senior Software Engineer",
+      "location": "Istanbul, Istanbul, Türkiye",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4470872475/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4368325638",
+      "company": "Inetum",
+      "title": "Senior .NET Software Engineer",
+      "location": "Lisboa, Lisbon, Portugal",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4368325638/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472762540",
+      "company": "Jet Aviation",
+      "title": "Full Stack Developer",
+      "location": "Greater Madrid Metropolitan Area",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472762540/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471395468",
+      "company": "LUZA Group",
+      "title": ".Net Developer",
+      "location": "Cascais, Lisbon, Portugal",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471395468/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4387263579",
+      "company": "Tilt",
+      "title": "Senior Backend Engineer, Cashalo",
+      "location": "Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4387263579/",
+      "reported_at": "2026-09-29T11:01:01+03:00"
     }
   ]
 }
