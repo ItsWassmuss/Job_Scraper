@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d87b2dcc164c7c45",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is laboratory automation engineering; C# is used for automation scripts, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "65f0ef2f308c1e3a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is B2B software sales, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "548105c163b8ab9d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is B2B software sales, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "13498dd2699361ad",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is B2B software sales, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ed5a480bcb9b0148",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4295a29e122fc1ba",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "169ec7e214b82b60",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0bb969b12aa0987c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "684e618962f30a1f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -229,8 +229,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2b565a579e9d1f4a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -252,8 +252,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7856aa6fd7f9b5db",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -275,8 +275,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ddc23a1b3298eab7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -298,8 +298,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e2bbcef48256222c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -321,8 +321,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cd0f4a40c13f59ae",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -344,8 +344,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c21eedb28163a47e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: role explicitly requires successful applicants to be based from one of the specified Scottish locations.",
       "validated": null
     },
     {
@@ -367,8 +367,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1675b990eb6b3eaf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is mechanical building-services engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -390,9 +390,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8fae09805cc35f00",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET full-stack engineering role developing scalable web applications, APIs, integrations, and distributed application solutions using C# and .NET.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=8fae09805cc35f00"
+      }
     },
     {
       "company": "Capgemini",
@@ -413,8 +424,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7d95731bfdba145b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily platform, cloud, DevOps and infrastructure engineering; C# is only one optional scripting/programming language.",
       "validated": null
     },
     {
@@ -436,8 +447,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9c0a125067817801",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive JD is primarily German with no confirmed complete official English version, and very good German is explicitly required.",
       "validated": null
     },
     {
@@ -459,8 +470,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a67141972045b866",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is explicitly centered on Platform Engineering/Developer Experience across frontend, backend and infrastructure rather than backend .NET development.",
       "validated": null
     },
     {
@@ -474,9 +485,20 @@
       "description": "At Devoteam, we believe that technology with strong human values can actively drive change for the better. Discover how Tech for People unlocks the future, creating a positive impact on the people and the world around us. We are a global leading player in Digital Transformation for leading organisations across EMEA, with a revenue of €1B. We believe in transforming technology to create value for our clients, partners and employees in a world where technology is developed for people. We are proud of the culture we have built together. We are proud of our people at the service of technology. We are proud of our diverse environment. Because we are #TechforPeople. Join our multidisciplinary team of Cloud experts, Designers, Business consultants, Security experts, Engineers, Developers and other extraordinary talents, spread across more than 20 EMEA countries. Become one of our +10.000 tech and business leaders on cloud, data and cyber security. Let’s fuse creativity with technology together and build innovative solutions that actively change things for the better.\n\nJob Description\n\nEnhance and maintain the SFA Portal, implementing system improvements and new features\nRequirement analysis and solution design\nImplement improvements and bug fixes\nConduct software testing and ensure quality\nAssess impacts on the existing framework\nContribute as a Senior Developer in design and code reviews\n\nQualifications\n\n5+ years of professional experience\nStrong experience with .NET and VB\nSolid knowledge of ASP.NET, C#, VB, HTML/CSS/JavaScript\nExperience with .NET Framework, MS IIS, Windows Server, MS SQL Server\nFamiliarity with SOAP web services and CA Harvest\nStrong problem-solving skills and attention to detail\n\nAdditional Information\n\nThe Devoteam Group works for equal opportunities, promoting its employees based on merit and actively fights against all forms of discrimination. We are convinced that diversity contributes to the creativity, dynamism and excellence of our organization. All of our vacancies are open to people with disabilities.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4388517034",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "5+ years of professional experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior .NET developer role maintaining and enhancing an application portal, implementing features and fixes, and working with ASP.NET, C#, .NET Framework and SQL Server.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4388517034/"
+      }
     },
     {
       "company": "Samba",
@@ -489,9 +511,20 @@
       "description": "Samba is a media intelligence company. We know what the world is watching, reading, and thinking about — in real time, at scale, across every screen. Our data exists with the consent of over a billion people, organized into the most complete picture of consumer attention ever built. The biggest brands in the world use that picture to make smarter decisions. We think it’s the most interesting data asset on the planet, because it’s the most culturally relevant. \n\nBased in the beautiful city of Porto, you’ll be part of our collaborative Engineering & Development teams, working closely with your peers and decision-makers to maintain and develop our global services and products.\n\nAs a Software Engineer, you are a builder who bridges the gap between high-level requirements and high-performance reality. Having advanced past foundational concepts, you are currently dedicated to growing your expertise in designing distributed systems that scale effectively. You don't just write code that works; you write code that thrives under the pressure of global data scales.\n\nYou will be an integral part of the development cycle, owning features from design to deployment. Working within an agile team, you’ll encounter exciting technical challenges, from low-latency optimizations to complex B2B integrations, in a culture where your voice is heard and your growth is prioritized.\n\nWHAT YOU'LL DO\n\nService Evolution:\nDevelop and maintain our core backend and middleware services, ensuring they are robust, scalable, and ready for global traffic.\n\nArchitectural Input:\nDon't just follow blueprints, help draw them. By collaborating with more senior colleagues, you’ll participate in the design of software architectures that solve real-world business problems.\n\nData at Scale:\nWrite highly efficient code capable of handling massive amounts of data with ease.\n\nPerformance Engineering:\nImplement performance-critical and low-latency solutions where every millisecond counts.\n\nProduction Insight:\nKeep the services you build healthy in production. You'll instrument, monitor, and log them, then use those signals to debug real live issues, with support from the team as you ramp up.\n\nCollaborative Growth:\nWork within a peer-led environment where you’ll receive mentorship to constantly level up the team’s collective skill set.\n\nCode Craftsmanship:\nActively participate in code reviews, advocating for \"clean code\" principles and maintainability.\n\nGlobal Integration:\nBuild and support B2B integrations with partners and clients across the world, ensuring our data flows seamlessly across the ecosystem.\n\nWHO YOU ARE\n\nThe Foundation:\nYou hold a degree in Software Engineering, Computer Science, or have a similar technical background. You have 2+ years of professional experience in a comparable software engineering role.\n\nOOP Specialist:\nYou have a strong grasp of Object-Oriented Programming and understand how to apply design patterns to keep complex systems manageable.\n\nComfortable with .NET (or eager to learn):\nYou are comfortable using .NET/C# or similar C based languages\n. While we value core engineering principles, you’ll be hitting the ground running in a working .NET environment.\n\nDistributed Thinker:\nYou have \"hands-on\" experience (or a very strong conceptual understanding) of Microservices and how they communicate in a distributed world.\n\nTooling Savvy:\nYou are a fluent Git user and feel right at home in a terminal, perhaps even wielding PowerShell or Bash to automate your daily workflow.\n\nClean Code Advocate:\nYou believe that code is read more often than it is written. You take pride in naming, structure, and documentation. You recognize technical debt when you see it and work with the team to chip away at it.\n\nTest-Minded:\nYou treat automated tests as part of “done”, not an afterthought. You write tests alongside your code so it stays robust and so the next person can change it safely.\n\nSecurity & Privacy Conscious:\nYou apply basic security and privacy principles by default, handle user data responsibly without exception, and raise a flag early when you spot a concern.\n\nAgile Mindset:\nYou thrive in a collaborative environment. You understand that \"Agile\" is about iterative value, transparency, and constant feedback. You can size and prioritize your own work with input from the team, and you raise a hand early when something drifts off track.\n\nGreat Communicator:\nYou have strong conversational English skills (written and spoken) and enjoy the dynamic of working with colleagues from different time zones and cultures.\n\nSamba is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.  We strive to empower connection with one another, reflect the communities we serve, and tackle meaningful projects that make a real impact.\n\nSamba may collect personal information directly from you, as a job applicant, Samba may also receive personal information from third parties, for example, in connection with a background, employment or reference check, in accordance with the applicable law. For further details, please see Samba's\nApplicant Privacy Policy\n.\nFor residents of the EU , Samba Inc. is the data controller.\n\nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4455728874",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "2+ years of professional experience in a comparable software engineering role",
+        "date_posted": "22 hours ago",
+        "date_posted_at": "2026-09-29T01:46:07+03:00",
+        "date_posted_date": null,
+        "date_posted_precision": "relative",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software engineering role developing and maintaining backend and middleware services in a working .NET environment, including distributed systems and B2B integrations.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4455728874/"
+      }
     },
     {
       "company": "GRiT Solutions",
@@ -504,8 +537,8 @@
       "description": "Microsoft Ecosystem Guardian: Keeping Enterprise Platforms Secure! 💪\n\nThere's no secret to become number-one, it takes willingness to improve and determination to pursue it. At GRiT®, it’s all about the journey getting there. We trust talent and intelligence are important, yet passion and perseverance are key to achieving any goal.\n\nWe are Tech Passionate People with a Purpose, delivering solutions while building strong long-term relations.\n\nRecognizing each person’s unique contribution to our collective success, we embrace inclusion and diversity, committed to creating a respectful and socially responsible environment.\n\nPeople. Technology. Innovation. All-around it.\n\nAre you GRiTTY enough to be part of our journey?\nTake the first step by applying now and let’s create our future together. 🌟\n\nJob Description:\nEngineering and administration of a Microsoft platform, covering Dynamics 365, SharePoint, IIS, SQL Server and Windows Server. Secure configurations, integrations and monitoring, plus support for deployments, upgrades and troubleshooting across test and production environments.\n\nMust-Have\n\n5+ years managing Microsoft enterprise workloads: Windows Server, Active Directory, IIS and SQL Server\nAdministration of Microsoft Dynamics 365 on-premises\nSecure, high-availability configurations, patching and hardening\nIntegration of Microsoft services with CI/CD and automation workflows\nSecurity compliance and audit evidence management\nWindows Server Hybrid Administrator Associate or Dynamics 365 Fundamentals certification, mandatory\nAvailability for recurring travel to Belgium\nFluent English, written and spoken\n\nWould Be Great If You Have\n\nSharePoint administration experience\nStrong PowerShell scripting skills\nClose collaboration with DevOps and infrastructure teams\n\nWhat’s In It For You\n\nContinuous Training and Certifications\nGRiT Prizes: GRiT Baby Gift, GRiT Birthday Prize, GRiT Recommendation Prize\nExclusive Partnerships/Discounts: (Gym, Health, Well-being, Lifestyle, Financial, etc…)\nUnique Events\nWelcoming Office (Fruit, Coffee, Pool Table, etc.)\nCompetitive Compensation\nPay for Performance\n\n#TechWithPassion - Fuel your fire, join our tech tribe! 🫀\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471928844",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Microsoft platform administration and infrastructure engineering, not backend/server-side .NET development.",
       "validated": null
     }
   ]
