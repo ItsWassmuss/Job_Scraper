@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-28T20:54:05+03:00",
   "job_count": 73,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Twoday",
