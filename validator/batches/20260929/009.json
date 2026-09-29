@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6a903c2b51261ea0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Non-EU candidates are explicitly required to provide a valid residence title and work permit.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d58d4a534dd4cd43",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No backend/server-side .NET/C# development evidence; role is AWS/cloud application engineering.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "27840e54ec923953",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary stack is JavaScript/TypeScript with Node.js/Deno; no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c67db88fbdf60b5e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Fluent Spanish is explicitly mandatory.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f33193c3b4ae8d09",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Fluent Spanish is explicitly mandatory.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7014405a7dc921f3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role focuses on Dynamics 365/Power Platform low/no-code solutions; C# is only desirable for platform extension.",
       "validated": null
     },
     {
@@ -152,8 +152,8 @@
       "description": "Senior Full-Stack Developer (Angular / Java / Camunda)\n\nFor a long-term project with an Austrian banking client\n, we are looking for an experienced Senior Full-Stack Developer\nwith a strong focus on Angular\n, complemented by Java/backend experience and knowledge of workflow engines such as Camunda.\nThe project focuses on retail banking financing processes\n, including consumer loans and credit facilities.\nContract details\n\nStart: ASAP\nDuration: until 31 December 2027\nWorkload: Full-time\nLocation: Hybrid – remote + 1 day per week on-site in Budapest (5th district)\n\nLanguage: English required\n\nGerman: strong advantage\nContracting rate: €280–320 / MD\n\nTechnology Stack Angular / SPA\nJava\nCamunda Process Engine\nREST APIs / Backend Services\nMicroservices\nDistributed system landscape\n\nMust-Have Requirements Several years of professional experience with Angular\nand modern Angular technologies\nStrong experience with REST API integrations\n\nExperience working in complex system environments with multiple integrations and end-to-end processes\nExperience with Camunda or a comparable workflow/process engine\n\nFull-stack know-how, particularly Java and Microservices\n\nAbility to independently design and implement features\nSenior-level experience\nExperience with test automation\n, ideally JMeter, Playwright or Tosca\n\nNice to Have CI/CD experience with technologies such as Git, Jenkins and OpenShift\nPrevious experience in the banking or financial services sector\n\nGerman language skills\n\nYour Profile You are comfortable working in agile delivery environments such as Scrum or LeSS\n, can quickly understand complex business and technical processes, and work independently with a strong delivery-oriented and solution-focused mindset.\nYou will join an existing delivery team, with the expectation of rapid onboarding and the ability to contribute productively from an early stage.\nInterested? Apply via LinkedIn or contact us directly at job@techfrens.eu.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4471715708",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Java/Microservices; no backend/server-side .NET/C# evidence.",
       "validated": null
     }
   ]
