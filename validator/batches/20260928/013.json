@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-28T21:44:43+03:00",
   "job_count": 29,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "FloraHolland",
