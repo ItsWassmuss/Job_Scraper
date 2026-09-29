@@ -1,168 +1,88 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-29 16:46 UTC*
+*Last updated: 2026-09-29 17:44 UTC*
 
-**41 new role(s)** since last run · 306 total in last 6h
+**21 new role(s)** since last run · 290 total in last 6h
 
-### [Architect – DevOps](https://www.linkedin.com/jobs/view/4471878712/) — Empiric
-- 📍 **Location:** Utrecht, Netherlands
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4445130670/) — Budget Thuis
+- 📍 **Location:** Amsterdam, North Holland, Netherlands
 - 🕒 **Posted:** 2026-09-29
 
-### [Research Assistant at the Donders Centre for Cognition: Computational Modelling and Scientific Software](https://www.linkedin.com/jobs/view/4473269838/) — Radboud University
-- 📍 **Location:** Nijmegen, Gelderland, Netherlands
+### [Azure Integration Developer](https://www.linkedin.com/jobs/view/4471917579/) — BBTG | Building Beyond Technology Group
+- 📍 **Location:** Leusden, Utrecht, Netherlands
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Entwickler C#.NET (m/w/d) bis 80.000€](https://www.linkedin.com/jobs/view/4473280226/) — Computer Futures
-- 📍 **Location:** Offenbach, Hesse, Germany
+### [Generative AI Developer](https://www.linkedin.com/jobs/view/4473245343/) — BBTG | Building Beyond Technology Group
+- 📍 **Location:** Leusden, Utrecht, Netherlands
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Softwareentwickler C#.NET (m/w/d) bis 80.000€](https://www.linkedin.com/jobs/view/4473277299/) — Computer Futures
-- 📍 **Location:** Offenbach, Hesse, Germany
+### [Software Developer (f/m/d)–Compiler Engineering](https://www.linkedin.com/jobs/view/4471913916/) — Siemens
+- 📍 **Location:** Erlangen, Bavaria, Germany
 - 🕒 **Posted:** 2026-09-29
 
-### [(Senior) Software Engineer (gn)](https://www.linkedin.com/jobs/view/4473263919/) — LichtBlick SE
-- 📍 **Location:** Hamburg, Hamburg, Germany
+### [Director, Platform Engineering & Dev Ops](https://www.linkedin.com/jobs/view/4473298172/) — Fortrea
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Developer & Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4473288173/) — Objektkultur Software GmbH
-- 📍 **Location:** Freiburg, Baden-Württemberg, Germany
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4471941053/) — Schneider Electric
+- 📍 **Location:** Lund, Skåne County, Sweden
 - 🕒 **Posted:** 2026-09-29
 
-### [C# / WPF Softwareentwickler | Entwicklung von Automatisierungslösungen, HMI | Inhouse (mwd)](https://www.linkedin.com/jobs/view/4405242860/) — Vesterling AG
-- 📍 **Location:** Würzburg, Bavaria, Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Computer Vision Softwareentwickler | C#, FPGA VisualApplets, MVTec Halcon | Inhouse (mwd)](https://www.linkedin.com/jobs/view/4464348690/) — Vesterling AG
-- 📍 **Location:** Darmstadt, Hesse, Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4471915541/) — Sano - Moderne Tierernährung GmbH
-- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Actuarial Engineer, 3219](https://www.linkedin.com/jobs/view/4447904309/) — Hannover Re
-- 📍 **Location:** Hannover, Lower Saxony, Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Solutions Architect (m/w/d)](https://www.linkedin.com/jobs/view/4473287402/) — Düsseldorf Airport
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Anwendungsberater CAD / BIM | Software Support, Konzeption, Test | 60 % Home Office (mwd)](https://www.linkedin.com/jobs/view/4402299602/) — Vesterling AG
-- 📍 **Location:** Nuremberg, Bavaria, Germany
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Technology Consultant | Digital Engineering | Stockholm](https://www.linkedin.com/jobs/view/4462290218/) — EY
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
-- 🕒 **Posted:** 2026-09-29
-
-### [AI Solutions Architect](https://www.linkedin.com/jobs/view/4473275728/) — Airon.ai
-- 📍 **Location:** Greater Gothenburg Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Java Developer -IAM & Keycloak](https://www.linkedin.com/jobs/view/4471912718/) — JSAN Consulting Group
+### [Fullstack developer with AI-experience](https://www.linkedin.com/jobs/view/4459864144/) — Capgemini
 - 📍 **Location:** Gothenburg, Västra Götaland County, Sweden
 - 🕒 **Posted:** 2026-09-29
 
-### [Power Platform Engineer](https://www.linkedin.com/jobs/view/4471748491/) — Skillbase Group
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Azure Integration Architect / Presales Architect](https://www.linkedin.com/jobs/view/4471746802/) — Solita
+- 📍 **Location:** Finland
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Business Systems Validation Engineer](https://www.linkedin.com/jobs/view/4471925180/) — AbbVie
-- 📍 **Location:** Cork, County Cork, Ireland
+### [Applikationsentwickler*in .NET & SQL ...](https://www.linkedin.com/jobs/view/4471758287/) — IVM Technical Consultants
+- 📍 **Location:** Rettenbach in Oststeiermark, Styria, Austria
 - 🕒 **Posted:** 2026-09-29
 
-### [Java Architect Developer – Dublin City (3 days onsite per week)](https://www.linkedin.com/jobs/view/4473281714/) — IT Search
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [IT Solution Engineer – Applications & Business Processes](https://www.linkedin.com/jobs/view/4459851814/) — EVN
+- 📍 **Location:** Maria Enzersdorf, Lower Austria, Austria
 - 🕒 **Posted:** 2026-09-29
 
-### [AI Solutions Developer, Agents & Automation](https://www.linkedin.com/jobs/view/4454258350/) — Nomeco
-- 📍 **Location:** København SV, Capital Region of Denmark, Denmark
+### [Senior SW Engineer for POC](https://www.linkedin.com/jobs/view/4473280632/) — Roche
+- 📍 **Location:** Sant Cugat del Vallès, Catalonia, Spain
 - 🕒 **Posted:** 2026-09-29
 
-### [Azure Platform Engineer](https://www.linkedin.com/jobs/view/4471905875/) — Fellowmind
-- 📍 **Location:** Aarhus, Central Denmark Region, Denmark
+### [Senior SW Engineer for Lab Connectivity](https://www.linkedin.com/jobs/view/4473273724/) — Roche
+- 📍 **Location:** Sant Cugat del Vallès, Catalonia, Spain
 - 🕒 **Posted:** 2026-09-29
 
-### [Azure Platform Architect](https://www.linkedin.com/jobs/view/4471926113/) — Fellowmind
-- 📍 **Location:** Aarhus, Central Denmark Region, Denmark
+### [Senior ERP Developer (gn)](https://www.linkedin.com/jobs/view/4387319565/) — TAKKT Group
+- 📍 **Location:** Barcelona, Catalonia, Spain
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4273224756/) — AvePoint
-- 📍 **Location:** Singapore
+### [Senior Backend Engineer (.NET)](https://www.linkedin.com/jobs/view/4464492120/) — LastPass
+- 📍 **Location:** Portugal
 - 🕒 **Posted:** 2026-09-29
 
-### [.Net & Blazor Software Developer - FR](https://www.linkedin.com/jobs/view/4464606879/) — Smals
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Sr. Software Engineer, Backend](https://www.linkedin.com/jobs/view/4409004792/) — Renesas Electronics
+- 📍 **Location:** Lisbon, Lisbon, Portugal
 - 🕒 **Posted:** 2026-09-29
 
-### [🚀 Senior .NET Azure Developer](https://www.linkedin.com/jobs/view/4473290217/) — USG Professionals Belgium
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
+### [C# Developer](https://www.linkedin.com/jobs/view/4408432336/) — HN Services Portugal
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-09-29
 
-### [.NET Integration Developer - NL](https://www.linkedin.com/jobs/view/4464498961/) — Smals
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Solution Architect](https://www.linkedin.com/jobs/view/4473287836/) — VIRTHIO
+- 📍 **Location:** Lisbon Metropolitan Area
 - 🕒 **Posted:** 2026-09-29
 
-### [Medior .NET Developer](https://www.linkedin.com/jobs/view/4462521627/) — In4Matic
-- 📍 **Location:** Bruges, Flemish Region, Belgium
+### [2nd level Engineer Backoffice IT Operation](https://www.linkedin.com/jobs/view/4455305727/) — Shift4
+- 📍 **Location:** Budapest, Budapest, Hungary
 - 🕒 **Posted:** 2026-09-29
 
-### [Solution Architect Medior](https://www.linkedin.com/jobs/view/4471922279/) — DXC Technology
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
+### [Principal Software Engineer (Remote Eligible in Bulgaria)](https://www.linkedin.com/jobs/view/4446797766/) — Smartsheet
+- 📍 **Location:** Bulgaria
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Full Stack Developer – Java & Angular](https://www.linkedin.com/jobs/view/4473277573/) — Pauwels Consulting
-- 📍 **Location:** Antwerp, Flemish Region, Belgium
+### [Senior Adviser - Business Solutions Engineer (Investment Services) (m/f/d)](https://www.linkedin.com/jobs/view/4473296396/) — KPMG Luxembourg
+- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
 - 🕒 **Posted:** 2026-09-29
 
-### [.NET Integration Developer - FR](https://www.linkedin.com/jobs/view/4464602912/) — Smals
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [Azure DevOps Engineer (.Net) - NL](https://www.linkedin.com/jobs/view/4464496958/) — Smals
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [.Net Application Architect - FR](https://www.linkedin.com/jobs/view/4464614050/) — Smals
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [.Net Application Architect - NL](https://www.linkedin.com/jobs/view/4464600949/) — Smals
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [AI Engineer - NL](https://www.linkedin.com/jobs/view/4464600944/) — Smals
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Developer Microsoft Dynamics 80%-100% (BC 365)](https://www.linkedin.com/jobs/view/4471737991/) — Fastlog AG
-- 📍 **Location:** Derendingen, Solothurn, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [Microsoft Power Platform Application Manager](https://www.linkedin.com/jobs/view/4471927180/) — Experis Switzerland
-- 📍 **Location:** Schaffhausen, Schaffhausen, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [EI&C Software Application Engineer](https://www.linkedin.com/jobs/view/4471758048/) — ALTEN
-- 📍 **Location:** Valais, Switzerland
-- 🕒 **Posted:** 2026-09-29
-
-### [Platform Administrator](https://www.linkedin.com/jobs/view/4471742574/) — MOURI Tech
-- 📍 **Location:** Valencian Community, Spain
-- 🕒 **Posted:** 2026-09-29
-
-### [Technical Architect – Microsoft Dynamics 365 F&O](https://www.linkedin.com/jobs/view/4473286349/) — Arelance
-- 📍 **Location:** Spain
-- 🕒 **Posted:** 2026-09-29
-
-### [Regular .NET Developer - Ref No HQ1553](https://www.linkedin.com/jobs/view/4459768547/) — United Bulgarian Bank
-- 📍 **Location:** Sofia, Bulgaria
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4473292193/) — OAG
-- 📍 **Location:** Sofia, Sofia City, Bulgaria
-- 🕒 **Posted:** 2026-09-29
-
-### [Quality Engineer](https://www.linkedin.com/jobs/view/4473274558/) — iOENT
-- 📍 **Location:** Harjumaa, Estonia
+### [Senior Advisor / Assistant Manager / Manager - M365, Power Platform, Copilot (m/f/d)](https://www.linkedin.com/jobs/view/4354353201/) — KPMG Luxembourg
+- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
 - 🕒 **Posted:** 2026-09-29
