@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-30T19:48:09+03:00",
   "job_count": 50,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "WETEC PTE LTD",
