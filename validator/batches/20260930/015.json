@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a3ff948e73880be3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: native-level German communication is explicitly required for this backend C#/.NET role.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0398753ed471aa7e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is general VB.NET business-application development; backend/server-side C#/.NET development is not established.",
       "validated": null
     },
     {
@@ -68,9 +68,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ac2bfbc9dd8abb52",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior software engineer developing high-load enterprise web platforms, APIs and microservices using Microsoft .NET technologies.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=ac2bfbc9dd8abb52"
+      }
     },
     {
       "company": "Microsoft",
@@ -91,8 +102,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c8df434b020d845a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: hands-on engineering spans generic languages and Azure/customer workloads; backend/server-side C#/.NET development is not established.",
       "validated": null
     },
     {
@@ -114,9 +125,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1ef33ed003c1ae22",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack engineer designing microservices and REST APIs with .NET Core/.NET 8, C#, Java, AWS and web technologies.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=1ef33ed003c1ae22"
+      }
     },
     {
       "company": "Great Health Technologies",
@@ -137,8 +159,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "df21d608851fef51",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is broad ICT/software support for fresh graduates; C# is only one basic language option and backend .NET development is not established.",
       "validated": null
     },
     {
@@ -160,8 +182,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b59eac676bad89a2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: native-level Czech is explicitly required.",
       "validated": null
     },
     {
@@ -183,8 +205,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "63999a77bd37d7c7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: internship is primarily software testing, CI, build and deployment work, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -198,8 +220,8 @@
       "description": "Starte durch bei HDI Global!\n\nAls einer der welt­weit führenden Industrie­versicherer haben wir in unserer 120-jährigen Unter­nehmens­geschichte mit Pionier­geist und Gemeinschafts­sinn viele Heraus­forderungen gemeistert und sind für die Zukunft sehr gut auf­gestellt. Wir bieten Dir die Mög­lich­keit, immer wieder neue Wege zu gehen und uns so gemein­sam weiter­zu­entwickeln.\n\nAufgaben\n\nEntwicklung und Weiterentwicklung unserer zentralen Input-Management-Lösungen mit C# und .NET\nDesign und Implementierung leistungs­fähiger Backend-Services und API-Integrationen\nAnbindung interner HDI-Systeme sowie externer Partner­lösungen über moderne Schnittstellen\nErstellung technischer Konzepte und Umsetzung anspruchs­voller Integrations- und Digitalisierungsanforderungen\nSicherstellung von Softwarequalität durch auto­matisiertes Testen, Code Reviews und moderne Entwicklungsstandards\nAnalyse und Optimierung von Performance, Stabilität und Wartbarkeit bestehender Anwendungen\nAktive Mitgestaltung der technischen Architektur sowie unserer Entwicklungs­prozesse in einem agilen Umfeld\n\nProfil\n\nMehrjährige Erfahrung in der Entwicklung moderner Backend-Anwendungen mit C# und .NET\nBegeisterung für saubere Software­architektur, Clean Code, Testing und auto­mati­sierte Deployments\nErfahrung mit REST-Schnittstellen und der Integration verteilter Systeme\nHohe Eigenverantwortung, ausge­prägte Problem­lösungs­kompetenz und Qualitäts­bewusst­sein\nInteresse an Cloud-Technologien, DevOps und modernen Entwicklungs­ansätzen\nOffenheit für neue Technologien und die Bereitschaft, Dich kontinuierlich weiterzuentwickeln\nTeamgeist, Kommunikationsstärke und gute Deutsch- und Englischkenntnisse (mind. C1)\n\nNiemand ist perfekt und nicht alle Karriere­wege sind geradlinig. Bewirb Dich jetzt – auch wenn Du nicht alle Anforderungen erfüllst!\n\nWir bieten\n\nFlexible Arbeits­zeiten\n\nGleitzeit­regelungen und flexible Arbeits­zeit­modelle ermöglichen eine perfekte Work-Life-Balance – ganz wie es zu Dir passt.\nGesundheits­management\n\nMit uns bleibst Du gesund – dank Präventions­maßnahmen, einem breiten Sport­angebot und verschiedenen Ko­operationen.\nMobiles Arbeiten\n\nOb von zu Hause oder unterwegs – unser mobiles Arbeits­modell (bis zu 60 % mobil) bietet Dir mehr Frei­heit und Selbst­ständigkeit.\nWeiter­bildung\n\nWir stillen Deinen Wissens­durst – zum Beispiel mit Fort­bildungen, fach­spezifischen Seminaren oder einem berufs­beglei­tenden Studium.\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nInsurance",
       "source": "LinkedIn",
       "job_id": "4472195857",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -213,8 +235,8 @@
       "description": "Anwendungsentwickler C# (mwd)\n\nEntwicklung eines Wertpapierhandelssystems bei einem unabhängigen mittelständischen Finanzunternehmen.\n\nStandort:\nDüsseldorf\n\nVertragsart:\nUnbefristete Festanstellung durch unseren Klienten\n\nAufgaben\n\nAls Anwendungsentwickler C# entwerfen und entwickeln Sie in einem kleinen Team selbstständig Module und Anwendungen für den automatischen und manuellen Wertpapierhandel.\nDabei verantworten Sie die Neuentwicklung, Wartung und Weiterentwicklung.\nSie entwickeln moderne Systeme für das Backoffice inkl. Simulation und Analyse, die sowohl für den manuellen Wertpapierhandel als auch für das automatisierte Trading eingesetzt werden.\nQualität spielt eine große Rolle, vor allem im Hinblick auf Performance, Zuverlässigkeit und Erweiterbarkeit der Systeme.\nAls Basis für Ihre Entwicklungsarbeit stehen Sie kontinuierlich mit den Anwendern im Austausch und lernen die Prozesse rund um den Wertpapierhandel kennen.\n\nIhr Profil\n\nMehrjährige Berufserfahrung in der Softwareentwicklung\nSehr gute Kenntnisse in C# und dem .NET - Framework\nSicherer Umgang mit SQL-Datenbanken\nErfahrungen mit dem Entity Framework sowie mit WPF\nKenntnisse in C++ und der C++ - Standardbibliothek sind von Vorteil\nGute Deutsch- und Englischkenntnisse in Wort und Schrift\n\nBenefits\n\nNeben einer sehr guten Bezahlung und einem attraktiven Standort bietet dieser Arbeitgeber folgende interessante Nebenleistungen:\n\nÖPNV-Ticket\nObst, Snacks und Erfrischungsgetränke für jeden Tag\nFirmen-Bike\nErmäßigte Urban-Sports-Mitgliedschaft\nHeilig Abend und Silvester sind zusätzlich zum regulären Urlaub frei\n\nSie arbeiten in einem motivierenden Umfeld mit interessanten Aufgabenstellungen. Eine fundierte Einarbeitung erleichtert Ihnen den Einstieg.\n\nUnser Klient ist ein aufstrebendes und gleichzeitig etabliertes Wertpapierhandels-Unternehmen mit starker technologischer Ausrichtung. Die Softwaresysteme für den Wertpapierhandel werden selbst entwickelt.\n\nMachen Sie Ihren nächsten Karriereschritt und bewerben Sie sich gleich hier oder senden Sie uns Ihre vollständigen Bewerbungsunterlagen mit Angabe der Referenznummer 23251\n, Ihrer Gehaltsvorstellungen sowie ggf. Ihrer Reise- und Umzugsbereitschaft (Ein Anschreiben ist nicht erforderlich).\n\nIhre Daten werden von uns niemals ohne Ihre explizite Zustimmung für jeden Einzelfall weitergeleitet. Wir garantieren eine Rückmeldung innerhalb von 2 Arbeitstagen.\n\nVesterling ist seit über 25 Jahren einer der führenden Personaldienstleister im Bereich Technologie. Schwerpunkte der Tätigkeit sind das Recruiting von Experten bis hin zum Executive Search auf Vorstandsebene sowie das Outplacement. Unsere Consultants, selbst erfahrene Informatiker und Ingenieure, beraten Sie in allen Karrierefragen und unterstützen Sie bei der Auswahl geeigneter Positionen.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nFinancial Services and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4377841838",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role centers on C#/.NET desktop/WPF securities-trading applications; backend/server-side .NET development is not established.",
       "validated": null
     },
     {
@@ -228,8 +250,8 @@
       "description": "Bei SEW-EURODRIVE erwarten Sie viele Perspektiven in einer technologisch spannenden Wachstumsbranche. Als international tätiges Familienunternehmen denken wir langfristig, agieren nachhaltig und wachsen kontinuierlich. Werden Sie Teil unserer Erfolgsgeschichte und bewegen Sie zusammen mit uns die Welt.\nAufgaben\n\nEntwicklung moderner Frontend-Komponenten und intuitiver Benutzeroberflächen für Webportale und KI-gestützte Anwendungen mit Angular und TypeScript\nImplementierung sowie kontinuierliche Weiterentwicklung skalierbarer Backend-Services auf Basis von C#/.NET und ASP.NET Core\nGestaltung von Dialogstrukturen und Nutzerinteraktionen für unseren KI-Assistenten im Rahmen von Conversational- und Digital-Experience-Lösungen\nErstellung und Pflege von Guidelines und Best Practices im Bereich Conversational Design\nIntegration von REST-APIs sowie Anbindung interner und externer Systeme innerhalb einer modernen Cloud-Architektur\nMitarbeit bei Architekturentscheidungen, Performance-Optimierungen, Security-by-Design-Konzepten sowie dem Betrieb cloudnativer Lösungen in Azure und Kubernetes\n\nProfil\n\nErfolgreich abgeschlossenes Studium der Informatik, Medieninformatik, Human-Computer-Interaction, UX Design oder eine vergleichbare Qualifikation\nGute Kenntnisse in Angular, TypeScript sowie modernen Frontend-Architekturen inklusive State Management und automatisierter Tests\nFundierte Erfahrung mit .NET, ASP.NET Core, C#, REST-APIs, Authentifizierung und Datenbankanbindungen, Azure, Kubernetes, CI/CD, Containerisierung sowie Infrastructure-as-Code im Cloud-Umfeld\nErfahrung im Bereich Conversational Design oder Interaction Design sowie Verständnis für User-Centered Design/Digital Experience Design gepaart mit Security-by-Design-Mindset mit Erfahrung in SAST, DAST, Dependency Scanning und der Umsetzung von PenTest-Erkenntnissen\nAusgeprägte Konzeptionsstärke und hohes Maß an Nutzerorientierung sowie Begeisterung für KI, digitale Innovationen und neue Technologien\nEigenverantwortliche, strukturierte Arbeitsweise sowie gute Kommunikationsfähigkeit in interdisziplinären Teams\n\nWir bieten\n\nWir bieten ein attraktives Gehaltspaket.\n\nBundesweit nach Tarif Metall- und Elektroindustrie Baden-Württemberg, tarifliche Sonderzahlungen sowie langjährige attraktive betriebliche Altersvorsorge\nIhre Work-Life-Balance liegt uns am Herzen.\n\nIndividuelle flexible Arbeitszeitmodelle, mobile Arbeit, Gleitzeitkonto, Mitarbeiterrabatte und Sonderkonditionen, Kooperation mit Fitnessstudios, Freizeitangebote und Kindertagesstätte\nEntwickeln Sie sich bei uns weiter.\n\nUnser hauseigenes Schulungszentrum DriveAcademy® und unsere E-Learning Plattform ergänzen sich gegenseitig durch ein vielfältiges Angebot an Seminaren und Schulungen\nFühlen Sie sich bei uns wohl.\n\nHochmoderne Technik, IT-Ausstattung und Software-Tools, Betriebsrestaurant und SEW Parkhaus mit Elektroladestationen\nWir legen Wert auf eine hohe Arbeitsplatzsicherheit.\n\nDurch kontinuierliche Investitionen in den Standort Deutschland, sind wir für die Zukunft bestens gerüstet, um als Global Player voran zu gehen\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nAutomation Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472606552",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -243,8 +265,8 @@
       "description": "Du bist ein(e) erfahrene(r) Softwareentwickler(-in) und fühlst Dich im Front- und Backend zu Hause? Du möchtest anspruchsvolle Softwarelösungen entwickeln, technische Entscheidungen mitgestalten und Deine Erfahrung aktiv ins Team einbringen? Dann werde Teil von Mi-Jack Europe und entwickle mit uns innovative Softwarelösungen für die Automatisierung und Sicherheit von Containerterminals weltweit.\n\nAufgaben\n\nDu entwickelst und optimierst anspruchsvolle Softwarelösungen im Front- und Backend mit C#, .NET, SQL sowie modernen Webtechnologien\nDu setzt User Stories und Tickets eigenverantwortlich um und begleitest diese von der technischen Konzeption bis zur erfolgreichen Implementierung\nDu entwickelst und integrierst REST APIs und Schnittstellen und wirkst aktiv an technischen Konzepten und Architekturentscheidungen mit\nDu analysierst bestehenden C++ Code, entwickelst ihn in C# weiter und erstellst Skripte sowie Tools (z. B. in Python) zur Automatisierung unserer Prozesse\nDu identifizierst Optimierungspotenziale, analysierst und behebst technische Probleme über den gesamten Software-Stack hinweg, unterstützt unsere CI/CD- und Deployment-Prozesse und sorgst für eine aussagekräftige technische Dokumentation\nDu stellst durch Tests und Code Reviews eine hohe Softwarequalität sicher\nDu arbeitest eng mit Deinem Team zusammen, bringst Deine technische Erfahrung aktiv ein und unterstützt Deine Kollegen bei fachlichen und technischen Fragestellungen\n\nProfil\n\nDu hast ein abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation sowie mindestens 5 Jahre Berufserfahrung in der Softwareentwicklung, davon mehrere Jahre im Full-Stack-Umfeld\nDu verfügst über sehr gute Kenntnisse in C#, .NET/.NET Core, ASP.NET Core und REST APIs\nDu hast praktische Erfahrung mit einem modernen Frontend-Framework wie Angular, React oder Vue.js sowie mit TypeScript, JavaScript, HTML und CSS\nDu verfügst über gute Kenntnisse in SQL-Datenbanken und Entity Framework und hast Erfahrung mit skalierbaren und wartbaren Softwarearchitekturen\nDu bist mit automatisierten Tests, Git, Code Reviews und CI/CD-Pipelines vertraut\nErfahrung mit C++, Python, Docker und Cloud-Plattformen wie Azure oder AWS ist von Vorteil\nDu arbeitest selbstständig, strukturiert und lösungsorientiert, bringst Dich aktiv ins Team ein und verfügst über sehr gute Englischkenntnisse\n\nWir bieten\n\nFlexible Arbeitszeiten und bis zu zwei Tage Homeoffice pro Woche\nUnbefristete Festanstellung mit attraktiver Vergütung und fairer Überstundenregelung\nBetriebliche Altersvorsorge und weitere Zusatzleistungen\nEGYM Wellpass - Zugang zu einem deutschlandweiten Netzwerk aus Fitnessstudios, Sport- und Wellnesseinrichtungen\nRaum für eigene Ideen und persönliche sowie fachliche Weiterentwicklung\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nTransportation Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472613387",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -258,8 +280,8 @@
       "description": "Als (Senior) Fullstack Engineer (m/w/d) hast du die Möglichkeit, deine umfassenden Engineering-Fähigkeiten einzubringen und an der modernsten FinTech Asset Management Plattform auf dem Markt mitzuwirken. Bei uns wirst du zum Finanzexperten ausgebildet, gewinnst tiefgehende Einblicke in die individuellen Bedürfnisse unserer Kund:innen und erstellst maßgeschneiderte Lösungen von höchster Qualität. Dabei kombinierst du Backend- und Frontend-Technologien, um leistungsstarke und benutzerfreundliche Feature zu realisieren. Wir suchen talentierte Entwickler:innen auf allen Ebenen, von Junior bis Senior, die mit ihrem Engagement und ihrer Expertise unsere Plattform vorantreiben.\n\nAufgaben\n\nEntwicklung innovativer Lösungen für die Bedürfnisse unserer Kunden\nVerantwortung für gesamte User Stories und Roadmap-Ziele\nVerbesserung der Struktur, Skalierbarkeit und Funktionalität der SaaS-Plattform\nErweiterung automatisierter Tests\nEngagement in der Ausbildung und im Mentoring Kolleg:innen\n\nProfil\n\nabgeschlossenes Studium in Informatik oder verwandten Bereichen\nfundierte Kenntnisse in einer objektorientierten Programmiersprache, insbesondere .NET C# (Java-Kenntnisse auch willkommen)\nErfahrung mit Design Patterns, Webframeworks, HTML5 und CSS\nInteresse an Finanzthemen und Kapitalmärkten, idealerweise mit Investment-Erfahrung\nsehr gute Englischkenntnisse\n\n​​​​​​​ Plus,\nkein Muss:\nErfahrung mit Angular, Restful APIs und MongoDB\nSehr gute Deutschkenntnisse (mindestens B2)\n\nWir bieten\n\nFlex Work & Homeoffice-Optionen\nattraktives Gehalt und vielseitige Benefits (wie das neuste Apple oder Android Smartphone, Weiterbildungsbudget, Fitness-Abo, uvm.) \nvielfältige Entwicklungsmöglichkeiten in einem dynamischen Umfeld\nunschlagbarer Teamgeist, flache Hierarchien, kurze Entscheidungswege \nHeadquarter im Herzen Münchens\n\nQPLIX ist ein Arbeitgeber, der die Chancengleichheit fördert. Wir glauben, dass Integration und Vielfalt der Schlüssel zu einer erfolgreichen und besseren Arbeitswelt sind.\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472620152",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -273,8 +295,8 @@
       "description": "Die Care Concept AG ist im Bereich der internationalen Krankenversicherung tätig und auf Auslandskrankenversicherungen für kurz- bis langfristige Aufenthalte spezialisiert. Egal, ob Urlaubs-, Geschäfts- oder Bildungsreise – bei uns findet jeder den passenden Versicherungsschutz.\nUnsere Vision\n: Als weltweit anerkannte Marke für fairen Krankenversicherungsschutz\nim Ausland machen wir Krankheitskosten finanzierbar und helfen Menschen, ihr Leben und ihre Gesundheit zu erhalten. Unser Motto „ We take care of you\n“ gilt dabei gleichermaßen für unsere Kunden und unsere Mitarbeitenden – bei uns steht der Mensch im Mittelpunkt!\n\nDich erwartet ein internationales, engagiertes Team mit 115 Mitarbeitenden bei einem der beliebtesten Arbeitgeber Deutschlands\n(Kununu Top Company 2022/2023/2024/2025/2026).\n\nAufgaben\n\nProgrammierung, Betreuung und Weiterentwicklung von C#-basierten Anwendungen und\nSoftwarelösungen\nAnalyse von Anforderungen und deren Umsetzung im bestehenden IT-Umfeld\nFehleranalyse, Tests und Behebung von Störungen in C#-Anwendungen\nMigration von VBA-Anwendungen in C#\nZusammenarbeit mit IT-Expert/innen, Entwickler/innen\nDokumentation von Anwendungen, Änderungen und technischen Lösungen\n\nProfil\n\nMindestens 5 Jahre Berufserfahrung in der praktischen Anwendung von C#\nSehr gute Kenntnisse der C#-Syntax und Programmierkonzepte\nSicherer Umgang mit objektorientierter Programmierung (OOP) aber auch prozeduraler\nProgrammierung\nVerständnis und praktische Erfahrung im Umgang mit APIs\nKenntnisse in der Fehleranalyse und im Debugging von C#-Anwendungen\nKenntnisse in der Verarbeitung und Manipulation von Daten, beispielsweise über LINQ\n\nWir bieten\n\nEin modernes, dynamisches, internationales Umfeld mit echtem Teamspirit\nAttraktive Vergütung\nPersönliche Weiterentwicklung durch vielfältige Weiterbildungsangebote & Trainings\nFlexible Arbeitszeitmodelle\nGleitzeit\n38-Stunden-Woche\nKostenfreies Deutschlandticket\nHalbes 13. Monatsgehalt\n30 Tage Urlaub, zuzüglich Freistellung an Heiligabend, Silvester und Rosenmontag\nBeteiligung am Unternehmenserfolg in Form von Incentives und einer Gratifikation\nMonatliche Geburtstagsessen\nMitgliedschaft in einem renommierten Sportpark\nBetriebliches Gesundheitsmanagement\nBetriebliche Zusatzkrankenversicherung\nMobiles Arbeiten\nJobrad\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nInsurance",
       "source": "LinkedIn",
       "job_id": "4472624006",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -288,8 +310,8 @@
       "description": "Softwareentwickler Bildverarbeitung (mwd)\n\nAls Softwareentwickler Bildverarbeitung erstellen Sie Algorithmen und Applikationen für den industriellen Einsatz mit .Net, C# und MVTec Halcon.\n\nStandort:\nDarmstadt\n\nVertragsart:\nUnbefristete Festanstellung durch unseren Klienten\n\nAufgaben\n\nAls Softwareentwickler Bildverarbeitung erstellen Sie Algorithmen und Applikationen für den industriellen Einsatz zur Qualitätskontrolle mit .Net, C# und MVTec Halcon.\nKonzeption von Lösungen zur Bildverarbeitung zusammen mit Kunden.\nEinbindung externer Schnittstellen für I/O und SPS.\nProzess-Visualisierung auf HMI Bedienoberflächen.\nEntwicklung und Erweiterungen von FPGA Programmen auf Basis Basler VisualApplets.\nLeitung von Bildverarbeitungsprojekten von der Planung bis zur Inbetriebnahme.\nArbeitspaket-Definition in verteilten Teams.\nErfolgskontrolle unter Einbindung von externen Dienstleistern.\nAutomatisierung von Software-Freigabetests und Integration in den QS-Prozess.\n\nIhr Profil\n\nPassendes technisches Studium (MINT, Elektronik, Optotechnik, Bildverarbeitung oder vergleichbar)\nErfahrung mit der Vision-Bibliothek MVTec Halcon\nFortgeschrittene Programmierkenntnisse in .net mit Visual Studio und C#\nEigenständige und zuverlässige Arbeitsweise mit Freude an Herausforderungen und komplexen Bildverarbeitungsaufgaben\nGutes mathematisches Verständnis und idealerweise Know-how zu Optik und Deep Learning\nWünschenswert: Berufserfahrung im industriellen Umfeld\nGute Deutsch- und Englischkenntnisse in Wort und Schrift\n\nBenefits\n\nNeben einem krisensicheren Arbeitsplatz im Umfeld der Pharmabranche und einem attraktiven Gehalt bietet dieser Arbeitgeber die Möglichkeit, sich mit Kreativität und Eigenverantwortung einzubringen, um gemeinsam mit dem Unternehmen zu wachsen. Der Firmenstandort ist bestens sowohl mt dem Auto als auch öffentlich zu erreichen.\n\nUnser Klient ist ein innovatives, wachstumsorientiertes und familiengeführtes Unternehmen, das mit seinen Produkten die Qualitätssicherung in der Pharmaindustrie unterstützt.\n\nMachen Sie Ihren nächsten Karriereschritt und bewerben Sie sich gleich hier oder senden Sie uns Ihre vollständigen Bewerbungsunterlagen mit Angabe der Referenznummer 23204\n, Ihrer Gehaltsvorstellungen sowie ggf. Ihrer Reise- und Umzugsbereitschaft (Ein Anschreiben ist nicht erforderlich).\n\nIhre Daten werden von uns niemals ohne Ihre explizite Zustimmung für jeden Einzelfall weitergeleitet. Wir garantieren eine Rückmeldung innerhalb von 2 Arbeitstagen.\n\nVesterling ist seit über 25 Jahren einer der führenden Personaldienstleister im Bereich Technologie. Schwerpunkte der Tätigkeit sind das Recruiting von Experten bis hin zum Executive Search auf Vorstandsebene sowie das Outplacement. Unsere Consultants, selbst erfahrene Informatiker und Ingenieure, beraten Sie in allen Karrierefragen und unterstützen Sie bei der Auswahl geeigneter Positionen.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4369499674",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is industrial image-processing software with C#/.NET and FPGA/vision technologies, not backend/server-side development.",
       "validated": null
     },
     {
@@ -303,8 +325,8 @@
       "description": "Sich etwas Neues trauen, über sich hinauswachsen und dabei die Grenzen des Machbaren neu deﬁnieren. Genau das ist es, was unsere Mitarbeitenden täglich leben dürfen und sollen. Um mit unseren Innovationen das Tempo vorzugeben und Großartiges zu ermöglichen. Denn hinter jedem erfolgreichen Unternehmen stehen eine ganze Menge faszinierender Menschen.\n\nDie Mitarbeitenden von ZEISS arbeiten in einem offenen und modernen Umfeld mit zahlreichen Entwicklungs- und Weiterbildungsmöglichkeiten. Unsere Kultur ist geprägt von Expertenwissen und Teamgeist. All das wird getragen durch die besondere Eigentümerstruktur und das langfristige Ziel der Carl-Zeiss-Stiftung: Wissenschaft und Gesellschaft gemeinsam voranzubringen.\n\nHeute wagen. Morgen begeistern.\n\nVielfalt ist ein Teil von ZEISS. Wir freuen uns unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion, Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität auf Ihre Bewerbung.\n\nJetzt bewerben! In weniger als 10 Minuten.\n\nEnabling smaller, more powerful and energy-efficient microchips – working where tomorrow takes shape.\nAround 80 percent of all microchips worldwide are manufactured using ZEISS technologies. As the heart of every electronically controlled system, they have become an indispensable part of our everyday lives – whether in smartphones, smart homes or smart factories. ZEISS is a technology leader in semiconductor manufacturing equipment. With highly precise lithography optics, photomask systems and process control solutions, ZEISS enables the production of ever smaller, more powerful and more energy-efficient microchips – and, through its innovations, plays a key role in shaping the age of micro- and nanoelectronics.\nFor our software development team for assembly processes within Module Integration Software, we are looking for a Software Developer (m/f/x) to further develop, maintain and support complex applications used to control our assembly processes.\n\nAufgaben\n\nWork as part of an agile software development team in the field of assembly processes\nImplement complex assembly workflows in close coordination with our internal stakeholders\nFurther develop and restructure software solutions collaboratively within the Scrum team\nDesign and implement software architectures based on the requirements of different user groups and projects\nProvide technical support to the Product Owner in analyzing processes, gathering requirements and estimating implementation efforts\nTransition developed software into operation, conduct acceptance tests and ensure ongoing support\n\nProfil\n\nSuccessfully completed university degree in computer science, electrical engineering or a comparable engineering discipline, ideally combined with a solid fundamental understanding of physics\nSeveral years of professional experience and excellent knowledge of object-oriented software development using C# and .NET for industrial machinery applications\nStrong analytical, conceptual and problem-solving mindset\nA high level of initiative and strong teamwork skills in an interdisciplinary and intercultural environment, combined with clear and effective communication\nExpertise in developing complex software systems and a strong understanding of software architectures and design patterns\nGood knowledge of Microsoft Visual Studio, version control using Git and CI/CD with Azure DevOps\nGood written and spoken German and English\n\nWir bieten\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nMachinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472191831",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -318,8 +340,8 @@
       "description": "Bei SEW-EURODRIVE erwarten Sie viele Perspektiven in einer technologisch spannenden Wachstumsbranche. Als international tätiges Familienunternehmen denken wir langfristig, agieren nachhaltig und wachsen kontinuierlich. Werden Sie Teil unserer Erfolgsgeschichte und bewegen Sie zusammen mit uns die Welt.\nAufgaben\n\nVerantwortung für den Betrieb, die Weiterentwicklung und den Support unserer Customer Identity & Access Management Plattform (CIAM)\nKonzeption und Umsetzung sicherer Authentifizierungs- und Autorisierungslösungen auf Basis moderner Identity-Standards wie OAuth2 und OpenID Connect\nDesign und Implementierung von User Journeys für Registrierung, Authentifizierung, Autorisierung und Benutzerverwaltung in unseren Kundenanwendungen\nAnalyse und Behebung von Störungen im Umfeld Identitätsmanagement, Authentifizierung und Benutzerverwaltung\nEntwicklung und Integration von Backend-Komponenten, REST APIs und Identity-Services auf Basis von .NET und Microsoft-Technologien\nMitarbeit im DevOps-Betrieb inklusive automatisierter Tests, CI/CD, Deployment und technischer Dokumentation\n\nProfil\n\nAbgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder vergleichbare Qualifikation\nMehrjährige Erfahrung im Bereich Customer Identity & Access Management (CIAM) oder ein ausgeprägtes Interesse, sich langfristig auf dieses Themengebiet zu spezialisieren\nErfahrung mit Azure AD B2C (Custom policies), Microsoft Entra External ID, Microsoft Graph API, MSAL Library sowie sehr gute Kenntnisse in OAuth2 und OpenID Connect\nKenntnisse moderner Autorisierungskonzepte wie RBAC, PBAC/ABAC und Claims-basierter Zugriffskontrolle\nKenntnisse in der Software- und Web-Entwicklung\nGute Deutsch- und Englischkenntnisse in Wort und Schrift (B2-Niveau)\n\nWir bieten\n\nWir bieten ein attraktives Gehaltspaket.\n\nBundesweit nach Tarif Metall- und Elektroindustrie Baden-Württemberg, tarifliche Sonderzahlungen sowie langjährige attraktive betriebliche Altersvorsorge\nIhre Work-Life-Balance liegt uns am Herzen.\n\nIndividuelle flexible Arbeitszeitmodelle, mobile Arbeit, Gleitzeitkonto, Mitarbeiterrabatte und Sonderkonditionen, Kooperation mit Fitnessstudios, Freizeitangebote und Kindertagesstätte\nEntwickeln Sie sich bei uns weiter.\n\nUnser hauseigenes Schulungszentrum DriveAcademy® und unsere E-Learning Plattform ergänzen sich gegenseitig durch ein vielfältiges Angebot an Seminaren und Schulungen\nFühlen Sie sich bei uns wohl.\n\nHochmoderne Technik, IT-Ausstattung und Software-Tools, Betriebsrestaurant und SEW Parkhaus mit Elektroladestationen\nWir legen Wert auf eine hohe Arbeitsplatzsicherheit.\n\nDurch kontinuierliche Investitionen in den Standort Deutschland, sind wir für die Zukunft bestens gerüstet, um als Global Player voran zu gehen\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAutomation Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472603718",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -333,8 +355,8 @@
       "description": "Mit mehr als 1.600 Kunden zählt die EPG zu den international führenden Anbietern einer umfassenden Supply Chain Execution Suite (EPG ONE) und bietet WMS-, WCS-, WFM-, TMS- und Voice-Lösungen zur Optimierung von Logistikprozessen. Logistik-Consulting, Cloud-Services, Managed Services und Logistik-Schulungen in der eigenen Akademie runden das umfassende Lösungsangebot der EPG ab.\nUm auch langfristig in Richtung Erfolg zu gehen, suchen wir zum nächstmöglichen Zeitpunkt eine/n:\n(Senior) Software Developer (m/w/d)\n\nAufgaben\n\nAls Mitglied eines Projektteams entwickeln und realisieren Sie innovative Produkte und Dienstleistungen rund um unser erfolgreiches Lagerführungssystem LFS. Ihr Fokus liegt dabei mehr bei einer spannenden Aufgabe als auf einer bestimmten Programmiersprache.\nIm Detail setzen sich Ihre Aufgaben wie folgt zusammen:\nSie arbeiten an abwechslungsreichen Projekten für namhafte nationale und internationale Kunden unterschiedlichster Branchen mit.\nSie programmieren individuelle Anforderungen unserer Kunden.\nSie leiten Programmieraufgaben aus Pflichtenheften und Angeboten eigenständig ab.\nSie gestalten, entwickeln und optimieren Businessworkflows und Business Intelligence Prozesse.\nSie erstellen Konzepte für Softwareänderungen und Neuentwicklungen.\nSie entwickeln unsere betriebs- und datenbankunabhängigen Logistiklösungen weiter.\nSie konzipieren Schnittstellen und setzen diese um.\nSie unterstützen bei der Begleitung von Tests und Inbetriebnahmen beim Kunden vor Ort.\nEine KI-basierte Entwicklungsumgebung und entsprechende Techniken sind fester Bestandteil ihrer täglichen Entwicklungstätigkeit.\n\nProfil\n\nSie haben eine abgeschlossene Ausbildung zum Fachinformatiker, ein Informatik-Studium oder eine vergleichbare Qualifikation.\nAlternativ sind Sie Quereinsteiger und verfügen über Berufserfahrung im Bereich der Softwareentwicklung.\nSie beherrschen eine oder mehrere Programmiersprachen ( z.B. C++, C#, Java) und stehen auch anderen Programmiersprachen offen gegenüber (z.B. Cobol).\nIdealerweise bringen Sie Erfahrung im Umgang mit Datenbanken mit.\nSie verfügen über gute Deutsch- und Englischkenntnisse.\nSie denken analytisch, leistungsmotiviert und agieren dabei äußerst gewissenhaft.\nSie sind offen dafür, neueste KI-gestützte Techniken einzusetzen und haben keine Berührungsschwierigkeiten sich auf diese einzustellen.\n\nWir bieten\n\nEine umfassende Einarbeitung (inkl. Onboardingplan), um Sie optimal auf Ihre Tätigkeit vorzubereiten.\nDie Übernahme einer anspruchsvollen Tätigkeit mit einem hohen Gestaltungspielraum.\nEinen eigenständigen Aufgabenbereich sowie eine aktive Zusammenarbeit mit den Kollegen.\nEin Work-Life-Balance-Konzept mit flexiblen Arbeitszeiten sowie der Möglichkeit zum Home-Office.\nEin Personalentwicklungskonzept mit der Möglichkeit zur beruflichen & persönlichen Weiterentwicklung.\nEin tolles Arbeitsumfeld mit regelmäßigen Unternehmensevents und kostenfreien Getränken.\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472198471",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -348,8 +370,8 @@
       "description": "Als eigenfinanziertes Familienunternehmen sind wir weit mehr als ein Filialnetz mit rund 4.700 Standorten in über 30 Ländern, mehr als 8,9 Milliarden Euro Jahresumsatz und einem der erfolgreichsten Online-Shops für Schuhe in Europa. Deichmann ist Wegbereiter, Förderer und Arbeitgeber von ca. 50.000 engagierten Mitarbeiterinnen und Mitarbeitern weltweit. Als nachhaltig expandierendes Unternehmen sind wir seit mehreren Jahrzehnten in der Lage, unseren Mitarbeitern einen sicheren Arbeitsplatz zu bieten.\n\nAufgaben\n\nDu übernimmst die disziplinarische und fachliche Führung unserer Backend-Entwicklung in unserer Omnichannel IT und verantwortest ein Team aus .NET- und Java-Entwicklern über mehrere Teams hinweg.\nGemeinsam mit den Teamleitern und unserem Architekten treibst Du den Umbau unserer Omnichannel-Systemlandschaft voran und sorgst für eine zukunftsfähige, skalierbare Backend-Architektur.\nMit Deiner Erfahrung in der Softwareentwicklung definierst Du zusammen mit den Teams die Entwicklungsstandards und stellst deren Umsetzung sicher.\nAls Partner für das Produktmanagement schaffst Du den Spagat zwischen verlässlicher Software Delivery und nachhaltiger technischer Exzellenz.\nDu entwickelst Deine Mitarbeitenden fachlich und persönlich weiter, förderst eine offene Feedback- und Fehlerkultur und baust das Team gezielt weiter aus.\nMit Deiner Passion für moderne Technologien vertrittst Du Deichmann als innovativen Arbeitgeber auf Konferenzen und in der Tech-Community.\n\nProfil\n\nEine selbstständige, strukturierte und teamorientierte Arbeitsweise sowie empathisches Auftreten und offene Kommunikation sind für Dich selbstverständlich.\nDu bringst langjährige Erfahrung in der Führung von Softwareentwicklungsteams mit.\nDu hast praktische Erfahrung in der Entwicklung moderner Cloud-Anwendungen und komplexe IT-Transformationsprojekte bereits erfolgreich zum Abschluss gebracht.\nDu kennst moderne Methoden im Software-Delivery-Prozess.\nKontinuierliches Lernen und die permanente Optimierung sind Deine Leidenschaft.\nDu verfügst über einen Abschluss in Informatik oder einem vergleichbaren Studiengang sowie mehrjährige Berufs- und Führungserfahrung.\nSehr gute Deutsch- und Englischkenntnisse in Wort und Schrift runden Dein Profil ab.\n\nWir bieten\n\n30 Tage Urlaub\nFlexible Arbeitszeiten\nTageweise mobiles Arbeiten\nErmäßigtes DeutschlandTicket Job\nBetriebliche Altersvorsorge\nKitaplätze\nBistro\nPersonalrabatt\nUnterstützungskasse\nSeminare & Fortbildungen\nBetriebliches Gesundheitsmanagement\nFirmenevents\n\nAls Head of Backend Development Omnichannel IT (m/w/d)\nverstärkst Du unser Team in Essen. Wenn Du Einsatz zeigst und etwas bewegen willst, dann bist Du bei uns genau richtig. Lerne uns als Arbeitgeber kennen, informiere Dich über Deine beruflichen Möglichkeiten und bewege mit uns großartige Projekte. Bewirb Dich jetzt online mit Angabe Deiner Gehaltsvorstellung und Deines frühestmöglichen Eintrittstermins. Wir freuen uns auf Dich!\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nInformation Technology\n\nIndustries\n\nRetail",
       "source": "LinkedIn",
       "job_id": "4472617168",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -363,8 +385,8 @@
       "description": "Schon heute die Zukunft gestalten – mit Wolters Kluwer\n\nSeit über 180 Jahren unterstützen wir Unternehmen weltweit dabei, Arbeitsprozesse einfacher, effizienter und zukunftssicher zu gestalten. Mit Niederlassungen in über 40 Ländern und Kunden in mehr als 180 Märkten sind wir ein globaler Partner für Fachwissen und Technologie.\nUnsere Lösungen verbinden tiefgehendes Know-how mit innovativen Technologien – inklusive moderner KI-Funktionen – und helfen unseren Kunden, ihre größten Herausforderungen erfolgreich zu meistern. Mehr als 21.000 Kolleginnen und Kollegen weltweit arbeiten gemeinsam daran, Wissen nutzbar zu machen und Arbeitsprozesse neu zu denken.\nWolters Kluwer Tax & Accounting (TAA)\n\nDie Wolters Kluwer Tax & Accounting Deutschland GmbH mit Hauptsitz in Ludwigsburg ist Teil der internationalen Wolters Kluwer Gruppe. Mit über 600 Mitarbeitenden an 10 Standorten in Deutschland entwickeln wir Softwarelösungen wie ADDISON, SBS-Software und AKTE, die Steuerberatungskanzleien und Unternehmen in ganz Europa unterstützen.\nAllein in Europa vertrauen mehr als 46.000 Steuerberatungskanzleien sowie über 1,5 Millionen kleine und mittelständische Unternehmen auf unsere Lösungen.\n\nAufgaben\n\nDein Team\n\nDu arbeitest in einem Team aus Entwickler:innen, Business-Analyst:innen sowie Testautomatisierung. Wir arbeiten in gemeinsamen Sprints, machen regelmäßig Pair Programming und Tech-Demos, und wir probieren KI-Werkzeuge nicht nur aus - wir verwenden sie aktiv in unserem Entwicklungsalltag und binden sie gezielt in unsere Produkte ein.\nDeine Aufgaben\n\nDu arbeitest Dich in komplexe steuer- und sozialversicherungsrechtliche Anforderungen ein und übersetzt diese gemeinsam mit Fachkolleg:innen in robuste Softwarelösungen.\n\nDu entwickelst Fullstack-Features mit Kotlin und Spring Boot im Backend sowie React im Frontend.\n\nDu nutzt KI-Werkzeuge wie Claude Code und GitHub Copilot als festen Teil Deines Entwicklungsalltags und hilfst uns, das Zusammenspiel aus KI und Softwareentwicklung weiter auszubauen.\n\nDu bringst Dich in Architektur- und Designentscheidungen ein, hinterfragst konstruktiv und trägst zu konsensfähigen Lösungen bei.\n\nDu sorgst für hohe Qualität - mit testgetriebener Entwicklung, sauberem Code und einem Blick für Sicherheitsthemen in Web-Anwendungen.\n\nProfil\n\nDamit begeisterst du uns\n\nMindestens 5 Jahre Erfahrung in der Fullstack-Entwicklung mit einer objektorientierten Sprache (Java, Kotlin oder C#) und einem modernen Web-Framework für das Frontend (idealerweise React).\n\nErfahrung mit Spring Boot, Schnittstellen nach REST-Prinzip, SQL-Datenbanken und Cloud Plattformen.\n\nAusgeprägte Fähigkeit, sich schnell in neue fachliche Domänen und komplexe Geschäftsprozesse einzuarbeiten.\n\nPraktische Erfahrung oder starkes Interesse am Einsatz von KI-Werkzeugen in der Softwareentwicklung und an modernen Entwicklungsmethoden.\n\nFreude daran, neue Technologien auszuprobieren und die eigene Arbeitsweise kontinuierlich weiterzuentwickeln.\n\nFließendes Deutsch und Englisch.\n\nSchön wäre außerdem\n\nErfahrung in der Entwicklung von Software für die Lohnabrechnung oder Kenntnisse in den Bereichen Steuerrecht, Sozialversicherung und Meldewesen.\n\nErfahrung mit Microservices, Event-Sourcing oder CQRS.\n\nErfahrung in der Zusammenarbeit mit internationalen Teams (wir arbeiten eng mit Kolleginnen und Kollegen in Rumänien zusammen).\n\nLust, KI nicht nur im Entwicklungsprozess, sondern auch als Produktfeature zu denken und mitzugestalten.\n\nFreude daran, Wissen aktiv zu teilen - Silo-Denken ist nicht unser Ding.\n\nWir bieten\n\nDamit begeistern wir dich\n\nSichere Zukunft\n: Du bekommst eine unbefristete Festanstellung in einem internationalen Unternehmen sowie eine betriebliche Altersvorsorge mit persönlicher Beratung.\n\nWork-Life-Balance\n: 30 Tage Urlaub, flexible Arbeitszeiten und die Möglichkeit, an dedizierten Tagen mobil zu arbeiten– so passt der Job zu Deinem Leben.\n\nArbeiten im Ausland\n: Du kannst bis zu 20 Tage innerhalb von zwölf Monaten flexibel im Ausland arbeiten.\n\nKarriereentwicklung\n: Wir unterstützen Dich mit strukturiertem Onboarding, Learning on the Job, internationalen Karriereoptionen und internen sowie externen Weiterbildungen.\n\nGesundheit & Soziales Engagement\n: Unser Corporate Benefits Programm bietet Dir alles von JobRad über Lebens- und Rentenberatung. Zusätzlich bekommst Du einen zusätzlichen freien Tag, den Volunteer Day, um soziale Projekte zu unterstützen. Mit unserem Programm „Wolters Kluwer hilft“ unterstützen wir als Unternehmen ebenfalls soziale Projekte.\n\nModerne Arbeitsumgebung\n: Du arbeitest mit leistungsstarker IT-Ausstattung, an modernen Arbeitsplätzen mit einem shared desk System, kostenlosen Getränken und in gut angebundenen Bürogebäuden.\n\nTeamspirit\n: Bei unseren Mitarbeiterevents und über unser Mitarbeiterempfehlungsprogramm erlebst Du echten Zusammenhalt. Kurze Entscheidungswege, flache Hierarchien und Raum für Deine Ideen sind bei uns selbstverständlich.\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472626004",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     },
     {
@@ -378,8 +400,8 @@
       "description": "Menschen und Technologien zu verbinden, den Perfect Match für unsere Kunden zu gestalten, immer die richtigen Expert:innen für die jeweilige Herausforderung zu finden - das ist unser Anspruch bei FERCHAU und dafür suchen wir dich: als ambitionierte:n Kolleg:in, der:die wie wir Technologien auf die nächste Stufe bringen möchte. Wir realisieren spannende Projekte für namhafte Kunden in allen Technologiebereichen und für alle Branchen und sichern die technische Basis für industrielle Revolutionen. Als Berufserfahrene:r Software Build Architekt (m/w/d) unterstützt du deine Kolleg:innen mit deinem langjährigen Know-how und deiner Expertise.\n\nAufgaben\n\nKonzeption, Entwicklung und Betreuung komplexer Build- und Tooling-Landschaften für .NET- und C++-Anwendungen\nOptimierung von Build-, Compiler- und Linker-Prozessen\nAufbau, Weiterentwicklung und Stabilisierung moderner CI/CD-Pipelines und Release-Prozesse\nAnalyse und Behebung von Build-, Compiler- und Integrationsproblemen\nBeratung von Entwicklungsteams\n\nProfil\n\nMehrjährige Erfahrung in der Softwareentwicklung mit C#, .NET und/oder C++\nFundierte Kenntnisse in Build- und Automatisierungstechnologien\nErfahrung in der Entwicklung skalierbarer Software- und Servicearchitekturen\nSehr gute Deutsch- und Englischkenntnisse\n\nWir bieten\n\nUnbefristeter Arbeitsvertrag\nPrämienprogramm für Empfehlungen neuer Kolleg:innen\nMehr als der GVP: Wir bieten Sonderurlaub, Kindergartenzuschuss, Jubiläumszuwendungen u. v. m.\nSatte Rabatte mit Einkaufsvergünstigungen, z. B. bei Reisen, Elektronik oder Autos\nFachliche und persönliche Weiterentwicklungsmöglichkeiten\nNetworking und einfach Spaß haben bei Teamevents, Weihnachtsfeiern oder Sommerfesten\n\nImportant note\n\nPlease be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.\nLNKD1_DE\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nHuman Resources Services",
       "source": "LinkedIn",
       "job_id": "4472186979",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: a valid German work permit is explicitly required for non-EU citizens.",
       "validated": null
     }
   ]
