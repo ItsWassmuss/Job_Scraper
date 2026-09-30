@@ -1,166 +1,133 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-30 13:18 UTC*
+*Last updated: 2026-09-30 14:18 UTC*
 
-**29 new role(s)** since last run · 199 total in last 24h
+**22 new role(s)** since last run · 207 total in last 24h
 
-### [Junior/Medior Back-end Developer (PHP / Laravel / Vue.js)](https://nl.indeed.com/viewjob?jk=397065bc1dde6f44) — Activate your Business
-- 📍 **Location:** Aalsmeer, NH, NL
+### [Back-end Developer](https://nl.indeed.com/viewjob?jk=96fcae8114daf22f) — Healthy Workers
+- 📍 **Location:** Amsterdam, NH, NL
 - **Work mode:** On-site
-- **Job type:** parttime, fulltime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior Data & AI Engineer](https://nl.indeed.com/viewjob?jk=1f3e9abb56c4c8c6) — Insight First
-- 📍 **Location:** Utrecht Binnenstad, UT, NL
+### [Installatie- en Service Engineer](https://nl.indeed.com/viewjob?jk=1e653cb5f0238434) — LELY
+- 📍 **Location:** Maassluis, ZH, NL
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Unity Gameplay Developer - Mobile (iOS & Android) (w/m/d)](https://de.indeed.com/viewjob?jk=f0e13adb21e1764f) — headraft
+- 📍 **Location:** Hamburg, HH, DE
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [(Senior) System Engineer Digital Solutions R&D](https://de.indeed.com/viewjob?jk=66035386a367707b) — BioNTech
-- 📍 **Location:** Mainz, RP, DE
+### [Ausbildung / Duales Studium MATSE – Mathematisch-technischer Software-Entwickler (m/w/d)](https://de.indeed.com/viewjob?jk=7662a4f697121a16) — utilitas GmbH
+- 📍 **Location:** Aachen, NW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer (m/w/d)](https://de.indeed.com/viewjob?jk=eaf7b537da23c252) — Heraeus
-- 📍 **Location:** Kleinostheim, BY, DE
+### [Senior Software Engineer (m/f/d) – MES](https://de.indeed.com/viewjob?jk=ab1ced02693dc884) — ABB
+- 📍 **Location:** Mannheim, BW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Forward Deployed Engineer – Key Accounts (AI Solutions)](https://de.indeed.com/viewjob?jk=045b52ec4794c998) — Aircall
-- 📍 **Location:** Berlin, BE, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Medical Engineering Technician](https://uk.indeed.com/viewjob?jk=14273b1c46b49aca) — King's College Hospital NHS Foundation Trust
-- 📍 **Location:** London, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Quality Assurance Automation Engineer](https://uk.indeed.com/viewjob?jk=7d1c51bdccf53eb4) — Everything Financial
+### [Senior Backend Engineer - Asset Sales](https://uk.indeed.com/viewjob?jk=dbbf9be3ff90402c) — m-kopa
 - 📍 **Location:** Bristol, ENG, GB
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Process Design & Development Engineer](https://uk.indeed.com/viewjob?jk=6ae115c4a079beea) — RENISHAW
-- 📍 **Location:** Wotton-under-Edge, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Developer - Sri Lanka](https://uk.indeed.com/viewjob?jk=a0fe56d597711558) — Anthesis Ltd
-- 📍 **Location:** Remote, GB
+### [Senior Backend Engineer - Asset Sales](https://uk.indeed.com/viewjob?jk=d9d0fd8cde844ea4) — m-kopa
+- 📍 **Location:** Belfast, NIR, GB
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Heat pump engineer/plumber](https://uk.indeed.com/viewjob?jk=77c847fa1f673f31) — Installio
-- 📍 **Location:** Guildford, ENG, GB
+### [Senior Backend Engineer - Asset Sales](https://uk.indeed.com/viewjob?jk=9f66a55f8fc6fb10) — m-kopa
+- 📍 **Location:** Birmingham, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Backend Engineer - Asset Sales](https://uk.indeed.com/viewjob?jk=96176037ae5304a3) — m-kopa
+- 📍 **Location:** Manchester, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Backend Engineer - Asset Sales](https://uk.indeed.com/viewjob?jk=12badd24a0efd46f) — m-kopa
+- 📍 **Location:** Newcastle upon Tyne, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Backend Engineer - Asset Sales](https://uk.indeed.com/viewjob?jk=31fa148945e44a78) — m-kopa
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Solution Design Engineer - Energy](https://uk.indeed.com/viewjob?jk=67aefe5299a2a01b) — Veolia
+- 📍 **Location:** Paddock Wood, ENG, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-30
 
-### [Heat pump engineer/plumber](https://uk.indeed.com/viewjob?jk=f87a6f4eaca61cd3) — Installio
-- 📍 **Location:** Oxford, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Heat pump engineer/plumber](https://uk.indeed.com/viewjob?jk=a6c5b6fe1dc07b35) — Installio
-- 📍 **Location:** Crawley, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Heat pump engineer/plumber](https://uk.indeed.com/viewjob?jk=a9e7ebd3c8703667) — Installio
-- 📍 **Location:** Swindon, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior C++ Developer](https://pl.indeed.com/viewjob?jk=13995f31099db9b6) — Hitachi Rail
+### [Senior C++ Developer](https://pl.indeed.com/viewjob?jk=9d62f4a9ee2e0453) — Hitachi Energy
 - 📍 **Location:** Kraków, ML, PL
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [CICD Engineer](https://pl.indeed.com/viewjob?jk=be873842da09356c) — B2Bnetwork
-- 📍 **Location:** Warszawa, MZ, PL
+### [C#/.NET Developer (f/m)](https://pl.indeed.com/viewjob?jk=efc775abad28ef74) — Digital Technology Poland
+- 📍 **Location:** Cieszyn, SL, PL
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer - Credit & Fraud](https://se.indeed.com/viewjob?jk=944bb83e33b89e01) — Qliro
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer - Onboarding](https://se.indeed.com/viewjob?jk=0d2f794fe9007794) — Qliro
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer - Flexible Payments](https://se.indeed.com/viewjob?jk=1bd16ea39e87327e) — Qliro
-- 📍 **Location:** Stockholm, AB, SE
+### [Senior Backend Engineer - Asset Sales](https://ie.indeed.com/viewjob?jk=2237724b49591f6a) — m-kopa
+- 📍 **Location:** Dublin, D, IE
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Test Engineer](https://se.indeed.com/viewjob?jk=f827a2245e73a236) — Independtech
-- 📍 **Location:** Stockholm, AB, SE
+### [Senior Backend Engineer - Core Alarm System](https://no.indeed.com/viewjob?jk=153d31493394ed40) — Sector Alarm
+- 📍 **Location:** Oslo, N03, NO
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior .NET-utvecklare till Knowit FLX Stockholm](https://se.indeed.com/viewjob?jk=f35d3d4128f4fa0e) — Knowit
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [2027 Technology Internship - AI-Native Data Platform Engineering - 6-month Internship (January – July)](https://ie.indeed.com/viewjob?jk=941308cd8b99bddf) — TD
-- 📍 **Location:** Dublin, D, IE
+### [Ambitious Software Engineering Interns](https://dk.indeed.com/viewjob?jk=fa402b9d7efea66b) — Danske Bank
+- 📍 **Location:** Aarhus, D82, DK
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [2027 Technology Graduate Programme - AI-Native Data Platform Engineering](https://ie.indeed.com/viewjob?jk=08695bd2a439a89e) — TD
-- 📍 **Location:** Dublin, D, IE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Software Utvikler / Arkitekt -- Systemkonfigurasjon (Studio)](https://no.indeed.com/viewjob?jk=baa216fc114cd9f8) — DeepOcean
-- 📍 **Location:** Avaldsnes, N11, NO
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Development Engineer](https://sg.indeed.com/viewjob?jk=208ad59c209fd7a8) — Autodesk
-- 📍 **Location:** Singapore, S00, SG
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Sr. SW Test Engineer](https://sg.indeed.com/viewjob?jk=75a1e2acddba01e3) — Visa
+### [Software Test Engineer](https://sg.indeed.com/viewjob?jk=d92755da23ff623d) — Visa
 - 📍 **Location:** Geylang, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer (React, Node.js)](https://sg.indeed.com/viewjob?jk=f4509b0d64fb2fc1) — Capgemini Engineering
-- 📍 **Location:** SG
+### [Go-to-Market Engineer](https://be.indeed.com/viewjob?jk=a3b3e509bda6c213) — Predikt
+- 📍 **Location:** Leuven, VLG, BE
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Fronted Product Engineer](https://be.indeed.com/viewjob?jk=4e810186775b3311) — ADVISORY KEY
-- 📍 **Location:** Brussels, BRU, BE
+### [System Engineer (m/v/x)](https://be.indeed.com/viewjob?jk=2c356ff5e3557e96) — Gabitasoft BV
+- 📍 **Location:** Kapellen, VLG, BE
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior Full-Stack Developer (NestJS, React) (IR-552)](https://es.indeed.com/viewjob?jk=7c46b0495fc81b41) — Intellectsoft
-- 📍 **Location:** ES
+### [Senior Backend Engineer - Asset Sales](https://es.indeed.com/viewjob?jk=44a4d8224eab7a28) — m-kopa
+- 📍 **Location:** Madrid, MD, ES
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [.NET Senior](https://es.indeed.com/viewjob?jk=5a115d30c1746f12) — Kenos Technology
-- 📍 **Location:** Madrid, MD, ES
+### [Full-Stack Developer (Angular/.Net)](https://lu.indeed.com/viewjob?jk=b1cddf510bc9cb52) — BDO
+- 📍 **Location:** Luxembourg, L0L, LU
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
