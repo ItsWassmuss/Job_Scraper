@@ -50735,6 +50735,78 @@
       "location": "BH",
       "canonical_url": "https://bh.indeed.com/viewjob?jk=a06864968823ce3a",
       "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "430916510462783a",
+      "company": "Atlas Copco Group",
+      "title": "Fullstack Developer - Flutter, .NET & Connected Devices (SMARTLINK IoT Mobile)",
+      "location": "Wilrijk, VLG, BE",
+      "canonical_url": "https://be.indeed.com/viewjob?jk=430916510462783a",
+      "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "a1df35f622db4a39",
+      "company": "Atlas Copco Group",
+      "title": "Senior .NET Developer (SMARTLINK IoT platform)",
+      "location": "Wilrijk, VLG, BE",
+      "canonical_url": "https://be.indeed.com/viewjob?jk=a1df35f622db4a39",
+      "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472118354",
+      "company": "Dexian Europe",
+      "title": "Full Stack Web Developer",
+      "location": "Budapest, Hungary",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472118354/",
+      "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4473710850",
+      "company": "Linnk Group",
+      "title": "Senior Sitecore Engineer",
+      "location": "Doha, Doha, Qatar",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4473710850/",
+      "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472135243",
+      "company": "Qliro",
+      "title": "Software Engineer - Credit & Fraud",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472135243/",
+      "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472122700",
+      "company": "Qliro",
+      "title": "Software Engineer - Flexible Payments",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472122700/",
+      "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472123743",
+      "company": "Qliro",
+      "title": "Software Engineer - Onboarding",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472123743/",
+      "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "11141b72bcd9d345",
+      "company": "Schneider Electric",
+      "title": "Senior Software Engineer",
+      "location": "Lund, M, SE",
+      "canonical_url": "https://se.indeed.com/viewjob?jk=11141b72bcd9d345",
+      "reported_at": "2026-09-30T11:01:08+03:00"
     }
   ]
 }
