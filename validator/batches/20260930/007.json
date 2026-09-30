@@ -22,9 +22,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a2fdfb88c943f69a",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Minimum 4 years of experience as a software developer",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develop, test, and maintain C#.NET applications, including reusable backend services, with React/JavaScript front-end development and SQL database work.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=a2fdfb88c943f69a"
+      }
     }
   ]
 }
