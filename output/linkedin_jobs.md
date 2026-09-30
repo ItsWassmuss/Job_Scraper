@@ -1,76 +1,48 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-30 19:43 UTC*
+*Last updated: 2026-09-30 20:40 UTC*
 
-**18 new role(s)** since last run · 256 total in last 6h
+**11 new role(s)** since last run · 237 total in last 6h
 
-### [Software Engineer (Java/C#)](https://www.linkedin.com/jobs/view/4473932522/) — ASML
-- 📍 **Location:** Veldhoven, North Brabant, Netherlands
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Developer Intranet (m/w/d)](https://www.linkedin.com/jobs/view/4473770833/) — Bundesdruckerei-Gruppe
+### [Senior C# Developer (m/f/d)](https://www.linkedin.com/jobs/view/4472340408/) — SWARCO ITS
 - 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-09-30
 
-### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4472302933/) — Sano - Moderne Tierernährung GmbH
-- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
+### [Consulting Engineer](https://www.linkedin.com/jobs/view/4465046326/) — MongoDB
+- 📍 **Location:** Berlin, Germany
 - 🕒 **Posted:** 2026-09-30
 
-### [Solution Architect / Full Stack DevOps Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4473799117/) — DHL
-- 📍 **Location:** Bonn, North Rhine-Westphalia, Germany
+### [Actuarial Engineer, 3219](https://www.linkedin.com/jobs/view/4447901568/) — Hannover Re
+- 📍 **Location:** Hannover, Lower Saxony, Germany
 - 🕒 **Posted:** 2026-09-30
 
-### [Application Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4472316249/) — DFV Deutsche Familienversicherung AG
-- 📍 **Location:** Frankfurt am Main, Hesse, Germany
+### [Solution Architect](https://www.linkedin.com/jobs/view/4468776304/) — emagine
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Developer (m/w/d)](https://www.linkedin.com/jobs/view/4442842930/) — Bilfinger Region DACH
-- 📍 **Location:** Landshut, Bavaria, Germany
+### [Intermediate .NET Developer – 1 Year Contract](https://www.linkedin.com/jobs/view/4473921970/) — Vantage
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer II - C#](https://www.linkedin.com/jobs/view/4443614028/) — Alarm.com
-- 📍 **Location:** Cracow, Małopolskie, Poland
+### [Manager, Engineering](https://www.linkedin.com/jobs/view/4446364137/) — MongoDB
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-30
 
-### [.NET-utvecklare](https://www.linkedin.com/jobs/view/4473919954/) — Saab
-- 📍 **Location:** Lund, Skåne County, Sweden
+### [Bliv Software Engineer til Case Management løsninger i en foreningsejet Nykredit-koncern](https://www.linkedin.com/jobs/view/4469611369/) — Nykredit
+- 📍 **Location:** Aalborg, North Denmark Region, Denmark
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior konsult AI Engineering & Modern AI | Technology Consulting | Stockholm, Göteborg, Malmö](https://www.linkedin.com/jobs/view/4463032758/) — EY
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473938386/) — nShift
+- 📍 **Location:** Bucharest, Bucharest, Romania
 - 🕒 **Posted:** 2026-09-30
 
-### [[6401] Software Developer](https://www.linkedin.com/jobs/view/4473921366/) — GardPass Consulting & Space
-- 📍 **Location:** Brussels, Brussels Region, Belgium
+### [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4472620823/) — Hayat
+- 📍 **Location:** Istanbul, Türkiye
 - 🕒 **Posted:** 2026-09-30
 
-### [Backend Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4472336265/) — Colliers
-- 📍 **Location:** Madrid, Community of Madrid, Spain
+### [Power Platform Expert](https://www.linkedin.com/jobs/view/4473931638/) — Kanadevia Inova
+- 📍 **Location:** Zurich, Zurich, Switzerland
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior Backend Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4472323675/) — Colliers
-- 📍 **Location:** Madrid, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Product Software Engineer](https://www.linkedin.com/jobs/view/4396350556/) — Wolters Kluwer
-- 📍 **Location:** Barcelona, Catalonia, Spain
-- 🕒 **Posted:** 2026-09-30
-
-### [Presales Solution Architect / Azure, AI & Automation](https://www.linkedin.com/jobs/view/4443266047/) — Devoteam
-- 📍 **Location:** Madrid, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior QA Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4472329385/) — Colliers
-- 📍 **Location:** Madrid, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-09-30
-
-### [QA Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4472325662/) — Colliers
-- 📍 **Location:** Madrid, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Manager | Data Engineer & Cloud Analytics](https://www.linkedin.com/jobs/view/4443291652/) — Deloitte
-- 📍 **Location:** Madrid, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Database Engineer – MS SQL Server & Oracle (L3)](https://www.linkedin.com/jobs/view/4473900546/) — NATEK
+### [SAP iXP Intern Developer in Cloud Lifecycle Engeneering](https://www.linkedin.com/jobs/view/4464100211/) — SAP
 - 📍 **Location:** Sofia, Sofia City, Bulgaria
 - 🕒 **Posted:** 2026-09-30
