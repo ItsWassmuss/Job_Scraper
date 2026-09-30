@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-30T13:48:43+03:00",
   "job_count": 55,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Veolia",
