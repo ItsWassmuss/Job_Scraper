@@ -50440,6 +50440,141 @@
       "location": "Liverpool, ENG, GB",
       "canonical_url": "https://uk.indeed.com/viewjob?jk=62d38b1452b417d5",
       "reported_at": "2026-09-30T07:01:06+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471932460",
+      "company": "Altia",
+      "title": ".Net Developer - Copenhague",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471932460/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4445130670",
+      "company": "Budget Thuis",
+      "title": "Full-Stack Software Engineer",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4445130670/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471753019",
+      "company": "CQUE",
+      "title": "Senior Sofware Engineer (Backend) .NET",
+      "location": "Cracow, Małopolskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471753019/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471737782",
+      "company": "Criteo Deutschland",
+      "title": "Senior Fullstack Software Engineer",
+      "location": "Bucharest, Bucharest, Romania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471737782/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "72fd32953ed18c1c",
+      "company": "DeepOcean",
+      "title": "Full-stack Developer -- Develop NODES Trading Platform",
+      "location": "Lysaker, N30, NO",
+      "canonical_url": "https://arbeidsplassen.nav.no/stillinger/stilling/174a1353-67b1-4bbd-81ae-89776c771e65",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "912472580b449a51",
+      "company": "EPAM Systems",
+      "title": "Senior .NET Developer",
+      "location": "távmunka, HU",
+      "canonical_url": "https://hu.indeed.com/viewjob?jk=912472580b449a51",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "2d17f6b39e974a0e",
+      "company": "EPAM Systems",
+      "title": "Senior .NET Developer (shifted working hours)",
+      "location": "távmunka, HU",
+      "canonical_url": "https://hu.indeed.com/viewjob?jk=2d17f6b39e974a0e",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4473268866",
+      "company": "Edebex",
+      "title": "Full Stack Developer.NET & Business applications",
+      "location": "Portugal",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4473268866/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "425aa4445f962b9c",
+      "company": "KPMG",
+      "title": "Senior Adviser - Business Solutions Engineer (Investment Services) (m/f/d) (2729)",
+      "location": "LU",
+      "canonical_url": "https://lu.indeed.com/viewjob?jk=425aa4445f962b9c",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "498cf0302d6d5235",
+      "company": "Nextlane",
+      "title": "Fullstack Developer (.NET)",
+      "location": "Porto, P13, PT",
+      "canonical_url": "https://pt.indeed.com/viewjob?jk=498cf0302d6d5235",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "b90b7cad7295ae91",
+      "company": "Nextlane",
+      "title": "Fullstack Developer (.NET)",
+      "location": "Sintra, P11, PT",
+      "canonical_url": "https://pt.indeed.com/viewjob?jk=b90b7cad7295ae91",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4455281488",
+      "company": "Rebtel",
+      "title": "Senior .NET Developer",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4455281488/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4471941053",
+      "company": "Schneider Electric",
+      "title": "Senior Software Engineer",
+      "location": "Lund, Skåne County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4471941053/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4462974540",
+      "company": "Talan",
+      "title": "Senior Developer (C# / .Net)",
+      "location": "Málaga, Andalusia, Spain",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4462974540/",
+      "reported_at": "2026-09-30T09:01:04+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "a06864968823ce3a",
+      "company": "Unknown",
+      "title": ".Net Developer",
+      "location": "BH",
+      "canonical_url": "https://bh.indeed.com/viewjob?jk=a06864968823ce3a",
+      "reported_at": "2026-09-30T09:01:04+03:00"
     }
   ]
 }
