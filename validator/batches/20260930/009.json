@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1777e05fcfd47055",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Current residence in the Netherlands is explicitly mandatory.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "19af5275ce55e2c2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6cdaa3e08465abf3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "80059f5a81bd2806",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Product-modeling/configurator role; .NET is one of several possible languages, not backend .NET evidence.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d684b8d1ece82d81",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Product-modeling/configurator role; .NET is one of several possible languages, not backend .NET evidence.",
       "validated": null
     },
     {
@@ -129,8 +129,8 @@
       "description": "P-1360\n\nAt Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started.\n\nAs a software engineer with a backend focus, you will work with your team to build infrastructure for the Databricks platform at scale.\n\nThe Impact You'll Have\n\nOur backend teams cover a diverse range of domains, from core compute fabric resource management to service platforms and machine learning infrastructure. For example, you might work on challenges such as:\n\nSupporting Databricks' growth by building foundational infrastructure platforms that enable seamless operation across numerous geographic regions and cloud providers.\nImplementing cloud-agnostic infrastructure abstractions to help Databricks engineers more efficiently manage and operate their services.\nDevelop tools and processes that drive engineering efficiency at Databricks. We enhance the developer experience for Databricks engineers across various areas, including programming languages, linters, static analysis, IDEs, remote development environments, automated release pipelines, and test automation frameworks. Our current focus is on optimizing the Rust development experience across the organization.\n\nWhat We Look For\n\n2+ years of professional software development experience, or alternatively a PhD degree.\nBachelor’s degree or higher in Computer Science, related field, or equivalent experience.\nProficiency in one or more backend languages such as Java, Scala, or Go.\nHands-on experience in developing and operating backend systems.\nAbility to contribute effectively throughout all project phases, from initial design and development to implementation and ongoing operations, with guidance from senior team members.\nSelf-driven and passionate with a strong focus on delivering impact through team collaboration.\nStrong communication skills, both written and verbal, with the ability to produce clear technical documentation that drives alignment and decision-making.\n\nAbout Databricks\n\nDatabricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.\n\nBenefits\n\nAt Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4462513338",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend role explicitly centers on Java, Scala, or Go; no backend .NET/C# evidence.",
       "validated": null
     },
     {
@@ -144,8 +144,8 @@
       "description": "Das Unternehmen\n\nASSA ABLOY (Schweiz) AG\nist weltweit der kompetente Partner für Absenkdichtungen,Fingerschutz und mechanische und elektromechanische Sicherheitslösungen und bietet damit Lösungen rund um die Türe. Schutz, Sicherheit, Barrierefreiheit und Komfort im Gebäude stehen im Fokus. Das Unternehmen entwickelt, produziert und vertreibt unter den traditionsreichen Marken KESO, MSL und Planet qualitativ hochwertige Produkte und vielseitige Systeme für den privaten, gewerblichen und öffentlichen Bereich.\n\nASSA ABLOY\nist der weltweit führende Hersteller und Lieferant von Schliesslösungen und Sicherheitssystemen, die den hohen Ansprüchen der Kunden an Sicherheit, Schutz und Benutzerfreundlichkeit gerecht werden. Mit 63.000 Mitarbeitenden erwirtschaftet die Gruppe einen Jahresumsatz von 13.2 Milliarden Euro.\n\nAls Senior Software Engineer gestalten Sie aktiv mit:\n\nAnalyse und Spezifikation von fachlichen und technischen Anforderungen\n(Weiter-) Entwicklung von Software-Architekturen\nFullstack-Entwicklung moderner Web-Applikationen mit C# / .NET, MS SQL und Angular\nFehleranalyse und nachhaltige Problembehebung\nAutomatisierung von Build-, Test- und Deployment-Prozessen\nApplication Lifecycle Management\n\nSie bringen Folgendes mit und sind deshalb ein riesiger Mehrwert für uns:\n\nMehrjährige Erfahrung als Software Engineer\nSehr gute Kenntnisse in C# / .NET, MS SQL, Angular und TypeScript\nGute Kenntnisse moderner Software-Architekturen und agiler Entwicklungsmethoden\nErfahrung mit CI/CD und DevOps-Prinzipien\nSehr gute Deutsch- sowie gute Englischkenntnisse\nAusgeprägte analytische und konzeptionelle Fähigkeiten\nHohe Eigenverantwortung, Kommunikationsstärke und Zuverlässigkeit\n\nSie passen zu uns, wenn Sie:\n\nTechnische Herausforderungen mit Neugier und Lösungsorientierung angehen\nÜber den eigenen Aufgabenbereich hinausdenken und das Gesamtsystem im Blick behalten\nAndere durch Ihr Wissen unterstützen und als Sparringspartner zur Verfügung stehen\nFreude an Zusammenarbeit, offener Kommunikation und gegenseitiger Unterstützung haben\nNeue Technologien und Methoden aktiv verfolgen und sinnvoll einsetzen\n\nWas unsere Mitarbeitenden an uns mögen und Sie bestimmt ebenfalls schätzen werden:\n\nInteressante und abwechslungsreiche Tätigkeit in einem dynamischen Umfeld mit Gestaltungsspielraum\nSpannendes Umfeld mit lokalem KMU Flair, aber gleichzeitiger internationaler Konzernausrichtung\nIndividuelle Entwicklungs- und Weiterbildungsmöglichkeiten\nUmfassende Einarbeitung in das Aufgabengebiet\nKollegiales, dynamisches Team mit offener Kommunikationskultur\n\nIhre Ansprechpartnerin\n\nSusanne Brunner\n\nhr.chriw@assaabloy.com\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nWholesale Building Materials",
       "source": "LinkedIn",
       "job_id": "4473746454",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Very good German is explicitly mandatory and the substantive official JD is primarily German.",
       "validated": null
     },
     {
@@ -159,8 +159,8 @@
       "description": "🚀 Ingénieur Backend – .NET (H/F)\n📍 Lieu :\nLausanne\n📅 Début :\nÀ convenir\n⏱️ Taux d'activité :\n100 %\n🏠 Télétravail :\n1 à 2 jours par semaine\n\nPourquoi nous rejoindre ?\n\nVous intégrerez une équipe soudée où l'on échange, où l'on se challenge et où l'on améliore sans cesse ce que l'on construit.\n\n🛠️ Votre rôle\n\nFaire évoluer nos outils et nos processus, et apporter vos idées à nos rituels agiles\nCollaborer au quotidien avec les équipes produit, test et métier pour transformer les besoins en solutions concrètes\nGarantir un code de qualité grâce aux tests automatisés et aux relectures entre pairs\nImaginer et réaliser des services serveur fiables, rapides et sécurisés\nMettre à disposition des interfaces de programmation solides et conformes à nos standards\n\n🎯 Votre profil\n\nLes services web et les API REST n'ont plus de secret pour vous\nVous avez au moins 5 ans d'expérience en développement serveur avec C# / .NET\nLes notions de conception orientée métier et de découpage en couches vous parlent\nVous avez déjà travaillé avec des pipelines de build et de déploiement automatisés\nVous êtes pragmatique, organisé et autonome, et vous aimez le travail d'équipe\nVous êtes diplômé en informatique (haute école, université ou équivalent)\n\n⭐ Un vrai plus\n\nVous connaissez un framework front-end moderne\n\n---\n\n🏢 À propos d'Argosia Consulting\n\nArgosia Consulting est une société de conseil suisse spécialisée dans l'expertise IT et l'ingénierie industrielle 🇨🇭. Nous accompagnons nos clients sur des missions techniques exigeantes. Nos experts s'intègrent rapidement et créent de la valeur dès les premières semaines.\n\nNos valeurs : Exigence · Engagement · Exemplarité\n\nElles guident notre relation avec nos clients comme avec nos candidats et collaborateurs :\nde la rigueur dans notre processus de sélection\nde la transparence à chaque étape\nun engagement sur la durée plutôt qu'un simple placement ponctuel\n\nNotre process\n\n1️⃣ Un premier échange pour comprendre votre parcours, vos attentes et votre disponibilité, et pour vous présenter le projet Argosia\n2️⃣ Une présentation du poste et du contexte client en toute transparence\n3️⃣ Un accompagnement tout au long du processus de sélection, avec des retours à chaque étape\n4️⃣ Un suivi constant pendant toute la durée du projet\n\n📩 Envie d'en savoir plus ou de rejoindre notre réseau de collaborateurs ?\n\nN'hésitez pas à postuler 👉\nFrom vision to outcomes!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nPart-time\n\nIndustries\n\nIT Services and IT Consulting and Financial Services",
       "source": "LinkedIn",
       "job_id": "4472151748",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive JD is primarily French and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -174,9 +174,20 @@
       "description": "Edenred is the leading digital platform for corporate services in the areas of benefits, professional mobility, and B2B payments.\n\nOperating in 44 countries, it connects more than 60 million users to over 2 million partner merchants through more than 1 million client companies.\n\nEdenred offers solutions dedicated to employee engagement (meal vouchers, commuting, gift vouchers, wellness, rewards, and preferential offers to boost purchasing power), mobility (multi-energy solutions, including EV charging, fleet management services, maintenance, toll, and parking), and corporate payments (virtual cards). In addition to its own solutions, Edenred also distributes offers from more than 120 partners on its platform.\n\nTrue to the Group's purpose, \"Enrich connections. For good.\", these solutions enhance users' well-being and purchasing power and simplify the lives of professional drivers while promoting access to healthier food, more environmentally friendly products, and more sustainable mobility. They improve the attractiveness and efficiency of businesses and vitalize the employment market and the local economy.\n\nEdenred's 12,000 employees are committed to making the world of work a connected ecosystem that is safer, more efficient and more responsible every day.\nIn 2024, thanks to its global technology assets, the Group generated a business volume of nearly €45 billion, mainly through mobile applications, online platforms and cards.\nEdenred is listed on the Euronext Paris stock exchange and included in the following indices: CAC Next 20, CAC Large 60, Euronext 100, Euronext Tech Leaders, FTSE4Good, DJSI Europe Index, DJSI World Index, and MSCI Europe.\n\nThe Role\n\nEdenred is a global leader in payment solutions, offering innovative and efficient services that enhance the daily lives of individuals and businesses. As we continue to grow and evolve, we are seeking a talented Level 2 .Net Backend Developer to join our dynamic team.\n\nResponsibilities:\n\nAssist in designing and developing software solutions under guidance.\nWork with the team to implement experiments and learn from data-driven insights.\nWrite clean and maintainable code with support from peers and mentors.\nSeek opportunities to learn from more experienced developers.\nParticipate in code reviews to learn coding standards and improve code quality.\nFollow and adopt best practices in software development.\nContribute to discussions about architecture and design within the team.\nEmbrace a culture of experimentation and continuous improvement by sharing ideas and feedback.\n\nYour Profile:\n\nAs a .Net Backend Developer working in a multidisciplinary squad\n, you will contribute directly to the company wide objectives with your involvement across different team layers.\n3-6 Years experience in .Net Development\nAt the squad layer, you will work with your product, data, and design counterparts and other stakeholders to discover, ideate, conduct experiments, and solve customer problems.\nAt the chapter layer, you will contribute to the backend chapter by supporting its goals and initiatives. You will help with key tasks and collaborate with others to grow your skills while learning from more experienced team members.\n\nTechnical Qualifications:\n\nExperience in C# and .NET (Core, NET 6+)\nUnderstanding of RESTful APIs, including designing and consuming APIs for integration between systems.\nKnowledge of Entity Framework and SQL, including database design and queries.\nUnderstanding of basic software development methodologies and coding best practices.\nInterest or beginner experience in working with hosting and cloud services.\nExposure to .NET testing libraries like XUnit, NSubstitute.\nFamiliarity with event-driven architectures, microservices, or distributed systems is a plus.\n\n*This is a fully remote role*\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media and Financial Services",
       "source": "LinkedIn",
       "job_id": "4473753084",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "3-7 years of backend development experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Level 2 .NET backend developer building and maintaining C#/.NET services and RESTful APIs in a multidisciplinary squad.",
+        "direct_application_link": "https://careers.edenred.ae/jobs/5937082-backend-developer-l2"
+      }
     },
     {
       "company": "Dnipro VC",
@@ -189,8 +200,8 @@
       "description": "Role Description\nThis is a part-time, remote role for a Full Stack Developer at Dnipro VC. The Full Stack Developer will support portfolio companies and internal projects by designing, developing, and maintaining web applications across front-end and back-end layers. Day-to-day tasks include implementing responsive user interfaces, building and integrating APIs, optimizing application performance, and ensuring secure, reliable software solutions. The role involves collaborating with founders and technical teams to refine requirements, troubleshoot issues, and deliver high-quality code aligned with best practices in AI- and cybersecurity-focused environments.\nQualifications\n\nCandidates should possess skills in Front-End Development and Cascading Style Sheets (CSS) to build responsive, user-friendly interfaces.\nCandidates should possess skills in Back-End Web Development and Software Development to design, implement, and maintain server-side logic and integrations.\nCandidates should possess skills in Full-Stack Development to work effectively across the entire application stack and bridge front-end and back-end requirements.\nExperience with modern web frameworks and languages (e.g., JavaScript/TypeScript, React, Node.js, Python, or similar) is highly beneficial.\nUnderstanding of secure coding practices, especially in AI and cybersecurity-related products, is an advantage.\nStrong problem-solving abilities, clean coding habits, and familiarity with version control (e.g., Git) are expected.\nAbility to work independently in a remote setting, communicate clearly with non-technical stakeholders, and manage part-time hours effectively.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nPart-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nVenture Capital and Private Equity Principals",
       "source": "LinkedIn",
       "job_id": "4472176122",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Full-stack role cites JavaScript/TypeScript, React, Node.js, and Python; no backend .NET/C# evidence.",
       "validated": null
     },
     {
@@ -204,8 +215,8 @@
       "description": "Job Description:\n\nMerkle powers the experience economy. For more than 35 years, the company has put people at the heart of its approach to digital business transformation. As the world's only integrated experience consultancy with a heritage in data science and business performance, Merkle delivers holistic, end-to-end experiences that drive growth, engagement, and loyalty. With more than 16,000 employees, Merkle operates in 30+ countries throughout the Americas, EMEA, and APAC.\n\nIn Bulgaria, we manage a global client portfolio, providing a single source of expertise, technology, and operational support. We have a proven track record for delivering, managing, and innovating multi-channel commerce platforms for major international brands and retailers, including adidas, Clarins, ASDA, Shiseido, and more. Our world-class team has delivered sites for over 35 brands, including more than 400 transactional e-commerce sites across 60 locations on 6 continents. Our scope is expanding with new data engineering practices, paid search and social advertising, and SEO. We look forward to what's next.\n\nWe're hiring a Azure Platform Engineer\nas part of Merkle in Sofia.\n\nAbout The Role\n\nWe are looking for an experienced Azure Platform Engineer to help build, configure, and support enterprise-grade Azure platforms. This is a hands-on role focused primarily on Azure PaaS services, requiring someone who can work independently, interpret architecture documentation, and deliver secure, production-ready solutions.\n\nKey Responsibilities\n\nDeploy and manage Azure PaaS services across development, test, and production environments.\nConfigure application hosting services, networking, security, monitoring, and private connectivity.\nImplement Azure platform components according to established architecture and governance standards.\nTroubleshoot platform, networking, and deployment issues.\nEnsure solutions meet security, compliance, and operational requirements.\nDocument implementations and collaborate with architects and engineering teams.\n\nRequired Experience\n\nStrong hands-on experience with Azure PaaS services.\nExperience deploying and supporting enterprise-scale Azure environments.\nAbility to work independently with minimal guidance.\nStrong knowledge of Azure networking, security, and platform services.\n\nTechnical Skills\n\nExperience with most of the following:\n\nAzure App Service, Functions, Container Apps, Container Registry\nAzure Front Door, WAF, API Management\nVirtual Networks, NSGs, NAT Gateway, Private Endpoints, Private DNS\nManaged Identity, Key Vault, App Configuration\nAzure SQL, Storage Accounts, Data Factory\nApplication Insights, Log Analytics, Azure Monitoring and Alerting\n\nNice to Have\n\nKnowledge aligned with:\n\nAZ-104 Azure Administrator\nAZ-500 Azure Security Engineer\nAZ-700 Azure Network Engineer\nAZ-305 Azure Solutions Architect\n\nWhat do we offer:\n\nWe are huge believers in the balance of work, so we offer all our employees 25 days of paid leave and 3 fixed well-being days off a year.\nA hybrid work model for our teams so they can work from the office or the comfort of their home.\nFree parking spaces for all our employees working from the office.\nComplimentary drinks and snacks in the office to keep the energy levels up.\nParent-friendly culture and potential for additional days off to create new memories with your loved ones.\nLife Insurance, Health and dental insurance plan or, if selected, gift vouchers instead.\nSports card, partially covered by the company and food vouchers.\n2 days off for volunteering and numerous charity initiatives throughout the year.\nOpportunity to attend training, conferences and get certification sponsored by the company upon availability and business need.\n\nAbout dentsu:\n\nTaking a people-centred approach to business transformation, we use insights to connect brand, content, commerce and experience, underpinned by modern creativity. As part of Dentsu Group Inc., we are headquartered in Tokyo, Japan, and our 65,000-employee base of dedicated professionals works across four regions (Japan, Americas, EMEA and APAC). Dentsu combines Japanese innovation with a diverse, global perspective to drive client growth and to shape society.\n\nLocation:\n\nSofia\n\nBrand:\n\nIsobar Cxm\n\nTime Type:\n\nFull time\n\nContract Type:\n\nPermanent\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nJob function\n\nEngineering and Information Technology\n\nIndustries\n\nAdvertising Services",
       "source": "LinkedIn",
       "job_id": "4473743632",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily Azure platform/infrastructure engineering, not backend .NET/C# development.",
       "validated": null
     }
   ]
