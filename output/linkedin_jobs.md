@@ -1,48 +1,84 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-09-30 20:40 UTC*
+*Last updated: 2026-09-30 21:34 UTC*
 
-**11 new role(s)** since last run · 237 total in last 6h
+**20 new role(s)** since last run · 164 total in last 6h
 
-### [Senior C# Developer (m/f/d)](https://www.linkedin.com/jobs/view/4472340408/) — SWARCO ITS
-- 📍 **Location:** Berlin, Berlin, Germany
+### [.NET Engineer](https://www.linkedin.com/jobs/view/4468601436/) — PGGM
+- 📍 **Location:** Zeist, Utrecht, Netherlands
 - 🕒 **Posted:** 2026-09-30
 
-### [Consulting Engineer](https://www.linkedin.com/jobs/view/4465046326/) — MongoDB
-- 📍 **Location:** Berlin, Germany
+### [Senior Full Stack Developer](https://www.linkedin.com/jobs/view/4473937829/) — All About Work
+- 📍 **Location:** Amsterdam, North Holland, Netherlands
 - 🕒 **Posted:** 2026-09-30
 
-### [Actuarial Engineer, 3219](https://www.linkedin.com/jobs/view/4447901568/) — Hannover Re
-- 📍 **Location:** Hannover, Lower Saxony, Germany
+### [Azure Integratie Engineer](https://www.linkedin.com/jobs/view/4473954265/) — All About Work
+- 📍 **Location:** Amsterdam, North Holland, Netherlands
 - 🕒 **Posted:** 2026-09-30
 
-### [Solution Architect](https://www.linkedin.com/jobs/view/4468776304/) — emagine
+### [Senior Test Engineer](https://www.linkedin.com/jobs/view/4472346717/) — Fractal
+- 📍 **Location:** Amsterdam, North Holland, Netherlands
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Java Developer](https://www.linkedin.com/jobs/view/4468771378/) — emagine
 - 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-09-30
 
-### [Intermediate .NET Developer – 1 Year Contract](https://www.linkedin.com/jobs/view/4473921970/) — Vantage
+### [Full Stack Java Developer](https://www.linkedin.com/jobs/view/4468780252/) — emagine
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-09-30
+
+### [Java Developer](https://www.linkedin.com/jobs/view/4468780251/) — emagine
+- 📍 **Location:** Gdańsk, Pomorskie, Poland
+- 🕒 **Posted:** 2026-09-30
+
+### [SAP BTP Developer - AI & Agentic Applications](https://www.linkedin.com/jobs/view/4472343594/) — emagine
+- 📍 **Location:** Poland
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Full-Stack Developer – .NET / Angular / Azure](https://www.linkedin.com/jobs/view/4472344284/) — Aurora Engineering AB
+- 📍 **Location:** Stockholm, Stockholm County, Sweden
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4473950650/) — CGI
+- 📍 **Location:** Greater Malmö Metropolitan Area
+- 🕒 **Posted:** 2026-09-30
+
+### [Engineering Manager till Hogia Redovisning & Revision](https://www.linkedin.com/jobs/view/4433197259/) — Hogia Group
+- 📍 **Location:** Stenungsund, Västra Götaland County, Sweden
+- 🕒 **Posted:** 2026-09-30
+
+### [REC_Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4473954594/) — CGI
+- 📍 **Location:** Greater Malmö Metropolitan Area
+- 🕒 **Posted:** 2026-09-30
+
+### [Principal Data Architect](https://www.linkedin.com/jobs/view/4468776307/) — emagine
+- 📍 **Location:** Greater Stockholm Metropolitan Area
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior T24 Architect (Temenos Transact)](https://www.linkedin.com/jobs/view/4468776303/) — emagine
+- 📍 **Location:** Stockholm, Stockholm County, Sweden
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Software Developer - Dublin, Ireland (m/f/x)*](https://www.linkedin.com/jobs/view/4473960104/) — Solventum
 - 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-09-30
 
-### [Manager, Engineering](https://www.linkedin.com/jobs/view/4446364137/) — MongoDB
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Software Engineer – Renewable Energy Platforms](https://www.linkedin.com/jobs/view/4472346547/) — Centrica Energy
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-09-30
 
-### [Bliv Software Engineer til Case Management løsninger i en foreningsejet Nykredit-koncern](https://www.linkedin.com/jobs/view/4469611369/) — Nykredit
-- 📍 **Location:** Aalborg, North Denmark Region, Denmark
+### [Developer Power Platform/Dynamics 365](https://www.linkedin.com/jobs/view/4473910062/) — ENCAMINA
+- 📍 **Location:** Madrid, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4473938386/) — nShift
-- 📍 **Location:** Bucharest, Bucharest, Romania
+### [DevOps Support Engineer](https://www.linkedin.com/jobs/view/4472332959/) — Nimber
+- 📍 **Location:** Porto, Portugal
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4472620823/) — Hayat
-- 📍 **Location:** Istanbul, Türkiye
+### [Application Support Engineer](https://www.linkedin.com/jobs/view/4472337881/) — Nimber
+- 📍 **Location:** Porto, Portugal
 - 🕒 **Posted:** 2026-09-30
 
-### [Power Platform Expert](https://www.linkedin.com/jobs/view/4473931638/) — Kanadevia Inova
-- 📍 **Location:** Zurich, Zurich, Switzerland
-- 🕒 **Posted:** 2026-09-30
-
-### [SAP iXP Intern Developer in Cloud Lifecycle Engeneering](https://www.linkedin.com/jobs/view/4464100211/) — SAP
-- 📍 **Location:** Sofia, Sofia City, Bulgaria
+### [Back End Developer](https://www.linkedin.com/jobs/view/4473958676/) — XML International
+- 📍 **Location:** Budapest, Hungary
 - 🕒 **Posted:** 2026-09-30
