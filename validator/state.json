@@ -50897,6 +50897,42 @@
       "location": "Lund, M, SE",
       "canonical_url": "https://se.indeed.com/viewjob?jk=11141b72bcd9d345",
       "reported_at": "2026-09-30T11:01:08+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472135259",
+      "company": "AgileGrid Solutions",
+      "title": "System Engineer",
+      "location": "Germany",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472135259/",
+      "reported_at": "2026-09-30T13:01:02+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472145213",
+      "company": "Betty",
+      "title": "Back-end Software Engineer | Betty UK",
+      "location": "Sofia, Sofia City, Bulgaria",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472145213/",
+      "reported_at": "2026-09-30T13:01:02+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472138176",
+      "company": "Man Group",
+      "title": "Full-Stack Engineer",
+      "location": "Sofia, Sofia City, Bulgaria",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472138176/",
+      "reported_at": "2026-09-30T13:01:02+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4460503318",
+      "company": "Qliro",
+      "title": "Software Engineer - Payment platform (Backend)",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4460503318/",
+      "reported_at": "2026-09-30T13:01:02+03:00"
     }
   ]
 }
