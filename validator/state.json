@@ -49835,6 +49835,51 @@
       "location": "Manama, B13, BH",
       "canonical_url": "https://bh.indeed.com/viewjob?jk=7328118f31a059db",
       "reported_at": "2026-09-29T21:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4455728874",
+      "company": "Samba",
+      "title": "Software Engineer",
+      "location": "Porto, Portugal",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4455728874/",
+      "reported_at": "2026-09-30T07:01:06+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "8fae09805cc35f00",
+      "company": "Capgemini",
+      "title": "Senior Software Engineer",
+      "location": "Manchester, ENG, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=8fae09805cc35f00",
+      "reported_at": "2026-09-30T07:01:06+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4388517034",
+      "company": "Devoteam",
+      "title": "Telecom Sector | Senior .NET Developer",
+      "location": "Lisbon, Lisbon, Portugal",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4388517034/",
+      "reported_at": "2026-09-30T07:01:06+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4473296396",
+      "company": "KPMG Luxembourg",
+      "title": "Senior Adviser - Business Solutions Engineer (Investment Services) (m/f/d)",
+      "location": "Luxembourg, Luxembourg, Luxembourg",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4473296396/",
+      "reported_at": "2026-09-30T07:01:06+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "62d38b1452b417d5",
+      "company": "Liverpool University Hospitals NHS Foundation Trust",
+      "title": "Software / Systems Developer",
+      "location": "Liverpool, ENG, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=62d38b1452b417d5",
+      "reported_at": "2026-09-30T07:01:06+03:00"
     }
   ]
 }
