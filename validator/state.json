@@ -51177,6 +51177,78 @@
       "location": "Singapore, S00, SG",
       "canonical_url": "https://sg.indeed.com/viewjob?jk=a2fdfb88c943f69a",
       "reported_at": "2026-09-30T14:01:01+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472144511",
+      "company": "Ampstek",
+      "title": ".NET Full Stack Developer (Angular)",
+      "location": "Gothenburg, Västra Götaland County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472144511/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4473743283",
+      "company": "Caixa Mágica Software",
+      "title": "C# Developer",
+      "location": "Lisbon, Portugal",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4473743283/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4461205374",
+      "company": "EthiFinance",
+      "title": "Senior Software Engineer",
+      "location": "Frankfurt, Hesse, Germany",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4461205374/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4473730939",
+      "company": "EthiFinance",
+      "title": "Senior Software Engineer",
+      "location": "Madrid, Community of Madrid, Spain",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4473730939/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472141673",
+      "company": "Gomocha",
+      "title": "Gomocha FSP Software Engineer",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472141673/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472134872",
+      "company": "Kintec Global Recruitment",
+      "title": "Full Stack Engineer",
+      "location": "Solna, Stockholm County, Sweden",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472134872/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472148254",
+      "company": "QuaDigi",
+      "title": "Full Stack Engineer",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472148254/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472137799",
+      "company": "pps.",
+      "title": "Senior .NET Engineer",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472137799/",
+      "reported_at": "2026-09-30T15:01:04+03:00"
     }
   ]
 }
