@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8ab7bf50ac69c0c3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Python is the required development language; no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cb2f21b91e3b1d41",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Go is explicitly the primary backend language; .NET is secondary in the stack.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "59868865340349fb",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily platform engineering rather than backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f4e49cf3fa657f95",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: .NET is only a preferred skill; no required backend/server-side .NET role is established.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "628ceda748ed7f8b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Development stack is Kotlin, Python, TypeScript, React/NextJS and Spring Boot; no backend .NET evidence.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ac8cfb59ccb70fd8",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is software system engineering for MRI integration, reliability and testing; no backend/server-side .NET development evidence.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d03721865b4f2e48",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Official role centers on customer application interfaces; no backend/server-side .NET development evidence.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "498cb7b73265b7a5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Official role develops safety engineering environments/tools with C/C++ or C#; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c64d90c1a60ee612",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend development is explicitly Python/FastAPI; no backend .NET evidence.",
       "validated": null
     },
     {
@@ -229,8 +229,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "63999faeb08a2eac",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is B2B software sales, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -252,8 +252,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "df255fe4b6e73830",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is B2B software sales, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -275,8 +275,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e2678734fce208ef",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is B2B software sales, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -298,8 +298,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "81754ff291cff0c8",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is student software/AI consulting with C# only one example language; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -321,8 +321,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7dc077d4c82b314d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is Unity playable-ad/mobile creative development, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -344,8 +344,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "79f3f50887b0f567",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role develops lab-instrument control/analysis software and UI; no backend/server-side .NET development evidence.",
       "validated": null
     },
     {
@@ -367,8 +367,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "eab9d0649e34f137",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is PLC/industrial automation engineering; C#/.NET is only a plus.",
       "validated": null
     },
     {
@@ -390,8 +390,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4ff38210239ee3f2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on C/C++ software components; no backend/server-side .NET development evidence.",
       "validated": null
     },
     {
@@ -413,8 +413,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "dda21fc1e04d9a2f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Student role covers small sample projects with beginner C# among alternatives; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -436,8 +436,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "234ef47281bd4576",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is technical product support with C++/C#/JavaScript; no backend/server-side .NET development evidence.",
       "validated": null
     },
     {
@@ -459,9 +459,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "62d38b1452b417d5",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack software/systems development role building web applications and bespoke applications with C#, SQL and related Microsoft technologies; backend work is explicitly part of the role.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=62d38b1452b417d5"
+      }
     },
     {
       "company": "Capgemini",
@@ -482,9 +493,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8fae09805cc35f00",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack .NET engineering role building scalable applications, services and integrations with C#, .NET, APIs and relational databases.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=8fae09805cc35f00"
+      }
     },
     {
       "company": "AECOM",
@@ -505,8 +527,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "78477fd65a5a942f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is public-health/civil building-services engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -528,9 +550,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d356bb10f8062e9e",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack .NET engineering role building scalable applications, services and integrations with C#, .NET, APIs and relational databases.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=d356bb10f8062e9e"
+      }
     },
     {
       "company": "Sainsbury’s",
@@ -551,9 +584,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6c8b37304142195a",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Commercial experience or strong academic background in software engineering or computer science.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Associate software engineering role contributing to C#/.NET applications, APIs, microservices and event-driven systems across the engineering lifecycle.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=6c8b37304142195a"
+      }
     },
     {
       "company": "EQUISOFT",
@@ -574,9 +618,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a7ea1e027713a421",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Around 3–5 years’ experience as a developer (or equivalent capability).",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack SaaS developer role with most development time in .NET/C#, alongside React/JavaScript and SQL Server.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=a7ea1e027713a421"
+      }
     },
     {
       "company": "EQUISOFT",
@@ -597,9 +652,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4cccdcf4585918ac",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Around 3–5 years’ experience as a developer (or equivalent capability).",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full-stack SaaS developer role with most development time in .NET/C#, alongside React/JavaScript and SQL Server.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=4cccdcf4585918ac"
+      }
     },
     {
       "company": "Seccl",
@@ -620,8 +686,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d6a8871e7683d559",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: TypeScript/Node.js is the primary backend stack; C# services are explicitly a small minority.",
       "validated": null
     },
     {
@@ -643,8 +709,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f798b933152081c7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is semiconductor process engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -666,8 +732,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "32ae879411ca03d1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role develops control software for scientific equipment with C#/C++/C; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -689,8 +755,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "dd06284e891db3d3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is civil engineering for water infrastructure, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -712,8 +778,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1f6885ac94053576",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is civil engineering for water infrastructure, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -735,8 +801,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5f38be3d740f729c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role explicitly builds JavaScript/Node.js microservices; no backend .NET evidence.",
       "validated": null
     },
     {
@@ -758,8 +824,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d06688c41afe636f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: PHP/Laravel is the required backend stack; .NET is only desirable.",
       "validated": null
     },
     {
@@ -781,8 +847,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "37b092f15e6124af",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Job explicitly requires all applicants to demonstrate the right to work in the UK.",
       "validated": null
     },
     {
@@ -804,9 +870,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "27a8760fb6c2db1a",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software engineering graduate/internship opportunity whose stated backend stack includes C#, ASP.NET Core, EF Core, GraphQL and REST.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=27a8760fb6c2db1a"
+      }
     },
     {
       "company": "Benifex",
@@ -827,8 +904,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "137e6b679430fe1c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Confirmed official posting explicitly requires the worker to be based in the UK or Ireland.",
       "validated": null
     },
     {
@@ -850,8 +927,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2f5e36b4cf23f53a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is general forward-deployed software engineering across multiple languages; no backend/server-side .NET requirement is established.",
       "validated": null
     },
     {
@@ -873,8 +950,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0fe758386e201545",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is React Native mobile application engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -896,8 +973,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f125742d300e423a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is platform/DevOps infrastructure engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -919,8 +996,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "11ce54bed9f41c10",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is platform/cloud/DevOps engineering; C# is only one possible scripting/programming language.",
       "validated": null
     },
     {
@@ -942,8 +1019,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e4d88819e29ebd6d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Swedish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -965,8 +1042,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "035e54e29e52ea73",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Swedish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -988,8 +1065,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fc95f85091fd1073",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Swedish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -1011,9 +1088,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "65ef1e671601d509",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software engineering role building and operating C#/.NET 8 backend services, APIs and microservices for IKEA range operations.",
+        "direct_application_link": "https://se.indeed.com/viewjob?jk=65ef1e671601d509"
+      }
     },
     {
       "company": "Deploja AB",
@@ -1034,8 +1122,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0e0fa30a9fa326c4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Swedish is explicitly mandatory for this backend .NET role.",
       "validated": null
     },
     {
@@ -1057,9 +1145,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2a0d2d61b0e262db",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software engineering role developing and delivering Ongoing Warehouse solutions with C#/.NET and SQL Server in a professional-services team.",
+        "direct_application_link": "https://se.indeed.com/viewjob?jk=2a0d2d61b0e262db"
+      }
     },
     {
       "company": "Electricity Supply Board (ESB)",
@@ -1080,8 +1179,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1f05008fc2ea55cb",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is energy-infrastructure project engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -1103,8 +1202,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2bd3abb92adc36c1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is senior civil engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -1126,8 +1225,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "833b8ea79c9db17c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Job explicitly requires the employee to live within commuting distance of the Dublin office.",
       "validated": null
     },
     {
@@ -1149,8 +1248,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3108d7f9d9318c7c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role develops desktop/GUI engineering software with C#/.NET and WPF; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -1172,8 +1271,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b11d6312836adfbf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is manufacturing test software engineering with Python/C/C++; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -1195,8 +1294,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "15a3502aaff8fab8",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is manufacturing systems engineering; no backend/server-side .NET development requirement is established.",
       "validated": null
     },
     {
@@ -1218,9 +1317,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7b5b0dd022fad1b4",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack .NET engineering role building scalable applications, services and integrations with C#, .NET, APIs and relational databases.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=7b5b0dd022fad1b4"
+      }
     },
     {
       "company": "Microsoft",
@@ -1241,8 +1351,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "21d760a50b376eda",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is distributed-systems engineering across C/C++/C#; no backend/server-side .NET requirement is established.",
       "validated": null
     },
     {
@@ -1264,8 +1374,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6bbcd02f2faaa5e0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is civil engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -1287,8 +1397,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9a949ad063f1c405",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is DevOps/infrastructure engineering, not backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -1310,8 +1420,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ddad75e8c2f5fac3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Confirmed official posting says backend systems are built mostly in Rust; no backend .NET evidence.",
       "validated": null
     },
     {
@@ -1333,8 +1443,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "baf4f47fe27b84a4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Dutch and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -1356,8 +1466,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "16407fdd58e82e09",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive job description is primarily Dutch and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -1379,8 +1489,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "31eeee782f9b8899",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Confirmed official posting lists C#/.NET only as an ideal technology; backend/server-side .NET is not required.",
       "validated": null
     },
     {
