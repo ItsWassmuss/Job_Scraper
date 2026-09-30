@@ -8869,6 +8869,31 @@
       "job_id": "1eb6d7a5e33be3a8",
       "job_url": "https://ch.indeed.com/viewjob?jk=1eb6d7a5e33be3a8",
       "seen_at": "2026-09-30T14:51:15+03:00"
+    },
+    {
+      "job_id": "1777e05fcfd47055",
+      "job_url": "https://nl.indeed.com/viewjob?jk=1777e05fcfd47055",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "19af5275ce55e2c2",
+      "job_url": "https://nl.indeed.com/viewjob?jk=19af5275ce55e2c2",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "6cdaa3e08465abf3",
+      "job_url": "https://de.indeed.com/viewjob?jk=6cdaa3e08465abf3",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "80059f5a81bd2806",
+      "job_url": "https://pl.indeed.com/viewjob?jk=80059f5a81bd2806",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "d684b8d1ece82d81",
+      "job_url": "https://cz.indeed.com/viewjob?jk=d684b8d1ece82d81",
+      "seen_at": "2026-09-30T15:36:54+03:00"
     }
   ],
   "seen_linkedin": [
@@ -36946,6 +36971,31 @@
       "job_id": "4454265526",
       "job_url": "https://www.linkedin.com/jobs/view/4454265526/",
       "seen_at": "2026-09-30T14:51:15+03:00"
+    },
+    {
+      "job_id": "4462513338",
+      "job_url": "https://www.linkedin.com/jobs/view/4462513338/",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "4473746454",
+      "job_url": "https://www.linkedin.com/jobs/view/4473746454/",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "4472151748",
+      "job_url": "https://www.linkedin.com/jobs/view/4472151748/",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "4472176122",
+      "job_url": "https://www.linkedin.com/jobs/view/4472176122/",
+      "seen_at": "2026-09-30T15:36:54+03:00"
+    },
+    {
+      "job_id": "4473743632",
+      "job_url": "https://www.linkedin.com/jobs/view/4473743632/",
+      "seen_at": "2026-09-30T15:36:54+03:00"
     }
   ],
   "reported": [
