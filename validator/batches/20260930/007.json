@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-09-30T12:40:44+03:00",
+  "job_count": 1,
+  "finalized": false,
+  "jobs": [
+    {
+      "company": "ST Engineering",
+      "title": "Senior Web Developer (React / C#, MSSQL)",
+      "location": "Singapore, S00, SG",
+      "url": "https://sg.indeed.com/viewjob?jk=a2fdfb88c943f69a",
+      "direct_url": "https://careers.stengg.com/job/ST-Electronics-Hub-Senior-Web-Developer-%28React-C%2C-MSSQL%29/1368138866/",
+      "company_url": "https://sg.indeed.com/cmp/St-Engineering-7",
+      "date_posted": "2026-09-30",
+      "description": "Job ID: 23024\nLocation:\nST Electronics Hub, SG\nDescription:\n**About ST Engineering**\n\n\n\nST Engineering is a global technology, defence, and engineering group with offices across Asia, Europe, the Middle East, and the U.S., serving customers in more than 100 countries. The Group uses technology and innovation to solve real\\-world problems and improve lives through its diverse portfolio of businesses across the aerospace, smart city, defence, and public security segments. Headquartered in Singapore, ST Engineering ranks among the largest companies listed on the Singapore Exchange.\n\n\n\nOur history spans more than 50 years, and our strategy is underpinned by our core values – Integrity, Value Creation, Courage, Commitment and Compassion. These 5 core values guide every aspect of our business and are embedded in our ST Engineering culture – from the people we hire, to working with each other, to our partners and customers\n\n\n**About our Line of Business \\- Training \\& Simulation Systems**\n\n\n\nOur Training \\& Simulation Systems business has close to 40 years of experience in delivering innovative learning, training, and simulation solutions to customers in the defence, public safety and security, and enterprise domains. We envision to create a better future together through learning, training, and simulation.\n\n\n**Together, We Can Make A Significant Impact**\n\n\n\nResponsible for developing, testing, and maintaining C\\#.NET/ JavaScript application for new and existing projects as well as participating in the design and planning of new software features. Integrating basic AI\\-driven capabilities to enhance user experience and automation.\n\n  \n\n  \n\n**Be Part of Our Success**\n\n  \n\n* To design, build, and maintain a reusable and robust code using C\\#.NET for backend services.• Design and implement database schemas, write complex queries, and optimize SQL database performance.\n* To develop and maintain a responsive and user\\-centric front\\-end application using React and JavaScript.\n* Develop and consume gRPC API services and ensure seamless integration between front\\-end and back\\-end systems.\n* Write unit and integration test to ensure code quality and reliability\n* Contribute to continuous improvement in the team by suggesting and implementing process enhancements.\n* Collaborate with cross\\-functional teams to work closely with product managers, designers, and other developers to translate business requirements into technical solutions.\n* Integrate AI services into applications where applicable.\n* Implement AI\\-powered features.\n* Collaborate with team members to incorporate AI solutions into existing systems.\n\n  \n\n  \n\n**Qualities We Value**\n\n  \n\n* Minimum 4 years of experience as a software developer• Experience in full\\-stack development\n* Knowledge in technologies such as C\\#.NET and SQL database\n* Hands\\-on experience with front\\-end frameworks such as React and JavaScript\n* Ability to adapt quickly to tackle challenges using problem\\-solving approach\n* Understanding in Git/Azure DevOps for team collaboration\n* Has a strong interpersonal skill and able to simplify technical concerns for easy understanding between team members.\n* Basic understanding or exposure to AI/Generative AI concepts is a plus.\n* Familiarity with AI services is advantageous.\n\n\n**Our Commitment That Goes Beyond the Norm**\n\n\n* An environment where you will be working on cutting\\-edge technologies and architectures.\n* Safe space where diverse perspectives are valued, and everyone’s unique contributions are celebrated.\n* Meaningful work and projects that make a difference in people’s lives.\n* A fun, passionate and collaborative workplace.\n* Competitive remuneration and comprehensive benefits.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "a2fdfb88c943f69a",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
