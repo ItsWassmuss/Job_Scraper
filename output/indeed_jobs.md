@@ -1,173 +1,142 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-30 02:17 UTC*
+*Last updated: 2026-09-30 07:18 UTC*
 
-**30 new role(s)** since last run · 221 total in last 24h
+**25 new role(s)** since last run · 233 total in last 24h
 
-### [AI Engineer](https://nl.indeed.com/viewjob?jk=64fd02ca9dacd72a) — Unknown
-- 📍 **Location:** Den Haag, ZH, NL
+### [System engineer applicatie packager](https://nl.indeed.com/viewjob?jk=519b34be39c574e7) — Belastingdienst
+- 📍 **Location:** Apeldoorn, GE, NL
 - **Work mode:** On-site
 - **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Netwerk engineer Automation](https://nl.indeed.com/viewjob?jk=fe6bc9342ddd0585) — Kamer van Koophandel
-- 📍 **Location:** Utrecht Binnenstad, UT, NL
+### [Technisch architect douane](https://nl.indeed.com/viewjob?jk=e01108c3beb70193) — Belastingdienst
+- 📍 **Location:** Apeldoorn, GE, NL
 - **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Netwerk engineer Cisco ACI](https://nl.indeed.com/viewjob?jk=cb409f47255c0e27) — Kamer van Koophandel
-- 📍 **Location:** Utrecht Binnenstad, UT, NL
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Senior Controls Engineer - Sustaining](https://uk.indeed.com/viewjob?jk=bae448454eede1c3) — Atlas Copco Group
+- 📍 **Location:** Bristol, ENG, GB
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-29
 
-### [Netwerk engineer Netscaler (SDX)](https://nl.indeed.com/viewjob?jk=05d36fbca5eb847e) — Kamer van Koophandel
-- 📍 **Location:** Utrecht Binnenstad, UT, NL
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Controls Engineer](https://uk.indeed.com/viewjob?jk=7bf032139552fdad) — Atlas Copco Group
+- 📍 **Location:** Bristol, ENG, GB
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Engineer](https://nl.indeed.com/viewjob?jk=2d09522c1ef8d055) — TenneT
-- 📍 **Location:** Arnhem, GE, NL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
-
-### [.NET Developer](https://nl.indeed.com/viewjob?jk=1fab0b05b5e04297) — Nederpelt Software
-- 📍 **Location:** Wateringen, ZH, NL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Developer (f/m/d)–Compiler Engineering](https://de.indeed.com/viewjob?jk=af89cbd58327e3c9) — Siemens
-- 📍 **Location:** Erlangen, BY, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Developer (f/m/d) – Online & Debug](https://de.indeed.com/viewjob?jk=ae256563f2838d87) — Siemens
-- 📍 **Location:** Erlangen, BY, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Civil Project Engineer](https://uk.indeed.com/viewjob?jk=e0bb8be3043ba9a6) — SSE PLC
-- 📍 **Location:** Perth, SCT, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Civil Project Engineer](https://uk.indeed.com/viewjob?jk=132681392b648932) — SSE PLC
-- 📍 **Location:** Inverness, SCT, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Civil Project Engineer](https://uk.indeed.com/viewjob?jk=7d5bdb87576d4826) — SSE PLC
-- 📍 **Location:** Glasgow, SCT, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Civil Project Engineer](https://uk.indeed.com/viewjob?jk=771668bf78c71045) — SSE PLC
-- 📍 **Location:** Aberdeen, SCT, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior Java Developer - Rates Intraday Risk Technology](https://uk.indeed.com/viewjob?jk=c8a0a8c974032a85) — Nomura
+### [Senior Test Automation Engineer](https://uk.indeed.com/viewjob?jk=58f1d30f94377917) — Expleo Group
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-29
 
-### [Senior Animation Engineer | Unity3D | Remote | Stylized Games](https://pl.indeed.com/viewjob?jk=1c9219bbab32b74f) — Beffio
-- 📍 **Location:** Poznań, WP, PL
+### [Software Test Automation Engineer](https://uk.indeed.com/viewjob?jk=10c7e68f608e08db) — Atlas Copco Group
+- 📍 **Location:** Eastbourne, ENG, GB
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-28
 
-### [Senior VFX Engineer | Unity3D | Remote | Stylized Games](https://pl.indeed.com/viewjob?jk=6ac903e26b089b70) — Beffio
-- 📍 **Location:** Poznań, WP, PL
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-29
+### [Software Manager](https://uk.indeed.com/viewjob?jk=40d952edae7499a4) — Atlas Copco Group
+- 📍 **Location:** Eastbourne, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Data engineer](https://se.indeed.com/viewjob?jk=09bd154451505ffc) — Thermo Fisher Scientific
+### [DevOps Engineer, Engineering Excellence](https://se.indeed.com/viewjob?jk=966d3292e5a6ecdf) — If Skadeförsäkring
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Staff Data Engineer](https://se.indeed.com/viewjob?jk=e63ac007fa995edf) — Thermo Fisher Scientific
 - 📍 **Location:** Uppsala, C, SE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Full-stack Developer -- Develop NODES Trading Platform](https://no.indeed.com/viewjob?jk=72fd32953ed18c1c) — DeepOcean
-- 📍 **Location:** Lysaker, N30, NO
+### [Senior Software Engineer](https://se.indeed.com/viewjob?jk=11141b72bcd9d345) — Schneider Electric
+- 📍 **Location:** Lund, M, SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer (React, Node.js)](https://sg.indeed.com/viewjob?jk=be6acc24b8371b81) — Capgemini
+- 📍 **Location:** SG
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [Research Fellow (Computer Science/Statistics/Electronics Engineering)](https://sg.indeed.com/viewjob?jk=d5244c216c938a26) — Nanyang Technological University
+- 📍 **Location:** Nanyang Avenue, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Computer & Instrumentation Engineer](https://sg.indeed.com/viewjob?jk=51a85f53f6ffe177) — wetec
+- 📍 **Location:** Bukit Batok, S00, SG
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-30
 
-### [Field Engineer & Graduate Engineers | Ågotnes](https://no.indeed.com/viewjob?jk=51c5a84ceae4c032) — DeepOcean
-- 📍 **Location:** Bergen, N46, NO
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Senior CIMMES Software Engineer](https://sg.indeed.com/viewjob?jk=88a658bd7e29ab7b) — Unknown
+### [Robotics Software Engineer (Fleet Management)](https://sg.indeed.com/viewjob?jk=46b3fdf6d307b7e0) — PERSOL
 - 📍 **Location:** Singapore, S00, SG
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer (C++/Unreal Engine)](https://sg.indeed.com/viewjob?jk=658186f9220aa3ec) — TALENTSIS PTE. LTD.
-- 📍 **Location:** Singapore, S00, SG
+### [Software Engineer](https://sg.indeed.com/viewjob?jk=e71156a46a6f9e21) — MEGA PLUS TECHNOLOGY PRIVATE LIMITED
+- 📍 **Location:** Yishun, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Controls & Automation Engineer (PLC)](https://sg.indeed.com/viewjob?jk=d86344ff24a0b5bc) — Recruit Expert Pte. Ltd.
-- 📍 **Location:** Outram, S00, SG
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Developers [MANY OPENINGS]](https://sg.indeed.com/viewjob?jk=5c2a2b3892a4ee14) — TALENTSIS PTE. LTD.
-- 📍 **Location:** Singapore, S00, SG
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Full Stack Software Engineer](https://sg.indeed.com/viewjob?jk=f71166cf5c2813bf) — VINOVA PTE. LTD.
+### [Application Engineer (MNC)(Kallang) (Semicon)](https://sg.indeed.com/viewjob?jk=e0039c251dc6da36) — RS RECRUITMENT AGENCY LLP
 - 📍 **Location:** Toa Payoh, S00, SG
 - **Work mode:** On-site
-- **Job type:** contract
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Solutions Architect - AWS](https://sg.indeed.com/viewjob?jk=7ed9e5e8f7721ace) — HYPERSCAL SOLUTIONS PTE. LTD.
-- 📍 **Location:** Bugis, S00, SG
+### [Full Stack Engineer - #1439](https://sg.indeed.com/viewjob?jk=0727b5e390281e74) — JOBSTER PRIVATE LTD.
+- 📍 **Location:** Singapore, S00, SG
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-09-29
+
+### [Automation Engineer (Field Service)](https://sg.indeed.com/viewjob?jk=d7b4794493e394f8) — Innowave Tech Pte. Ltd.
+- 📍 **Location:** Geylang, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer](https://sg.indeed.com/viewjob?jk=c1b531f919d7efcf) — ALC TECHNOLOGIES SG PTE. LTD.
-- 📍 **Location:** River Valley, S00, SG
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer](https://sg.indeed.com/viewjob?jk=b952f676259be723) — ALC TECHNOLOGIES SG PTE. LTD.
-- 📍 **Location:** River Valley, S00, SG
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
-
-### [BACKEND ENGINEER - SPORTS BETTING (LIEGE - BELGIUM)](https://be.indeed.com/viewjob?jk=2ea246dd1fc59aa3) — GAMING1
-- 📍 **Location:** Liège, WAL, BE
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-29
-
-### [Engineering Multidiscipline Graduate Programme, Belgium, 2027](https://be.indeed.com/viewjob?jk=cee050e33964d997) — GSK
-- 📍 **Location:** Wavre, WAL, BE
+### [Senior/Software Engineer (PC Software)](https://sg.indeed.com/viewjob?jk=82f6f5597808a076) — MERRY ELECTRONICS (SINGAPORE) PTE. LTD.
+- 📍 **Location:** Choa Chu Kang, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-28
 
-### [BACKEND ENGINEER - SPORTS BETTING](https://be.indeed.com/viewjob?jk=27766e6e4fecaf9d) — GAMING1
-- 📍 **Location:** Liège, WAL, BE
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-29
-
-### [.NET Senior – Banca](https://es.indeed.com/viewjob?jk=729f532a7400ae3a) — IT Partner España
-- 📍 **Location:** Madrid, MD, ES
+### [AI Engineer](https://sg.indeed.com/viewjob?jk=6b27ff299158e27c) — O2O Technologies
+- 📍 **Location:** Outram, S00, SG
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-29
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Senior .NET Developer (Aftermarket Applications)](https://be.indeed.com/viewjob?jk=24440b3cada5ad2f) — Atlas Copco Group
+- 📍 **Location:** Antwerpen, VLG, BE
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-14
+
+### [Fullstack Developer - Flutter, .NET & Connected Devices (SMARTLINK IoT Mobile)](https://be.indeed.com/viewjob?jk=430916510462783a) — Atlas Copco Group
+- 📍 **Location:** Wilrijk, VLG, BE
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-09
+
+### [Senior .NET Developer (SMARTLINK IoT platform)](https://be.indeed.com/viewjob?jk=a1df35f622db4a39) — Atlas Copco Group
+- 📍 **Location:** Wilrijk, VLG, BE
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-02
+
+### [Test Engineer for SmartLink IoT Platform](https://be.indeed.com/viewjob?jk=64169d1887b31f4b) — Atlas Copco Group
+- 📍 **Location:** Wilrijk, VLG, BE
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-01
+
+### [Software R&D Professional - IT Talent Community](https://be.indeed.com/viewjob?jk=0cb2d20afa944920) — Atlas Copco Group
+- 📍 **Location:** BE
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-03-05
