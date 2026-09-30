@@ -1,15 +1,14 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-09-30 08:18 UTC*
+*Last updated: 2026-09-30 09:17 UTC*
 
-**2 new role(s)** since last run · 232 total in last 24h
+**2 new role(s)** since last run · 216 total in last 24h
 
-### [Fullstack Engineer](https://de.indeed.com/viewjob?jk=82cbf07406c8acfc) — Slalom Consulting
-- 📍 **Location:** Düsseldorf, NW, DE
+### [AI Analytics Engineer](https://fi.indeed.com/viewjob?jk=81648ce1bbdc7396) — Marimekko
+- 📍 **Location:** Helsinki, F19, FI
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-04-23
+- 🕒 **Posted:** 2026-09-30
 
-### [Flutter Cross-Platform/Hybrid Full-Stack Mobile Developers](https://ae.indeed.com/viewjob?jk=c4e98964be5bdcf0) — Visual Ace Business Solutions
-- 📍 **Location:** Dubai, DU, AE
+### [Senior Web Developer (React / C#, MSSQL)](https://sg.indeed.com/viewjob?jk=a2fdfb88c943f69a) — ST Engineering
+- 📍 **Location:** Singapore, S00, SG
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
