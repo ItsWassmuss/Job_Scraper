@@ -1,7 +1,7 @@
 {
   "created_at": "2026-10-01T05:38:49+03:00",
   "job_count": 36,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Wolf Groep",
