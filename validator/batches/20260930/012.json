@@ -1,7 +1,7 @@
 {
   "created_at": "2026-09-30T16:42:23+03:00",
   "job_count": 50,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Knowit",
