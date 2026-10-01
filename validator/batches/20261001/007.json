@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8bc829c4311a51d1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend stack is TypeScript/PostgreSQL; no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cf787fc0dbac65be",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on AI/agentic software; C# is only one example among Python, Java, C#, and TypeScript, with no backend .NET requirement.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "50af33e279fbada3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on AI/agentic software; C# is only one example among Python, Java, C#, and TypeScript, with no backend .NET requirement.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b9ca1348cc9c5c05",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Full-stack role lists C#/.NET, TypeScript and React but provides no explicit backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "57192815b0366c5a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# is listed only among object-oriented languages such as Python and Java; no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5d3309728ec75938",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role develops bespoke engineering software; C# or Python is accepted, with no backend/server-side .NET requirement.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "09887c1bd617321f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Swedish is explicitly required for speaking and writing.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2ecbe25f64ed557e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend technologies are alternatives including .NET/C#, Java, Kotlin or Go; .NET/C# is not established as the primary backend stack.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a49845cfb8f6141c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend experience may be in TypeScript/Node.js, C#, or Java; backend .NET/C# is not established as required or primary.",
       "validated": null
     },
     {
@@ -221,8 +221,8 @@
       "description": "🚀 Promentum groeit – We zijn op zoek naar een nieuwe collega (Developer ERP & Bedrijfsprocessen)\n\nBij Promentum Consulting bouwen we geen standaard software! Wij digitaliseren en optimaliseren bedrijfsprocessen met moderne ERP-oplossingen, AI-agents en slimme integraties. En daarom zoeken we geen “codeklopper”. We zoeken een developer die bedrijfsprocessen begrijpt\n.\n\n💡 Wat ga je doen?\nJe werkt op het snijvlak van business en technologie:\nVertalen van klantprocessen naar slimme oplossingen binnen Uniconta\nOntwikkelen van add-ons, integraties en automatiseringen\nMeedenken over procesoptimalisatie (niet alleen uitvoeren)\nWerken aan AI-toepassingen binnen ERP-omgevingen\nDirect impact maken bij klanten in retail, groothandel en dienstverlening\n\n🧠 Wie zoeken we?\nJe hoeft niet alles al te kunnen, maar je herkent jezelf hierin:\nJe denkt in processen, niet alleen in code\nJe wilt begrijpen waarom\niets gebouwd wordt\nJe hebt ervaring met development (.NET / API’s / integraties is een pré)\nJe hebt affiniteit met ERP of bedrijfssoftware\nJe bent analytisch, zelfstandig en kritisch\n\nKort gezegd:\n👉 Jij bent die developer die liever meedenkt dan alleen uitvoert.\n\n⚙️ Waarom Promentum?\nErvaren team met veel verantwoordelijkheid\nWerken aan echte bedrijfsprocessen (geen losse features)\nModerne technologie (cloud ERP platform, API-first, AI)\nVeel vrijheid en directe invloed op oplossingen\nCombinatie van consultancy en development\n\nWij helpen organisaties slimmer werken — zonder maatwerkcode waar het niet nodig is, mét slimme uitbreidingen waar het waarde toevoegt.\n\n📍 Praktisch\nLocatie: Veenendaal (hybride werken mogelijk)\nFulltime / parttime bespreekbaar\nAlleen kandidaten die in Nederland wonen en mogen werken.\nWe only consider applicants living in the Netherlands!\n\n👉 Interesse of gewoon eens sparren?\nBekijk de vacature:\nhttps://promentum-consulting.nl/vacatures/developer-erp-bedrijfsprocessen/\n\nOf stuur direct een bericht via deze vacature of e-mail naar info@promentum-consulting.com\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4474158240",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Candidates must live in the Netherlands and be permitted to work there.",
       "validated": null
     },
     {
@@ -236,8 +236,8 @@
       "description": "Als ervaren software engineer raak jij niet snel uitgesproken over je vak. Je deelt graag je kennis en je bent altijd nieuwsgierig naar de inzichten van anderen. Eigenlijk sta je het liefst samen met andere engineers aan een whiteboard om slimme oplossingen te bedenken voor complexe uitdagingen. Jij bent in je element wanneer je bouwt aan systemen die impact maken in de maatschappij.\n\nIn het kort: werken als ervaren Software Engineer bij Technolution\n\nSoftware ontwikkelen in uitdagende, maatschappelijk relevante projecten\nTechnologie: Java, C# en Rust\nZelfstandigheid en ruimte voor individuele ontwikkeling\nWerken met hoogopgeleide technische collega’s\nEen snelle sollicitatieprocedure\n\nJouw werk als ervaren software engineer\n\nAls plezier in je werk belangrijk voor je is, zul je je bij ons snel thuis voelen. Samen met je collega’s, net als jij toppers in hun vakgebied, werk je elke dag weer aan uitdagende projecten. Je bouwt bijvoorbeeld mee aan de cloudversie van het grootste verkeersmanagementplatform van Nederland\n, aan een systeem dat in het Westland na grote hoosbuien de watermassa’s opvangt en afvoert\nof je werkt aan een energiemanagementsysteem\n.\n\nJe dag begint met een stand-up. Met je projectteam bespreek je eventuele issues bij de klant en bedenk je een oplossingsrichting. Je ondersteunt en helpt de ontwikkelaars, bespreekt voor- en nadelen van de gekozen aanpak en hakt de knoop door bij complexe vraagstukken. Samen met de architect spreek je nieuwe features door, doe je suggesties voor het ontwerp en bekijk je wat de impact is op de huidige applicatie. Je bent constant bezig met het uitwisselen van ideeën. Uiteraard schrijf je uitstekende code, en je draagt bij aan de kwaliteitsborging en de optimalisering van processen en systemen. Daarbij houd je overzicht en heb je altijd oog op de doelen en eindresultaten van het project.\n\nOmdat we zoveel verschillende projecten doen, is er altijd wel een opdracht die bij jou past. We werken daarbij met de nieuwste technologieën en talen – zoals Rust. Je gebruikt, waar mogelijk, de tools die jij het prettigst vindt en je hebt veel vrijheid om te werken op jouw manier. Overigens: je werkt vrijwel altijd bij Technolution op kantoor of op je thuiswerkplek – geen detachering.\nJe werkt in deze functie zelfstandig, maar je doet het nooit alleen. Als je vragen hebt, kun je altijd bij je collega’s terecht. Het omgekeerde geldt ook: jouw collega’s kunnen een beroep doen op jou voor advies, hulp en ondersteuning.\n\nJouw vooruitgang\n\nBij alles wat we doen, delen we kennis. Niet alleen met collega’s in projecten, maar ook in onze gespecialiseerde kennisgildes, of in boeiende lunchlezingen. ‘Training on the job’ is de basis voor jouw persoonlijke groei. Jij bepaalt de richting, samen met je People Development Coach. Wat zijn jouw kwaliteiten? Wil je je verdiepen in een klantspecifiek vakgebied en doorgroeien richting domeinarchitect? Je specialiseren als systeemarchitect? Of past projectmanagement meer bij jou? Bij Technolution heb jij de regie over je carrière. Dat geldt ook voor de projecten die je doet: jij geeft aan welke kant je op wilt.\n\nTypisch jij\n\nJij hebt:\n\n• Een afgeronde relevante Bachelor of Master\n• Minimaal 4 jaar ervaring als software engineer\n• Ervaring met meerdere courante programmeertalen en interesse om andere talen te leren\n\nJij bent:\n\n• Oplossingsgericht\n• Initiatiefrijk\n• Collegiaal en behulpzaam\n\nPersoonlijke en professionele groei kunnen bij ons snel gaan als je de juiste kwaliteiten hebt. We hechten veel waarde aan persoonlijk ondernemerschap en vragen van onze collega’s dat ze hun ideeën en wensen duidelijk communiceren. Zo helpen we elkaar vooruit.\n\nTypisch Technolution & arbeidsvoorwaarden\n\nAlles ademt technologie bij Technolution. Met 300 technische professionals realiseren we al meer dan 35 jaar hoogwaardige software en elektronica voor klanten in mobiliteit, energie, industrie, security en hightech. Passie voor techniek, ownership en betrouwbaarheid zijn onze belangrijkste waarden.\n\nOf werken bij Technolution past bij jouw behoeften, kun je het best beleven tijdens een gesprek bij ons op kantoor. Wil je nu alvast meer weten, hier lees je van alles over onze organisatie, de werkgebieden en de arbeidsvoorwaarden.\n\nJouw salaris\n\nJe salaris is een belangrijke arbeidsvoorwaarde. Jouw precieze salaris bepalen we op basis van jouw kennis en werkervaring. Naast salaris hebben we veel andere aantrekkelijke voorwaarden; financiële en sociale. Want wij geloven erin dat een prettige werkomgeving met fijne collega’s de basis vormt. Een greep uit de voorwaarden:\nSportregeling van €360,00 per jaar\nFietsregeling van €749,00 per 5 jaar\nMobiliteitsregelingen voor auto en OV\nPensioenregeling bij Zwitserleven\nParticipatieregeling; kopen van certificaten van Technolution-aandelen\nWinstuitkering van gemiddeld 8%\n30 vrije dagen\nLeerplatforms voor het verbeteren van jouw technische en persoonlijke skills\nGratis toegang tot OpenUP\n\nWekelijkse borrels en maandelijkse uitjes via de personeelsvereniging\nGezonde lunches in ons bedrijfsrestaurant – van onze eigen cateringcollega’s\n\nWe zien je sollicitatie graag tegemoet!\n\nZie jij jezelf al werken als ervaren software engineer bij Technolution, solliciteer dan via het onderstaande formulier. We zien je sollicitatie graag tegemoet!\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4437773987",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role uses Java, C# and Rust with no explicit backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -251,8 +251,8 @@
       "description": "Act Digital is looking for a Senior Application Engineer/Administrator\nto support production and non-production application environments.\n\nTASKS :\n\nInstall, configure and administer applications in production and non-production environments.\nMonitor applications, tune performance and continuously improve service efficiency and quality.\nProvide application support and maintenance, including incident, change, release and problem resolution.\nWrite and validate application procedure manuals, including troubleshooting guides and backup and restore plans.\nAutomate administrative procedures for recurring system administration activities and provide installation and technical support documentation where required.\nContribute to the structuring, maintenance and development of the technical knowledge base supporting ICT Operations activities.\nReport on application availability, performance, capacity and overall usage where required.\n\nREQUIREMENTS :\n\nMandatory experience and knowledge:\nWorking knowledge of English at B2 level or higher.\nExperience working as an IT professional in mid/large IT infrastructure environments, including the deployment, support and maintenance of applications.\nExperience working as an IT professional in application administration.\nExperience with microservices, container orchestration and container-based stacks such as Docker\nor Kubernetes\n.\nExperience administering and supporting Elasticsearch\n.\nExperience working with enterprise Microsoft\nor Linux\nserver solutions.\nGood knowledge of configuration management concepts and technologies, such as Puppet\n, Ansible\nand Chocolatey\n.\nGood knowledge of shell\nand/or PowerShell\nscripting.\nGood knowledge of ITIL, including incident, change and release management processes.\n\n*Desirable experience and knowledge:\n\nGood knowledge of DevOps.\nGood knowledge of relational databases, such as MS SQL and PostgreSQL\nGood knowledge of Kong API Gateway.\nGood knowledge of Public or Hybrid Cloud services and solutions, such as Azure or AWS.\nCertifications in the technologies mentioned above.\n\n(!) IMPORTANT :\n\nCandidates must be EU citizens\n\nThe position is fully on site\nin The Hague, Netherlands\n\n--\nIf you're interested, feel free to submit your application through this job posting, or alternatively send your resume to: oaraoua@actdigital.eu\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472529794",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: EU citizenship is explicitly mandatory.",
       "validated": null
     },
     {
@@ -266,8 +266,8 @@
       "description": "About the Job\n\nWe’re growing fast and need talented people — like you — to join our team of Microsoft experts, to help us come up with amazing cloud integration solutions for our high-caliber clients.\n\nYou’ll work with your team on technical pre-sales and help develop cloud integration projects. You’ll get guidance and coaching from one of our highly-skilled Azure Architects.\n\nBecause we’re a Microsoft partner, you’ll get to work with Microsoft preview programs before they hit the market. We were one of the firsts to be invited to work with Logic Apps Standard, Hybrid, Agent Loop & Logic App Business Rules.\n\nYou’ll be working with the best in the industry. We are a Microsoft Solutions Partner in both Digital & App Innovation and Data & AI.\nWe also have two Advanced Specializations in: Modernization of Web Applications to Microsoft Azure, and Kubernetes on Microsoft Azure.\n\nAbout You\n\nYou have:\nA passion for Azure. You follow the latest trends and look for every opportunity to put new knowledge into practice.\nAn analytical mind. Where other people see problems you see solutions.\nGood communication skills, not only will you need this for after-work drinks, but you’ll be talking a lot with customers and your team.\nThe ability to work independently and also with your new Codit friends.\nYou have in-depth knowledge of Azure Integration services – Logic Apps, Service Bus, Azure APIM, Azure Functions.\nYou have an understanding of other Azure services such as Azure Container Apps, Data Factory, …\n\nExperience with:\nLeveraging messaging systems, such as Service Bus, for distributed processing\nLeveraging integration technologies such as Azure Logic Apps, Data Factory, Service Bus\nBuilding secure API's\nDeveloping asynchronous, reliable backend tasks\nUnderstanding the various data storage options of the Azure platform\n\nBased in Belgium. Valid EU citizenship and NATO-member state nationality is mandatory to work at our clients.\n\nOur Offer\n\nYou will be working in an international environment with a strong innovative culture.\n\nCodit knows that people work best when they are happy in their job. In addition to your salary, we offer a wide range o f benefits: personal training budget of €4.500/year, company car & fuel card, bike leasing, Meal Vouchers, Ecocheques, a generous net allowance, Hospitalisation + Group + Travel Insurance, mobile phone membership, a collective bonus CAO 90 and 20 legal vacation days + 12 ADV days.\n\nWant to know more? Hit that button below, come in for a coffee and have a chat with us.\nFlexible working hours and hybrid working\nA personal training budget of €4.500/year\nClear paths for career growth\nA fun atmosphere with optional after-hours activities\nDaily free and fresh soup, fruit and drinks\nEasy accessible offices in Ghent and Antwerp\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472920332",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Role requires being based in Belgium and valid EU citizenship plus NATO-member-state nationality.",
       "validated": null
     }
   ]
