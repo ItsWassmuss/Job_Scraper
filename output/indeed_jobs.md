@@ -1,92 +1,91 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-01 18:18 UTC*
+*Last updated: 2026-10-01 19:18 UTC*
 
-**16 new role(s)** since last run · 183 total in last 24h
+**16 new role(s)** since last run · 195 total in last 24h
 
-### [Medior .NET Backend Developer](https://nl.indeed.com/viewjob?jk=a71f12dfd782a2a2) — S4d
-- 📍 **Location:** Amsterdam, NH, NL
+### [Junior Netwerk Engineer](https://nl.indeed.com/viewjob?jk=005e02277895bdbc) — kennisnet
+- 📍 **Location:** Zoetermeer, ZH, NL
 - **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Engineer](https://nl.indeed.com/viewjob?jk=2f0c5f97ad3f1a3c) — Stater
-- 📍 **Location:** Amersfoort, UT, NL
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Software-/ Datenbankentwickler C#, WPF, MS SQL Server (m/w/d)](https://de.indeed.com/viewjob?jk=79c2a46e814a8452) — PPG
-- 📍 **Location:** Oldenburg, NI, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Mechatronics and Hardware Test Engineer (m/f/d)](https://de.indeed.com/viewjob?jk=fd21afbac7948ac6) — Agile Robots SE
-- 📍 **Location:** München, BY, DE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer (m/f/d) Industrial Robot Control](https://de.indeed.com/viewjob?jk=42083a9dfa5c48a7) — Agile Robots SE
-- 📍 **Location:** München, BY, DE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Mechanical Engineer](https://uk.indeed.com/viewjob?jk=d2fb5c7254664c1e) — BRUSH Group
-- 📍 **Location:** Loughborough, ENG, GB
+### [Netwerk Engineer](https://nl.indeed.com/viewjob?jk=2d6721bb2351fce5) — kennisnet
+- 📍 **Location:** Zoetermeer, ZH, NL
 - **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Broadcast Engineer](https://uk.indeed.com/viewjob?jk=259d5b2c6383e40b) — FIA Formula E Championship
+### [Werkstudent:in Software-Entwicklung (Web, Metaverse und KI)](https://de.indeed.com/viewjob?jk=228c5a1361599975) — Fraunhofer-Gesellschaft
+- 📍 **Location:** Berlin, BE, DE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Software Developer, HEO, Perm, Liverpool, Newport](https://uk.indeed.com/viewjob?jk=ab02f1fc205cd439) — Charity Commission
+- 📍 **Location:** Bootle, ENG, GB
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Principal IDAM Engineer](https://uk.indeed.com/viewjob?jk=4c198b928065647a) — Ofgem
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Data Architect](https://uk.indeed.com/viewjob?jk=99cce21a0631829a) — Ofgem
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Graduate Civil & Structural Engineer: Energy, Maritime & Civil Infrastructure](https://uk.indeed.com/viewjob?jk=61634933c1d62bc3) — Arup
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior / Principal Electrical Engineer ( Data Centres)](https://uk.indeed.com/viewjob?jk=23fb527d8af7e7c8) — Arup
 - 📍 **Location:** London, ENG, GB
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Fullstack App Developer](https://no.indeed.com/viewjob?jk=c00f16d47679c912) — Flynorse
-- 📍 **Location:** Arendal, N42, NO
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Engineering Support Specialist I (m/f/d)](https://cz.indeed.com/viewjob?jk=a57a16d501222a9c) — Honeywell Aerospace
-- 📍 **Location:** Brno-Brno Město, JM, CZ
+### [Associate Technical Services Engineer II (Cloud)](https://ie.indeed.com/viewjob?jk=a5c2994f73ac2224) — MongoDB
+- 📍 **Location:** Dublin, D, IE
 - **Work mode:** On-site
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-10-01
 
-### [C# Developer Consultant](https://be.indeed.com/viewjob?jk=e23cf0ee0ff7e9e1) — Keystone Solutions
-- 📍 **Location:** Charleroi, WAL, BE
+### [Junior Software Engineer](https://gr.indeed.com/viewjob?jk=940cb7d6740bcd43) — EY
+- 📍 **Location:** Αθήνα, GRI, GR
 - **Work mode:** On-site
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-10-01
 
-### [Project Manager Analyst Developer](https://be.indeed.com/viewjob?jk=80d9f9a33f794c60) — Keystone Solutions
-- 📍 **Location:** Charleroi, WAL, BE
+### [Senior .NET Software Engineer - Athens - Patras](https://gr.indeed.com/viewjob?jk=d392e066bff390a0) — EY
+- 📍 **Location:** Αθήνα, GRI, GR
 - **Work mode:** On-site
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-10-01
 
-### [C# Developer Consultant](https://be.indeed.com/viewjob?jk=f15d44a2516f1665) — Keystone Solutions
-- 📍 **Location:** Charleroi, WAL, BE
+### [IFAPME - Développements : Extension d'une plateforme web en C# (K10166)](https://be.indeed.com/viewjob?jk=52d49fbb53b9600a) — vertage
+- 📍 **Location:** WAL, BE
 - **Work mode:** On-site
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-10-01
 
-### [Databricks Data Engineer](https://be.indeed.com/viewjob?jk=fecf2a25aaa09727) — Epicdata
-- 📍 **Location:** Kontich, VLG, BE
+### [IFAPME - Développements : Extension d'une plateforme web en C# (K10165)](https://be.indeed.com/viewjob?jk=1997979eaff61cd6) — vertage
+- 📍 **Location:** WAL, BE
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-10-01
 
-### [Fabric Data Engineer](https://be.indeed.com/viewjob?jk=1777c24d97888592) — Epicdata
-- 📍 **Location:** Kontich, VLG, BE
+### [IFAPME - Développements : Extension d'une plateforme web en C# (K10164)](https://be.indeed.com/viewjob?jk=8fce80506befe0cb) — vertage
+- 📍 **Location:** WAL, BE
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-10-01
 
-### [Data Engineer](https://be.indeed.com/viewjob?jk=66df111dd9e766ba) — Epicdata
-- 📍 **Location:** Kontich, VLG, BE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-07
-
-### [Développeur .NET/SQL h/f](https://lu.indeed.com/viewjob?jk=825b3b2cd7b51c8e) — Rcube Professional Services S.A
-- 📍 **Location:** Luxembourg, L0L, LU
+### [RPA Developer](https://pt.indeed.com/viewjob?jk=6d247f8bf6af1c93) — WIRE IT
+- 📍 **Location:** Lisboa, P11, PT
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [.NET Full Stack Developer [Hybrid – Porto, Portugal]](https://pt.indeed.com/viewjob?jk=dd47e4cee46d7e2e) — DBServices Portugal
+- 📍 **Location:** Porto, P13, PT
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
