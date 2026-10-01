@@ -1,81 +1,143 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-01 16:17 UTC*
+*Last updated: 2026-10-01 17:18 UTC*
 
-**14 new role(s)** since last run · 175 total in last 24h
+**24 new role(s)** since last run · 177 total in last 24h
 
-### [Maintenance Engineer](https://nl.indeed.com/viewjob?jk=d6d701eba1ef9c76) — Alliander
-- 📍 **Location:** Duiven, GE, NL
+### [Front-end / Full-stack Developer – maritieme software](https://nl.indeed.com/viewjob?jk=069279ec73877265) — Carapax IT
+- 📍 **Location:** Gouda, ZH, NL
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Full-Stack Developer (w/m/d)](https://de.indeed.com/viewjob?jk=d76b211d82ec46e9) — Wanzl
+- 📍 **Location:** Leipheim, BY, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Network & Security Automation Engineer (Palo Alto / F5)](https://nl.indeed.com/viewjob?jk=2561ef37044c847f) — KPN 
-- 📍 **Location:** Amersfoort, UT, NL
-- **Work mode:** On-site
+### [Senior Entwickler C# (m/w/d)](https://de.indeed.com/viewjob?jk=68ef514498a2ae17) — Kassenärztliche Vereinigung Hessen
+- 📍 **Location:** Frankfurt am Main, HE, DE
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Intern (m/f/d) Software Test Automation](https://de.indeed.com/viewjob?jk=6e864bf150c9692e) — Agile Robots SE
-- 📍 **Location:** München, BY, DE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Developer In Test](https://uk.indeed.com/viewjob?jk=e0cd23f0936d8568) — Cornwall Council
-- 📍 **Location:** Truro, ENG, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [PHP Developer 12-Month-FTC](https://uk.indeed.com/viewjob?jk=4a8d6f71eb7ad5d8) — Focus Group (UK)
-- 📍 **Location:** Shoreham by Sea, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Process Engineer](https://uk.indeed.com/viewjob?jk=8a373e0f110166d8) — nuada
-- 📍 **Location:** Belfast, NIR, GB
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Fullstack Developer (.NET, Azure, AI)](https://pl.indeed.com/viewjob?jk=6a591967ea9834c5) — Wavestone
-- 📍 **Location:** zdalnie, PL
+### [Manager Software Development (m/w/d)](https://de.indeed.com/viewjob?jk=f911534b315a880e) — Bonita
+- 📍 **Location:** Hamminkeln, NW, DE
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Fullstack-utvecklare](https://se.indeed.com/viewjob?jk=d8b03fc31d7fdafb) — New Terms AB
-- 📍 **Location:** Göteborg, O, SE
+### [Senior Software Engineer (Full Stack)](https://uk.indeed.com/viewjob?jk=90f09e303fc58cf5) — carloans 365
+- 📍 **Location:** Sale, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Public Health Engineer](https://uk.indeed.com/viewjob?jk=0d06a7b1f8fba6b1) — AECOM
+- 📍 **Location:** Cardiff, WLS, GB
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Test Engineer — Verification & Test Automation](https://se.indeed.com/viewjob?jk=592499acb3adf0ed) — Scandinavian Real Heart AB
-- 📍 **Location:** Västerås, U, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Systems Development Engineer, Enterprise Engineering](https://ie.indeed.com/viewjob?jk=ade75532bc19e277) — Amazon.com
-- 📍 **Location:** Dublin, D, IE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
-
-### [Expert Artificial Intelligence/Machine Learning Engineer](https://ro.indeed.com/viewjob?jk=5e732b730be65e15) — Ciklum
-- 📍 **Location:** RO
+### [Public Health Engineer](https://uk.indeed.com/viewjob?jk=247150a407270229) — AECOM
+- 📍 **Location:** St Albans, ENG, GB
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Desarrollador/a de Software](https://es.indeed.com/viewjob?jk=c88d3310b46dd4db) — Disa Holding Energetico
-- 📍 **Location:** Las Palmas de Gran Canaria, CN, ES
+### [Public Health Engineer](https://uk.indeed.com/viewjob?jk=b82acc05d2e9b723) — AECOM
+- 📍 **Location:** Leeds, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Public Health Engineer](https://uk.indeed.com/viewjob?jk=e4862c862ef19c16) — AECOM
+- 📍 **Location:** Exeter, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Public Health Engineer](https://uk.indeed.com/viewjob?jk=5e642af49fc0f03e) — AECOM
+- 📍 **Location:** Bristol, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Public Health Engineer](https://uk.indeed.com/viewjob?jk=d0e6cd787d2eead3) — AECOM
+- 📍 **Location:** Croydon, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Public Health Engineer](https://uk.indeed.com/viewjob?jk=f649cb34433ab836) — AECOM
+- 📍 **Location:** Manchester, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior software engineer](https://uk.indeed.com/viewjob?jk=c1c623edd2af2491) — Npower Commercial Gas Limited
+- 📍 **Location:** Solihull, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Cloud Operations Engineer](https://es.indeed.com/viewjob?jk=a0c94bbdfca64097) — Sage
+### [Technical Sales Engineer](https://uk.indeed.com/viewjob?jk=2ffcd3af3b468614) — Best.Energy
+- 📍 **Location:** Bristol, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Team Leader Solution Engineer, Enterprise Services - Bloomberg Financial Solutions](https://uk.indeed.com/viewjob?jk=1fe371f0df9623a0) — Bloomberg
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Estimation Engineer](https://uk.indeed.com/viewjob?jk=789728488f08a928) — Project Better Energy 
+- 📍 **Location:** Reading, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Power System Engineer](https://uk.indeed.com/viewjob?jk=2de993e1b1b47f77) — National Grid
+- 📍 **Location:** Warwick, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [Engineer - Associate Director](https://uk.indeed.com/viewjob?jk=8db7877ee44e62a2) — CBRE
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Fullstack Developer (PHP+React)](https://pl.indeed.com/viewjob?jk=86102eddc117c84f) — SINGU
+- 📍 **Location:** Kraków, ML, PL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Developer](https://se.indeed.com/viewjob?jk=5d406c6feff7f706) — HCLTech
+- 📍 **Location:** Södertälje, AB, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-01-10
+
+### [IoT Developer @ Thessaloniki](https://gr.indeed.com/viewjob?jk=653c0ebd67a0d0ec) — Deloitte
+- 📍 **Location:** Θεσσαλονίκη, GRB, GR
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Engineer WinCC OA (a)](https://ch.indeed.com/viewjob?jk=1ef63f66aee09fb8) — ACTEMIUM
+- 📍 **Location:** Wettingen, AG, CH
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-01-01
+
+### [Desarrollador/a .NET Senior (Híbrido)](https://es.indeed.com/viewjob?jk=280bc620292ce937) — Between Technology
 - 📍 **Location:** Barcelona, CT, ES
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-16
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
 
-### [Full Stack Developer](https://pt.indeed.com/viewjob?jk=66e3d4fabb00a053) — Global Citizen Solutions
-- 📍 **Location:** Lisboa, P11, PT
+### [Smart Factory Engineer](https://pt.indeed.com/viewjob?jk=caa86b13f6f97550) — ZF LIFETEC
+- 📍 **Location:** Ponte de Lima, P16, PT
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
