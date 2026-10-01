@@ -1,7 +1,7 @@
 {
   "created_at": "2026-10-01T19:52:24+03:00",
   "job_count": 19,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Alliander",
