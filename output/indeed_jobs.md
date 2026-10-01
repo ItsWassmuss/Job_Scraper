@@ -1,77 +1,146 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-01 12:18 UTC*
+*Last updated: 2026-10-01 13:17 UTC*
 
-**14 new role(s)** since last run · 179 total in last 24h
+**25 new role(s)** since last run · 182 total in last 24h
 
-### [Full Stack Developer](https://uk.indeed.com/viewjob?jk=9a3a17a72d9379e8) — Unknown
+### [Senior AI Developer](https://uk.indeed.com/viewjob?jk=49cd1797c6616f92) — Netcompany
+- 📍 **Location:** Leeds, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior AI Developer](https://uk.indeed.com/viewjob?jk=f5ca84b20586b287) — Netcompany
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Enterprise AI Architect](https://pl.indeed.com/viewjob?jk=0505ff153cb17bc5) — Bonapolia
-- 📍 **Location:** Warszawa, MZ, PL
+### [Applications Developer](https://uk.indeed.com/viewjob?jk=f508c798f452dbc7) — Midlands Partnership University NHS Foundation Trust
+- 📍 **Location:** Stafford, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Infrastructure Engineer](https://uk.indeed.com/viewjob?jk=1f79aaa64b23b5b8) — Ofgem
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Dynamics 365 & Power Platform Developer - FTC](https://uk.indeed.com/viewjob?jk=4ab5abc5f02075b8) — HealthNet Homecare
+- 📍 **Location:** Swadlincote, ENG, GB
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [.NET utvecklare](https://se.indeed.com/viewjob?jk=377b26aed0954720) — Skandia
-- 📍 **Location:** Stockholm, AB, SE
+### [Senior Quality Engineer](https://uk.indeed.com/viewjob?jk=b5043a1825f01d35) — Trayport
+- 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [System Design Engineer](https://se.indeed.com/viewjob?jk=855932cbb952e0ba) — Deploja AB
-- 📍 **Location:** Solna, AB, SE
+### [Liferay Technical Architect](https://pl.indeed.com/viewjob?jk=b6b71804f1c74c55) — Unknown
+- 📍 **Location:** Poznań, WP, PL
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Systemutvecklare .NET](https://se.indeed.com/viewjob?jk=039e53d9104f498f) — Deploja AB
-- 📍 **Location:** Solna, AB, SE
+### [Liferay Technical Architect](https://pl.indeed.com/viewjob?jk=e5d9e3d6ed2e2b9d) — Unknown
+- 📍 **Location:** Poznań, WP, PL
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Experienced Solution Architect - Cloud, Solna](https://se.indeed.com/viewjob?jk=9d7f858db5e9c586) — PostNord
-- 📍 **Location:** Solna, AB, SE
-- **Work mode:** On-site
+### [Senior Software Development Engineer (Java)](https://pl.indeed.com/viewjob?jk=ce49d9acfb83f9b5) — Altium
+- 📍 **Location:** Wrocław, DO, PL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [IT Developer](https://ie.indeed.com/viewjob?jk=be85a4ceafecf0a3) — Citco
+### [Senior Software Development Engineer (Java)](https://pl.indeed.com/viewjob?jk=5b0f633709175aab) — Altium
+- 📍 **Location:** Katowice, SL, PL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Solution Architect (Software Engineering)](https://pl.indeed.com/viewjob?jk=7c0840c2924bfb57) — Hitachi Rail
+- 📍 **Location:** Łódź, LO, PL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Software Development Engineer (Java)](https://pl.indeed.com/viewjob?jk=ab5589557a6bfb36) — Altium
+- 📍 **Location:** Wrocław, DO, PL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Software Development Engineer (Java)](https://pl.indeed.com/viewjob?jk=25b04c47d0c542ee) — Altium
+- 📍 **Location:** Katowice, SL, PL
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Associate Technical Services Engineer II (Cloud)](https://ie.indeed.com/viewjob?jk=ad5be017bbb04114) — MongoDB
 - 📍 **Location:** Dublin, D, IE
 - **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Render Programmer](https://ro.indeed.com/viewjob?jk=53b68d9496c6872d) — Arrise
+- 📍 **Location:** RO
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Robotics Validation Engineer](https://be.indeed.com/viewjob?jk=57de88adf72e7692) — Movu Robotics
+- 📍 **Location:** Lokeren, VLG, BE
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Design Engineer, Nuclear Safety](https://fi.indeed.com/viewjob?jk=879cebd8c32bce07) — Fortum
-- 📍 **Location:** Espoo, F19, FI
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Developer](https://be.indeed.com/viewjob?jk=1d088f232ceb4466) — ConXioN
-- 📍 **Location:** Boom, VLG, BE
+### [Electromechanical Validation Engineer](https://be.indeed.com/viewjob?jk=00f1a74c843fb771) — Movu Robotics
+- 📍 **Location:** Lokeren, VLG, BE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Project engineer](https://be.indeed.com/viewjob?jk=9350aabf43670d77) — Vecon Engineers
-- 📍 **Location:** Genk, VLG, BE
+### [Internship / Master Thesis: AI-powered Market Intelligence Platform](https://ch.indeed.com/viewjob?jk=d7418f0d9a198955) — ELCA
+- 📍 **Location:** Pully, VD, CH
+- **Work mode:** On-site
+- **Job type:** fulltime, internship
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Digital Production Engineer*](https://ch.indeed.com/viewjob?jk=e5f981fdac3d81b2) — HARTING Technology Group
+- 📍 **Location:** Biel/Bienne, BE, CH
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Head Software Development Laboratory Weighing (f/m/x)](https://ch.indeed.com/viewjob?jk=e38a868986be6cb6) — Mettler-Toledo
-- 📍 **Location:** Nänikon, ZH, CH
+### [Senior Digital Production Systems Engineer*](https://ch.indeed.com/viewjob?jk=c24ddeab83b31c87) — HARTING Technology Group
+- 📍 **Location:** Biel/Bienne, BE, CH
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Fullstack .Net Cloud AWS](https://es.indeed.com/viewjob?jk=db6e0a44a593abf5) — Tecdata Engineering
-- 📍 **Location:** Madrid, MD, ES
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Python Developer](https://pt.indeed.com/viewjob?jk=1d1f52495c336db4) — Unknown
-- 📍 **Location:** Lisboa, P11, PT
+### [Fullstack Front- und Backend Developer ( LU / BE )](https://ch.indeed.com/viewjob?jk=73ee4b2de64ff5dd) — Noser Engineering AG
+- 📍 **Location:** Luzern, LU, CH
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-01
 
-### [Application Developer](https://ae.indeed.com/viewjob?jk=f6e36cb7eb8e1ed8) — Keolis
-- 📍 **Location:** Dubai, DU, AE
+### [Fullstack Front- und Backend Developer ( LU / BE )](https://ch.indeed.com/viewjob?jk=a78472acbfb1d4ec) — Noser Engineering AG
+- 📍 **Location:** Bern, BE, CH
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Game Developer](https://ch.indeed.com/viewjob?jk=85d061f0554359f2) — Ai Future
+- 📍 **Location:** Basel, BS, CH
 - **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Construction Safety Engineer](https://es.indeed.com/viewjob?jk=7072f49ad36c07a2) — AESC
+- 📍 **Location:** Navalmoral de la Mata, EX, ES
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-23
+
+### [C# .NET Developer | Business Delivery Solutions](https://hu.indeed.com/viewjob?jk=e0a9fb403c7367df) — Deloitte
+- 📍 **Location:** Budapest, PE, HU
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
