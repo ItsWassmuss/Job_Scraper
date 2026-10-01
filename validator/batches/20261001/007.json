@@ -1,7 +1,7 @@
 {
   "created_at": "2026-10-01T14:45:05+03:00",
   "job_count": 13,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Cycloon/MSG",
