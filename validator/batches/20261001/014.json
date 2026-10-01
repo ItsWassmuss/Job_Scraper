@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a71f12dfd782a2a2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Must currently reside in the Netherlands and hold a valid, unrestricted working permit.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2f0c5f97ad3f1a3c",
-      "status": null,
-      "reason": null,
+      "status": "UNVALIDATED",
+      "reason": "SUBSTANTIVE_EVIDENCE_UNAVAILABLE",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "79c2a46e814a8452",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on C#, WPF, and SQL ERP development with no backend/server-side .NET evidence.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "42083a9dfa5c48a7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Industrial robot-control role is primarily C++ and has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "259d5b2c6383e40b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Live broadcast engineering role has no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c00f16d47679c912",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily Flutter mobile app development; .NET/C# backend work is secondary support.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a57a16d501222a9c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Application-engineering support role explicitly does not require programming and has no backend/server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e23cf0ee0ff7e9e1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: French is explicitly listed as a required language with active knowledge.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "80d9f9a33f794c60",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily project management/coordination rather than backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -229,8 +229,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f15d44a2516f1665",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: French is explicitly listed as a required language with active knowledge.",
       "validated": null
     },
     {
@@ -252,8 +252,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "825b3b2cd7b51c8e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Full stored JD is primarily French and explicitly requires mastery of French.",
       "validated": null
     },
     {
@@ -267,8 +267,8 @@
       "description": "Job Description\n\nCoherent Corp is the global leader in photonics, designing and manufacturing advanced laser, optical, and materials technologies. Our innovations power semiconductor manufacturing, AI infrastructure, advanced communications, and precision industrial systems worldwide. With a global footprint and cutting-edge manufacturing and R&D, we’re shaping the future of high-tech industries.\n\nSoftware Test Development Engineer\n\nThis is a hands-on software engineering role within an R&D environment, focused on building, maintaining and adapting the software infrastructure required to communicate with and control instrumentation for optical component testing. Your work will support early-stage R&D testing and the development of reliable, automated test solutions for use throughout component development and manufacturing. In the role, you will work closely with on-site teams across Chip Design, Wafer Fabrication, Process Engineering, Operations, Quality & Reliability, Verification, and Project Management.\n\nWhat you will be doing...\n\nContribute to the design and planning of new test setups, with a focus on software for component control, characterisation, and verification.\nDevelop and maintain software used to control instruments and devices, collect measurements, and process test data.\nSupport the development and validation of algorithms that automate component control and characterisation activities\nHelp ensure test processes are robust, reliable, and suitable for use during both development and manufacturing.\nReview, improve, and support the formal release of test software updates in response to: Changes to product or test specifications Changes to software and/or algorithm requirements Bug fixes Deployment of test solutions to new sites Test-time reduction initiatives\nAnalyse measurement data to verify test quality and assist with troubleshooting and root-cause investigations.\nWork with engineering, verification, and manufacturing colleagues during new product development and the transition into production.\nCreate and maintain clear documentation for test software, algorithms, and related projects.\nParticipate in knowledge sharing with other team members on topics such as software development practices, library reuse, and optical component characteristics.\n\nAbout You\n\nAn MSc or PhD in Software Engineering, Optoelectronics, Electronics, Engineering Physics, or a related discipline Up to five years [NR1] of relevant professional experience.\nKnowledge of object-oriented programming, ideally using C#, C++, or Java.\nExperience with test systems, scientific equipment, or similar technical or lab/production environments.\nExperience with Python or MATLAB.\nExperience with data analysis, modelling, simulation, algorithm development, or measurement processing would be an advantage.\nExperience or knowledge of semiconductor/optoelectronic devices, electronics, industrial automation, or manufacturing test environments [NR2] .\nComfortable collaborating with colleagues from different technical disciplines and sharing knowledge within a team.\n\nEnsure adherence to company’s values (ICARE) in all aspects of your position:\n\nI\nntegrity – Create an Environment of Trust\n\nC\nollaboration – Innovate Through the Sharing of Ideas\n\nA\nccountability – Own the Process and the Outcome\n\nR\nespect – Recognize the Value in Everyone\n\nE\nnthusiasm – Find a Sense of Purpose in Work\n\nApplication & Selection\n\nCurrent employees who wish to apply should submit a cover letter detailing their interest in the position and how their skills and experience align with the requirements of the role.\n\nIf you require any adjustments or accommodations during the application process, please reach out to Alyxandra.Highland@coherent.com\n. We are committed to creating an inclusive and accessible recruitment experience and encourage applications from individuals of all backgrounds.\n\nAbout Us\n\nCoherent is a global leader in lasers, engineered materials and networking components. We are a vertically integrated manufacturing company that develops innovative products for diversified applications in the industrial, optical communications, military, life sciences, semiconductor equipment, and consumer markets. Coherent provides a comprehensive career development platform within an environment that challenges employees to perform at their best, while rewarding excellence and hard-work through a competitive compensation program. It's an exciting opportunity to work for a company that offers stability, longevity and growth. Come Join Us!\n\nNote to recruiters and employment agencies:\nWe will not pay for unsolicited resumes from recruiters and employment agencies unless we have a signed agreement and have required assistance, in writing, for a specific opening.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSemiconductor Manufacturing",
       "source": "LinkedIn",
       "job_id": "4474356922",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Software test-development role has no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -282,8 +282,8 @@
       "description": "10% of Europe’s CO₂ emissions are caused by residential heating and energy bills are out of control. Aira is here to change that.\n\nWith our intelligent Aira Heat Pump at the heart, we’re making the switch to clean energy-tech easier and more affordable. Helping Europe turn off gas and slashing energy costs one home at a time.\n\nFounded in 2022, and with 1200+ employees and counting, Aira is driving the clean energy revolution by providing homes with modern clean energy-tech solutions such as solar power, battery storage solutions and heat pumps. With a state-of-the-art production facility in Poland, and HQ in Stockholm, Sweden, and hubs across the UK, Germany and Italy, Aira is well on track to install clean energy-tech into 5 million homes by 2034.\n\nAbout The Role\n\nAs a Full-Stack Engineer in our Survey & Design team, you'll help build the products that support some of the most important steps in Aira's customer acquisition journey.\n\nThe team is responsible for the tools used to capture and manage information about our customers' homes, supporting everything from home surveys and technical assessments to installation design. These products help ensure that the right information is available throughout the process, enabling tailored and efficient clean energy solutions.\n\nYou'll join a small, autonomous product team and work closely with product managers, designers and engineers to solve real-world challenges and build scalable solutions that support Aira's continued growth across Europe.\n\nAs a Full-Stack Engineer, you'll play a key role in shaping the products and services that power these workflows. You'll work across the stack to build scalable solutions and great user experiences.\n\nIn this role, you will\n\nDesign and build applications and services that support users across multiple European markets\nDevelop scalable APIs and integrations with third-party systems\nProcess and manage data collected throughout the Survey & Design journey\nTransform complex technical and geometric data into solutions that support our products and workflows\nContribute to architectural decisions and the long-term evolution of the platform\nCollaborate closely with product managers, designers and end users to improve workflows, user experiences and product capabilities\nExplore new technologies and approaches that help solve real business problems\n\nWe're making home energy design smarter, simpler and more scalable. If you enjoy building great products and solving complex problems in a technically challenging domain, this role is for you.\n\nWhat You'll Bring To The Team\n\nAround 5+ years of experience as a Software Engineer\nExperience building modern software applications across different parts of the stack\nStrong experience with Java and Spring Boot\nExperience designing and building APIs\nA solid understanding of databases, software architecture and distributed systems\nExperience working with microservices\nThe ability to turn ideas into clean, testable and scalable software\nA proactive mindset and willingness to take ownership\nStrong collaboration and communication skills\n\nWe believe you'll thrive in this role if you're curious, analytical and enjoy understanding the real-world challenges behind the software you build. You don't need a background in engineering, but an interest in technical domains and complex problem-solving will help you succeed.\n\nWe're also looking for someone who enjoys learning new technologies and is curious about how emerging technologies, including AI, can create value for both products and ways of working.\n\nOur tech stack:\n\nJava, Spring Boot, PostgreSQL, Kafka, gRPC, Kotlin, Python, React, TypeScript, Next.js, Kubernetes and Docker.\n\nWhat is in it for you?\n\nJoin a mission-driven company accelerating the transition to clean energy across Europe\nWork on products that have a direct impact on how clean energy solutions are designed and delivered\nBe part of a small, highly autonomous team with significant influence on product and technical decisions\nCollaborate with talented colleagues across product, engineering and operations\nGrow professionally in a fast-moving and international environment\nEnjoy our brand-new office at Norra Stationsgatan 93 in Stockholm. Conveniently located near public transport, with Sankt Eriksplan and Odenplan stations just a few minutes walk away.\n\nAt Aira, we champion next-generation energy as well as diversity and inclusion. We firmly believe that a diverse workforce fosters innovation and creativity, enhancing our ability to serve customers and communities effectively. We welcome individuals from all backgrounds, cultures and perspectives to join our team. Our commitment is to uphold equality and inclusivity, fostering a collaborative environment where everyone can thrive and contribute to a better future for our people and the planet.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nServices for Renewable Energy",
       "source": "LinkedIn",
       "job_id": "4464101448",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Java and Spring Boot, not .NET/C#.",
       "validated": null
     },
     {
@@ -297,8 +297,8 @@
       "description": "Summary:\n\nContribute to the enhancement and maintenance of one or more Charles River IMS modules or components as a senior member of an agile Scrum team. Provide engineering troubleshooting assistance to customer support teams and other development teams within Charles River.\n\nResponsibilities:\n\nWork under minimal supervision to analyze, design, develop, test, and debug medium to large software enhancements and solutions within Charles River’s business and technical problem domains.\nCollaborate with Business Analysts and Product Managers to turn moderately complex business requirements into working and sustainable software.\nProvide thought leadership in the design of product architecture within the team’s scope of responsibility.\nDevelop, test, debug, and implement software programs, applications and projects using Java, C#, SQL, JavaScript or other related software engineering languages.\nProvide informed guidance and direction in code reviews.\nWrite unit and automation tests to ensure a high quality end product.\nAssist in improving development test methodologies and contribute to related test methodology frameworks.\nConduct manual tests to ensure a high quality end product.\nContribute to written design and API documentation, and participate in customer documentation process.\nActively participate in the agile software development process by adhering to the CRD .\nScrum methodology including attending all daily standups, sprint planning, backlog grooming, and retrospectives.\nParticipate in cross-team group activities to complete assignments.\nProvide mentoring to junior staff.\n\nQualifications:\n\nRecommended Education:\n\nB.S. degree (or foreign education equivalent) in Computer Science, Engineering, Mathematics, and Physics or other technical course of study required. MS degree strongly preferred\n\nExperience:\n\n6 to 10 years of progressively responsible professional software engineering experience preferably in a financial services product delivery setting\n4 to 7 years of experience in financial services developing solutions for Portfolio Management, Trading, Compliance, Post-Trade, IBOR or Wealth Management is strongly desired\nAuthoritative experience with object-oriented programming, compiler or interpreter technologies, embedded systems, operating systems, relational databases (RDBMS),\nscripting and new/advanced programming languages\nAble to contribute to complex design specs in consultation with senior staff\nAble to work on medium to large projects with no supervision and on more complex tasks with minimal oversight\nExcellent written and verbal communication skills\nAble to work well with peers in a collaborative team environment\nA minimum of 5 years working with an Agile development methodology strongly desired\n\nSupervisory Responsibility:\n\n☒Individual Contributor ☐Team Lead ☐Manager of Managers\n\nTravel:\n\nMay be required on a limited basis\n\nWorking Arrangements:\n\nEmployees are expected to work from the office 4\ndays a week.\n\nAbout State Street\n\nWhat we do.\nState Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation we’re making our mark on the financial services industry. For more than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients.\n\nWork, Live and Grow.\nWe make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary in locations, but you may expect generous medical care, insurance and savings plans among other perks. You’ll have access to flexible Work Program to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential.\n\nInclusion, Diversity and Social Responsibility.\nWe truly believe our employees’ diverse backgrounds, experiences and perspective are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome the candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift program and access to employee networks that help you stay connected to what matters to you.\n\nState Street is an equal opportunity and affirmative action employer.\n\nDiscover more at StateStreet.com/careers\n\nAbout State Street\n\nAcross the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.\n\nWe are committed to fostering an environment where every employee feels valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future.\n\nAs an Equal Opportunity Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age, disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or civil union status, familial status, military and veteran status, and other characteristics protected by applicable law.\n\nDiscover more information on jobs at StateStreet.com/careers\n\nRead our CEO Statement\n\nJob ID: R-798916\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services, Investment Banking, and Investment Management",
       "source": "LinkedIn",
       "job_id": "4474355440",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: JD lists Java, C#, SQL and JavaScript generally but provides no backend/server-side .NET/C# evidence.",
       "validated": null
     }
   ]
