@@ -55407,6 +55407,186 @@
       "location": "Stafford, ENG, GB",
       "canonical_url": "https://uk.indeed.com/viewjob?jk=f508c798f452dbc7",
       "reported_at": "2026-10-01T19:01:10+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474301002",
+      "company": "ALTEN",
+      "title": "Software Engineer",
+      "location": "Emmeloord, Flevoland, Netherlands",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474301002/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472569894",
+      "company": "Bosch Hungary",
+      "title": "Fullstack Developer (Angular & .NET Core)",
+      "location": "Budapest, Budapest, Hungary",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472569894/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4436542026",
+      "company": "Centrica Energy",
+      "title": "Software Engineer – Renewable Energy Platforms",
+      "location": "Aalborg, North Denmark Region, Denmark",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4436542026/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474189781",
+      "company": "Cube RM",
+      "title": "Backend Software Engineer",
+      "location": "Athens, Attiki, Greece",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474189781/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474194379",
+      "company": "DCG",
+      "title": "Senior Fullstack Developer",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474194379/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472567223",
+      "company": "Doghouse Recruitment",
+      "title": "Dotnet Developer",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472567223/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474183691",
+      "company": "EUROPEAN DYNAMICS",
+      "title": "Full Stack Developer (.NET)",
+      "location": "Vienna, Vienna, Austria",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474183691/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4448032538",
+      "company": "Kake",
+      "title": "Senior Backend Engineer (TypeScript/Python/C#) - Remote",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4448032538/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4448011586",
+      "company": "Kake",
+      "title": "Senior Backend Engineer (TypeScript/Python/C#) - Remote",
+      "location": "Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4448011586/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "111de297d30c9085",
+      "company": "N-iX",
+      "title": "Middle .NET Full Stack Engineer",
+      "location": "Kraków, ML, PL",
+      "canonical_url": "https://pl.indeed.com/viewjob?jk=111de297d30c9085",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "661e48a571be4c79",
+      "company": "N-iX",
+      "title": "Middle .NET Full Stack Engineer",
+      "location": "București, IF, RO",
+      "canonical_url": "https://ro.indeed.com/viewjob?jk=661e48a571be4c79",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4454999311",
+      "company": "Novibet",
+      "title": "Software Development Team Leader",
+      "location": "Athens, Attiki, Greece",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4454999311/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474307682",
+      "company": "Pandora",
+      "title": "Engineer Integrations",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474307682/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474316465",
+      "company": "Pivotal",
+      "title": "Senior Software Engineer",
+      "location": "Spain",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474316465/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474331178",
+      "company": "Renesas Electronics",
+      "title": "Senior Software Development Engineer (.NET)",
+      "location": "Katowice, Śląskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474331178/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4474300251",
+      "company": "Roweb (part of Sirma Group)",
+      "title": "Full Stack .Net & Angular",
+      "location": "Romania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4474300251/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4462219576",
+      "company": "SD Worx Poland",
+      "title": "Fullstack Developer",
+      "location": "Śląskie, Poland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4462219576/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4456334739",
+      "company": "Singapore Pools",
+      "title": "Engineer, Retail and Customer Interaction Delivery",
+      "location": "Singapore, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4456334739/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4456319864",
+      "company": "Singapore Pools",
+      "title": "Senior Engineer, Retail and Customer Interaction Delivery",
+      "location": "Singapore, Singapore",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4456319864/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472573415",
+      "company": "Tata Consultancy Services",
+      "title": ".Net Full Stack Developer",
+      "location": "Letterkenny, County Donegal, Ireland",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472573415/",
+      "reported_at": "2026-10-01T21:01:07+03:00"
     }
   ]
 }
