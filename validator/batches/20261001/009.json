@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "49cd1797c6616f92",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily AI/ML engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f5ca84b20586b287",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily AI/ML engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -68,9 +68,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f508c798f452dbc7",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops, tests, maintains, and supports web and mobile applications using the Trust's core stack, including .NET/C# and SQL Server. Builds APIs and integration points and supports application services.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=f508c798f452dbc7"
+      }
     },
     {
       "company": "Altium",
@@ -91,8 +102,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ce49d9acfb83f9b5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Java; .NET is listed only as nice to have.",
       "validated": null
     },
     {
@@ -114,8 +125,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5b0f633709175aab",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Java; .NET is listed only as nice to have.",
       "validated": null
     },
     {
@@ -137,8 +148,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ab5589557a6bfb36",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Java; .NET is listed only as nice to have.",
       "validated": null
     },
     {
@@ -160,8 +171,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "25b04c47d0c542ee",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is Java; .NET is listed only as nice to have.",
       "validated": null
     },
     {
@@ -183,8 +194,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ad5be017bbb04114",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Current residence/base in Dublin is explicitly required for the hybrid working model.",
       "validated": null
     },
     {
@@ -206,8 +217,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "53b68d9496c6872d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is rendering/game programming and does not establish backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -229,8 +240,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "00f1a74c843fb771",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Explicitly requires eligibility to work in Belgium and daily presence at the Lokeren HQ.",
       "validated": null
     },
     {
@@ -252,8 +263,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d7418f0d9a198955",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Internship is focused on an AI-powered market-intelligence platform, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -275,8 +286,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e5f981fdac3d81b2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is operational-technology/digital-production engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -298,8 +309,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c24ddeab83b31c87",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is operational-technology/digital-production engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -321,8 +332,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "73ee4b2de64ff5dd",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German is explicitly mandatory for the role.",
       "validated": null
     },
     {
@@ -344,8 +355,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a78472acbfb1d4ec",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German is explicitly mandatory for the role.",
       "validated": null
     },
     {
@@ -367,8 +378,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "85d061f0554359f2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is explicitly frontend Unity game-client development, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -390,8 +401,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7072f49ad36c07a2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is construction health-and-safety engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -413,9 +424,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e0a9fb403c7367df",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "At least 4 years of hands-on C# and .NET development",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Develops financial-industry software in C#/.NET, including Web API, EF Core and MSSQL. Participates across design, coding, performance, security assessment and automated testing.",
+        "direct_application_link": "https://hu.indeed.com/viewjob?jk=e0a9fb403c7367df"
+      }
     },
     {
       "company": "Bentley Systems",
@@ -428,9 +450,20 @@
       "description": "Location:\nVilnius or Kaunas (Office-Based/Hybrid)\n\nPosition Summary:\n\nAre you ready to start a new journey with a team of energized professionals advancing and connecting the world’s infrastructure? Bentley is looking for you!\n\nWe are looking for a Software Development Engineer to join our Bentley Infrastructure Cloud product development team and work on building our next-generation products and user experiences. The successful candidate will be a member of the software development group that delivers industry leading software to transition the lifecycle of infrastructure assets into the digital world, contributing towards the Bentley Mission of providing innovative software and services for the enterprises and professionals who design, build and operate the world's infrastructure - advancing both the global economy and environment for improved quality of life.\n\nYour Day-to-Day:\n\nWorking closely with management and Product Managers, you will take ownership of key engineering responsibilities, including the design, implementation, testing, and support of product features, core components, and cloud services.\n\nCollaborate with Product Management and Engineering teams to design and implement significant refactoring of provisioning services, both new and existing\nTranslate technical designs into high-quality software products and services using modern development tools and practices\nMaintain and enhance the existing codebase while supporting issue resolution and customer needs\nWrite and execute unit tests to ensure code quality and alignment with functional requirements\nFollow DevOps best practices throughout the full development lifecycle, from design to deployment\nBuild and maintain fully automated CI/CD pipelines to deliver reliable, production-ready code\nContinuously learn and apply modern technologies, frameworks, and design patterns\nAdhere to secure development practices and ensure compliance with security standards\nCollaborate effectively with cross-functional teams, both as a service provider and consumer.\n\nWhat You Bring To The Team:\n\n3+ years of experience in software development using C++, C#, or .NET\nProven experience building and maintaining backend APIs and distributed systems\nExperience implementing secure service-to-service communication\nStrong ability to write clean, maintainable, testable, and secure code\nHands-on experience with automated testing frameworks and CI/CD pipelines\nStrong verbal and written communication skills, with the ability to collaborate across teams\nDemonstrated ability to learn quickly and adapt in a fast-paced environment\nA self-motivated individual who can work both independently and as part of a team.\n\nIt Would Be Awesome If You Have:\n\nExperience with service refactoring and modernization of legacy APIs\nExperience with observability platforms and production monitoring/dashboarding\nFamiliarity with contract testing for APIs and consumer-driven contracts\nExperience working with provisioning systems or RBAC-integrated solutions\n\nWhat We Offer:\n\nA great Team and culture – please see our colleague video.\nAn exciting career as an integral part of a world-leading software company providing solutions for architecture, engineering, and construction - watch this short documentary about how we got our start.\nAn attractive salary and benefits package.\nA commitment to inclusion, belonging and colleague wellbeing through global initiatives and resource groups.\nA company committed to making a real difference by advancing the world’s infrastructure for better quality of life, where your contributions help build a more sustainable, connected, and resilient world. Discover our latest user success stories for an insight into our global impact.\nTraining and professional development opportunities (certifications programs, conferences etc.).\nAdditional annual leave days and extra paid days for different occasions (marriage, moving day, bereavement leave etc.).\nHealth insurance package and accidents insurance 24/7.\nReferral program with bonuses.\nExtra paid day for volunteering in the organization of your choice.\n\nPlease note if you are employed full-time, the salary for this position ranges from 3800 EUR gross (before taxes-Lithuania) depending on knowledge and experience.\n\nReady to Build a Legacy?\n\nIf you're ready to take on a challenge with real-world impact and join a team of energized professionals dedicated to advancing the world's infrastructure, we want to hear from you.\n\nApply now and start your journey with Bentley!\n\nThis is a Hybrid role.\n\nWhat We Offer:\n\nStep into a collaborative work environment where ideas flourish, and teamwork propels us forward towards shared success.\nAn attractive salary and benefits package.\nBentley Impact Day: take a day off from work to volunteer with an organization of your choice.\nCelebrate milestone achievements and moments that matter through our colleague recognition award programs and our Bentley Achievers platform.\nA commitment to inclusion, belonging and colleague wellbeing through global initiatives and resource groups.\nBe part of a company committed to making a real difference by advancing the world’s infrastructure for better quality of life, where your contributions help build a more sustainable, connected, and resilient world. Discover our latest user success stories for an insight into our global impact.\n\nWho We Are:\n\nBentley Systems (Nasdaq: BSY) is the infrastructure engineering software company. We provide innovative software to advance the world’s infrastructure – sustaining both the global economy and environment. Our industry-leading software solutions are used by professionals, and organizations of every size, for the design, construction, and operations of roads and bridges, rail and transit, water and wastewater, public works and utilities, buildings and campuses, mining, and industrial facilities. Our offerings, powered by the iTwin Platform for infrastructure digital twins, include MicroStation and Bentley Open applications for modeling and simulation, Seequent’s software for geoprofessionals, and Bentley Infrastructure Cloud encompassing ProjectWise for project delivery, SYNCHRO for construction management, and AssetWise for asset operations. Bentley Systems’ 5,200 colleagues generate annual revenues of more than $1 billion in 194 countries.\n\nEqual Opportunity Employer:\n\nBentley is proud to be an equal opportunity employer and considers for employment all qualified applicants without regard to race, color, gender/gender identity, sexual orientation, disability, marital status, religion/belief, national origin, caste, age, or any other characteristic protected by local law or unrelated to job qualifications.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472551598",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "3+ years of software development using C++, C#, or .NET",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Builds and maintains backend APIs, distributed systems, cloud services and product features. The role requires software development experience using C++, C#, or .NET.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4472551598/"
+      }
     },
     {
       "company": "Bentley Systems",
@@ -443,8 +476,8 @@
       "description": "Location: Kaunas or Vilnius (Hybrid or Office-based)\n\nPosition Summary\n\nWe are seeking a Lead Developer\nto lead the evolution of ProjectWise\nwithin Bentley Infrastructure Cloud services powered by iTwin\n. This role is pivotal in driving innovation, ensuring service reliability, and delivering best-in-class solutions in partnership with Product Management and UX teams.You will own end-to-end product delivery—including service uptime (SLA)—and make data-driven decisions based on telemetry and usage insights. The ideal candidate champions agile practices, cloud-native development, and multi-tenant microservices, while fostering an empowered, high-performing team culture.\n\nResponsibilities\n\nLead and Inspire: Manage a global development team to deliver highly available, scalable, and performant cloud services.\nDrive Transformation: Champion the shift to an “Empowered Teams” model and instill a cloud-first mindset across the organization.\nOwn Delivery Excellence: Ensure code quality, service uptime, and continuous improvement in engineering processes.\nStrategic Decision-Making: Use data and telemetry to guide product adoption, prioritize investments, and optimize costs.\nCollaborate Across Functions: Partner with Product Management, UX, and leadership to align on strategy and deliver commitments.\nBuild Talent: Recruit, coach, and develop top engineering talent to create a world-class development organization.\n\nQualifications\n\nBachelor’s or Master’s degree in Computer Science or Engineering (or equivalent experience).\nProven experience in cloud-native software development, including transforming legacy on-prem solutions.\nStrong leadership skills with experience managing globally distributed teams.\nDeep understanding of DevOps/SRE principles, multi-cloud architectures, and complex technical challenges.\nResults-driven, strategic thinker with excellent communication and collaboration skills.\nHigh intellectual curiosity and adaptability to emerging technologies and trends.\nCoaching mindset with a passion for team development and continuous learning.\n\nPlease note if you are employed full-time, the salary for this position ranges from 5500 EUR gross (before taxes-Lithuania) depending on knowledge and experience.\n\nIf you are ready to take your development skills to the next level and be part of a team that is shaping the future of software, we want to hear from you! Apply now and embark on an exciting journey with Bentley!\n\nPlease submit resume in English.\n\nThis is a Hybrid role.\n\nWhat We Offer\n\nStep into a collaborative work environment where ideas flourish, and teamwork propels us forward towards shared success.\nAn attractive salary and benefits package.\nBentley Impact Day: take a day off from work to volunteer with an organization of your choice.\nCelebrate milestone achievements and moments that matter through our colleague recognition award programs and our Bentley Achievers platform.\nA commitment to inclusion, belonging and colleague wellbeing through global initiatives and resource groups.\nBe part of a company committed to making a real difference by advancing the world’s infrastructure for better quality of life, where your contributions help build a more sustainable, connected, and resilient world. Discover our latest user success stories for an insight into our global impact.\n\nWho We Are\n\nBentley Systems (Nasdaq: BSY) is the infrastructure engineering software company. We provide innovative software to advance the world’s infrastructure – sustaining both the global economy and environment. Our industry-leading software solutions are used by professionals, and organizations of every size, for the design, construction, and operations of roads and bridges, rail and transit, water and wastewater, public works and utilities, buildings and campuses, mining, and industrial facilities. Our offerings, powered by the iTwin Platform for infrastructure digital twins, include MicroStation and Bentley Open applications for modeling and simulation, Seequent’s software for geoprofessionals, and Bentley Infrastructure Cloud encompassing ProjectWise for project delivery, SYNCHRO for construction management, and AssetWise for asset operations. Bentley Systems’ 5,200 colleagues generate annual revenues of more than $1 billion in 194 countries.\n\nEqual Opportunity Employer\n\nBentley is proud to be an equal opportunity employer and considers for employment all qualified applicants without regard to race, color, gender/gender identity, sexual orientation, disability, marital status, religion/belief, national origin, caste, age, or any other characteristic protected by local law or unrelated to job qualifications.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472547694",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is primarily engineering management and team leadership rather than backend/server-side C#/.NET development.",
       "validated": null
     }
   ]
