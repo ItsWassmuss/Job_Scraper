@@ -9604,6 +9604,86 @@
       "job_id": "1d1f52495c336db4",
       "job_url": "https://pt.indeed.com/viewjob?jk=1d1f52495c336db4",
       "seen_at": "2026-10-01T16:36:19+03:00"
+    },
+    {
+      "job_id": "49cd1797c6616f92",
+      "job_url": "https://uk.indeed.com/viewjob?jk=49cd1797c6616f92",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "f5ca84b20586b287",
+      "job_url": "https://uk.indeed.com/viewjob?jk=f5ca84b20586b287",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "ce49d9acfb83f9b5",
+      "job_url": "https://pl.indeed.com/viewjob?jk=ce49d9acfb83f9b5",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "5b0f633709175aab",
+      "job_url": "https://pl.indeed.com/viewjob?jk=5b0f633709175aab",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "ab5589557a6bfb36",
+      "job_url": "https://pl.indeed.com/viewjob?jk=ab5589557a6bfb36",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "25b04c47d0c542ee",
+      "job_url": "https://pl.indeed.com/viewjob?jk=25b04c47d0c542ee",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "ad5be017bbb04114",
+      "job_url": "https://ie.indeed.com/viewjob?jk=ad5be017bbb04114",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "53b68d9496c6872d",
+      "job_url": "https://ro.indeed.com/viewjob?jk=53b68d9496c6872d",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "00f1a74c843fb771",
+      "job_url": "https://be.indeed.com/viewjob?jk=00f1a74c843fb771",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "d7418f0d9a198955",
+      "job_url": "https://ch.indeed.com/viewjob?jk=d7418f0d9a198955",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "e5f981fdac3d81b2",
+      "job_url": "https://ch.indeed.com/viewjob?jk=e5f981fdac3d81b2",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "c24ddeab83b31c87",
+      "job_url": "https://ch.indeed.com/viewjob?jk=c24ddeab83b31c87",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "73ee4b2de64ff5dd",
+      "job_url": "https://ch.indeed.com/viewjob?jk=73ee4b2de64ff5dd",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "a78472acbfb1d4ec",
+      "job_url": "https://ch.indeed.com/viewjob?jk=a78472acbfb1d4ec",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "85d061f0554359f2",
+      "job_url": "https://ch.indeed.com/viewjob?jk=85d061f0554359f2",
+      "seen_at": "2026-10-01T17:36:11+03:00"
+    },
+    {
+      "job_id": "7072f49ad36c07a2",
+      "job_url": "https://es.indeed.com/viewjob?jk=7072f49ad36c07a2",
+      "seen_at": "2026-10-01T17:36:11+03:00"
     }
   ],
   "seen_linkedin": [
@@ -39321,6 +39401,11 @@
       "job_id": "4474180773",
       "job_url": "https://www.linkedin.com/jobs/view/4474180773/",
       "seen_at": "2026-10-01T16:36:19+03:00"
+    },
+    {
+      "job_id": "4472547694",
+      "job_url": "https://www.linkedin.com/jobs/view/4472547694/",
+      "seen_at": "2026-10-01T17:36:11+03:00"
     }
   ],
   "reported": [
