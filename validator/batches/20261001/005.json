@@ -1,7 +1,7 @@
 {
   "created_at": "2026-10-01T12:37:52+03:00",
   "job_count": 39,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Trumpf Inc",
