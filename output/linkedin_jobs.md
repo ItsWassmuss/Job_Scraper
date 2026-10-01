@@ -1,160 +1,164 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-01 02:38 UTC*
+*Last updated: 2026-10-01 07:28 UTC*
 
-**39 new role(s)** since last run · 47 total in last 6h
+**40 new role(s)** since last run · 45 total in last 6h
 
-### [Senior Test Automation Engineer](https://www.linkedin.com/jobs/view/4472369852/) — Lely
-- 📍 **Location:** Maassluis, South Holland, Netherlands
+### [Software Engineer C# Machines](https://www.linkedin.com/jobs/view/4474113825/) — Voortman Steel Machinery
+- 📍 **Location:** Rijssen, Overijssel, Netherlands
 - 🕒 **Posted:** 2026-10-01
 
-### [Softwareentwickler Backend C#/.NET (m/w/d) bis zu 5.824 € Monatsbrutto](https://www.linkedin.com/jobs/view/4472656359/) — IMPACT business GmbH
-- 📍 **Location:** Darmstadt, Hesse, Germany
+### [Software Architect](https://www.linkedin.com/jobs/view/4474126724/) — Keylane
+- 📍 **Location:** Utrecht, Utrecht, Netherlands
 - 🕒 **Posted:** 2026-10-01
 
-### [Azure Engineer](https://www.linkedin.com/jobs/view/4409355673/) — Slalom
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
+### [Software Engineer - Angular/.net (m/w/d)](https://www.linkedin.com/jobs/view/4472502458/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Entwickler*in C# (all genders)](https://www.linkedin.com/jobs/view/4472657599/) — INTEX EDV-Software GmbH
-- 📍 **Location:** Saarbrücken, Saarland, Germany
+### [.NET Developer](https://www.linkedin.com/jobs/view/4474130457/) — TaskVerse
+- 📍 **Location:** Germany
 - 🕒 **Posted:** 2026-10-01
 
-### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4409362008/) — Slalom
+### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4472503503/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-10-01
+
+### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4472388652/) — Sano - Moderne Tierernährung GmbH
+- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
+- 🕒 **Posted:** 2026-10-01
+
+### [Actuarial Engineer, 3219](https://www.linkedin.com/jobs/view/4447901568/) — Hannover Re
+- 📍 **Location:** Hannover, Lower Saxony, Germany
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Architect (m/f/d) – Digital Specialist Platform](https://www.linkedin.com/jobs/view/4472904091/) — AutoSec Innovation
+- 📍 **Location:** Bonn, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior AI Software Engineer (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4472391919/) — Jobster
+- 📍 **Location:** Coblenz, Rhineland-Palatinate, Germany
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Testautomatisierer / Test Automation Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4472693386/) — SIEVON GmbH
+- 📍 **Location:** Görlitz, Saxony, Germany
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Test Analyst / Senior Test Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4472685793/) — SIEVON GmbH
+- 📍 **Location:** Görlitz, Saxony, Germany
+- 🕒 **Posted:** 2026-10-01
+
+### [PreSales Solution Architect (Azure) (m/w/d)](https://www.linkedin.com/jobs/view/4472396522/) — Skaylink
 - 📍 **Location:** Munich, Bavaria, Germany
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472654587/) — COSMO CONSULT
-- 📍 **Location:** Dresden, Saxony, Germany
+### [Senior AI Software Engineer (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4472392951/) — Jobster
+- 📍 **Location:** Heidelberg, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472662234/) — COSMO CONSULT
-- 📍 **Location:** Nuremberg, Bavaria, Germany
+### [Senior .NET Engineer](https://www.linkedin.com/jobs/view/4472674780/) — DOU Polska
+- 📍 **Location:** Cracow, Małopolskie, Poland
 - 🕒 **Posted:** 2026-10-01
 
-### [IT Infrastructure and Security Engineer](https://www.linkedin.com/jobs/view/4472651587/) — Zentso
-- 📍 **Location:** Berlin, Berlin, Germany
+### [.NET Developer](https://www.linkedin.com/jobs/view/4474120374/) — ALGOTEQUE Innovation Hub
+- 📍 **Location:** Łódź, Łódzkie, Poland
 - 🕒 **Posted:** 2026-10-01
 
-### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4409360046/) — Slalom
-- 📍 **Location:** Frankfurt, Hesse, Germany
+### [Senior Unity Developer](https://www.linkedin.com/jobs/view/4474120378/) — ALGOTEQUE Innovation Hub
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-10-01
 
-### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4409342960/) — Slalom
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
+### [Microsoft Dynamics 365 Solution Architect](https://www.linkedin.com/jobs/view/4474114433/) — ALGOTEQUE Innovation Hub
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472646863/) — COSMO CONSULT
-- 📍 **Location:** Bremen, Bremen, Germany
+### [AWS Solutions Architect](https://www.linkedin.com/jobs/view/4474126204/) — ALGOTEQUE Innovation Hub
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472653644/) — COSMO CONSULT
-- 📍 **Location:** Leipzig, Saxony, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472654586/) — COSMO CONSULT
-- 📍 **Location:** Münster, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472655578/) — COSMO CONSULT
-- 📍 **Location:** Neumarkt in der Oberpfalz, Bavaria, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472647805/) — COSMO CONSULT
-- 📍 **Location:** Berlin, Berlin, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472646867/) — COSMO CONSULT
-- 📍 **Location:** Hamburg, Hamburg, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472660343/) — COSMO CONSULT
-- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472655579/) — COSMO CONSULT
-- 📍 **Location:** Magdeburg, Saxony-Anhalt, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472666038/) — COSMO CONSULT
-- 📍 **Location:** Munich, Bavaria, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472663187/) — COSMO CONSULT
-- 📍 **Location:** Würzburg, Bavaria, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472648818/) — COSMO CONSULT
-- 📍 **Location:** Mannheim, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [Abschlussarbeit im Bereich Virtual Factory Intelligence – Integration von Simulation und KI-Agenten für die autonome Fabrik (SS27)](https://www.linkedin.com/jobs/view/4473993112/) — TRUMPF
-- 📍 **Location:** Ditzingen, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-10-01
-
-### [AI- lösningsarkitekt inom Dynamics 365  & Power Platform](https://www.linkedin.com/jobs/view/4472387368/) — Softronic
+### [Engineering Manager - Product Tech](https://www.linkedin.com/jobs/view/4473744206/) — H&M
 - 📍 **Location:** Stockholm, Stockholm County, Sweden
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Principal Engineer](https://www.linkedin.com/jobs/view/4437090907/) — Bentley Systems
-- 📍 **Location:** Dublin 2, County Dublin, Ireland
+### [Senior Microsoft Consultant / Architect (Modern Workplace, Data, AI & Cloud)](https://www.linkedin.com/jobs/view/4472688319/) — BearingPoint
+- 📍 **Location:** Stockholm, Stockholm County, Sweden
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4473985792/) — nShift
-- 📍 **Location:** Bucharest, Bucharest, Romania
+### [Agent Platform Engineer](https://www.linkedin.com/jobs/view/4473998854/) — The Clorox Company
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472657508/) — COSMO CONSULT
-- 📍 **Location:** Steyr, Upper Austria, Austria
+### [Kokenut full-stack -ohjelmistokehittäjä Defence & Security –toimialan projekteihin](https://www.linkedin.com/jobs/view/4472699130/) — Solita
+- 📍 **Location:** Finland
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472661268/) — COSMO CONSULT
-- 📍 **Location:** Graz, Styria, Austria
+### [Senior Web Developer (React / C#, MSSQL) - DSC/JS](https://www.linkedin.com/jobs/view/4448933245/) — ST Engineering
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472666040/) — COSMO CONSULT
-- 📍 **Location:** Traun, Upper Austria, Austria
+### [Application Support Developer](https://www.linkedin.com/jobs/view/4472682675/) — Keppel Data Centres
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472667033/) — COSMO CONSULT
-- 📍 **Location:** Vienna, Vienna, Austria
+### [Senior Support Engineer (Application)](https://www.linkedin.com/jobs/view/4474116872/) — Activate Interactive
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-01
 
-### [Consultant (Microsoft Dynamics 365 CRM und Power Platform) (all genders welcome)](https://www.linkedin.com/jobs/view/4472666036/) — COSMO CONSULT
-- 📍 **Location:** Wiener Neustadt, Lower Austria, Austria
+### [Senior Cloud Architect](https://www.linkedin.com/jobs/view/4448815680/) — Keppel Ltd, Keppel Technology Solutions
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-01
 
-### [Analista Programador/a .NET](https://www.linkedin.com/jobs/view/4472370959/) — NETCheck
-- 📍 **Location:** Madrid, Community of Madrid, Spain
+### [Programming Analyst](https://www.linkedin.com/jobs/view/4472902063/) — HR Danubius International University
+- 📍 **Location:** Galaţi, Galaţi, Romania
 - 🕒 **Posted:** 2026-10-01
 
-### [Werkstudent Backend Development - digitale Identitäten (m/w/d)](https://www.linkedin.com/jobs/view/4473975642/) — Bundesdruckerei-Gruppe
-- 📍 **Location:** Berlin, Berlin, Germany
-- 🕒 **Posted:** 2026-09-30
+### [Back End Developer](https://www.linkedin.com/jobs/view/4472398997/) — Brillio
+- 📍 **Location:** Romania
+- 🕒 **Posted:** 2026-10-01
 
-### [Identity Management Engineer](https://www.linkedin.com/jobs/view/4472352577/) — B. Braun Group
-- 📍 **Location:** Poznań, Wielkopolskie, Poland
-- 🕒 **Posted:** 2026-09-30
+### [Software developer C#](https://www.linkedin.com/jobs/view/4474121293/) — Médiane Système
+- 📍 **Location:** Charleroi, Walloon Region, Belgium
+- 🕒 **Posted:** 2026-10-01
 
-### [Identity Management Engineer](https://www.linkedin.com/jobs/view/4472346816/) — B. Braun Group
-- 📍 **Location:** Nowy Tomyśl, Wielkopolskie, Poland
-- 🕒 **Posted:** 2026-09-30
+### [Platform Engineer – Azure & .NET](https://www.linkedin.com/jobs/view/4470972223/) — Pauwels Consulting
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-01
 
-### [Senior Full Stack Developer (Java/Kotlin + AWS + Kubernetes)](https://www.linkedin.com/jobs/view/4472367567/) — Big World IT Solutions
-- 📍 **Location:** Södertälje, Stockholm County, Sweden
-- 🕒 **Posted:** 2026-09-30
+### [Sitecore Developer – Sitecore 10 XP & CMS](https://www.linkedin.com/jobs/view/4469722434/) — Pauwels Consulting
+- 📍 **Location:** Anderlecht, Brussels Region, Belgium
+- 🕒 **Posted:** 2026-10-01
 
-### [Backend Developer — Fusion Sustainability Insights](https://www.linkedin.com/jobs/view/4472360267/) — Autodesk
-- 📍 **Location:** Austria
-- 🕒 **Posted:** 2026-09-30
+### [System Engineer](https://www.linkedin.com/jobs/view/4472527105/) — NTX
+- 📍 **Location:** Kruibeke, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-01
 
-### [Game Developer](https://www.linkedin.com/jobs/view/4473963697/) — LilyxGame
-- 📍 **Location:** Dubai, Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-09-30
+### [Test Automation Engineer (Rail Traffic Data)](https://www.linkedin.com/jobs/view/4474126205/) — Médiane Système
+- 📍 **Location:** Brussels, Brussels Region, Belgium
+- 🕒 **Posted:** 2026-10-01
 
-### [System Development Engineer, ShipTech Analytics](https://www.linkedin.com/jobs/view/4473960702/) — Silicon Luxembourg
-- 📍 **Location:** Luxembourg, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-09-30
+### [Senior Quality Assurance Engineer – Playwright & TypeScript](https://www.linkedin.com/jobs/view/4469711795/) — Pauwels Consulting
+- 📍 **Location:** Anderlecht, Brussels Region, Belgium
+- 🕒 **Posted:** 2026-10-01
 
-### [Solution Architect](https://www.linkedin.com/jobs/view/4472359955/) — Proximus Luxembourg
-- 📍 **Location:** Bertrange, Luxembourg, Luxembourg
-- 🕒 **Posted:** 2026-09-30
+### [Senior Software Engineer .NET - Payment Devices (mfd)](https://www.linkedin.com/jobs/view/4472386702/) — SKIDATA
+- 📍 **Location:** Wals-Siezenheim, Salzburg, Austria
+- 🕒 **Posted:** 2026-10-01
+
+### [SENIOR SOFTWARE DEVELOPER .NET (m/w/d)](https://www.linkedin.com/jobs/view/4472500914/) — eurofunk Kappacher GmbH
+- 📍 **Location:** Klagenfurt, Carinthia, Austria
+- 🕒 **Posted:** 2026-10-01
+
+### [SENIOR SOFTWARE DEVELOPER .NET (m/w/d)](https://www.linkedin.com/jobs/view/4472398993/) — eurofunk Kappacher GmbH
+- 📍 **Location:** Sankt Johann im Pongau, Salzburg, Austria
+- 🕒 **Posted:** 2026-10-01
+
+### [SENIOR SOFTWARE DEVELOPER .NET (m/w/d)](https://www.linkedin.com/jobs/view/4472509552/) — eurofunk Kappacher GmbH
+- 📍 **Location:** Salzburg, Salzburg, Austria
+- 🕒 **Posted:** 2026-10-01
+
+### [Quality & Support Engineer](https://www.linkedin.com/jobs/view/4472678907/) — Discovered MENA
+- 📍 **Location:** Dubai, United Arab Emirates
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior .NET Engineer](https://www.linkedin.com/jobs/view/4474112180/) — Avenga
+- 📍 **Location:** Ruse, Ruse, Bulgaria
+- 🕒 **Posted:** 2026-10-01
