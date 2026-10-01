@@ -1,7 +1,7 @@
 {
   "created_at": "2026-10-01T19:10:07+03:00",
   "job_count": 55,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Europäische Patentorganisation",
