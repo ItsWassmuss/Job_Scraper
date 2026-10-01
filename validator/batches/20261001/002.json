@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "caec6df2d5486599",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is hardware/electrical engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -45,8 +45,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7d262cf458e6ed22",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary development stack is C++/Qt; no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -68,8 +68,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ad8ee83ef3e13a77",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German C1 proficiency is explicitly required.",
       "validated": null
     },
     {
@@ -91,8 +91,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9898bfdc7cc1655b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: UK-based residence is explicitly required.",
       "validated": null
     },
     {
@@ -114,8 +114,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "14d4f2a1b092f745",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is TypeScript/Node.js; C# services are explicitly a small minority.",
       "validated": null
     },
     {
@@ -137,8 +137,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "fb287f31cd930d06",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is power systems engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -160,8 +160,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cad69ffad2cb0bc9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role centers on SQL/database systems and does not provide backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -183,8 +183,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7549b22b5041b287",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Fluent Polish is explicitly required.",
       "validated": null
     },
     {
@@ -206,8 +206,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "11395047f35cd11e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Sweden work authorization is explicitly mandatory and visa sponsorship is unavailable.",
       "validated": null
     },
     {
@@ -229,8 +229,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5877a119fc55a4b1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive/full job description is primarily non-English with no confirmed complete official English version.",
       "validated": null
     },
     {
@@ -252,9 +252,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1d1da2ef4eac4cfa",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "Minimum 4 years of professional software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior full-stack software engineering role building enterprise applications, including backend services using Java and/or .NET and modern frontend solutions.",
+        "direct_application_link": "https://se.indeed.com/viewjob?jk=1d1da2ef4eac4cfa"
+      }
     },
     {
       "company": "CGI",
@@ -275,8 +286,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0d22776cab43b515",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive/full job description is primarily non-English with no confirmed complete official English version.",
       "validated": null
     },
     {
@@ -298,8 +309,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e9b1b624f5a71a68",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is an AI/platform engineering role without backend/server-side .NET evidence; C# is one of several general languages.",
       "validated": null
     },
     {
@@ -321,8 +332,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9c06dc7eb2ccb079",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Existing legal authorization to work in Ireland without employment visa sponsorship is explicitly required.",
       "validated": null
     },
     {
@@ -344,8 +355,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0feff40f00ce62cf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is process-water project engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -367,8 +378,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7898a9b2723da377",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary backend stack is explicitly Python and AWS, not .NET/C#.",
       "validated": null
     },
     {
@@ -390,9 +401,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "99e68180912ee96a",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "5+ years commercial software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Backend developer role building C#/.NET Core/ASP.NET Core services and APIs while migrating a construction-management platform to microservices.",
+        "direct_application_link": "https://at.indeed.com/viewjob?jk=99e68180912ee96a"
+      }
     },
     {
       "company": "Harman",
@@ -413,8 +435,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "922a6de6a69492dc",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is electronics failure-analysis engineering; C# is only an advantageous programming skill.",
       "validated": null
     },
     {
@@ -436,8 +458,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d21d8649006a41f5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is civil/construction management engineering, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -451,8 +473,8 @@
       "description": "IMPACT - das steht in der englischen Sprache für „Wirkung, Auswirkung“.\n\nWas das mit unserem Unternehmen zu tun hat? Ganz einfach: Durch unsere ausgezeichneten Kontakte, sowohl zu Kleinbetrieben und mittelständischen Unternehmen als auch zu großen Konzernen, sind wir Ihre erste Anlaufstelle, wenn es darum geht, den bestmöglichen IMPACT für Ihren nächsten Karriereschritt zu erzielen. Probieren Sie es aus!\n\nKontakt\n\nIMPACT Business GmbH\n\nJulia Kowalski\n\nRosa-Parks-Str.4\n\n64295 Darmstadt\n\nDarmstadt@IMPACT-Group.de\n\n06151 / 15 222 0\n\nUnser Kunde ist ein international führendes Industrieunternehmen mit Sitz in Darmstadt und entwickelt innovative Maschinen- und Prüftechnik für Kunden aus unterschiedlichsten Branchen weltweit. Freuen Sie sich auf spannende Projekte, moderne Strukturen und ein internationales Arbeitsumfeld.\n\nWir freuen uns darauf, Sie kennenzulernen!\n\nBenefits\n\nAttraktive Vergütung bis zu 5.824 € Monatsbrutto, je nach Qualifikation und Berufserfahrung\n30 Tage Urlaub pro Jahr (nicht nur 25 Tage wie üblich in der Personaldienstleistung)\nJahressonderzahlungen wie Weihnachts- und Urlaubsgeld\nRegelmäßig stattfindende Mitarbeiterevents in unserer Firmenzentrale (z. B. unser jährliches Sommerfest)\nEinsatz bei einem renommierten Technologieunternehmen in Darmstadt\nModerner Arbeitsplatz und abwechslungsreiche Entwicklungsprojekte\nMitarbeiterrabatte bei namhaften Herstellern und Marken von bis zu 80€ aus den Bereichen Mode, Sport, Technik und vielem mehr\n„Mach Freunde zu Kollegen“ - Empfehlen Sie Freunde, Bekannte oder frühere Kollegen und erhalten Sie bis zu 500€!\n\nAnforderungen\n\nAbgeschlossenes Studium der Informatik, Elektrotechnik oder Automatisierungstechnik bzw. eine vergleichbare Qualifikation\nMehrjährige Berufserfahrung in der Softwareentwicklung\nGute Kenntnisse in C# und .NET\nSicherer Umgang mit Visual Studio, Git, Jira, Confluence und Microsoft Azure\nKenntnisse in Jenkins oder TeamCity von Vorteil\nErfahrung mit agilen Entwicklungsmethoden wie Scrum oder Kanban\nErfahrung mit komponenten- und serviceorientierten Softwarearchitekturen\nErfahrung mit Continuous-Integration-Prozessen und entsprechenden Werkzeugen\nGute Deutsch- und Englischkenntnisse\nPräsenz vor Ort ist ein Muss\nErstwohnsitz in Deutschland\n\nAufgaben\n\nImplementierung funktionaler Erweiterungen im Backend cloudbasierter Anwendungen\nAnalyse und Behebung gemeldeter Fehler anhand von Logdateien und Quellcode\nPlanung und Durchführung notwendiger Softwaretests\nMitarbeit bei der Definition und kontinuierlichen Weiterentwicklung des gesamten Software-Stacks\nAktive Mitgestaltung von Architektur, Codequalität und Entwicklungsprozessen\nZusammenarbeit in einem agilen Softwareentwicklungsteam\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472656359",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Primary residence in Germany is explicitly mandatory.",
       "validated": null
     },
     {
@@ -466,8 +488,8 @@
       "description": "Über uns\n\nSlalom ist ein modernes Beratungsunternehmen, das sich auf Strategie, Technologie und IT-Transformation konzentriert. In 45 Märkten auf der ganzen Welt haben unsere Berater:innen die Möglichkeit, nach dem lokalen Ansatz schnell bei unseren Kunden zu sein und vor Ort zu helfen. Slalom wurde 2001 gegründet, hat seinen Hauptsitz in Seattle und ist organisch auf über 12.000 Mitarbeitenden gewachsen. Slalom wurde acht Jahre in Folge von Fortune zu einem der 100 besten Arbeitgeber ernannt und wird regelmäßig von seinen Mitarbeitenden als bester Arbeitsplatz ausgezeichnet.   \n\nAufgabenschwerpunkte\n\nDesign und Implementierung von cloud native   Softwarelösungen auf Microsoft Azure\nFull‑Stack Engineering mit C#, .NET, TypeScript, Node.js, Deno, React oder Angular\nAnwenden von Infrastructure as Code (IaC) Tools wie ARM, Bicep oder Terraform\nAI‑unterstütztes Engineering über den gesamten Software Development Life Cycle (SDLC) mit z.B. GitHub Copilot\nAktives Vorantreiben von Azure‑ und AI‑Engineering‑Projekten\n\nDas bringst du mit\n\nAusbildung oder Studium im Bereich Informatik oder ein vergleichbarer Abschluss \nMehrjährige Erfahrung in Azure Projekten in technischen Rollen (Engineer, Consultant, Architect) im Beratungsumfeld\nSicherer Umgang mit  Azure Serverless in produktiven Systemen\nErfahrung mit (GitHub‑)Migrationen oder GitHub Enterprise Administration, GitHub Advanced Security oder GitHub Copilot  sind von Vorteil\nVerhandlungssicheres Deutsch und Englisch in Wort und Schrift\n\nDeine Benefits\n\nHybrides Arbeiten im Home Office und in unseren modernen Offices in den Herzen von München, Düsseldorf oder Frankfurt am Main\nBis zu 30 Tage Arbeiten im Ausland nach Absprache jährlich möglich\n﻿30 Tage Urlaub und die Möglichkeit des Erwerbs von bis zu zehn zusätzlichen Urlaubstagen pro Jahr\nEine monatliche individuelle Mobilitätspauschale für private Reisen mit der Bahn, Auto, Flugzeug, Rad, Tank- oder Werkstattkosten\nMonatliche Smartphonepauschale von 100€ (Brutto) und freie Wahl deines Laptops (Apple oder HP)\nMit deiner Mitgliedschaft bei EGYM Wellpass hast du Zugang zu über 2.800 Sport-, Fitness- und Wellnesseinrichtungen sowie zu Apps und Home Workouts\nJährliches Budget von rund 300€ für dein Well-being. Ob Yoga, Fitnesskurs, Massage oder doch einer Spende für einen guten Zweck, du entscheidest\nWir kümmern uns um deine Zukunft–mit einer jährlichen Zahlung in unseren Pensionsfond (4% des Grundgehalts)\n﻿Zwei Impact Days für Volunteering in deiner Community pro Jahr\nDu bist uns wichtig – neben Coaching und weiteren Unterstützungsprogrammen bieten wir umfangreiche Versicherungspläne für dich und deine Familie an\nRegelmäßige Teamevents, Get together und Lunch & Learns mit den besten Kollegen:innen in unseren zentralen Offices\n\nWas uns ausmacht\n\nUnsere zehn  \n„Slalom Core Values“   sind ein fester Bestandteil von allem, was wir bei Slalom tun, und prägen unsere mitarbeiterzentrierte Kultur. Wir fördern die Vielfalt am Arbeitsplatz und stellen sicher, dass alle unsere Mitarbeitenden ihr Potenzial voll entfalten können, unabhängig von ihrem persönlichen, kulturellen und sozialen Background. Wir bauen Teams auf, die die Vielfalt der Communities widerspiegeln, für die wir arbeiten. Come as you are!\nDeshalb Slalom\n\nObwohl Slalom schon seit 2001 ein globaler Player ist, befinden wir uns in einer für unsere Branche besonderen Ausgangslage und werden nach wie vor von unseren Gründern geführt. Dies bedeutet konkret, dass unsere Ziele nicht von externen Stakeholder:innen getrieben werden, sondern stets die Mitarbeitenden und unsere Kunden im Vordergrund stehen.\nUnser Ziel ist es, unsere Kunden mit allen nötigen Skills auszustatten, damit diese vollumfänglich hinter ihrer Reise in die Cloud stehen und nach dem erfolgreichen Abschluss der gemeinsamen Projekte diese Veränderung eigenständig und nachhaltig leben. Man könnte fast sagen: „wir kommen, um zu gehen“.\nMilestones\n\nMehr als 12.000 Slalomer:innen. Acht Länder. 45 Standorte. Und stetiges, schnelles Wachstum. In Deutschland haben wir unseren ersten Standort 2022 in München eröffnet, Düsseldorf und Frankfurt folgten in 2023 und 2024. Das Team ist auf über 150 Mitarbeiter:innen angewachsen und wird sich auch im Jahr 2026 stetig vergrößern.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4409355673",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Azure engineering role does not establish backend/server-side .NET/C# development as the role requirement.",
       "validated": null
     },
     {
@@ -481,8 +503,8 @@
       "description": "Jobs\n\nSoftware Entwickler*in C# (all genders)\n\nDie INTEX EDV-Software GmbH ist ein international ausgerichtetes Softwareunternehmen mit Hauptsitz im Südwesten Deutschlands und einer der führenden Anbieter von hochintegrierten ERP-Systemen für das gesamte Fashion Business. Als inhabergeführtes mittelständisches Unternehmen mit rund 100 Mitarbeitern sind wir seit über 35 Jahren sehr erfolgreich am Markt.\n\nZur Verstärkung unseres innovativen Entwicklungs-Teams suchen wir zeitnah lösungsorientierte Software-Entwickler*in C#\n(m/w/d).\n\nWichtige Informationen im Überblick\n\nIhre Aufgaben\n\nSie nehmen eine zentrale Rolle ein bei der technischen Umsetzung von Anwendungen\nim ERP-Umfeld der Fashionindustrie.\nSie entwickeln und pflegen Programme und Systeme und stellen die Lauffähigkeit der Anwendungssoftware sicher.\nSie arbeiten gerne in einem Team und haben Spaß daran, Herausforderungen gemeinsam zu bewältigen.\nSie schaffen sich Freiraum für Ideen zur Effizienzerhöhung, Performancesteigerung\nsowie Verbesserung der Wartbarkeit unserer Systeme.\n\nIhr Profil\n\nMit einem abgeschlossenem Studium der Informatik/Wirtschaftsinformatik\n\noder vergleichbarer Qualifikation sind Sie\n\nvertraut mit moderner Entwicklungsmethodik und Paradigmen\nbeherrschen Ihre Entwicklungsumgebung und –Tools\nhaben Sie Erfahrung in der Entwicklung von ERP-Systemen\nzaubern mit SQL\nverfügen über ausgeprägte analytische Fähigkeiten\n\nDarüber hinaus sollten Sie Team- und Kommunikationsfähigkeit besitzen und sowohl Einsatzbereitschaft als auch Flexibilität mitbringen. Selbständiges, eigenverantwortliches Arbeiten, Freude an projektbezogener Arbeit sowie gute Deutsch- und Englischkenntnisse runden Ihr Profil ab.\n\nUnser Angebot\n\nWir entwickeln an der Zukunft.\n\nTüfteln Sie mit!\n\nSeien Sie mit uns zusammen erfolgreich, bringen Sie Ihr Wissen, Ihre Kreativität\n\nund Ihren Schwung in unser Unternehmen ein.\n\nBei uns erwartet Sie eine offene Unternehmenskultur, die Raum für vorausschauendes und innovatives Handeln bietet. Wir setzen auf Teamarbeit, bei der ein hohes Maß an Eigenverantwortung und Einsatzbereitschaft gelebt wird. Wir bieten Ihnen die Perspektive, mit uns gemeinsam erfolgreich zu sein und in einem spannenden Umfeld zu wachsen.\n\nUnser Angebot\n\nleistungsgerechte Bezahlung\nattraktive Sonderleistungen\nvermögenswirksame Leistungen (VWL)\nWork-Life-Balance\nflexible Arbeitszeiten\nhybrides Arbeiten (Büro/Homeoffice)\nzielorientierte Mitarbeiterführung\nflache Hierarchien\n\nWir leben Teamspirit und eine kollegiale, offene Arbeitsatmosphäre durch Begegnung auf Augenhöhe und einen offenen sowie vertrauensvollen Umgang.\n\nEbenso wichtig sind eine umfassende und gezielte Einarbeitung, intensive Produktschulungen sowie kontinuierliche Weiter­bildungs­möglich­keiten für Ihre persönliche Weiterentwicklung.\n\nDamit sich unserer Mitarbeiter:Innen wohlfühlen, bieten wir neben ergonomisch ausgestatteten Arbeitsplätzen weitere attraktive Incentives:\n\nfreundliche, helle und geräumige Cafeteria\nFreizeitgestaltung mit Kicker & Dart\nLeseecke\n\nFür einen gesunden Körper & Geist\n\nkostenfreies wöchentliches Training mit der Akademie 8 (Arbeitszeit)\nkostenlose betriebliche Sozialberatung\nBusiness Bike\nFirmengeförderte Arbeitsplatzbrille bei FIELMANN\n\nSie möchten gerne bei uns arbeiten? Senden Sie uns Ihre vollständigen Unterlagen an hr@intex.de oder postalisch an\n\nINTEX EDV-Software GmbH\n\nHuman Resources\n\nTaubfeld 8\n\n66121 Saarbrücken\n\nZurück zur Übersicht\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4472657599",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# development is stated, but no backend/server-side C#/.NET evidence is provided.",
       "validated": null
     },
     {
@@ -496,8 +518,8 @@
       "description": "Über uns \n\nSlalom ist ein modernes Beratungsunternehmen, das sich auf Strategie, Technologie und IT-Transformation konzentriert. In 45 Märkten auf der ganzen Welt haben unsere Berater:innen die Möglichkeit, nach dem lokalen Ansatz schnell bei unseren Kunden zu sein und vor Ort zu helfen. Slalom wurde 2001 gegründet, hat seinen Hauptsitz in Seattle und ist organisch auf über 12.000 Mitarbeitenden gewachsen. Slalom wurde acht Jahre in Folge von Fortune zu einem der 100 besten Arbeitgeber ernannt und wird regelmäßig von seinen Mitarbeitenden als bester Arbeitsplatz ausgezeichnet.  \n\nDas sind deine täglichen Aufgaben\n\nAls Fullstack Engineer unterstützt du die Entwicklung von Implementierungsplänen und arbeitest an der Gestaltung von Architekturen mit, setzt etablierte Muster und Best Practices um und beteiligst dich an der Abstimmung des Projektfahrplans im Team\nDurch enge Zusammenarbeit mit anderen Disziplinen und unter Anwendung agiler Arbeitsmethoden wirkst du iterativ an der Konzeption, Entwicklung und Validierung von Software im großen Maßstab mit\nDu schreibst hochwertigen Anwendungscode unter Verwendung neuer Technologien und Frameworks, wobei der Schwerpunkt auf cloudbasierten Ökosystemen liegt\nDu bist verantwortlich für die Verifizierung von Komponenten auf Unit- und Integrationsebene mittels bewährter Validierungstechniken\nMit deiner Expertise befähigst du alle Stakeholder innerhalb des Produktentwicklungsteams, hochwertige Lösungen in einem kollaborativen Umfeld zu liefern\n\nDas bringst du mit\n\nDu hast bereits einige Jahre Berufserfahrung in der Softwareentwicklung und ein erfolgreich abgeschlossenes Studium oder vergleichbare Qualifikationen\nBisher warst du vor allem im Backend- oder Fullstack-Bereich tätig\nDu hast bisher mit mindestens einem der vier Cloud-Hyperscaler - Azure, AWS, GCP oder STACKIT - gearbeitet\nProgrammiersprachen wie Java, Python, C#, Typescript und/oder JavaScript beherrscht du sehr gut \nFundierte Kenntnisse mit GenAI sowie erste Erfahrungen mit Agentic Architectures sind von Vorteil \nDu verfügst über sehr gute Sprachkenntnisse in Deutsch und Englisch (min. C1-Level)\n\nDeine Benefits\n\nMobiles und flexibles Arbeiten sowie 30 Tage Urlaub und 2 Impact Days für Volunteering in deiner Community\nWir kümmern uns um deine Zukunft – mit einer jährlichen Zahlung in unseren Pensionsfond (4% des Grundgehalts) \nDu erhältst bei uns eine monatliche individuelle Mobilitätspauschale für Reisen mit der Bahn, Flugzeug, Rad, etc. \nMit deiner Mitgliedschaft bei EGYM Wellpass hast du Zugang zu über 2.800 Sport-, Fitness- und Wellnesseinrichtungen sowie zu Apps und Home Workouts \nJährliches Budget von rund 300€ für dein Well-being. Ob Yoga, Fitnesskurs, Massage oder doch einer Spende für einen guten Zweck, du entscheidest \nDu bist uns wichtig – neben Coaching und weiteren Unterstützungsprogrammen bieten wir umfangreiche Versicherungspläne für dich und deine Familie an \nMonatliche Smartphone Pauschale von 100€ (Brutto) und freie Wahl deines Laptops (Apple oder HP) \nRegelmäßige Teamevents, Get together und Lunch & Learns mit den besten Kolleg:innen in unseren zentralen Offices \n\nWas uns ausmacht\n\nUnsere zehn „Slalom Core Values“ sind ein fester Bestandteil von allem, was wir bei Slalom tun, und prägen unsere mitarbeiterzentrierte Kultur. Wir fördern die Vielfalt am Arbeitsplatz und stellen sicher, dass alle unsere Mitarbeitenden ihr Potenzial voll entfalten können, unabhängig von ihrem persönlichen, kulturellen und sozialen Background. Wir bauen Teams auf, die die Vielfalt der Communities widerspiegeln, für die wir arbeiten. Come as you are! \nDeshalb Slalom\n\nObwohl Slalom schon seit 2001 ein globaler Player ist, befinden wir uns in einer für unsere Branche besonderen Ausgangslage und werden nach wie vor von unseren Gründern geführt. Dies bedeutet konkret, dass unsere Ziele nicht von externen Stakeholder:innen getrieben werden, sondern stets die Mitarbeitenden und unsere Kunden im Vordergrund stehen. Unser Ziel ist es, unsere Kunden mit allen nötigen Skills auszustatten, damit diese vollumfänglich hinter ihrer Reise in die Cloud stehen und nach dem erfolgreichen Abschluss der gemeinsamen Projekte diese Veränderung eigenständig und nachhaltig leben. Man könnte fast sagen: „wir kommen, um zu gehen“. \nMilestones\n\nMehr als 12.000 Slalomer:innen. Acht Länder. 45 Standorte. Und stetiges, schnelles Wachstum. In Deutschland haben wir unseren ersten Standort 2022 in München eröffnet, Düsseldorf und Frankfurt folgten in 2023. Das Team ist inzwischen auf über 180 Mitarbeiter:innen angewachsen und wird weiter wachsen – und das schnell. \nWenn du dich angesprochen fühlst, freuen wir uns von dir zu hören!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
       "source": "LinkedIn",
       "job_id": "4409362008",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German proficiency at minimum C1 is explicitly required.",
       "validated": null
     },
     {
@@ -511,8 +533,8 @@
       "description": "Über uns \n\nSlalom ist ein modernes Beratungsunternehmen, das sich auf Strategie, Technologie und IT-Transformation konzentriert. In 45 Märkten auf der ganzen Welt haben unsere Berater:innen die Möglichkeit, nach dem lokalen Ansatz schnell bei unseren Kunden zu sein und vor Ort zu helfen. Slalom wurde 2001 gegründet, hat seinen Hauptsitz in Seattle und ist organisch auf über 12.000 Mitarbeitenden gewachsen. Slalom wurde acht Jahre in Folge von Fortune zu einem der 100 besten Arbeitgeber ernannt und wird regelmäßig von seinen Mitarbeitenden als bester Arbeitsplatz ausgezeichnet.  \n\nDas sind deine täglichen Aufgaben\n\nAls Fullstack Engineer unterstützt du die Entwicklung von Implementierungsplänen und arbeitest an der Gestaltung von Architekturen mit, setzt etablierte Muster und Best Practices um und beteiligst dich an der Abstimmung des Projektfahrplans im Team\nDurch enge Zusammenarbeit mit anderen Disziplinen und unter Anwendung agiler Arbeitsmethoden wirkst du iterativ an der Konzeption, Entwicklung und Validierung von Software im großen Maßstab mit\nDu schreibst hochwertigen Anwendungscode unter Verwendung neuer Technologien und Frameworks, wobei der Schwerpunkt auf cloudbasierten Ökosystemen liegt\nDu bist verantwortlich für die Verifizierung von Komponenten auf Unit- und Integrationsebene mittels bewährter Validierungstechniken\nMit deiner Expertise befähigst du alle Stakeholder innerhalb des Produktentwicklungsteams, hochwertige Lösungen in einem kollaborativen Umfeld zu liefern\n\nDas bringst du mit\n\nDu hast bereits einige Jahre Berufserfahrung in der Softwareentwicklung und ein erfolgreich abgeschlossenes Studium oder vergleichbare Qualifikationen\nBisher warst du vor allem im Backend- oder Fullstack-Bereich tätig\nDu hast bisher mit mindestens einem der vier Cloud-Hyperscaler - Azure, AWS, GCP oder STACKIT - gearbeitet\nProgrammiersprachen wie Java, Python, C#, Typescript und/oder JavaScript beherrscht du sehr gut \nFundierte Kenntnisse mit GenAI sowie erste Erfahrungen mit Agentic Architectures sind von Vorteil \nDu verfügst über sehr gute Sprachkenntnisse in Deutsch und Englisch (min. C1-Level)\n\nDeine Benefits\n\nMobiles und flexibles Arbeiten sowie 30 Tage Urlaub und 2 Impact Days für Volunteering in deiner Community\nWir kümmern uns um deine Zukunft – mit einer jährlichen Zahlung in unseren Pensionsfond (4% des Grundgehalts) \nDu erhältst bei uns eine monatliche individuelle Mobilitätspauschale für Reisen mit der Bahn, Flugzeug, Rad, etc. \nMit deiner Mitgliedschaft bei EGYM Wellpass hast du Zugang zu über 2.800 Sport-, Fitness- und Wellnesseinrichtungen sowie zu Apps und Home Workouts \nJährliches Budget von rund 300€ für dein Well-being. Ob Yoga, Fitnesskurs, Massage oder doch einer Spende für einen guten Zweck, du entscheidest \nDu bist uns wichtig – neben Coaching und weiteren Unterstützungsprogrammen bieten wir umfangreiche Versicherungspläne für dich und deine Familie an \nMonatliche Smartphone Pauschale von 100€ (Brutto) und freie Wahl deines Laptops (Apple oder HP) \nRegelmäßige Teamevents, Get together und Lunch & Learns mit den besten Kolleg:innen in unseren zentralen Offices \n\nWas uns ausmacht\n\nUnsere zehn „Slalom Core Values“ sind ein fester Bestandteil von allem, was wir bei Slalom tun, und prägen unsere mitarbeiterzentrierte Kultur. Wir fördern die Vielfalt am Arbeitsplatz und stellen sicher, dass alle unsere Mitarbeitenden ihr Potenzial voll entfalten können, unabhängig von ihrem persönlichen, kulturellen und sozialen Background. Wir bauen Teams auf, die die Vielfalt der Communities widerspiegeln, für die wir arbeiten. Come as you are! \nDeshalb Slalom\n\nObwohl Slalom schon seit 2001 ein globaler Player ist, befinden wir uns in einer für unsere Branche besonderen Ausgangslage und werden nach wie vor von unseren Gründern geführt. Dies bedeutet konkret, dass unsere Ziele nicht von externen Stakeholder:innen getrieben werden, sondern stets die Mitarbeitenden und unsere Kunden im Vordergrund stehen. Unser Ziel ist es, unsere Kunden mit allen nötigen Skills auszustatten, damit diese vollumfänglich hinter ihrer Reise in die Cloud stehen und nach dem erfolgreichen Abschluss der gemeinsamen Projekte diese Veränderung eigenständig und nachhaltig leben. Man könnte fast sagen: „wir kommen, um zu gehen“. \nMilestones\n\nMehr als 12.000 Slalomer:innen. Acht Länder. 45 Standorte. Und stetiges, schnelles Wachstum. In Deutschland haben wir unseren ersten Standort 2022 in München eröffnet, Düsseldorf und Frankfurt folgten in 2023. Das Team ist inzwischen auf über 180 Mitarbeiter:innen angewachsen und wird weiter wachsen – und das schnell. \nWenn du dich angesprochen fühlst, freuen wir uns von dir zu hören!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
       "source": "LinkedIn",
       "job_id": "4409360046",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German proficiency at minimum C1 is explicitly required.",
       "validated": null
     },
     {
@@ -526,8 +548,8 @@
       "description": "Über uns \n\nSlalom ist ein modernes Beratungsunternehmen, das sich auf Strategie, Technologie und IT-Transformation konzentriert. In 45 Märkten auf der ganzen Welt haben unsere Berater:innen die Möglichkeit, nach dem lokalen Ansatz schnell bei unseren Kunden zu sein und vor Ort zu helfen. Slalom wurde 2001 gegründet, hat seinen Hauptsitz in Seattle und ist organisch auf über 12.000 Mitarbeitenden gewachsen. Slalom wurde acht Jahre in Folge von Fortune zu einem der 100 besten Arbeitgeber ernannt und wird regelmäßig von seinen Mitarbeitenden als bester Arbeitsplatz ausgezeichnet.  \n\nDas sind deine täglichen Aufgaben\n\nAls Fullstack Engineer unterstützt du die Entwicklung von Implementierungsplänen und arbeitest an der Gestaltung von Architekturen mit, setzt etablierte Muster und Best Practices um und beteiligst dich an der Abstimmung des Projektfahrplans im Team\nDurch enge Zusammenarbeit mit anderen Disziplinen und unter Anwendung agiler Arbeitsmethoden wirkst du iterativ an der Konzeption, Entwicklung und Validierung von Software im großen Maßstab mit\nDu schreibst hochwertigen Anwendungscode unter Verwendung neuer Technologien und Frameworks, wobei der Schwerpunkt auf cloudbasierten Ökosystemen liegt\nDu bist verantwortlich für die Verifizierung von Komponenten auf Unit- und Integrationsebene mittels bewährter Validierungstechniken\nMit deiner Expertise befähigst du alle Stakeholder innerhalb des Produktentwicklungsteams, hochwertige Lösungen in einem kollaborativen Umfeld zu liefern\n\nDas bringst du mit\n\nDu hast bereits einige Jahre Berufserfahrung in der Softwareentwicklung und ein erfolgreich abgeschlossenes Studium oder vergleichbare Qualifikationen\nBisher warst du vor allem im Backend- oder Fullstack-Bereich tätig\nDu hast bisher mit mindestens einem der vier Cloud-Hyperscaler - Azure, AWS, GCP oder STACKIT - gearbeitet\nProgrammiersprachen wie Java, Python, C#, Typescript und/oder JavaScript beherrscht du sehr gut \nFundierte Kenntnisse mit GenAI sowie erste Erfahrungen mit Agentic Architectures sind von Vorteil \nDu verfügst über sehr gute Sprachkenntnisse in Deutsch und Englisch (min. C1-Level)\n\nDeine Benefits\n\nMobiles und flexibles Arbeiten sowie 30 Tage Urlaub und 2 Impact Days für Volunteering in deiner Community\nWir kümmern uns um deine Zukunft – mit einer jährlichen Zahlung in unseren Pensionsfond (4% des Grundgehalts) \nDu erhältst bei uns eine monatliche individuelle Mobilitätspauschale für Reisen mit der Bahn, Flugzeug, Rad, etc. \nMit deiner Mitgliedschaft bei EGYM Wellpass hast du Zugang zu über 2.800 Sport-, Fitness- und Wellnesseinrichtungen sowie zu Apps und Home Workouts \nJährliches Budget von rund 300€ für dein Well-being. Ob Yoga, Fitnesskurs, Massage oder doch einer Spende für einen guten Zweck, du entscheidest \nDu bist uns wichtig – neben Coaching und weiteren Unterstützungsprogrammen bieten wir umfangreiche Versicherungspläne für dich und deine Familie an \nMonatliche Smartphone Pauschale von 100€ (Brutto) und freie Wahl deines Laptops (Apple oder HP) \nRegelmäßige Teamevents, Get together und Lunch & Learns mit den besten Kolleg:innen in unseren zentralen Offices \n\nWas uns ausmacht\n\nUnsere zehn „Slalom Core Values“ sind ein fester Bestandteil von allem, was wir bei Slalom tun, und prägen unsere mitarbeiterzentrierte Kultur. Wir fördern die Vielfalt am Arbeitsplatz und stellen sicher, dass alle unsere Mitarbeitenden ihr Potenzial voll entfalten können, unabhängig von ihrem persönlichen, kulturellen und sozialen Background. Wir bauen Teams auf, die die Vielfalt der Communities widerspiegeln, für die wir arbeiten. Come as you are! \nDeshalb Slalom\n\nObwohl Slalom schon seit 2001 ein globaler Player ist, befinden wir uns in einer für unsere Branche besonderen Ausgangslage und werden nach wie vor von unseren Gründern geführt. Dies bedeutet konkret, dass unsere Ziele nicht von externen Stakeholder:innen getrieben werden, sondern stets die Mitarbeitenden und unsere Kunden im Vordergrund stehen. Unser Ziel ist es, unsere Kunden mit allen nötigen Skills auszustatten, damit diese vollumfänglich hinter ihrer Reise in die Cloud stehen und nach dem erfolgreichen Abschluss der gemeinsamen Projekte diese Veränderung eigenständig und nachhaltig leben. Man könnte fast sagen: „wir kommen, um zu gehen“. \nMilestones\n\nMehr als 12.000 Slalomer:innen. Acht Länder. 45 Standorte. Und stetiges, schnelles Wachstum. In Deutschland haben wir unseren ersten Standort 2022 in München eröffnet, Düsseldorf und Frankfurt folgten in 2023. Das Team ist inzwischen auf über 180 Mitarbeiter:innen angewachsen und wird weiter wachsen – und das schnell. \nWenn du dich angesprochen fühlst, freuen wir uns von dir zu hören!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
       "source": "LinkedIn",
       "job_id": "4409342960",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German proficiency at minimum C1 is explicitly required.",
       "validated": null
     },
     {
@@ -541,8 +563,8 @@
       "description": "As a family-run, high-tech company with nearly 19,000 employees at 71 locations worldwide, we are looking for forward thinkers with unconventional ideas and drive to join our team. Our company culture, which values collaboration and mutual trust, creates the ideal framework for boldly trying new things and questioning the status quo. Our technologies inspire people to develop and produce things that are currently unimaginable. Whether lasers, machine tools, EUV or electronics - TRUMPF is building technological worlds for future generations. Are you ready for new challenges?\n\nWährend des Studiums bei TRUMPF durchstarten – Innovation entdecken und Technik gestalten!\n\nÜbernehmen Sie spannende Projekte, bringen Sie Ihre Ideen aktiv ein und arbeiten Sie eng mit erfahrenen Kolleginnen und Kollegen zusammen. Neben individueller Betreuung erwarten Sie zahlreiche Angebote speziell für Studierende, die Ihre persönliche und fachliche Entwicklung fördern. Sammeln Sie wertvolle praktische Erfahrungen, erweitern Sie Ihr Netzwerk und gestalten Sie mit uns die Technologien von morgen!\n\nDas erwartet Sie bei uns\n\nFür die Integration von Simulationsdomänen, KI-Agenten und Industrial-Metaverse-Anwendungen entwickeln Sie neue konzeptionelle Ansätze\nDiese Ansätze setzen Sie anschließend prototypisch um\nBei der Entwicklung und Evaluierung von Architektur- und Infrastrukturkonzepten für skalierbare Simulationsumgebungen unterstützen Sie unser Team\nIm Zusammenspiel von KI-Agenten und Simulation im Industrial Metaverse betrachten Sie relevante Anwendungsfälle\nIm Rahmen eines industrieweiten Forschungsprojekts wirken Sie aktiv mit\n\nDas bringen Sie mit\n\nEin Studium der Fachrichtung Maschinenbau, Mechatronik, Automatisierungstechnik, Informatik oder eines vergleichbaren Studiengangs bildet Ihre fachliche Basis\nErste Erfahrungen im Bereich Simulation, Modellerstellung oder Programmierung bringen Sie mit\nGute Kenntnisse in Simulationstools wie Siemens Simit und NX Mechatronic Concept Designer sowie Programmierkenntnisse in C# oder Python runden Ihr technisches Profil ab\nGute Deutsch- und Englischkenntnisse in Wort und Schrift ermöglichen Ihnen einen sicheren Austausch\nMit einer strukturierten und selbständigen Arbeitsweise verbinden Sie analytische und konzeptionelle Fähigkeiten mit Kommunikationsstärke\n\nDas bieten wir Ihnen\n\nPflichtpraktikum oder freiwilliges Praktikum (auch im Gap Year zwischen Bachelor und Master)\nAttraktive Vergütung (auch für Pflichtpraktika)\nFlexible Arbeitszeiten (Gleitzeit)\nVor Ort oder teilweise mobil nach Absprache\nNetzwerkmöglichkeiten mit anderen Studierenden\nVergünstigtes Essen im Betriebsrestaurant\nTRUMPF Fitnessstudio und verschiedene Sportgruppen\nGute Anbindung an öffentliche Verkehrsmittel\n\nOrt:\nDitzingen\n\nBeginn:\nSommersemester 2027\n\nDauer:\n6 Monate\n\nHaben wir Sie überzeugt?\nFür Rückfragen steht Ihnen Ihre Ansprechpartnerin Sinem Ergin gerne per E-Mail unter Sinem.Ergin.external@trumpf.com zur Verfügung. Bitte beachten Sie, dass wir aus datenschutzrechtlichen Gründen keine Bewerbungen per E-Mail annehmen dürfen. Alle unsere ausgeschriebenen Stellen sind aktuell noch zu besetzen. Auf unserer Karriereseite finden Sie alle FAQs rund um Ihre Bewerbung bei uns.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMachinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4473993112",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is a simulation/AI academic project, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -556,8 +578,8 @@
       "description": "Bentley Systems\n\nLocation: Hybrid, Dublin\n\nPosition Summary\n\nWe are seeking a delivery-focused Senior Principal Engineer to build, own, and rapidly deliver the end to end technical architecture of the Bentley Developer Platform, which includes the front end developer experience, the API gateway, standards, authentication, metering, and billing infrastructure that powers Bentley’s portfolio of developer APIs and MCP servers.\n\nThis is a hands-on technical leadership role for someone with a builder mindset to roll up their sleeves, take ownership of complex delivery problems, and drive them to completion. You will set the architectural direction for the platform, write production code, review pull requests, and act as the senior technical authority the engineering team relies on for difficult decisions. You will also work closely with both the Product team to set the API standards along with engineering teams across the API portfolio to develop and maintain the platform’s API design standards, security models, and integration patterns.\n\nIf you’re an engineer who enjoys both deep technical work and influencing standards across a global organization, this role offers significant scope and impact.\n\nResponsibilities\n\nDefine and execute the architecture of the developer platform, including the API gateway, authentication, metering, billing integration, and settlement, ensuring it is sound, extensible, and cloud-native from the outset.\nOwn the end-to-end platform architecture from the developer experience through to the registry, including all aspects of commercialization, adoption, support, monitoring, and analytics.\nWork with the Product team to set API standards that will allow for monitoring, authentication, metering, and registration.\nWrite production code and review pull requests; remain the senior hands-on technical contributor on the team and unblock engineers on the critical path.\nServe as the primary technical interface between the Developer Platform, Product & Technology and product engineering teams, building credibility as the go-to person for platform questions.\nJointly develop and publish API Design Standards v1, working collaboratively with product teams so that standards reflect the technical reality of what those teams are building and are adopted in practice.\nOwn platform standards and governance: define the telemetry schema, maintain hub listing requirements, and establish the security and integration patterns applied across all API families.\nEstablish IMS OAuth as the standard authentication model across all platform surfaces.\nDefine and document migration paths for existing APIs to meet platform standards.\nEnsure AI and MCP surfaces are first-class citizens in the platform architecture and taxonomy, with documented agent integration patterns alongside traditional REST APIs.\nPartner with the Engineering Manager on technical hiring, team structure, and delivery sequencing.\nPartner with the CIO organization on enterprise application and ERP integration and unified architecture.\n\nQualifications\n\n12+ years of software engineering experience and significant time spent architecting large-scale systems.\nProven ability to own the comprehensive developer platform architecture spanning from the front-end developer experience down to the API registry encompassing commercialization, adoption, support and analytics.\nDeep, hands-on experience evaluating, implementing, and operating enterprise API Management and Integration platforms (e.g., MuleSoft, Apigee, Kong, Workato) as well as developer portal frameworks (e.g., Backstage).\nProven track record of architecting and assembling a new API platform by integrating enterprise tools and writing the custom software, when required into a seamless, customer-facing developer experience\nDemonstrated experience partnering closely with Product teams to define and establish global API standards that enable monitoring, authentication, metering and registration.\nStrong technical expertise in OAuth 2.0 / OIDC, token handling, and underlying platform security models.\nHands-on experience engineering distributed systems, event streaming, API gateways, routing, usage-based billing pipelines, and ERP/settlement integrations.\nUnique blend of hands-on coding ability and the communication skills to work credibly and collaboratively with multiple distinct product engineering teams.\nFamiliarity with AI/agent integration patterns and MCP is a strong plus\n\nWhat We Offer\n\nA great Team and culture – please see our colleague video.\nAn exciting career as an integral part of a world-leading software company providing solutions for architecture, engineering, and construction - watch this short documentary about how we got our start.\nAn attractive salary and benefits package.\nA commitment to inclusion, belonging and colleague wellbeing through global initiatives and resource groups.\nA company committed to making a real difference by advancing the world’s infrastructure for better quality of life, where your contributions help build a more sustainable, connected, and resilient world. Discover our latest user success stories for an insight into our global impact.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4437090907",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: Mandatory 12+ years of software engineering experience has no overlap with target 5-10 years.",
       "validated": null
     },
     {
@@ -571,9 +593,20 @@
       "description": "About Us\n\nnShift\nis the leading global provider of cloud delivery management solutions (SaaS), we enable the frictionless shipment and return of almost one billion shipments across 190 countries each year. We are headquartered in London and Oslo and have over 460 employees across offices in Sweden, Finland, Norway, Denmark, the United Kingdom, Poland, the Netherlands, Belgium, and Romania.\n\nOur software is used by many of the world leading e-commerce, retail, manufacturing, and 3PL shippers due to us having over 1000 carriers integrated into our platform, nearly 3 times more than our competitors!\n\nIf you buy goods online, there is a strong chance that nShift has powered that delivery, so come and join us as we shape the future of shipping, one frictionless journey at a time.\n\nAbout You\n\nWe are seeking a dynamic and accomplished .NET Developer to join our talented Portal team. The ideal candidate will possess a unique blend of technical expertise in modern .NET development, frontend skills, and a passion for working with cutting-edge AI technology. As a key player in our organization, you should have a proven track record of delivering high-quality software, building scalable systems, and continuously learning new technologies.\n\nPurpose of role\n\nIn the Portal, we're building innovative User Management, Identity Provider, SCIM solutions. This is an opportunity to contribute to an active, growing AI platform and expand its capabilities through practical, hands-on development.\n\nWe are looking for a practical, hands-on developer who will help us build, improve, and extend the chat system by implementing real features using established libraries and modern best practices.\n\nNo prior AI/LLM experience required\n- we're looking for strong software engineers who are excited to learn and work with cutting-edge AI technology. If you have solid engineering fundamentals and curiosity about AI, we'll help you develop the AI-specific skills.\n\nYour role includes:\n\nBuilding and maintaining both backend (.NET) and frontend (VUE/React/TypeScript) components\nImplementing AI agent features and LLM integrations using established frameworks\nDeveloping real-time streaming conversation systems\nCreating document ingestion and processing pipelines\nContributing to technical decisions and architectural improvements\nCollaborating with Product Managers and the engineering team to deliver high-quality features\n\nWhat You'll Be Doing\n\nTechnology\n\nBuild and maintain scalable, secure, and resilient .NET code\nDevelop responsive React applications with TypeScript and modern frontend practices\nIntegrate with multiple LLM providers (Anthropic Claude, OpenAI, AWS Bedrock)\nImplement real-time streaming systems using WebSocket/SSE\nWork with vector databases and RAG (Retrieval-Augmented Generation) patterns\nEnsure code quality through testing, type hints, and code reviews\nKeep the technology stack up to date and follow best practices\n\nProcess\n\nFollow established development processes and advocate for continuous improvement\nWrite clean, well-documented code with comprehensive tests\nParticipate in code reviews and knowledge-sharing sessions\nUse modern development tools and practices (Git, Docker, CI/CD)\nChallenge yourself and the team to enhance working methods\nContribute to technical documentation and internal education\n\nCollaboration\n\nWork closely with other developers, product managers, and stakeholders\nParticipate in planning and architectural discussions\nShare knowledge and mentor team members on technical topics\nCommunicate effectively in English (written and spoken)\nTake ownership of features from design to deployment\n\nWhat You Will Bring\n\nFor the role of Software Engineer in our Portal team at nShift, we are seeking candidates who embody the following characteristics:\n\nTechnical Proficiency\n: Strong hands-on experience with .NET. Experience with API design, database optimization, and system architecture thinking is essential. Experience with LLMs, AI agent frameworks, vector databases and TypeScript is a distinct advantage, but not mandatory - these can be learned on the job.\n\nProblem-Solving Ability\n: You have strong debugging and problem-solving skills, with the ability to understand complex systems and find elegant solutions.\n\nLearning Mindset\n: Genuine curiosity about AI/ML and eagerness to learn new technologies. You are comfortable reading documentation and learning new frameworks quickly.\n\nQuality Focus\n: You maintain high standards in code quality, testing, and software craftsmanship. You understand the importance of writing maintainable, well-tested code.\n\nEffective Communication\n: Proficiency in both written and spoken English is essential for ensuring seamless communication within the team and with stakeholders.\n\nOwnership Mindset\n: You take responsibility for your work, follow through on commitments, and care about delivering value to users.\n\nRequirements\n\nCompetence and Experience\n\nMust Have\n\n5+ years of professional software engineering experience\nStrong .NET\nSolid AWS knowledge\nReact and TypeScript proficiency\nRESTful APIs, WebSockets, streaming responses\nPostgreSQL and SQL optimization\nDocker and Kubernetes fundamentals\nGit and code review practices\n\nPreferred (Nice To Have)\n\nAny experience with LLMs (personal projects, side projects, API integrations)\nAI agent frameworks (LangChain)\nVector databases (PostgreSQL with pgvector, OpenSearch)\nDocument processing and OCR\nAWS services (Bedrock, S3, EKS)\nExperience with real-time data processing\n\nEducation\n\nBS degree in Computer Science or related field\nMinimum of 5 years of professional software development experience\nProven track record of building and maintaining production systems\n\nWhat We Offer\n\nHands-on learning in AI/LLM technologies and agentic systems\nOwnership over features and technical decisions\nModern development practices (dev containers, automated testing, GitOps)\nWork with cutting-edge AI technology and a modern tech stack\nProfessional growth from engineer to AI platform specialist\nReal-world impact with meaningful products\nCollaborative team environment with knowledge sharing\n\nAt nShift, we believe in embracing diversity in all forms and fostering an inclusive environment for everyone, which we believe is essential for our continued success. We're an equal opportunity employer, meaning all applicants will receive consideration for employment without regard to ethnicity, religion, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity, or disability status.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4473985792",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Not specified",
+        "required_experience": "5+ years of professional software engineering experience; minimum 5 years of professional software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software engineer role building and maintaining backend .NET components and APIs alongside React/TypeScript frontend components for a cloud delivery platform.",
+        "direct_application_link": "https://www.linkedin.com/jobs/view/4473985792/"
+      }
     },
     {
       "company": "NETCheck",
@@ -586,8 +619,8 @@
       "description": "Buscamos un/a Analista Programador/a con enfoque en .NET\npara sumarse a un proyecto estable. Serás parte de un equipo que diseña, desarrolla y mantiene aplicaciones a medida, con un papel activo en el análisis, las pruebas, la implantación y el soporte de las soluciones.\n\n⚙️ Responsabilidades principales:\n\nDesarrollar, mantener y probar las aplicaciones informáticas hasta su puesta en producción, corrigiendo los errores o defectos detectados y atendiendo los plazos de garantía.\nParticipar en el diseño, desarrollo, mantenimiento evolutivo y correctivo de las aplicaciones, así como en su soporte técnico\nRealizar desarrollos predefinidos a partir de requisitos funcionales y no funcionales, cumpliendo los hitos establecidos\nEjecutar trabajos de mantenimiento de duración determinada, sujetos a acuerdos de nivel de servicio (ANS)\nElaborar la documentación técnica, realizar las pruebas y llevar a cabo la implantación hasta la aceptación en preproducción, dando soporte en la subida al entorno de producción\nDiseñar y mantener la estructura global de las aplicaciones, colaborando en su supervisión técnica\nEvaluar riesgos y resolver problemas, además de llevar a cabo las actuaciones necesarias para la transferencia de tecnología y conocimiento\n\n✅ Requisitos:\n\nTitulación universitaria oficial en Ingeniería Informática, Licenciatura o Máster en Informática o equivalente.\n\nAportar experiencia en:\n\nProyectos TIC de desarrollo de software.\nAnálisis, diseño y desarrollo de aplicaciones con .NET, ASP.NET MVC, C#, HTML5, JavaScript, jQuery, XML, JSON y servicios web.\nDiseño y uso de bases de datos relacionales, preferiblemente Microsoft SQL Server.\nUso de TFS y herramientas de gestión del ciclo de vida del software, así como implementación y despliegue de aplicaciones en entornos de producción.\nAnálisis, desarrollo e integración de aplicaciones con servicios comunes y firma electrónica basada en certificados.\n\nAportar una certificación\nen alguna de estas materias:\n\nDirección y gestión de proyectos.\nMetodologías de desarrollo rápido de aplicaciones o de desarrollo de software ágil.\n\n🧠 Competencias personales.:\n\nCapacidad analítica y orientación a la resolución de problemas\nTrabajo en equipo y comunicación clara\nAutonomía y proactividad\nRigor y atención al detalle\nInterés por el aprendizaje continuo\n\n🎯 Qué ofrecemos:\n\nProyecto estable con un cliente de la Administración Pública.\nEntorno profesional dinámico con proyectos variados que te desafían y motivan.\nOportunidades de formación continua y desarrollo profesional.\nPaquete salarial competitivo, flexibilidad laboral y beneficios adaptados a tu experiencia.\nUn equipo que valora la comunicación efectiva, la innovación y tu crecimiento dentro de la empresa.\n\nSi quieres formar parte de un equipo donde tu talento cuenta, tus ideas importan y tu desarrollo profesional es prioritario\n, envía tu CV y carta de presentación destacando tus proyectos y certificaciones.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472370959",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Substantive/full job description is primarily non-English with no confirmed complete official English version.",
       "validated": null
     },
     {
@@ -601,8 +634,8 @@
       "description": "Ihr Aufgabenbereich\n\nUnterstützung bei der Umsetzung von Microservices für Cloud-Plattformen (z.B. OpenShift) sowie für Backendsysteme mobiler Anwendungen, vor allem im Bereich digitaler Identitäten\nMitarbeit bei der Erstellung von REST- und GRPC-Services sowie deren Containerisierung\nUnterstützung bei der Implementierung und Weiterentwicklung von Softwarekomponenten in Java oder Kotlin\nAktive Beteiligung beim Betrieb und Monitoring der Backendsysteme mobiler Anwendungen\n\nIhr Profil\n\nLaufendes Studium im Bereich Informatik oder einer vergleichbaren Fachrichtung\nErste Erfahrungen in der Mobile-App-Entwicklung mit Kotlin/Java\nErste Kenntnisse hinsichtlich Technologiekonzepten wie REST, JSON oder CBOR\nWünschenswert ist die Vertrautheit mit standard-kryptografischen Verfahren\nSystematische, zielorientierte und selbständige Arbeitsweise gepaart mit Verantwortungsbereitschaft und Eigeninitiative\nGutes Kommunikationsvermögen auf deutsch und englisch (mind. B2)\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4473975642",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend implementation is explicitly Java or Kotlin, not .NET/C#.",
       "validated": null
     },
     {
@@ -616,8 +649,8 @@
       "description": "The Identity Management Engineer is responsible for developing and operating the B. Braun Customer Identity and Access Management (CIAM) platform. The role focuses on building secure backend services and authorization models using One Identity Manager. This includes implementing identity lifecycle processes, integration with custom APIs, and ensuring compliance with security, governance, and regulatory requirements.\n\nDuties and responsibilities:\n\nDevelop and maintain the Identity Management Platform based on One Identity Manager\nImplement scalable backend services for: Customer administration, Identity lifecycle processes (Joiner, Mover, Leaver)\nBuild secure, high-performance service layers and processes based on designs\nContribute to: CIAM strategy and roadmap\nImplement and extend One Identity Manager capabilities\nDevelop custom synchronization solutions\nImplement data mapping, transformation, and consistency checks\nEnsure reliable data exchange and synchronization across systems\nImplement and support threat modeling and risk assessments\nEnsure compliance with: DPIA (Data Protection Impact Assessment), Data retention policies, DSR (Data Subject Rights)\nEnforce secure coding and identity security best practices\nProvide 2nd/3rd level support for CIAM services and applications\nMonitor system performance and troubleshoot issues\nEnsure high availability and reliability of identity services\n\nRequired Qualifications\n\nMust-have\n\nHands-on experience with One Identity Manager or similar\nUnderstanding of Identity & Access Management (IAM / CIAM) concepts, access governance, and identity lifecycle management processes.\nFamiliarity with: Programming language: (VB.Net), Scripting languages (PowerShell)\nSolid understanding of: Authorization models, especially ReBAC\nExperience with: Integration and synchronization between systems, SQL Database (simple queries), Building processes\n\nNice-to-have\n\nExperience with: Azure cloud services, Event-driven architecture\nUnderstanding of: GDPR and data privacy regulations, CI/CD pipelines and DevOps practices\nFamiliarity with EMS systems or contract management platforms\nBackend development skills (e.g., C#, .NET, Java)\nExperience with: API development (REST), Authentication protocols (OAuth2, OpenID Connect)\n\nPersonal Skills\n\nStrong analytical and conceptual thinking\nHigh security and quality awareness\nAbility to work in complex, regulated environments\nStrong ownership and proactive mindset\nGood communication skills with technical and business stakeholders\n\nBenefits:\n\nAdditional social funds for summer holidays and Christmas\nCo-funding of a Multisport card and private medical care\nOpportunity to join group life insurance\nFundings for trainings and conferences\nCo-funding of professional development\nFree language lessons and access to an e-learning platform\nTeam-building and sports events\n\nSalary ranges: 14.000 - 18.000 PLN gross monthly.\n\nThe controller of the personal data contained in your CV and provided when you create an account in our application is B. Braun Business Services Poland Sp. z o.o. in Nowy Tomysl, 14 Tysiąclecia St. We process this data on the basis of Article 22 of the Labour Code, and if you provide us with more data than required by the Labour Code, we process it on the basis of your consent. The purpose of this processing is to consider your application in the recruitment process. To find out more, such as how long we will keep your personal data, you can read the full information clause here: Klauzula Informacyjna dla Kandydatów - Kariera w Naszej Firmie - B. Braun You can contact our Data Protection Officer at any time regarding your personal data: iod_bbbspl@bbraun.com.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMedical Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472352577",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend .NET/C# is only listed as nice-to-have; the primary platform is One Identity Manager/VB.Net.",
       "validated": null
     },
     {
@@ -631,8 +664,8 @@
       "description": "The Identity Management Engineer is responsible for developing and operating the B. Braun Customer Identity and Access Management (CIAM) platform. The role focuses on building secure backend services and authorization models using One Identity Manager. This includes implementing identity lifecycle processes, integration with custom APIs, and ensuring compliance with security, governance, and regulatory requirements.\n\nDuties and responsibilities:\n\nDevelop and maintain the Identity Management Platform based on One Identity Manager\nImplement scalable backend services for: Customer administration, Identity lifecycle processes (Joiner, Mover, Leaver)\nBuild secure, high-performance service layers and processes based on designs\nContribute to: CIAM strategy and roadmap\nImplement and extend One Identity Manager capabilities\nDevelop custom synchronization solutions\nImplement data mapping, transformation, and consistency checks\nEnsure reliable data exchange and synchronization across systems\nImplement and support threat modeling and risk assessments\nEnsure compliance with: DPIA (Data Protection Impact Assessment), Data retention policies, DSR (Data Subject Rights)\nEnforce secure coding and identity security best practices\nProvide 2nd/3rd level support for CIAM services and applications\nMonitor system performance and troubleshoot issues\nEnsure high availability and reliability of identity services\n\nRequired Qualifications\n\nMust-have\n\nHands-on experience with One Identity Manager or similar\nUnderstanding of Identity & Access Management (IAM / CIAM) concepts, access governance, and identity lifecycle management processes.\nFamiliarity with: Programming language: (VB.Net), Scripting languages (PowerShell)\nSolid understanding of: Authorization models, especially ReBAC\nExperience with: Integration and synchronization between systems, SQL Database (simple queries), Building processes\n\nNice-to-have\n\nExperience with: Azure cloud services, Event-driven architecture\nUnderstanding of: GDPR and data privacy regulations, CI/CD pipelines and DevOps practices\nFamiliarity with EMS systems or contract management platforms\nBackend development skills (e.g., C#, .NET, Java)\nExperience with: API development (REST), Authentication protocols (OAuth2, OpenID Connect)\n\nPersonal Skills\n\nStrong analytical and conceptual thinking\nHigh security and quality awareness\nAbility to work in complex, regulated environments\nStrong ownership and proactive mindset\nGood communication skills with technical and business stakeholders\n\nBenefits:\n\nAdditional social funds for summer holidays and Christmas\nCo-funding of a Multisport card and private medical care\nOpportunity to join group life insurance\nFundings for trainings and conferences\nCo-funding of professional development\nFree language lessons and access to an e-learning platform\nTeam-building and sports events\n\nSalary ranges: 14.000 - 18.000 PLN gross monthly.\n\nThe controller of the personal data contained in your CV and provided when you create an account in our application is B. Braun Business Services Poland Sp. z o.o. in Nowy Tomysl, 14 Tysiąclecia St. We process this data on the basis of Article 22 of the Labour Code, and if you provide us with more data than required by the Labour Code, we process it on the basis of your consent. The purpose of this processing is to consider your application in the recruitment process. To find out more, such as how long we will keep your personal data, you can read the full information clause here: Klauzula Informacyjna dla Kandydatów - Kariera w Naszej Firmie - B. Braun You can contact our Data Protection Officer at any time regarding your personal data: iod_bbbspl@bbraun.com.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMedical Equipment Manufacturing",
       "source": "LinkedIn",
       "job_id": "4472346816",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend .NET/C# is only listed as nice-to-have; the primary platform is One Identity Manager/VB.Net.",
       "validated": null
     },
     {
@@ -646,8 +679,8 @@
       "description": "Role : Senior Full Stack Developer (Java/Kotlin + AWS + Kubernetes)\nLength: 1 year plus possibilities to extend\nLocation: Södertälje, Stockholm ( 2-3 days per week spent in the office )\n\nKey is the combination of AWS, Kubernetes DevOps, Java/kotlin. 10+ years of experience\n\nSenior Fullstack Developer who is responsible for developing and deploying applications utilized by retailers and service advisors globally. The ideal candidate is comfortable working within a team that embraces ownership of their application and leverages modern technologies for effective resale operations.\n\nAs part of the team, the successful candidate will:\n\n- Collaborate with team members on developing and deploying applications to production\n- Utilize development practices like event-driven architecture and continuous deployment\n- Exercise sound judgment on deployment decisions while articulating potential risks\n- Focus on building systems that enable rapid and confident team movement\n- Contribute to back-end, front-end, and AWS development as needed\n- Mentor and guide junior developers, fostering a culture of continuous learning\n- Participate in refining software stacks and innovate with modern technology\n- Maintain and develop micro frontends and microservices\n- Engage with cloud-based architecture deployed in Kubernetes with GitLab CI pipelines\n- Facilitate communication between services via Kafka.\n\nKey Requirements:\n\nProven experience in Fullstack development with Java and Kotlin\n\nStrong understanding of event-driven architecture\n\nExperience in microservices and cloud-based deployments\n\nProficient in modern front-end technologies (e.g., React)\n\nAbility to work independently and collaboratively in a remote setting\n\nNice to Have:\n\nExperience with Kubernetes and GitLab CI\n\nKnowledge of Kafka as a communication tool\n\nFamiliarity with Agile methodologies\n\nOther Details:\n\nThis position allows for remote work, with a commitment of 2-3 days per week spent in the office located in south of Stockholm. The contract duration is one year, with potential for extension. The role entails actively participating in a dynamic team environment focused on innovation and technology advancement.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nContract\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472367567",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary full-stack/backend stack is Java/Kotlin, not .NET/C#.",
       "validated": null
     },
     {
@@ -661,8 +694,8 @@
       "description": "Job Requisition ID #\n\n26WD101347\n\nBackend Developer — Fusion Sustainability Insights\n\nThe Autodesk Product Design and Manufacturing Solutions (PDMS) portfolio connects the top floor to the shop floor and supply chain so customers can move seamlessly through each phase of a product's development lifecycle — from design and validation to production engineering, manufacturing execution, and operation — with a best-in-class Fusion Industry Cloud platform and market-leading specialist products.\n\nOur team is working on a cutting-edge manufacturing platform by advancing automation capabilities that empower users to streamline their workflows and make smarter, data-driven decisions. As part of this effort, we develop features for Autodesk Fusion that enhance digital manufacturing workflows and support sustainability-driven decision-making. These tools help optimize production processes, evaluate environmental impact, and improve material efficiency—contributing to more responsible and efficient manufacturing practices.\n\nThis role focuses on sustainable design and manufacturing. You will have the opportunity to work on a feature that provides real-time environmental impact feedback during design and manufacturing without disrupting our customer’s workflow, saves operational costs and accelerates the creation of LCA reports for compliance. This will require integrating different APIs from Autodesk Platform third party vendors, while ensuring the data flows properly.\n\nResponsibilities\n\nWork with Autodesk Fusion’s API to access, manipulate and visualize manufacturing data.\nDevelop and operate MCP servers that connect sustainability data services and APIs with Autodesk Fusion and other applications.\nCreate documentation and tests to support maintainability and scalability.\nParticipate in design reviews and contribute to UX improvements.\nWork with extended teams including UX Design, Research, Product Management, and QA.\n\nRequirements\n\nProficiency in C++ for backend logic.\nProficiency in Python, TypeScript, JavaScript and HTML/CSS.\nUnderstanding of MCP Server architecture and deployment.\nAI Dev skills – Proficient AI Assisted design and implementations\nBachelor’s or Master’s degree in Computer Science, Engineering, or a related field—or equivalent practical experience.\nSolid technical knowledge in software development methodologies, design and implementations.\nGood written and verbal English communication skills.\n\nLearn More\n\nAbout Autodesk\n\nWelcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.\n\nWe take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.\n\nWhen you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!\n\nSalary transparency\n\nSalary is one part of Autodesk’s competitive compensation package. For Germany based roles, we expect a starting base salary between 71,000 EUR and 103,400 EUR. Offers are based on the candidate’s experience and geographic location, and may exceed this range. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package.\n\nBelonging\n\nWe take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/global-belonging\n\nIn-Person Onboarding and Identity Verification\n\nThis role may require in-person onboarding and/or in-person ID verification.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development, Design Services, and IT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4472360267",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Backend logic explicitly requires C++, with Python/TypeScript/JavaScript; no backend .NET/C# evidence.",
       "validated": null
     },
     {
@@ -676,8 +709,8 @@
       "description": "🎮 Unity Game Developer (Mobile 2D/3D) — Remote\nAbout Us\n\n🚀 LilyxGame Studio\nbuilds fast, fun mobile games across hyper/hybrid/casual\n.\n🤝 We’ve collaborated with publishers like , Voodoo, Homa, Supercent, etc\n.\n✨ We move quickly: pitch → prototype → polish → test → iterate.\n\nRole\n\n🧩 Help turn fresh concepts into playable prototypes\nand production-ready\nmobile builds.\n🛠️ Work across 2D & 3D\nin Unity + C#\n.\n🤝 Collaborate tightly with design & art for juicy gameplay and smooth UX.\n🧪 Ship, test KPIs, iterate, repeat.\n\nContract & Location\n\n🗓️ Contract (3–6 months, extend/convert possible)\n\n🌍 Remote\n\n⚡ Start: ASAP\n\nWhat You’ll Do\n\n🎯 Build core loops, moment-to-moment gameplay, UI flows, and light meta in Unity (2D/3D)\n\n🧰 Write clean, modular C#\n; refactor, review, and document where it helps speed/quality\n📈 Integrate analytics/ads/remote config SDKs; set useful events for KPI reads (CPI/D1/FTUE)\n🛠️ Profile & optimize for mobile (URP, draw calls, batching, memory, import settings)\n📦 Set up Android builds (iOS nice-to-have), signing, configs, and lightweight CI\n🐞 Debug edge cases on mid/low-end devices; squash perf regressions fast\n🗣️ Communicate clearly in async remote workflows (Git, short Looms, )\n\nMust-Haves\n\n✅ Strong Unity + C#\nfor mobile\n(both 2D & 3D\n)\n✅ Portfolio of shipped games or prototypes\n(links: itch.io/TestFlight/APK/video)\n✅ Solid OOP\n& gameplay patterns (ScriptableObjects, events, state machines)\n✅ Mobile perf know-how (profilers, batching, addressable assets basics)\n✅ Git\nfluency (branches, PRs, code reviews)\n✅ Clear, proactive communication\n\nNice-to-Haves\n\n🌟 Worked with top tier mobile\npublisher\n🌟 KPI-driven iteration experience (CPI/CTR/D1, FTUE improvements)\n🌟 Addressables, animation (Mecanim/Blend Trees), VFX/shaders for game feel\n🌟 Ads/IAP + mediation setups\n🌟 Comfortable hopping between 2D & 3D\nasset pipelines\n\nHow to Apply\n\n📬 Send CV + portfolio links\nto [med@lilyxgame.com\n\n]\nwith subject:\n“Game Developer , <Your Name>”\n\nPlease include:\n\nLinks to playable builds/videos/GitHub\n2–3 bullets on prototypes you’re proud of (scope, time, your role)\nLocation & timezone, earliest start date\n\nQuick Screening (answer in the email)\n\n❓ Share a prototype you built in ≤3 weeks, what did you cut to ship?\n\n❓ One concrete optimization you used to hit 60 FPS on low-end Android?\n\n❓ A KPI-driven iteration you did (what changed, why, result)?\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nTemporary\n\nIndustries\n\nMobile Gaming Apps",
       "source": "LinkedIn",
       "job_id": "4473963697",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is mobile Unity game development, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -691,8 +724,8 @@
       "description": "Amazon\n\nAmazon is Earth's most customer-centric company, a global leader in e-commerce, cloud computing, digital streaming, online advertising, and artificial intelligence.\n\nThe ShipTech Analytics organization builds the analytics and business review platform that worldwide Operations team rely on worldwide to plan, track, and improve performance. We are seeking a System Development Engineer with experience in software engineering support or an equivalent role, and a track record of driving projects that improve software development, operational, and customer-facing processes. A successful candidate is an experienced technical team member who takes on challenging responsibilities, brings a metrics-focused approach, demonstrates strong customer focus, and can lead in multi-functional, fast-paced environments. We especially value engineers who bring a product mindset — thinking beyond the immediate fix to how tools and services create lasting value for their customers. If you fit the profile, we would love to talk to you!\n\nKey job responsibilities\n\nYou will partner with Software Engineers to develop scalable and highly resilient systems therefore system design together with coding are key!\n\nDiagnose and resolve complex production issues across a large-scale analytics platform, performing thorough troubleshooting and root cause analysis\n\nDevelop new features spanning services across multiple stacks, using Java, Python and TypeScript on AWS (Lambda, DynamoDB, OpenSearch)\n\nDesign and implement monitoring and alarming to ensure platform reliability, data freshness, and performance\n\nManage software deployments and supporting infrastructure in AWS and web technology environments\n\nCollaborate with cross-functional teams and contribute to a shared knowledge base to improve operational excellence\n\nBasic Qualifications\n\nExperience in professional software and systems development\nKnowledge of systems engineering fundamentals (networking, storage, operating systems)\nExperience programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby\nExperience working in an Agile environment using the Scrum methodology\nExperience designing or architecting (design patterns, reliability and scaling) of new and existing systems\n\nPreferred Qualifications\n\nExperience with AWS or cloud technologies\n\nAmazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nApply Now\n\nSkillbourg\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nNewspaper Publishing",
       "source": "LinkedIn",
       "job_id": "4473960702",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role develops services primarily with Java, Python and TypeScript; no backend .NET/C# evidence.",
       "validated": null
     }
   ]
