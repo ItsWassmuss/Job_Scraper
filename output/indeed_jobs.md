@@ -1,68 +1,77 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-01 11:17 UTC*
+*Last updated: 2026-10-01 12:18 UTC*
 
-**12 new role(s)** since last run · 176 total in last 24h
+**14 new role(s)** since last run · 179 total in last 24h
 
-### [Developer](https://nl.indeed.com/viewjob?jk=8bc829c4311a51d1) — Cycloon/MSG
-- 📍 **Location:** Zwolle, OV, NL
+### [Full Stack Developer](https://uk.indeed.com/viewjob?jk=9a3a17a72d9379e8) — Unknown
+- 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Software Security Engineer](https://de.indeed.com/viewjob?jk=485962735ba8767e) — Accso - Accelerated Solutions
-- 📍 **Location:** Frankfurt am Main, HE, DE
+### [Enterprise AI Architect](https://pl.indeed.com/viewjob?jk=0505ff153cb17bc5) — Bonapolia
+- 📍 **Location:** Warszawa, MZ, PL
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Software Engineer Agentic AI](https://de.indeed.com/viewjob?jk=cf787fc0dbac65be) — Accso - Accelerated Solutions
-- 📍 **Location:** Darmstadt, HE, DE
-- **Work mode:** Remote in-state eligible
+### [.NET utvecklare](https://se.indeed.com/viewjob?jk=377b26aed0954720) — Skandia
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Security Engineer](https://de.indeed.com/viewjob?jk=67b09ed20b365837) — Accso - Accelerated Solutions
-- 📍 **Location:** Frankfurt am Main, HE, DE
-- **Work mode:** Remote in-state eligible
+### [System Design Engineer](https://se.indeed.com/viewjob?jk=855932cbb952e0ba) — Deploja AB
+- 📍 **Location:** Solna, AB, SE
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Software Engineer Agentic AI](https://de.indeed.com/viewjob?jk=50af33e279fbada3) — Accso - Accelerated Solutions
-- 📍 **Location:** München, BY, DE
-- **Work mode:** Remote in-state eligible
+### [Systemutvecklare .NET](https://se.indeed.com/viewjob?jk=039e53d9104f498f) — Deploja AB
+- 📍 **Location:** Solna, AB, SE
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Full-Stack Developer / Software Engineer (m/w/d) - 80% Remote](https://de.indeed.com/viewjob?jk=b9ca1348cc9c5c05) — ViscoTec Pumpen- u. Dosiertechnik GmbH
-- 📍 **Location:** Töging am Inn, BY, DE
-- **Work mode:** Remote in-state eligible
+### [Experienced Solution Architect - Cloud, Solna](https://se.indeed.com/viewjob?jk=9d7f858db5e9c586) — PostNord
+- 📍 **Location:** Solna, AB, SE
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer (m/w/d)](https://de.indeed.com/viewjob?jk=57192815b0366c5a) — TÜV NORD GROUP
-- 📍 **Location:** Essen, NW, DE
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Associate, Software Engineer](https://uk.indeed.com/viewjob?jk=5d3309728ec75938) — McLaren Racing
-- 📍 **Location:** Woking, ENG, GB
+### [IT Developer](https://ie.indeed.com/viewjob?jk=be85a4ceafecf0a3) — Citco
+- 📍 **Location:** Dublin, D, IE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [.NET utvecklare](https://se.indeed.com/viewjob?jk=09887c1bd617321f) — Skandia
-- 📍 **Location:** SE
+### [Design Engineer, Nuclear Safety](https://fi.indeed.com/viewjob?jk=879cebd8c32bce07) — Fortum
+- 📍 **Location:** Espoo, F19, FI
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Fullstack-AI utvikler til Iterate AS](https://no.indeed.com/viewjob?jk=2ecbe25f64ed557e) — DeepOcean
-- 📍 **Location:** Oslo, N03, NO
+### [Software Developer](https://be.indeed.com/viewjob?jk=1d088f232ceb4466) — ConXioN
+- 📍 **Location:** Boom, VLG, BE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-01
 
-### [Kokenut full-stack -ohjelmistokehittäjä Defence & Security –toimialan projekteihin](https://fi.indeed.com/viewjob?jk=a49845cfb8f6141c) — Solita
-- 📍 **Location:** FI
+### [Project engineer](https://be.indeed.com/viewjob?jk=9350aabf43670d77) — Vecon Engineers
+- 📍 **Location:** Genk, VLG, BE
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
 
-### [Gaming DevOps Engineer](https://es.indeed.com/viewjob?jk=84eeb6c45f7eddf5) — Betsson Group
-- 📍 **Location:** Málaga, AN, ES
+### [Head Software Development Laboratory Weighing (f/m/x)](https://ch.indeed.com/viewjob?jk=e38a868986be6cb6) — Mettler-Toledo
+- 📍 **Location:** Nänikon, ZH, CH
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Fullstack .Net Cloud AWS](https://es.indeed.com/viewjob?jk=db6e0a44a593abf5) — Tecdata Engineering
+- 📍 **Location:** Madrid, MD, ES
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Python Developer](https://pt.indeed.com/viewjob?jk=1d1f52495c336db4) — Unknown
+- 📍 **Location:** Lisboa, P11, PT
 - **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-01
+
+### [Application Developer](https://ae.indeed.com/viewjob?jk=f6e36cb7eb8e1ed8) — Keolis
+- 📍 **Location:** Dubai, DU, AE
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
