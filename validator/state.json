@@ -54735,6 +54735,33 @@
       "location": "London, ENG, GB",
       "canonical_url": "https://uk.indeed.com/viewjob?jk=9a3a17a72d9379e8",
       "reported_at": "2026-10-01T17:01:11+03:00"
+    },
+    {
+      "source": "LinkedIn",
+      "job_id": "4472551598",
+      "company": "Bentley Systems",
+      "title": "Software Engineer II (Backend Software Engineer)",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "canonical_url": "https://www.linkedin.com/jobs/view/4472551598/",
+      "reported_at": "2026-10-01T19:01:10+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "e0a9fb403c7367df",
+      "company": "Deloitte",
+      "title": "C# .NET Developer | Business Delivery Solutions",
+      "location": "Budapest, PE, HU",
+      "canonical_url": "https://hu.indeed.com/viewjob?jk=e0a9fb403c7367df",
+      "reported_at": "2026-10-01T19:01:10+03:00"
+    },
+    {
+      "source": "Indeed",
+      "job_id": "f508c798f452dbc7",
+      "company": "Midlands Partnership University NHS Foundation Trust",
+      "title": "Applications Developer",
+      "location": "Stafford, ENG, GB",
+      "canonical_url": "https://uk.indeed.com/viewjob?jk=f508c798f452dbc7",
+      "reported_at": "2026-10-01T19:01:10+03:00"
     }
   ]
 }
