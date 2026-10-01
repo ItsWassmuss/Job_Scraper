@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-10-01T23:44:06+03:00",
+  "job_count": 2,
+  "finalized": false,
+  "jobs": [
+    {
+      "company": "wearereasonablepeople",
+      "title": "Automation & GenAI Engineer",
+      "location": "Rotterdam, ZH, NL",
+      "url": "https://nl.indeed.com/viewjob?jk=24b4e101bf47d795",
+      "direct_url": "https://wearereasonablepeople.com/nl/careers/automation-genai-engineer",
+      "company_url": "https://nl.indeed.com/cmp/Wearereasonablepeople",
+      "date_posted": "2026-10-01",
+      "description": "Rotterdam \\+ Den Haag·Fulltime\n\n\n  \nJe hebt AI\\-prototypes gebouwd. Nu wil je het moeilijkere werk doen: zorgen dat ze betrouwbaar genoeg zijn voor de echte operatie.\n\n\nBij WARP werk je in kleine senior teams aan digitale producten met gevolgen buiten je laptop. Je eerste uitdaging ligt binnen een complex, datarijk programma waar tempo, zorgvuldigheid en goed beoordelingsvermogen tegelijk tellen. Je bouwt en verbetert oplossingen rond LLM's, koppelt ze via REST API's aan bestaande systemen en zorgt dat wat je oplevert ook echt in productie werkt.\n\n\nJe pakt backendwerk, pipelines en integraties op, ziet waar processen slimmer kunnen en vertaalt dat naar praktische stappen. Minstens zo belangrijk: je kunt uitleggen wat de techniek doet, waarom een keuze is gemaakt en waar de grenzen liggen — zonder je achter jargon te verschuilen.\n\n\nDit is hands\\-on engineering in een omgeving met veel stakeholders en weinig ruimte voor theater. We hebben plek voor twee mensen.\n\n\n**Over jou**\n------------\n\n\n* Minstens één jaar hands\\-on ervaring in een vergelijkbare AI\\- of automatiseringsrol\n* Sterke programmeervaardigheden en praktische ervaring met LLM's, backendontwikkeling en REST\\-integraties\n* Comfortabel in complexe, datarijke omgevingen\n* Een afgeronde WO\\-master\n* Uitstekend Nederlands, mondeling én schriftelijk — dit is een harde eis\n* In staat om technische keuzes helder uit te leggen aan niet\\-technische stakeholders\n* Gevoelig voor context: je begrijpt dat timing, afstemming en vertrouwen soms net zo belangrijk zijn als het technisch perfecte antwoord\n* Ervaring met LangChain, LlamaIndex, Python, PyTorch, Keras, Azure OpenAI of Document Intelligence is een plus\n* Een verbetermentaliteit: nieuwsgierig, pragmatisch en nooit uitgeleerd\n**Perks**\n---------\n\n\n* Een plek bij WARP met vanaf dag één een inhoudelijk stevige uitdaging\n* Senior collega's, veel vertrouwen en echte ownership\n* Werk waarin AI verder komt dan slides en demo's\n* Hybride werken, met Rotterdam als thuisbasis en Den Haag voor deze uitdaging\n* Ruimte om de diepte in te gaan, breder te groeien of een onverwachte afslag te nemen\n**Wat kan je**\n--------------\n\n\n* GenAI\n* LLMs\n* Python\n* REST\n* APIs\n* Azure\n* Automation\n**Over ons**\n------------\n\n\nWe zijn een Rotterdams team van ervaren engineers, designers en strategen. We bouwen digitale producten en strategieën voor organisaties waar het werk ertoe doet: havens, ziekenhuizen, supply chains en energienetwerken. Soms brengen we het team, soms sluiten we aan waar onze expertise het verschil maakt. Hoe dan ook blijven we dicht op het echte werk. Kleine teams, hoge inzet, eerlijke gesprekken. Bewijs jij liever dingen dan dat je ze presenteert? Dan pas je hier.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "24b4e101bf47d795",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Hyra",
+      "title": "Software Engineer",
+      "location": "Germany",
+      "url": "https://www.linkedin.com/jobs/view/4474383678/",
+      "date_posted": "2026-10-01",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "A large healthcare software business is looking for an experienced engineer to join the team. The role involves working within an agile environment to develop and maintain software components that support critical infrastructure. The successful candidate will contribute to the full software lifecycle, from design and technical conceptualization to implementation and maintenance.\n\nWhat you'll be doing\n• Developing software components across the full stack, including frontend, middleware, and backend systems.\n• Taking responsibility for the entire software lifecycle, including design, implementation, and refactoring.\n• Collaborating closely with product management to create and refine technical concepts.\n• Working within an agile framework such as Scrum or SAFe to ensure high-quality delivery.\n• Maintaining and documenting technical components to ensure long-term system stability.\n\nWhat we're looking for\n• Professional experience in software development using C#, .NET, and database technologies.\n• A background in computer science, software engineering, or a related technical field.\n• Practical experience working within agile development teams and using tools like Visual Studio.\n• Fluency in German (C1 level) and good proficiency in English.\n• A proactive mindset with a strong focus on code quality and technical innovation.\n\nWhat's on offer\n• Access to individual professional development and training opportunities.\n• Company pension scheme and retirement savings options.\n• Health and wellness benefits, including fitness membership subsidies and cycle schemes.\n• Employee discount programs across various partners and providers.\n\nApply via Hyra to be considered for this opportunity.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "source": "LinkedIn",
+      "job_id": "4474383678",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
