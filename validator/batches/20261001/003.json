@@ -1,7 +1,7 @@
 {
   "created_at": "2026-10-01T10:28:11+03:00",
   "job_count": 26,
-  "finalized": false,
+  "finalized": true,
   "jobs": [
     {
       "company": "Bundesdruckerei-Gruppe",
