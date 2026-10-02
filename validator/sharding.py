@@ -9,8 +9,8 @@ from typing import Any
 
 
 SCHEMA_VERSION = 2
-SHARD_MAX_JOBS = 10
-SHARD_HARD_MAX_BYTES = 128 * 1024
+SHARD_MAX_JOBS = 5
+SHARD_HARD_MAX_BYTES = 32 * 1024
 
 _BATCH_ID_RE = re.compile(r"^\d{8}-\d{3}$")
 
