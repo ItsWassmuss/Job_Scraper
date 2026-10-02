@@ -12,6 +12,23 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
+try:
+    from validator.batch_storage import (
+        load_manifest,
+        load_shard,
+        relative_shard_path,
+        resolve_batch_ref,
+        validate_batch_id,
+    )
+except ModuleNotFoundError:  # pragma: no cover - direct script execution
+    from batch_storage import (
+        load_manifest,
+        load_shard,
+        relative_shard_path,
+        resolve_batch_ref,
+        validate_batch_id,
+    )
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PATCH_ROOT = Path("validator/patches")
@@ -24,7 +41,9 @@ MAX_REASON_CHARS = 300
 FINAL_STATUSES = frozenset({"REJECTED", "QUALIFIED", "UNVALIDATED"})
 SOURCES = frozenset({"Indeed", "LinkedIn"})
 
-PATCH_KEYS = frozenset({"schema_version", "batch", "results"})
+PATCH_V1_KEYS = frozenset({"schema_version", "batch", "results"})
+PATCH_V2_KEYS = frozenset({"schema_version", "batch_id", "shard_id", "results"})
+PATCH_KEYS = PATCH_V1_KEYS
 RESULT_KEYS = frozenset({
     "index", "source", "job_id", "url", "status", "reason", "validated",
 })
@@ -54,6 +73,7 @@ DATE_POSTED_PRECISIONS = frozenset({
 })
 
 _PATCH_NAME_RE = re.compile(r"^(\d{8})-(\d{3})-(\d{3})\.json$")
+_SHARD_ID_RE = re.compile(r"^\\d{3}$")
 _DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
@@ -143,13 +163,14 @@ def _validate_validated_output(validated: Any, context: str) -> None:
             )
 
 
-def _expected_batch_from_name(path: Path) -> tuple[str, int]:
+def _expected_batch_from_name(path: Path) -> tuple[str, str, int]:
     match = _PATCH_NAME_RE.fullmatch(path.name)
     if match is None:
         raise ValueError(f"Invalid Validator patch filename: {path.name}")
     day, batch_number, first_index_text = match.groups()
+    batch_id = f"{day}-{batch_number}"
     expected_batch = f"validator/batches/{day}/{batch_number}.json"
-    return expected_batch, int(first_index_text)
+    return batch_id, expected_batch, int(first_index_text)
 
 
 def _validate_result(result: Any, context: str) -> None:
@@ -197,21 +218,55 @@ def _validate_result(result: Any, context: str) -> None:
         _validate_validated_output(validated, context)
 
 
-def _load_and_validate_patch(path: Path) -> dict[str, Any]:
+def _load_and_validate_patch(root: Path, path: Path) -> dict[str, Any]:
     size = path.stat().st_size
     if size > MAX_PATCH_BYTES:
         raise ValueError(f"{path} exceeds the {MAX_PATCH_BYTES}-byte patch size limit")
 
-    expected_batch, filename_first_index = _expected_batch_from_name(path)
+    filename_batch_id, expected_v1_batch, filename_first_index = (
+        _expected_batch_from_name(path)
+    )
     payload = _load_json(path)
     if not isinstance(payload, dict):
         raise ValueError(f"{path} must contain a JSON object")
-    if set(payload) != PATCH_KEYS:
-        raise ValueError(f"{path} has invalid top-level keys")
-    if type(payload["schema_version"]) is not int or payload["schema_version"] != 1:
-        raise ValueError(f"{path} schema_version must be exactly 1")
-    if payload["batch"] != expected_batch:
-        raise ValueError(f"{path} batch does not match its filename")
+
+    schema_version = payload.get("schema_version")
+    shard: dict[str, Any] | None = None
+
+    if schema_version == 1:
+        if set(payload) != PATCH_V1_KEYS:
+            raise ValueError(f"{path} has invalid top-level keys")
+        if payload["batch"] != expected_v1_batch:
+            raise ValueError(f"{path} batch does not match its filename")
+        target_rel = payload["batch"]
+        index_offset = 0
+    elif schema_version == 2:
+        if set(payload) != PATCH_V2_KEYS:
+            raise ValueError(f"{path} has invalid top-level keys")
+
+        batch_id = payload["batch_id"]
+        validate_batch_id(batch_id)
+        if batch_id != filename_batch_id:
+            raise ValueError(f"{path} batch_id does not match its filename")
+
+        shard_id = payload["shard_id"]
+        if not isinstance(shard_id, str) or _SHARD_ID_RE.fullmatch(shard_id) is None:
+            raise ValueError(f"{path} shard_id must match NNN")
+
+        ref = resolve_batch_ref(root, batch_id, storage="sharded")
+        manifest = load_manifest(ref)
+        if manifest["finalized"] is not False:
+            raise ValueError(
+                f"{ref.metadata_path} must have finalized=false while applying patches"
+            )
+        if shard_id not in manifest["shards"]:
+            raise ValueError(f"{path} references undeclared shard {shard_id}")
+
+        shard = load_shard(root, batch_id, shard_id, manifest=manifest)
+        target_rel = relative_shard_path(batch_id, shard_id)
+        index_offset = shard["start_index"]
+    else:
+        raise ValueError(f"{path} schema_version must be exactly 1 or 2")
 
     results = payload["results"]
     if not isinstance(results, list) or not 1 <= len(results) <= MAX_RESULTS_PER_PATCH:
@@ -228,10 +283,24 @@ def _load_and_validate_patch(path: Path) -> dict[str, Any]:
             raise ValueError(f"{path} result indexes must be strictly ascending and unique")
         previous_index = index
 
+        if schema_version == 2:
+            assert shard is not None
+            upper = index_offset + shard["job_count"]
+            if not index_offset <= index < upper:
+                raise ValueError(
+                    f"{path} result index {index} is outside shard "
+                    f"{payload['shard_id']} global range "
+                    f"{index_offset}..{upper - 1}"
+                )
+
     if results[0]["index"] != filename_first_index:
         raise ValueError(f"{path} filename index must equal the first result index")
 
-    return payload
+    normalized = dict(payload)
+    normalized["_target_rel"] = target_rel
+    normalized["_index_offset"] = index_offset
+    normalized["_batch_id"] = filename_batch_id
+    return normalized
 
 
 def _validate_existing_job(job: dict[str, Any], path: Path, index: int) -> None:
@@ -308,6 +377,8 @@ def _select_target_index(
     jobs: list[dict[str, Any]],
     url_indexes: dict[str, list[int]],
     result: dict[str, Any],
+    *,
+    index_offset: int = 0,
 ) -> tuple[int | None, bool]:
     url = _usable_http_url(result["url"])
     if url is None:
@@ -337,9 +408,9 @@ def _select_target_index(
         if job_id_matches:
             candidates = job_id_matches
 
-    result_index = result["index"]
-    if result_index in candidates:
-        return result_index, ambiguous
+    result_local_index = result["index"] - index_offset
+    if result_local_index in candidates:
+        return result_local_index, ambiguous
 
     return min(candidates), ambiguous
 
@@ -398,7 +469,7 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
     patches: list[tuple[Path, dict[str, Any]]] = []
 
     for path in patch_paths:
-        payload = _load_and_validate_patch(path)
+        payload = _load_and_validate_patch(root, path)
         patches.append((path, payload))
 
     batch_payloads: dict[str, dict[str, Any]] = {}
@@ -413,11 +484,40 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
     claimed_targets: set[tuple[str, int]] = set()
 
     for _, patch in patches:
-        batch_rel = patch["batch"]
+        batch_rel = patch["_target_rel"]
         if batch_rel not in batch_payloads:
             batch_path = root / batch_rel
             original_batch_paths[batch_rel] = batch_path
-            batch = copy.deepcopy(_load_batch(batch_path))
+
+            if patch["schema_version"] == 1:
+                batch = copy.deepcopy(_load_batch(batch_path))
+            else:
+                ref = resolve_batch_ref(
+                    root,
+                    patch["_batch_id"],
+                    storage="sharded",
+                )
+                manifest = load_manifest(ref)
+                if manifest["finalized"] is not False:
+                    raise ValueError(
+                        f"{ref.metadata_path} must have finalized=false "
+                        "while applying patches"
+                    )
+                batch = copy.deepcopy(
+                    load_shard(
+                        root,
+                        patch["_batch_id"],
+                        patch["shard_id"],
+                        manifest=manifest,
+                    )
+                )
+                for local_index, job in enumerate(batch["jobs"]):
+                    _validate_existing_job(
+                        job,
+                        batch_path,
+                        patch["_index_offset"] + local_index,
+                    )
+
             batch_payloads[batch_rel] = batch
 
             url_indexes: dict[str, list[int]] = {}
@@ -428,7 +528,7 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
             batch_url_indexes[batch_rel] = url_indexes
 
     for patch_path, patch in patches:
-        batch_rel = patch["batch"]
+        batch_rel = patch["_target_rel"]
         batch = batch_payloads[batch_rel]
         jobs = batch["jobs"]
         patch_applied = False
@@ -447,6 +547,7 @@ def apply_patches(root: Path = REPO_ROOT) -> dict[str, int]:
                 jobs,
                 batch_url_indexes[batch_rel],
                 result,
+                index_offset=patch["_index_offset"],
             )
             if index is None:
                 print(
