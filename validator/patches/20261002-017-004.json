@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261002-017",
+  "shard_id": "001",
+  "results": [
+    {"index":4,"source":"Indeed","job_id":"63145b40260a962b","url":"https://dk.indeed.com/viewjob?jk=63145b40260a962b","status":"REJECTED","reason":"LANGUAGE: substantive job description is primarily Danish and no complete official English version is present.","validated":null},
+    {"index":5,"source":"Indeed","job_id":"39a26bfdc22acbf7","url":"https://ro.indeed.com/viewjob?jk=39a26bfdc22acbf7","status":"QUALIFIED","reason":"QUALIFIED: no rejection rule applied.","validated":{"work_mode":"Remote/Office","required_experience":"5+ years","date_posted":"2026-10-02","date_posted_at":"Not specified","date_posted_date":"2026-10-02","date_posted_precision":"date","work_authorization":"Not specified","residence_requirement":"Not specified","short_description":"Senior backend/full-stack engineering role building Python and .NET 8+ services, data-processing systems, Kafka-based distributed systems, and REST APIs for energy infrastructure clients.","direct_application_link":"https://career.softserveinc.com/en-us/vacancies/senior-fullstack-engineer-pythonnet-90959"}},
+    {"index":6,"source":"Indeed","job_id":"a7a298507f4ee95e","url":"https://be.indeed.com/viewjob?jk=a7a298507f4ee95e","status":"REJECTED","reason":"TECHNOLOGY_ROLE: trainee automation/electrotechnical shipboard role; no backend/server-side C#/.NET evidence.","validated":null},
+    {"index":7,"source":"LinkedIn","job_id":"4473181152","url":"https://www.linkedin.com/jobs/view/4473181152/","status":"REJECTED","reason":"TECHNOLOGY_ROLE: internship spans general software teams and lists Python/Java/C++; no backend/server-side C#/.NET evidence.","validated":null},
+    {"index":8,"source":"LinkedIn","job_id":"4473176361","url":"https://www.linkedin.com/jobs/view/4473176361/","status":"REJECTED","reason":"TECHNOLOGY_ROLE: internship spans general software teams and lists Python/Java/C++; no backend/server-side C#/.NET evidence.","validated":null}
+  ]
+}
