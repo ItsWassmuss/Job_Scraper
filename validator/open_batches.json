@@ -2,9 +2,29 @@
   "schema_version": 2,
   "batches": [
     {
-      "batch_id": "20261002-018",
+      "batch_id": "20261003-004",
       "storage": "sharded",
       "shard_id": "000"
+    },
+    {
+      "batch_id": "20261003-003",
+      "storage": "sharded",
+      "shard_id": "000"
+    },
+    {
+      "batch_id": "20261003-002",
+      "storage": "sharded",
+      "shard_id": "000"
+    },
+    {
+      "batch_id": "20261003-001",
+      "storage": "sharded",
+      "shard_id": "000"
+    },
+    {
+      "batch_id": "20261002-018",
+      "storage": "sharded",
+      "shard_id": "001"
     },
     {
       "batch_id": "20261002-017",
