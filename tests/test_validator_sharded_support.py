@@ -68,7 +68,7 @@ def _write_v2(root: Path, batch_id: str, jobs):
         created_at="2026-10-02T05:27:03+03:00",
         jobs=jobs,
         max_jobs=2,
-        target_bytes=1024 * 1024,
+        hard_max_bytes=1024 * 1024,
     )
     day, number = batch_id.split("-")
     directory = root / f"validator/batches/{day}/{number}"
