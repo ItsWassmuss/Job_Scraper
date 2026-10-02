@@ -1,0 +1,9 @@
+{
+  "github_event_name": "push",
+  "github_run_attempt": "1",
+  "github_run_id": "37064544582",
+  "probe": "validator-writer-dispatch",
+  "request_id": "bootstrap-37064544582-1",
+  "schema_version": 1,
+  "status": "SUCCESS"
+}
