@@ -1029,4 +1029,29 @@ def test_apply_patch_contract_matches_finalizer_contract():
     assert patcher.FINAL_STATUSES == finalizer.FINAL_STATUSES
     assert patcher.VALIDATED_KEYS == finalizer.VALIDATED_KEYS
     assert patcher.VALIDATED_STRING_KEYS == finalizer.VALIDATED_STRING_KEYS
-    assert patcher.DATE_POSTED_PRECISIONS == finalizer.DATE_POSTED_PRECISIONS
+
+def test_qualified_patch_treats_date_metadata_as_opaque(tmp_path):
+    jobs = [_job(0)]
+    batch_path = _write_batch(tmp_path, jobs)
+    validated = _validated(
+        date_posted=None,
+        date_posted_at="Not specified",
+        date_posted_date={"raw": "unknown"},
+        date_posted_precision=["unexpected"],
+    )
+    _write_patch(
+        tmp_path,
+        "20260921-003-000.json",
+        "validator/batches/20260921/003.json",
+        [_result(
+            jobs[0],
+            0,
+            status="QUALIFIED",
+            reason="QUALIFIED: no rejection rule applied.",
+            validated=validated,
+        )],
+    )
+
+    apply_patches(tmp_path)
+
+    assert _read(batch_path)["jobs"][0]["validated"] == validated

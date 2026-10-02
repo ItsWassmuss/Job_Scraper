@@ -307,30 +307,25 @@ def test_dispatcher_schema_constant_matches_contract():
     assert dispatcher.HELSINKI.key == "Europe/Helsinki"
 
 
-@pytest.mark.parametrize("overrides", [
-    {"date_posted_precision": "exact", "date_posted_at": None},
-    {"date_posted_precision": "exact", "date_posted_date": "2026-09-21"},
-    {"date_posted_precision": "relative", "date_posted_date": "2026-09-21"},
-    {"date_posted_precision": "date_only", "date_posted_at": "2026-09-21T10:00:00+00:00", "date_posted_date": "2026-09-21"},
-    {"date_posted_precision": "date_only", "date_posted_at": None, "date_posted_date": None},
-    {"date_posted_precision": "approximate", "date_posted_at": "2026-09-21T10:00:00+00:00"},
-    {"date_posted_precision": "missing_or_ambiguous", "date_posted_date": "2026-09-21"},
-    {"date_posted_precision": "unknown"},
-    {"date_posted_at": "2026-09-21T10:00:00"},
-    {"date_posted_date": "2026-02-30"},
-])
-def test_invalid_date_contract_fails_before_send(tmp_path, overrides):
-    state_path = _write_state(tmp_path)
-    _write_batch(tmp_path, [_job(validated=_validated(**overrides))])
-    original = state_path.read_bytes()
-    with pytest.raises(ValueError):
-        dispatch_email(tmp_path, env=ENV)
-    assert state_path.read_bytes() == original
-    assert FakeSMTP.instances == []
+def test_date_metadata_content_does_not_block_send(tmp_path):
+    _write_state(tmp_path)
+    validated = _validated(
+        date_posted=None,
+        date_posted_at="Not specified",
+        date_posted_date={"raw": "unknown"},
+        date_posted_precision=["unexpected"],
+    )
+    _write_batch(tmp_path, [_job(validated=validated)])
+
+    result = dispatch_email(tmp_path, now=FIXED_TIME, env=ENV)
+
+    assert result["sent_count"] == 1
+    assert len(FakeSMTP.instances) == 1
+
 
 
 @pytest.mark.parametrize("field", [
-    "work_mode", "required_experience", "date_posted", "work_authorization",
+    "work_mode", "required_experience", "work_authorization",
     "residence_requirement", "short_description", "direct_application_link",
 ])
 @pytest.mark.parametrize("bad_value", [None, "", "   ", 1])

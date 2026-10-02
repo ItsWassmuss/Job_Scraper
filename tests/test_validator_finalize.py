@@ -29,7 +29,7 @@ FIXED_TIME = datetime(2026, 9, 21, 12, 30, tzinfo=EXPECTED_HELSINKI)
 EXPECTED_SEEN_AT = "2026-09-21T12:30:00+03:00"
 _UNSET = object()
 STRING_FIELDS = (
-    "work_mode", "required_experience", "date_posted", "work_authorization",
+    "work_mode", "required_experience", "work_authorization",
     "residence_requirement", "short_description", "direct_application_link",
 )
 
@@ -498,102 +498,24 @@ def test_required_validated_strings_must_be_nonempty(tmp_path, field, invalid_va
     _assert_failure_without_writes(tmp_path, state_path, batch_path)
 
 
-@pytest.mark.parametrize(
-    "date_posted_at", ["2026-09-21T08:00:00", "not-a-datetime", 123, []],
-)
-def test_invalid_date_posted_at_fails(tmp_path, date_posted_at):
+def test_date_metadata_content_does_not_block_finalization(tmp_path):
     state_path = _write_state(tmp_path, _state())
     validated = _validated(
-        date_posted_precision="relative", date_posted_at=date_posted_at,
-        date_posted_date=None,
+        date_posted=None,
+        date_posted_at="Not specified",
+        date_posted_date={"raw": "unknown"},
+        date_posted_precision=["unexpected"],
     )
-    batch_path = _write_batch(tmp_path, [_job(1, "QUALIFIED", validated=validated)])
-    _assert_failure_without_writes(tmp_path, state_path, batch_path)
-
-
-@pytest.mark.parametrize("date_posted_at", ["2026-09-21T08:00:00Z", None])
-def test_relative_precision_accepts_aware_or_null_timestamp(tmp_path, date_posted_at):
-    state_path = _write_state(tmp_path, _state())
-    validated = _validated(
-        date_posted_precision="relative", date_posted_at=date_posted_at,
-        date_posted_date=None,
+    batch_path = _write_batch(
+        tmp_path,
+        [_job(1, "QUALIFIED", validated=validated)],
     )
-    batch_path = _write_batch(tmp_path, [_job(1, "QUALIFIED", validated=validated)])
+
     finalize_batches(tmp_path, now=FIXED_TIME)
+
     assert _read(batch_path)["finalized"] is True
     assert _read(state_path) == _state()
 
-
-@pytest.mark.parametrize("date_posted_date", ["2026-02-30", "09/21/2026", 123, []])
-def test_invalid_date_posted_date_fails(tmp_path, date_posted_date):
-    state_path = _write_state(tmp_path, _state())
-    validated = _validated(
-        date_posted_precision="date_only", date_posted_at=None,
-        date_posted_date=date_posted_date,
-    )
-    batch_path = _write_batch(tmp_path, [_job(1, "QUALIFIED", validated=validated)])
-    _assert_failure_without_writes(tmp_path, state_path, batch_path)
-
-
-def test_date_only_precision_accepts_valid_calendar_date(tmp_path):
-    state_path = _write_state(tmp_path, _state())
-    validated = _validated(
-        date_posted_precision="date_only", date_posted_at=None,
-        date_posted_date="2026-09-21",
-    )
-    batch_path = _write_batch(tmp_path, [_job(1, "QUALIFIED", validated=validated)])
-    finalize_batches(tmp_path, now=FIXED_TIME)
-    assert _read(batch_path)["finalized"] is True
-    assert _read(state_path) == _state()
-
-
-PRECISION_CASES = (
-    ("exact-timestamp", "exact", "2026-09-21T08:00:00+00:00", None, True),
-    ("exact-missing-timestamp", "exact", None, None, False),
-    ("exact-with-date", "exact", "2026-09-21T08:00:00+00:00", "2026-09-21", False),
-    ("relative-timestamp", "relative", "2026-09-21T08:00:00+00:00", None, True),
-    ("relative-no-timestamp", "relative", None, None, True),
-    ("relative-with-date", "relative", None, "2026-09-21", False),
-    ("date-only", "date_only", None, "2026-09-21", True),
-    ("date-only-with-timestamp", "date_only", "2026-09-21T08:00:00+00:00", "2026-09-21", False),
-    ("date-only-missing-date", "date_only", None, None, False),
-    ("approximate-empty", "approximate", None, None, True),
-    ("approximate-with-timestamp", "approximate", "2026-09-21T08:00:00+00:00", None, False),
-    ("approximate-with-date", "approximate", None, "2026-09-21", False),
-    ("ambiguous-empty", "missing_or_ambiguous", None, None, True),
-    ("ambiguous-with-timestamp", "missing_or_ambiguous", "2026-09-21T08:00:00+00:00", None, False),
-    ("ambiguous-with-date", "missing_or_ambiguous", None, "2026-09-21", False),
-)
-
-
-@pytest.mark.parametrize(
-    ("case_name", "precision", "date_posted_at", "date_posted_date", "is_valid"),
-    PRECISION_CASES, ids=[case[0] for case in PRECISION_CASES],
-)
-def test_date_precision_consistency_matrix(
-    tmp_path, case_name, precision, date_posted_at, date_posted_date, is_valid,
-):
-    del case_name
-    state_path = _write_state(tmp_path, _state())
-    validated = _validated(
-        date_posted_precision=precision, date_posted_at=date_posted_at,
-        date_posted_date=date_posted_date,
-    )
-    batch_path = _write_batch(tmp_path, [_job(1, "QUALIFIED", validated=validated)])
-    if is_valid:
-        finalize_batches(tmp_path, now=FIXED_TIME)
-        assert _read(batch_path)["finalized"] is True
-    else:
-        _assert_failure_without_writes(tmp_path, state_path, batch_path)
-
-
-@pytest.mark.parametrize("precision", ["invalid", "", "   ", 123, None])
-def test_invalid_date_posted_precision_fails(tmp_path, precision):
-    state_path = _write_state(tmp_path, _state())
-    batch_path = _write_batch(tmp_path, [
-        _job(1, "QUALIFIED", validated=_validated(date_posted_precision=precision)),
-    ])
-    _assert_failure_without_writes(tmp_path, state_path, batch_path)
 
 
 def test_all_batches_validate_before_any_mutation(tmp_path):

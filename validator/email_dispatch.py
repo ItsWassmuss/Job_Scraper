@@ -10,7 +10,7 @@ import re
 import smtplib
 import ssl
 import tempfile
-from datetime import date, datetime
+from datetime import datetime
 from email import policy
 from email.message import EmailMessage
 from email.parser import Parser
@@ -40,23 +40,14 @@ VALIDATED_KEYS = frozenset({
 VALIDATED_STRING_KEYS = frozenset({
     "work_mode",
     "required_experience",
-    "date_posted",
     "work_authorization",
     "residence_requirement",
     "short_description",
     "direct_application_link",
 })
-DATE_POSTED_PRECISIONS = frozenset({
-    "exact",
-    "relative",
-    "date_only",
-    "approximate",
-    "missing_or_ambiguous",
-})
 
 _DAY_NAME_RE = re.compile(r"^\d{8}$")
 _BATCH_NAME_RE = re.compile(r"^\d{3}\.json$")
-_DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 _SOURCES = frozenset({"Indeed", "LinkedIn"})
 _PRECISION_RANK = {
     "relative": 1,
@@ -158,29 +149,16 @@ def _already_reported(
     ) or (triple is not None and triple in reported_triples)
 
 
-def _parse_aware_datetime(value: Any, context: str) -> datetime | None:
-    if value is None:
-        return None
+def _best_effort_aware_datetime(value: Any) -> datetime | None:
     if not isinstance(value, str):
-        raise ValueError(f"{context} must be an ISO-8601 string or null")
+        return None
     try:
         parsed = datetime.fromisoformat(value)
-    except ValueError as exc:
-        raise ValueError(f"{context} must be a valid ISO-8601 datetime") from exc
+    except ValueError:
+        return None
     if parsed.tzinfo is None or parsed.utcoffset() is None:
-        raise ValueError(f"{context} must include a timezone offset")
+        return None
     return parsed
-
-
-def _validate_date_or_none(value: Any, context: str) -> None:
-    if value is None:
-        return
-    if not isinstance(value, str) or _DATE_ONLY_RE.fullmatch(value) is None:
-        raise ValueError(f"{context} must be YYYY-MM-DD or null")
-    try:
-        date.fromisoformat(value)
-    except ValueError as exc:
-        raise ValueError(f"{context} must be a valid calendar date") from exc
 
 
 def _validate_qualified_job(
@@ -207,25 +185,9 @@ def _validate_qualified_job(
         if not isinstance(value, str) or not value.strip():
             raise ValueError(f"{context} validated.{key} must be a non-empty string")
 
-    precision = validated["date_posted_precision"]
-    if precision not in DATE_POSTED_PRECISIONS:
-        raise ValueError(f"{context} has invalid date_posted_precision")
-    posted_at = _parse_aware_datetime(
-        validated["date_posted_at"], f"{context} validated.date_posted_at"
-    )
-    posted_date = validated["date_posted_date"]
-    _validate_date_or_none(posted_date, f"{context} validated.date_posted_date")
-
-    if precision == "exact" and (posted_at is None or posted_date is not None):
-        raise ValueError(f"{context} exact precision requires date_posted_at and date_posted_date=null")
-    if precision == "relative" and posted_date is not None:
-        raise ValueError(f"{context} relative precision requires date_posted_date=null")
-    if precision == "date_only" and (posted_at is not None or posted_date is None):
-        raise ValueError(f"{context} date_only precision requires date_posted_at=null and date_posted_date")
-    if precision in {"approximate", "missing_or_ambiguous"} and (
-        posted_at is not None or posted_date is not None
-    ):
-        raise ValueError(f"{context} {precision} precision requires null date fields")
+    # Date metadata is best-effort only. Invalid or unconventional values do
+    # not block delivery; only a valid aware timestamp participates in sorting.
+    posted_at = _best_effort_aware_datetime(validated.get("date_posted_at"))
 
     direct_url = _usable_http_url(validated["direct_application_link"])
     canonical_url = direct_url if direct_url is not None else configured_url
@@ -245,7 +207,8 @@ def _sort_key(candidate: dict[str, Any]) -> tuple[Any, ...]:
         rank = 0
         time_rank = -posted_at.timestamp()
     else:
-        rank = _PRECISION_RANK[validated["date_posted_precision"]]
+        precision = validated.get("date_posted_precision")
+        rank = _PRECISION_RANK.get(precision, 4) if isinstance(precision, str) else 4
         time_rank = 0.0
     job = candidate["job"]
     return (
@@ -268,7 +231,7 @@ def _display_rows(candidates: list[dict[str, Any]]) -> list[list[tuple[str, str]
             ("Location", _display_string(job.get("location"))),
             ("Work Mode", validated["work_mode"]),
             ("Required Experience", validated["required_experience"]),
-            ("Date Posted", validated["date_posted"]),
+            ("Date Posted", _display_string(validated.get("date_posted"))),
             ("Visa / Work Authorization", validated["work_authorization"]),
             ("Current Residence Requirement", validated["residence_requirement"]),
             ("Short Description", validated["short_description"]),

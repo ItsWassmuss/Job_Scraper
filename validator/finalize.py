@@ -7,7 +7,7 @@ import json
 import os
 import re
 import tempfile
-from datetime import date, datetime
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
@@ -59,24 +59,14 @@ VALIDATED_KEYS = frozenset({
 VALIDATED_STRING_KEYS = frozenset({
     "work_mode",
     "required_experience",
-    "date_posted",
     "work_authorization",
     "residence_requirement",
     "short_description",
     "direct_application_link",
 })
 
-DATE_POSTED_PRECISIONS = frozenset({
-    "exact",
-    "relative",
-    "date_only",
-    "approximate",
-    "missing_or_ambiguous",
-})
-
 _DAY_NAME_RE = re.compile(r"^\d{8}$")
 _BATCH_NAME_RE = re.compile(r"^\d{3}\.json$")
-_DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 _SEEN_LEDGER_BY_SOURCE = {
     "Indeed": "seen_indeed",
@@ -144,56 +134,6 @@ def _usable_http_url(value: Any) -> str | None:
     return value
 
 
-def _validate_iso_datetime_or_none(
-    value: Any,
-    context: str,
-    field_name: str,
-) -> None:
-    if value is None:
-        return
-
-    if not isinstance(value, str):
-        raise ValueError(
-            f"{context} {field_name} must be an ISO-8601 string or null"
-        )
-
-    try:
-        parsed = datetime.fromisoformat(value)
-    except ValueError as exc:
-        raise ValueError(
-            f"{context} {field_name} must be a valid ISO-8601 datetime"
-        ) from exc
-
-    if parsed.tzinfo is None or parsed.utcoffset() is None:
-        raise ValueError(
-            f"{context} {field_name} must include a timezone offset"
-        )
-
-
-def _validate_iso_date_or_none(
-    value: Any,
-    context: str,
-    field_name: str,
-) -> None:
-    if value is None:
-        return
-
-    if (
-        not isinstance(value, str)
-        or _DATE_ONLY_RE.fullmatch(value) is None
-    ):
-        raise ValueError(
-            f"{context} {field_name} must be YYYY-MM-DD or null"
-        )
-
-    try:
-        date.fromisoformat(value)
-    except ValueError as exc:
-        raise ValueError(
-            f"{context} {field_name} must be a valid calendar date"
-        ) from exc
-
-
 def _validate_final_identity(
     job: dict[str, Any],
     context: str,
@@ -228,61 +168,13 @@ def _validate_validated_output(
             f"{context} has invalid validated keys"
         )
 
+    # Date metadata is informational. Finalization deliberately does not
+    # validate or interpret its contents.
     for key in VALIDATED_STRING_KEYS:
         if _nonempty_string(validated[key]) is None:
             raise ValueError(
                 f"{context} validated.{key} "
                 "must be a non-empty string"
-            )
-
-    precision = validated["date_posted_precision"]
-
-    if precision not in DATE_POSTED_PRECISIONS:
-        raise ValueError(
-            f"{context} has invalid date_posted_precision"
-        )
-
-    date_posted_at = validated["date_posted_at"]
-    date_posted_date = validated["date_posted_date"]
-
-    _validate_iso_datetime_or_none(
-        date_posted_at,
-        context,
-        "validated.date_posted_at",
-    )
-
-    _validate_iso_date_or_none(
-        date_posted_date,
-        context,
-        "validated.date_posted_date",
-    )
-
-    if precision == "exact":
-        if date_posted_at is None or date_posted_date is not None:
-            raise ValueError(
-                f"{context} exact precision requires "
-                "date_posted_at and date_posted_date=null"
-            )
-
-    elif precision == "relative":
-        if date_posted_date is not None:
-            raise ValueError(
-                f"{context} relative precision requires "
-                "date_posted_date=null"
-            )
-
-    elif precision == "date_only":
-        if date_posted_at is not None or date_posted_date is None:
-            raise ValueError(
-                f"{context} date_only precision requires "
-                "date_posted_at=null and date_posted_date"
-            )
-
-    elif precision in {"approximate", "missing_or_ambiguous"}:
-        if date_posted_at is not None or date_posted_date is not None:
-            raise ValueError(
-                f"{context} {precision} precision requires "
-                "date_posted_at=null and date_posted_date=null"
             )
 
 
