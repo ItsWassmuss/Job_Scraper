@@ -73,7 +73,7 @@ DATE_POSTED_PRECISIONS = frozenset({
 })
 
 _PATCH_NAME_RE = re.compile(r"^(\d{8})-(\d{3})-(\d{3})\.json$")
-_SHARD_ID_RE = re.compile(r"^\\d{3}$")
+_SHARD_ID_RE = re.compile(r"^\d{3}$")
 _DATE_ONLY_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
