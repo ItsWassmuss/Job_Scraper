@@ -1,17 +1,70 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "batches": [
-    "20261001-013",
-    "20260930-013",
-    "20260930-001",
-    "20260929-015",
-    "20260929-014",
-    "20260929-012",
-    "20260929-011",
-    "20260929-010",
-    "20260929-007",
-    "20260928-016",
-    "20260928-009",
-    "20260928-007"
+    {
+      "batch_id": "20261002-003",
+      "storage": "sharded",
+      "shard_id": "000"
+    },
+    {
+      "batch_id": "20261001-013",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260930-013",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260930-001",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260929-015",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260929-014",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260929-012",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260929-011",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260929-010",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260929-007",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260928-016",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260928-009",
+      "storage": "monolithic",
+      "shard_id": null
+    },
+    {
+      "batch_id": "20260928-007",
+      "storage": "monolithic",
+      "shard_id": null
+    }
   ]
 }
