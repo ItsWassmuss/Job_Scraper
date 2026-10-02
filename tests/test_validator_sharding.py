@@ -8,7 +8,7 @@ import pytest
 from validator.sharding import (
     SCHEMA_VERSION,
     SHARD_MAX_JOBS,
-    SHARD_TARGET_BYTES,
+    SHARD_HARD_MAX_BYTES,
     build_sharded_batch,
     global_index_for,
     serialized_json_bytes,
@@ -37,7 +37,7 @@ def _flatten(shards):
 def test_frozen_default_contract():
     assert SCHEMA_VERSION == 2
     assert SHARD_MAX_JOBS == 10
-    assert SHARD_TARGET_BYTES == 48 * 1024
+    assert SHARD_HARD_MAX_BYTES == 128 * 1024
 
 
 def test_preserves_jobs_order_and_recoverable_global_indexes():
@@ -47,7 +47,7 @@ def test_preserves_jobs_order_and_recoverable_global_indexes():
         batch_id="20261002-003",
         created_at="2026-10-02T05:27:03+03:00",
         jobs=jobs,
-        target_bytes=1024 * 1024,
+        hard_max_bytes=1024 * 1024,
     )
 
     assert manifest == {
@@ -70,7 +70,7 @@ def test_preserves_jobs_order_and_recoverable_global_indexes():
     assert recovered == list(range(len(jobs)))
 
 
-def test_byte_target_splits_before_multi_job_shard_exceeds_target():
+def test_hard_max_splits_before_multi_job_shard_exceeds_limit():
     jobs = [_job(i, description="x" * 14_000) for i in range(10)]
 
     _, shards = build_sharded_batch(
@@ -83,7 +83,7 @@ def test_byte_target_splits_before_multi_job_shard_exceeds_target():
     assert _flatten(shards) == jobs
     assert all(shard["job_count"] <= SHARD_MAX_JOBS for shard in shards)
     assert all(
-        shard["job_count"] == 1 or serialized_json_bytes(shard) <= SHARD_TARGET_BYTES
+        shard["job_count"] == 1 or serialized_json_bytes(shard) <= SHARD_HARD_MAX_BYTES
         for shard in shards
     )
 
@@ -98,7 +98,7 @@ def test_single_oversized_job_is_kept_whole_in_its_own_shard():
         batch_id="20261002-003",
         created_at="2026-10-02T05:27:03+03:00",
         jobs=jobs,
-        target_bytes=1024,
+        hard_max_bytes=1024,
     )
 
     assert [shard["job_count"] for shard in shards] == [1, 1]
@@ -168,7 +168,7 @@ def test_utf8_byte_measurement_matches_actual_serialized_bytes():
         ({"jobs": []}, "jobs"),
         ({"jobs": ["not-an-object"]}, "jobs"),
         ({"max_jobs": 0}, "max_jobs"),
-        ({"target_bytes": 0}, "target_bytes"),
+        ({"hard_max_bytes": 0}, "hard_max_bytes"),
     ],
 )
 def test_invalid_builder_inputs_fail(kwargs, message):
