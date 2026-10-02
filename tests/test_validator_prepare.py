@@ -393,6 +393,10 @@ def test_prepare_runs_as_direct_script(tmp_path):
 
     shutil.copy(repo_root / "validator/prepare.py", validator_dir / "prepare.py")
     shutil.copy(repo_root / "validator/sharding.py", validator_dir / "sharding.py")
+    shutil.copy(
+        repo_root / "validator/title_exclusions.json",
+        validator_dir / "title_exclusions.json",
+    )
 
     (validator_dir / "state.json").write_text(
         json.dumps({
