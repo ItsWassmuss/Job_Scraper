@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "63145b40260a962b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive job description is primarily Danish and no complete official English version is present.",
       "validated": null
     },
     {
@@ -47,9 +47,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "39a26bfdc22acbf7",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Remote/Office",
+        "required_experience": "5+ years",
+        "date_posted": "2026-10-02",
+        "date_posted_at": "Not specified",
+        "date_posted_date": "2026-10-02",
+        "date_posted_precision": "date",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Senior backend/full-stack engineering role building Python and .NET 8+ services, data-processing systems, Kafka-based distributed systems, and REST APIs for energy infrastructure clients.",
+        "direct_application_link": "https://career.softserveinc.com/en-us/vacancies/senior-fullstack-engineer-pythonnet-90959"
+      }
     },
     {
       "company": "Jan De Nul Group",
@@ -70,8 +81,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a7a298507f4ee95e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: trainee automation/electrotechnical shipboard role; no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -85,8 +96,8 @@
       "description": "P-969\n\nAt Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business.\n\nAs a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you'll connect with engineers, other interns, and leaders from across the company.\n\nWe are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you're the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.\n\nThe Impact You Will Have\n\nWork with a team to build features for the Databricks platform\nManage your project end-to-end, including design, code, and feedback\nLearn about building a platform that scales quickly while maintaining quality and security\n\nWhat We Look For\n\nYou will graduate between fall 2027 and Summer 2028 with a degree in Computer Science, Engineering, or related subject\nYou have implementation skills with a general purpose program language, such as Python, Java, or C++\nYou have good knowledge of algorithms, data structures, and OOP principles\nYou are excited to solve ambiguous problems with a collaborative team\n\nThis is a Summer 12-week internship. Co-ops are only available to students enrolled in a co-op program.\n\nAbout Databricks\n\nDatabricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.\n\nBenefits\n\nAt Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nVolunteer\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4473181152",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: internship spans general software teams and lists Python/Java/C++; no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -100,8 +111,8 @@
       "description": "P-968\n\nAt Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business.\n\nAs a Software Engineering Intern, you will join a team of engineers to build features that contribute directly to the Databricks platform. We're hiring across all of our teams, including full stack, backend, infrastructure, systems, tools, cloud, databases, and customer-facing products. You will have a dedicated mentor and will join our 2027 intern cohort where you'll connect with engineers, other interns, and leaders from across the company.\n\nWe are hiring Software Engineering Interns across multiple offices. Please apply for the single location that you're the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days.\n\nThe Impact You Will Have\n\nWork with a team to build features for the Databricks platform\nManage your project end-to-end, including design, code, and feedback\nLearn about building a platform that scales quickly while maintaining quality and security\n\nWhat We Look For\n\nYou will graduate between fall 2027 and summer 2028 with a degree in Computer Science, Engineering, or related subject\nYou have implementation skills with a general purpose program language, such as Python, Java, or C++\nYou have good knowledge of algorithms, data structures, and OOP principles\nYou are excited to solve ambiguous problems with a collaborative team\n\nThis is a Summer 12-week internship. Co-ops are only available to students enrolled in a co-op program.\n\nAbout Databricks\n\nDatabricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn, X, YouTube, and Instagram.\n\nBenefits\n\nAt Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here.\n\nOur Commitment to Diversity and Inclusion\n\nAt Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.\n\nCompliance\n\nIf access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nVolunteer\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4473176361",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: internship spans general software teams and lists Python/Java/C++; no backend/server-side C#/.NET evidence.",
       "validated": null
     }
   ]

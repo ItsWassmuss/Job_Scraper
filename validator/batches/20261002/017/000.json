@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8303e09e50f42172",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "FRESHNESS: configured-source date_posted 2026-09-02 is more than 24 hours old.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e9fd241bf8ee9a8e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary stack is Mainframe/DB2/JCL/COBOL with optional SQL/Python/Java; no backend/server-side C#/.NET evidence.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "95786f413e9d8ddb",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role centers on integration-platform capabilities; C# or Python is listed, but backend/server-side C#/.NET is not established.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "295de04de8d7fbdf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role centers on Azure integration delivery; C# or Python is listed, but backend/server-side C#/.NET is not established.",
       "validated": null
     }
   ]
