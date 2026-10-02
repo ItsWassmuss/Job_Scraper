@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "77d476dffdd8e601",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: Job explicitly requires an EU passport or a valid work permit for the Netherlands.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "525e3ded1c49f569",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: No explicit backend/server-side C#/.NET development evidence; .NET is listed together with JavaScript/TypeScript.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3c9eef3a0e30f63d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is aerospace project engineering and has no backend/server-side C#/.NET development evidence.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7d8afaba78a0169f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is configuration management engineering and has no backend/server-side C#/.NET development evidence.",
       "validated": null
     },
     {
@@ -116,8 +116,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "831babfec4f87510",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is AI and automation development; C# is only one optional example and there is no backend/server-side .NET evidence.",
       "validated": null
     }
   ]
