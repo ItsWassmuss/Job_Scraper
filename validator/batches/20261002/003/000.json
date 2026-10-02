@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2600d94f207408d6",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: substantive job description is primarily Dutch with no confirmed complete official English version.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "7b40a97a34122e0d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECH_ROLE: no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c141a30e27784006",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECH_ROLE: no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4fa1403f226d30c4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECH_ROLE: role is primarily algorithm/image-processing software, not backend/server-side .NET/C# development.",
       "validated": null
     }
   ]
