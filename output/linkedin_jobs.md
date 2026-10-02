@@ -1,128 +1,142 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-02 11:35 UTC*
+*Last updated: 2026-10-02 12:37 UTC*
 
-**31 new role(s)** since last run · 175 total in last 6h
+**33 new role(s)** since last run · 201 total in last 6h
 
-### [Medior Full Stack Developer (.NET)](https://www.linkedin.com/jobs/view/4472891810/) — Amega
-- 📍 **Location:** Dordrecht, South Holland, Netherlands
+### [Senior Test automation engineer](https://www.linkedin.com/jobs/view/4464873340/) — IVO Rechtspraak
+- 📍 **Location:** Utrecht, Utrecht, Netherlands
 - 🕒 **Posted:** 2026-10-02
 
-### [.NET Developer](https://www.linkedin.com/jobs/view/4474715916/) — Noir
-- 📍 **Location:** Deventer, Overijssel, Netherlands
+### [Software Engineer Machinebouw (fulltime) - Jobbird.com](https://www.linkedin.com/jobs/view/4473317457/) — Jobster
+- 📍 **Location:** Nieuw-Vennep, North Holland, Netherlands
+- 💰 **Salary:** $3,438.00/mo - $6,250.00/mo
 - 🕒 **Posted:** 2026-10-02
 
-### [R&D Unity Developer](https://www.linkedin.com/jobs/view/4474733239/) — Rebels
-- 📍 **Location:** Gelderland, Netherlands
+### [Software Engineer Machinebouw - Jobbird.com](https://www.linkedin.com/jobs/view/4473331525/) — Jobster
+- 📍 **Location:** Nieuw-Vennep, North Holland, Netherlands
+- 💰 **Salary:** $3,438.00/mo - $6,250.00/mo
 - 🕒 **Posted:** 2026-10-02
 
-### [Cloud Architect](https://www.linkedin.com/jobs/view/4474716845/) — BlueRose Technologies
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
+### [Software Engineer Machinebouw (fulltime) - Uitzendbureau.nl](https://www.linkedin.com/jobs/view/4473333375/) — Jobster
+- 📍 **Location:** Nieuw-Vennep, North Holland, Netherlands
+- 💰 **Salary:** $3,438.00/mo - $6,250.00/mo
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Backend Engineer C#/.Net (m/f/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473301576/) — Jobster
+### [Software Engineer Machinebouw - Uitzendbureau.nl](https://www.linkedin.com/jobs/view/4473332594/) — Jobster
+- 📍 **Location:** Nieuw-Vennep, North Holland, Netherlands
+- 💰 **Salary:** $3,438.00/mo - $6,250.00/mo
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer - Jobbird.com](https://www.linkedin.com/jobs/view/4472897905/) — Jobster
+- 📍 **Location:** Nederland, Overijssel, Netherlands
+- 💰 **Salary:** $7,114.00/mo - $7,114.00/mo
+- 🕒 **Posted:** 2026-10-02
+
+### [Medior Low-code Developer ServiceNow - Jobbird.com](https://www.linkedin.com/jobs/view/4473315727/) — Jobster
+- 📍 **Location:** Nederland, Overijssel, Netherlands
+- 💰 **Salary:** $5,863.00/mo - $5,863.00/mo
+- 🕒 **Posted:** 2026-10-02
+
+### [Presales Architect (m/w/d) - Hybrid Cloud](https://www.linkedin.com/jobs/view/4473337307/) — Proact Deutschland
+- 📍 **Location:** Ense, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Test Automation Engineer (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473322434/) — Jobster
 - 📍 **Location:** Berlin, Berlin, Germany
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Softwareentwickler C# / .NET und Vue.js (m/w/d)](https://www.linkedin.com/jobs/view/4473143006/) — MERKUR GROUP
-- 📍 **Location:** Magstadt, Baden-Württemberg, Germany
+### [Automation Engineer (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473329166/) — Jobster
+- 📍 **Location:** Dresden, Saxony, Germany
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Software Engineer (BorderPatrol) (m/f/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473305378/) — Jobster
-- 📍 **Location:** Berlin, Berlin, Germany
+### [Senior AI Software Engineer (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473339310/) — Jobster
+- 📍 **Location:** Coblenz, Rhineland-Palatinate, Germany
 - 🕒 **Posted:** 2026-10-02
 
-### [Softwareentwickler:in Java/C# (Senior) (m/w/d)](https://www.linkedin.com/jobs/view/4473119992/) — Abosco GmbH
-- 📍 **Location:** Bötzingen, Baden-Württemberg, Germany
+### [Senior AI Software Engineer (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473335437/) — Jobster
+- 📍 **Location:** Heidelberg, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-10-02
 
-### [Azure AI Engineer - Agentic Systems (all genders)](https://www.linkedin.com/jobs/view/4436817195/) — adesso SE
-- 📍 **Location:** Aachen, North Rhine-Westphalia, Germany
+### [Software Developer (m/w/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473309726/) — Jobster
+- 📍 **Location:** Coblenz, Rhineland-Palatinate, Germany
 - 🕒 **Posted:** 2026-10-02
 
-### [Solution Architect – Cloud-Native & DevOps (m/w/d)](https://www.linkedin.com/jobs/view/4469821572/) — T-Systems International
-- 📍 **Location:** Darmstadt, Hesse, Germany
+### [Azure DevOps Engineer (Mid/Senior)](https://www.linkedin.com/jobs/view/4473150049/) — PeakCloud
+- 📍 **Location:** Poland
 - 🕒 **Posted:** 2026-10-02
 
-### [Solution Architect – Cloud-Native & DevOps (m/w/d)](https://www.linkedin.com/jobs/view/4469808941/) — T-Systems International
-- 📍 **Location:** Berlin, Germany
+### [Senior QA Automation Engineer with Python and STC](https://www.linkedin.com/jobs/view/4474735500/) — Luxoft
+- 📍 **Location:** Bucharest, Romania
 - 🕒 **Posted:** 2026-10-02
 
-### [(Senior) Software Engineer (Customer Identity) (m/f/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4473304178/) — Jobster
-- 📍 **Location:** Berlin, Berlin, Germany
+### [Senior QA Java Automation Engineer](https://www.linkedin.com/jobs/view/4474739412/) — Luxoft
+- 📍 **Location:** Bucharest, Romania
 - 🕒 **Posted:** 2026-10-02
 
-### [Solution Architect – Cloud-Native & DevOps (m/w/d)](https://www.linkedin.com/jobs/view/4469812874/) — T-Systems International
-- 📍 **Location:** Düsseldorf, North Rhine-Westphalia, Germany
+### [Senior QA Java Automation Engineer](https://www.linkedin.com/jobs/view/4474724932/) — Luxoft
+- 📍 **Location:** Bucharest, Romania
 - 🕒 **Posted:** 2026-10-02
 
-### [Fullstack Developer (Java + Angular)](https://www.linkedin.com/jobs/view/4474739085/) — Connectis_
-- 📍 **Location:** Warsaw Metropolitan Area
+### [Senior QA Automation Engineer with Python and STC](https://www.linkedin.com/jobs/view/4474734595/) — Luxoft
+- 📍 **Location:** Bucharest, Romania
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Java Backend Developer](https://www.linkedin.com/jobs/view/4474736085/) — Luxoft Poland
-- 📍 **Location:** Cracow, Małopolskie, Poland
+### [Data Architect](https://www.linkedin.com/jobs/view/4473332011/) — adesso UK
+- 📍 **Location:** Brussels, Brussels Region, Belgium
 - 🕒 **Posted:** 2026-10-02
 
-### [Fullstackutvecklare inom C#NET sökes till Bliwa](https://www.linkedin.com/jobs/view/4473140147/) — Bliwa Livförsäkring
-- 📍 **Location:** Greater Stockholm Metropolitan Area
+### [Application Support Engineer](https://www.linkedin.com/jobs/view/4473133774/) — Global Blue by Shift4
+- 📍 **Location:** Austria
 - 🕒 **Posted:** 2026-10-02
 
-### [Controls Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4434571314/) — JBT Marel
-- 📍 **Location:** Støvring, North Denmark Region, Denmark
-- 🕒 **Posted:** 2026-10-02
-
-### [Solution Engineer](https://www.linkedin.com/jobs/view/4464525196/) — dormakaba
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior QA Engineer-Romania](https://www.linkedin.com/jobs/view/4473138224/) — nLIGHT MEDIA
-- 📍 **Location:** Romania
-- 🕒 **Posted:** 2026-10-02
-
-### [AI & AUTOMATION ENGINEER (LIEGE-BELGIUM)](https://www.linkedin.com/jobs/view/4447219331/) — GAMING1
-- 📍 **Location:** Liège, Walloon Region, Belgium
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Softwareentwickler .NET / SQL Server](https://www.linkedin.com/jobs/view/4474725555/) — PROSTAFF
-- 📍 **Location:** Zürich Metropolitan Area
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Test Spezialist:in](https://www.linkedin.com/jobs/view/4473132666/) — Coopers Group AG
-- 📍 **Location:** Berne, Switzerland
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474727283/) — Noir
-- 📍 **Location:** Vienna, Austria
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Developer / Experienced Builder](https://www.linkedin.com/jobs/view/4473138208/) — emergo technologies GmbH
-- 📍 **Location:** Innsbruck, Tyrol, Austria
-- 🕒 **Posted:** 2026-10-02
-
-### [Analista Programador .NET](https://www.linkedin.com/jobs/view/4472028110/) — Profile Software Services
+### [Senior .Net Developer (Remoto)](https://www.linkedin.com/jobs/view/4474742059/) — Profile Software Services
 - 📍 **Location:** Spain
 - 🕒 **Posted:** 2026-10-02
 
-### [Desarrollador Web .NET](https://www.linkedin.com/jobs/view/4472889570/) — W Hunt España
-- 📍 **Location:** Sax, Valencian Community, Spain
+### [.Net Developer](https://www.linkedin.com/jobs/view/4473139437/) — Sngular
+- 📍 **Location:** Greater Oviedo Metropolitan Area
 - 🕒 **Posted:** 2026-10-02
 
-### [.NET Developer](https://www.linkedin.com/jobs/view/4473127730/) — Plexus Tech
-- 📍 **Location:** Galicia, Spain
+### [AI Integration Engineer (MCP & SQL)](https://www.linkedin.com/jobs/view/4473128904/) — Raona
+- 📍 **Location:** Spain
 - 🕒 **Posted:** 2026-10-02
 
-### [Process Automation Solution Architect](https://www.linkedin.com/jobs/view/4465635972/) — Givaudan
-- 📍 **Location:** Sant Celoni, Catalonia, Spain
+### [Desarrollador/a Software - AIRPORT](https://www.linkedin.com/jobs/view/4473148133/) — AERTEC
+- 📍 **Location:** Málaga, Andalusia, Spain
 - 🕒 **Posted:** 2026-10-02
 
-### [MID/Senior .NET Developer | Lisboa(M/F)](https://www.linkedin.com/jobs/view/4474735265/) — Ankix
-- 📍 **Location:** Lisbon Metropolitan Area
+### [Process Automation Solution Architect](https://www.linkedin.com/jobs/view/4465653023/) — Givaudan
+- 📍 **Location:** Barcelona, Catalonia, Spain
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Manager, Software Engineering](https://www.linkedin.com/jobs/view/4465677925/) — Diligent
+### [Head of Engineering / Futuro CTO](https://www.linkedin.com/jobs/view/4473599673/) — Kiliia
+- 📍 **Location:** Igualada, Catalonia, Spain
+- 🕒 **Posted:** 2026-10-02
+
+### [Desarrollador de back-end](https://www.linkedin.com/jobs/view/4473135497/) — Capitole
+- 📍 **Location:** Greater Barcelona Metropolitan Area
+- 🕒 **Posted:** 2026-10-02
+
+### [Dynamics 365 Developer](https://www.linkedin.com/jobs/view/4474729514/) — Aubay Portugal
+- 📍 **Location:** Lisbon, Portugal
+- 🕒 **Posted:** 2026-10-02
+
+### [Fullstack Senior Software Engineer](https://www.linkedin.com/jobs/view/4456788644/) — Sovos
+- 📍 **Location:** Lisbon, Lisbon, Portugal
+- 🕒 **Posted:** 2026-10-02
+
+### [Process Automation Solution Architect](https://www.linkedin.com/jobs/view/4465631958/) — Givaudan
 - 📍 **Location:** Budapest, Budapest, Hungary
 - 🕒 **Posted:** 2026-10-02
 
-### [Junior Software Developer - GenAI Innovation Department](https://www.linkedin.com/jobs/view/4474725562/) — Deloitte
-- 📍 **Location:** Luxembourg, Luxembourg
+### [Senior Data Engineer (SQL/C#)](https://www.linkedin.com/jobs/view/4474738450/) — ISI Markets
+- 📍 **Location:** Sofia, Sofia City, Bulgaria
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Scala Developer with Go](https://www.linkedin.com/jobs/view/4474734452/) — Xebia
+- 📍 **Location:** Bulgaria
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Software Engineer (.NET / AI)](https://www.linkedin.com/jobs/view/4474747051/) — Everwest Group
+- 📍 **Location:** Vilnius, Vilniaus, Lithuania
 - 🕒 **Posted:** 2026-10-02
