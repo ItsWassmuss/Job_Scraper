@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e5517cf401d08c23",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: official posting requires the successful candidate to evidence right to work in the Republic of Ireland / UK before employment.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a5bb69510abc91b7",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role spans general prototype engineering across JavaScript/TypeScript, Python and .NET; backend/server-side .NET/C# is not established as the required stack.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "de8a4d3e97258399",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily cloud engineering management and accepts Python/C# or similar languages such as Java, without required backend/server-side .NET.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "bf8e308b04b8b6a8",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is process validation for cell-therapy manufacturing, not backend/server-side .NET/C# software development.",
       "validated": null
     },
     {
@@ -108,8 +108,8 @@
       "description": "As a Software Designer C#/C++/JAVA, you develop software for high-tech products and machines.\n\nIn this role, you support our customers in the semiconductor, analytical instrumentation, and medical equipment industries, within the triangle of Nijmegen, Enschede, and Zwolle, by delivering smart, sustainable, and reliable software solutions. Your software expertise plays an essential role in bringing these high-tech solutions to life.\n\nWhat excites you as a Software Designer (C#, C++, Java)?\n\nAs a Software Designer, you contribute to defining requirements and you are responsible for translating them into robust software designs, ensuring high-quality implementation and seamless integration. You are eager to grow into a role where you bring your own technical contribution, while guiding the development team.\n\nFrom our office in Mijdrecht and at our clients' premises you work on challenging projects that take technology to the next level. You are the expert who designs, develops, and tests, but also likes to think along, connect, and contribute to team results, and who likes to:\n\nTranslating customer and system requirements into innovative, clear, and feasible concepts during the conceptual phase of projects.\nActing as a bridge between architects and engineers from a technical perspective.\nTaking responsibility for a module/subsystem throughout the entire software development lifecycle.\nEnsuring software quality, scalability and maintainability through sound engineering practices.\nApplying strong communication skills to effectively guide and mentor a team of engineers, helping them grow and deliver high-quality results.\n\nSounds good? We’d love to tell you more…\n\nYour future workplace\n\nThis is what you bring to the table\n\nYou have a technical Bachelor’s or Master’s degree, preferably in Computer Science, Software Engineering, or Computer Engineering.\nYou have 7+ years of experience in technical software development, gained in various roles and across diverse product environments and/or projects.\nOver the past 4–5 years, you have worked within technical domains such as Semicon, Medical, or Analytical.\nYou have experience with at least two of the following programming languages: C#, C++, or Java.\nYou have knowledge of and/or experience with various development methodologies and techniques such as Design Patterns, UML, and Agile, and you keep your technical expertise up to date. You are looking for an environment where you can apply these developments in practice as well.\nBased on your experience, you are able to coach junior engineers.\nYou are a team player and keep the common goal in mind.\nYou have a good command of both Dutch and English, spoken and written.\nYou hold a valid European driver’s license and are willing to travel.\n\nThis is what you can expect in return from Sioux\n\nFlexible 32-40 hour working week, with room to work from home.\nA healthy work-life balance is very important to us. We have 28 holidays with an option to acquire an additional 12 holidays.\nYou will work with passionate colleagues who share your drive for technology and business success.\nBy combining our expertise in software, electronics, mechanics, mechatronics, mathematics and assembly, we make the impossible possible for our customers and get to work on challenging high-tech projects.\nYou get a lot of freedom and responsibility; after all, you know exactly what you are doing.\nPersonal coaching and a training budget of €6000 per year, so that you can continue to develop yourself.\nWe also find it important to have fun together. We organize a lot for our employees, from events together with your partner and family, summer barbecues, innovative knowledge sessions to tasty lunches and after work drinks.\nYou will be working at a prime location in a green, wooded environment, close to the Veluwe National Park. The perfect base within the triangle of Enschede, Zwolle, and Nijmegen.\n\nHigh Tech & High Fun\n\nWe can tell you all about the typical Sioux-culture and the high-tech challenging projects. About how you can develop yourself, like nowhere else. But we’d rather have you hear it from our own employees.\n\nGo to testimonials >\n\nIf you want to know more about our challenging projects, please click here.\n\nImportant note:\n\nThis position requires access to controlled technology, as defined in the US Export Administration Regulations (15 C.F.R.\n\n730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require Sioux to proceed with candidates who are immediately eligible to access controlled technology.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIndustrial Machinery Manufacturing",
       "source": "LinkedIn",
       "job_id": "4474557688",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role develops high-tech product software using at least two of C#, C++ or Java, with no backend/server-side .NET requirement.",
       "validated": null
     }
   ]
