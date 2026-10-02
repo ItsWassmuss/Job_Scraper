@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261003-004",
+  "shard_id": "006",
+  "start_index": 30,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "Noir",
+      "title": "Senior .NET Developer",
+      "location": "Luxembourg, Luxembourg",
+      "url": "https://www.linkedin.com/jobs/view/4474774778/",
+      "date_posted": "2026-10-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Senior .NET Developer - Luxembourg / Hybrid\n\n(Senior .NET Developer, .NET Software Engineer, .NET Architect, Technical Architect, Solutions Architect, API Architect, .NET, C#, .NET Core, ASP.NET Core, API architecture, solution architecture, API design, distributed systems, microservices, DDD, modern integration patterns, Senior .NET Developer, .NET Software Engineer, .NET Architect, Technical Architect, Solutions Architect, API Architect, Urgent)\n\nOur client is one of the fastest growing software companies in the world. This pioneering, innovative, global leader is driving cutting edge solutions, using AI-powered development and are looking for a Senior .NET Developer and API Integration Specialist to collaborate with the rest of the back-end team. In this role, you will work closely with software vendors and enterprise clients, leading discovery sessions, developing integration plans, and translating client needs into effective technical designs. Your role will be to enhance their API strategy and act as a specialist technical advisor.\n\nThe successful candidate will be an expert in .NET, C#, ASP.NET Core and API design and have had exposure to Microservices, DDD and modern integration patterns. Any API architecture or solution architecture knowledge would be a significant advantage. Excellent communication skills and the ability to communicate technical concepts to external stakeholders and lead technical discussions in German is essential, as is fluent English.\n\nOur client is a company people love to work for, who treat their employees like family and are looking for ambitious and pro-active Senior .NET Developers to join a talented and established team. If you would like to explore the possibility of joining their family, please send your CV.\n\nLocation:\nLuxembourg / Hybrid Working\nSalary:\n€75,000 - €95,000 + Bonus + Benefits\n\nApplicants must have the right to work in Luxembourg.\n\nNoir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!\n\nNOIRLUXEMBOURGRECSP\nNOIRLUXEMBOURGREC\nNOIREUROPEREC\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting and Software Development",
+      "source": "LinkedIn",
+      "job_id": "4474774778",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
