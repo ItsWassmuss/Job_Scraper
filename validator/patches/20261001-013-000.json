@@ -1,0 +1,52 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261001-013",
+  "shard_id": "000",
+  "results": [
+    {
+      "index": 0,
+      "source": "Indeed",
+      "job_id": "d76b211d82ec46e9",
+      "url": "https://de.indeed.com/viewjob?jk=d76b211d82ec46e9",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: the substantive job description is primarily German and no complete official English version is available.",
+      "validated": null
+    },
+    {
+      "index": 1,
+      "source": "Indeed",
+      "job_id": "68ef514498a2ae17",
+      "url": "https://de.indeed.com/viewjob?jk=68ef514498a2ae17",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: the confirmed official job description is primarily German and no complete official English version is available.",
+      "validated": null
+    },
+    {
+      "index": 2,
+      "source": "Indeed",
+      "job_id": "f911534b315a880e",
+      "url": "https://de.indeed.com/viewjob?jk=f911534b315a880e",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily SAP integration and ABAP development; C# is only one optional/background technology among Java, C# and Delphi.",
+      "validated": null
+    },
+    {
+      "index": 3,
+      "source": "Indeed",
+      "job_id": "90f09e303fc58cf5",
+      "url": "https://uk.indeed.com/viewjob?jk=90f09e303fc58cf5",
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: job explicitly requires United Kingdom work authorization.",
+      "validated": null
+    },
+    {
+      "index": 4,
+      "source": "Indeed",
+      "job_id": "0d06a7b1f8fba6b1",
+      "url": "https://uk.indeed.com/viewjob?jk=0d06a7b1f8fba6b1",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is public-health/building-services engineering, not backend/server-side .NET/C# software development.",
+      "validated": null
+    }
+  ]
+}
