@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261002-003",
+  "shard_id": "008",
+  "results": [
+    {
+      "index": 36,
+      "source": "LinkedIn",
+      "job_id": "4472990094",
+      "url": "https://www.linkedin.com/jobs/view/4472990094/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role focuses on MES/eBR manufacturing systems and pharmaceutical process support, not backend/server-side .NET/C# development.",
+      "validated": null
+    },
+    {
+      "index": 37,
+      "source": "LinkedIn",
+      "job_id": "4474551013",
+      "url": "https://www.linkedin.com/jobs/view/4474551013/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily Azure/Kubernetes platform and DevOps infrastructure engineering, not backend/server-side .NET/C# development.",
+      "validated": null
+    },
+    {
+      "index": 38,
+      "source": "LinkedIn",
+      "job_id": "4465071637",
+      "url": "https://www.linkedin.com/jobs/view/4465071637/",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: the substantive job description is primarily German and no complete official English version is available.",
+      "validated": null
+    },
+    {
+      "index": 39,
+      "source": "LinkedIn",
+      "job_id": "4472980690",
+      "url": "https://www.linkedin.com/jobs/view/4472980690/",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: the substantive job description is primarily German and no complete official English version is available.",
+      "validated": null
+    }
+  ]
+}
