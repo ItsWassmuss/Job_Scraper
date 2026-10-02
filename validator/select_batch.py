@@ -200,6 +200,10 @@ def select_open_batch(root: Path = REPO_ROOT) -> dict[str, Any] | None:
 
         if ref.storage == "monolithic":
             payload = load_monolithic(ref)
+            if payload["finalized"] is True:
+                stale_skipped.append(batch_id)
+                continue
+
             jobs = payload["jobs"]
             validate_job_statuses(jobs, str(ref.metadata_path))
             pending_indexes = [
@@ -208,7 +212,7 @@ def select_open_batch(root: Path = REPO_ROOT) -> dict[str, Any] | None:
                 if job.get("status") is None
             ]
 
-            if payload["finalized"] is True or not pending_indexes:
+            if not pending_indexes:
                 stale_skipped.append(batch_id)
                 continue
 
