@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8db7877ee44e62a2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: job explicitly requires eligibility to work in the UK.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "86102eddc117c84f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend stack is PHP 8/Phalcon, with no backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -70,9 +70,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5d406c6feff7f706",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Minimum 2 years of backend development experience",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Backend developer role designing and operating modern .NET/C# services, integrations, AWS-hosted containers, CI/CD and observability.",
+        "direct_application_link": "https://se.indeed.com/viewjob?jk=5d406c6feff7f706"
+      }
     },
     {
       "company": "Deloitte",
@@ -93,8 +104,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "653c0ebd67a0d0ec",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "EXPERIENCE: mandatory 0–3 years of relevant experience has no overlap with the 5–10 year target range.",
       "validated": null
     }
   ]

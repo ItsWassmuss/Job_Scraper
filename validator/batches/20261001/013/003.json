@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d0e6cd787d2eead3",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is public-health/building-services engineering, not backend/server-side .NET/C# software development.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f649cb34433ab836",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is public-health/building-services engineering, not backend/server-side .NET/C# software development.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c1c623edd2af2491",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role lists C#, VB.NET and Microsoft .NET among a broad enterprise application stack but does not establish backend/server-side .NET/C# development.",
       "validated": null
     }
   ]

@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2ffcd3af3b468614",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is technical sales for energy-management solutions, not backend/server-side .NET/C# software development.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1fe371f0df9623a0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role leads client-facing solution engineering and technical pre-sales/integration work; no backend/server-side .NET/C# development is established.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "789728488f08a928",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: job explicitly requires United Kingdom work authorization.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2de993e1b1b47f77",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: job requires legal right to work in the UK without sponsorship now or in the future, except exceptional cases.",
       "validated": null
     }
   ]

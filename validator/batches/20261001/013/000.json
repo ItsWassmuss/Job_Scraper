@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d76b211d82ec46e9",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: the substantive job description is primarily German and no complete official English version is available.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "68ef514498a2ae17",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: the confirmed official job description is primarily German and no complete official English version is available.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f911534b315a880e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily SAP integration and ABAP development; C# is only one optional/background technology among Java, C# and Delphi.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "90f09e303fc58cf5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: job explicitly requires United Kingdom work authorization.",
       "validated": null
     },
     {
@@ -116,8 +116,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0d06a7b1f8fba6b1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is public-health/building-services engineering, not backend/server-side .NET/C# software development.",
       "validated": null
     }
   ]
