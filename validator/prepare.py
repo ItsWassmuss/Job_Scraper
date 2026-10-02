@@ -6,9 +6,12 @@ import json
 import re
 from datetime import datetime
 from pathlib import Path
+import shutil
 from typing import Any
 from urllib.parse import parse_qs, urlsplit
 from zoneinfo import ZoneInfo
+
+from validator.sharding import build_sharded_batch, serialize_json
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -19,6 +22,8 @@ SOURCES = (
     ("LinkedIn", "seen_linkedin", Path("output/linkedin_jobs.json")),
 )
 _BATCH_NAME_RE = re.compile(r"^(\d{3})\.json$")
+_BATCH_DIR_RE = re.compile(r"^\d{3}$")
+_SHARD_ID_RE = re.compile(r"^\d{3}$")
 _LINKEDIN_JOB_PATH_RE = re.compile(r"/jobs/view/(\d+)(?:/|$)")
 _TITLE_SEPARATOR_RE = re.compile(r"[\s\-–—/]+")
 _TITLE_SEPARATOR_PATTERN = r"[\s\-–—/]+"
@@ -196,20 +201,70 @@ def _load_existing_batch_keys(day_dir: Path) -> tuple[set[tuple[str, str, str]],
     if not day_dir.exists():
         return keys, largest_number
 
-    for path in sorted(day_dir.glob("*.json")):
-        name_match = _BATCH_NAME_RE.fullmatch(path.name)
-        if name_match is None:
-            continue
-        largest_number = max(largest_number, int(name_match.group(1)))
-        payload = _load_json(path)
-        if not isinstance(payload, dict) or not isinstance(payload.get("jobs"), list):
-            raise ValueError(f"{path} must contain a top-level jobs array")
-        for job in payload["jobs"]:
-            if not isinstance(job, dict):
-                raise ValueError(f"{path} jobs array must contain only objects")
+    seen_numbers: set[int] = set()
+
+    def add_jobs(path: Path, jobs: Any) -> None:
+        if not isinstance(jobs, list) or any(not isinstance(job, dict) for job in jobs):
+            raise ValueError(f"{path} must contain a jobs array of objects")
+        for job in jobs:
             identity = _batch_identity(job)
             if identity is not None:
                 keys.add(identity)
+
+    for entry in sorted(day_dir.iterdir()):
+        batch_number: int | None = None
+
+        if entry.is_file():
+            name_match = _BATCH_NAME_RE.fullmatch(entry.name)
+            if name_match is None:
+                continue
+            batch_number = int(name_match.group(1))
+            payload = _load_json(entry)
+            if not isinstance(payload, dict):
+                raise ValueError(f"{entry} must contain a JSON object")
+            add_jobs(entry, payload.get("jobs"))
+
+        elif entry.is_dir() and _BATCH_DIR_RE.fullmatch(entry.name):
+            batch_number = int(entry.name)
+            manifest_path = entry / "manifest.json"
+            manifest = _load_json(manifest_path)
+            expected_batch_id = f"{day_dir.name}-{entry.name}"
+            if (
+                not isinstance(manifest, dict)
+                or manifest.get("schema_version") != 2
+                or manifest.get("batch_id") != expected_batch_id
+                or not isinstance(manifest.get("shards"), list)
+                or not manifest["shards"]
+                or any(
+                    not isinstance(shard_id, str)
+                    or _SHARD_ID_RE.fullmatch(shard_id) is None
+                    for shard_id in manifest["shards"]
+                )
+            ):
+                raise ValueError(f"{manifest_path} is not a valid sharded batch manifest")
+
+            for shard_id in manifest["shards"]:
+                shard_path = entry / f"{shard_id}.json"
+                shard = _load_json(shard_path)
+                if (
+                    not isinstance(shard, dict)
+                    or shard.get("schema_version") != 2
+                    or shard.get("batch_id") != expected_batch_id
+                    or shard.get("shard_id") != shard_id
+                ):
+                    raise ValueError(f"{shard_path} is not a valid shard")
+                add_jobs(shard_path, shard.get("jobs"))
+
+        else:
+            continue
+
+        if batch_number in seen_numbers:
+            raise ValueError(
+                f"{day_dir / f'{batch_number:03d}'} has both monolithic and sharded storage"
+            )
+        seen_numbers.add(batch_number)
+        largest_number = max(largest_number, batch_number)
+
     return keys, largest_number
 
 
@@ -310,32 +365,48 @@ def prepare_batches(root: Path = REPO_ROOT, *, now: datetime | None = None) -> d
     if ready_jobs:
         day_dir.mkdir(parents=True, exist_ok=True)
         timestamp = created_at.isoformat(timespec="seconds")
+        day = created_at.strftime("%Y%m%d")
+
         for offset in range(0, len(ready_jobs), BATCH_SIZE):
             largest_batch_number += 1
             if largest_batch_number > 999:
                 raise RuntimeError(f"No three-digit batch numbers remain in {day_dir}")
-            path = day_dir / f"{largest_batch_number:03d}.json"
-            batch_jobs = ready_jobs[offset:offset + BATCH_SIZE]
-            payload = {
-                "created_at": timestamp,
-                "job_count": len(batch_jobs),
-                "finalized": False,
-                "jobs": batch_jobs,
-            }
 
-            batch_created = False
+            number = f"{largest_batch_number:03d}"
+            batch_id = f"{day}-{number}"
+            monolithic_path = day_dir / f"{number}.json"
+            batch_dir = day_dir / number
+            if monolithic_path.exists() or batch_dir.exists():
+                raise FileExistsError(
+                    f"Validator batch storage already exists for {batch_id}"
+                )
+
+            batch_jobs = ready_jobs[offset:offset + BATCH_SIZE]
+            manifest, shards = build_sharded_batch(
+                batch_id=batch_id,
+                created_at=timestamp,
+                jobs=batch_jobs,
+            )
+
+            created_dir = False
             try:
-                batch_handle = path.open("x", encoding="utf-8")
-                batch_created = True
-                with batch_handle:
-                    json.dump(payload, batch_handle, indent=2, ensure_ascii=False)
-                    batch_handle.write("\n")
+                batch_dir.mkdir()
+                created_dir = True
+
+                manifest_path = batch_dir / "manifest.json"
+                with manifest_path.open("x", encoding="utf-8") as handle:
+                    handle.write(serialize_json(manifest))
+
+                for shard in shards:
+                    shard_path = batch_dir / f"{shard['shard_id']}.json"
+                    with shard_path.open("x", encoding="utf-8") as handle:
+                        handle.write(serialize_json(shard))
             except Exception:
-                if batch_created and path.exists():
-                    path.unlink()
+                if created_dir and batch_dir.exists():
+                    shutil.rmtree(batch_dir)
                 raise
 
-            created_files.append(path)
+            created_files.append(batch_dir / "manifest.json")
 
     summary = {
         "indeed_read": source_counts.get("Indeed", 0),
