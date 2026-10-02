@@ -13,6 +13,29 @@ from typing import Any
 from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
+try:
+    from validator.batch_storage import (
+        BatchRef,
+        discover_batch_refs,
+        first_pending_shard,
+        flatten_shards,
+        load_all_shards,
+        load_manifest,
+        load_monolithic,
+        validate_job_statuses,
+    )
+except ModuleNotFoundError:  # pragma: no cover - direct script execution
+    from batch_storage import (
+        BatchRef,
+        discover_batch_refs,
+        first_pending_shard,
+        flatten_shards,
+        load_all_shards,
+        load_manifest,
+        load_monolithic,
+        validate_job_statuses,
+    )
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 HELSINKI = ZoneInfo("Europe/Helsinki")
@@ -86,29 +109,13 @@ def _load_state(path: Path) -> dict[str, Any]:
     return payload
 
 
+def _batch_refs(root: Path) -> list[BatchRef]:
+    return discover_batch_refs(root)
+
+
 def _batch_paths(root: Path) -> list[Path]:
-    batches_root = root / "validator/batches"
-
-    if not batches_root.is_dir():
-        return []
-
-    paths: list[Path] = []
-
-    for day_dir in sorted(batches_root.iterdir()):
-        if (
-            not day_dir.is_dir()
-            or _DAY_NAME_RE.fullmatch(day_dir.name) is None
-        ):
-            continue
-
-        for path in sorted(day_dir.iterdir()):
-            if (
-                path.is_file()
-                and _BATCH_NAME_RE.fullmatch(path.name) is not None
-            ):
-                paths.append(path)
-
-    return paths
+    """Compatibility helper returning logical-batch metadata paths."""
+    return [ref.metadata_path for ref in _batch_refs(root)]
 
 
 def _nonempty_string(value: Any) -> str | None:
@@ -449,98 +456,70 @@ def finalize_batches(
 ) -> dict[str, Any]:
     state_path = root / "validator/state.json"
     state = _load_state(state_path)
-    batch_paths = _batch_paths(root)
+    batch_refs = _batch_refs(root)
 
     eligible_batches: list[
-        tuple[Path, dict[str, Any]]
+        tuple[BatchRef, dict[str, Any], list[dict[str, Any]]]
     ] = []
 
     pending_batches = 0
-    pending_batch_ids: list[str] = []
+    pending_entries: list[dict[str, Any]] = []
 
-    # Validate every candidate batch before mutating state.
-    for path in batch_paths:
-        payload = _load_json(path)
+    # Validate every non-finalized logical batch before mutating state.
+    for ref in batch_refs:
+        if ref.storage == "monolithic":
+            metadata = load_monolithic(ref)
+            if metadata["finalized"] is True:
+                continue
 
-        if not isinstance(payload, dict):
-            raise ValueError(
-                f"{path} must contain a JSON object"
+            jobs = metadata["jobs"]
+            validate_job_statuses(jobs, str(ref.metadata_path))
+
+            if any(job.get("status") is None for job in jobs):
+                pending_batches += 1
+                pending_entries.append({
+                    "batch_id": ref.batch_id,
+                    "storage": "monolithic",
+                    "shard_id": None,
+                })
+                continue
+        else:
+            metadata = load_manifest(ref)
+            if metadata["finalized"] is True:
+                continue
+
+            shards = load_all_shards(
+                root,
+                ref,
+                manifest=metadata,
             )
+            jobs = flatten_shards(shards)
+            next_shard = first_pending_shard(shards)
 
-        finalized = payload.get("finalized")
+            if next_shard is not None:
+                pending_batches += 1
+                pending_entries.append({
+                    "batch_id": ref.batch_id,
+                    "storage": "sharded",
+                    "shard_id": next_shard,
+                })
+                continue
 
-        if finalized is True:
-            continue
-
-        if finalized is not False:
-            raise ValueError(
-                f"{path} must contain "
-                "finalized=true or finalized=false"
-            )
-
-        jobs = payload.get("jobs")
-
-        if (
-            not isinstance(jobs, list)
-            or any(
-                not isinstance(job, dict)
-                for job in jobs
-            )
-        ):
-            raise ValueError(
-                f"{path} must contain "
-                "a jobs array of objects"
-            )
-
-        statuses = [
-            job.get("status")
-            for job in jobs
-        ]
-
-        invalid_statuses = [
-            status
-            for status in statuses
-            if (
-                status is not None
-                and status not in FINAL_STATUSES
-            )
-        ]
-
-        if invalid_statuses:
-            raise ValueError(
-                f"{path} contains invalid job status "
-                f"{invalid_statuses[0]!r}"
-            )
-
-        if any(
-            status is None
-            for status in statuses
-        ):
-            pending_batches += 1
-            pending_batch_ids.append(f"{path.parent.name}-{path.stem}")
-            continue
-
-        for index, job in enumerate(
-            jobs
-        ):
+        for index, job in enumerate(jobs):
             _validate_completed_job(
                 job,
-                path,
+                ref.metadata_path,
                 index,
             )
 
         eligible_batches.append(
-            (path, payload)
+            (ref, metadata, jobs)
         )
 
-    updated_state = copy.deepcopy(
-        state
-    )
+    updated_state = copy.deepcopy(state)
 
     seen_indexes = {
-        ledger: _seen_indexes(
-            updated_state[ledger]
-        )
+        ledger: _seen_indexes(updated_state[ledger])
         for ledger in (
             "seen_indeed",
             "seen_linkedin",
@@ -556,70 +535,50 @@ def finalize_batches(
     seen_added = 0
 
     # Prepare all Seen changes in memory first.
-    for path, payload in eligible_batches:
-        for index, job in enumerate(
-            payload["jobs"]
-        ):
+    for ref, _, jobs in eligible_batches:
+        for index, job in enumerate(jobs):
             if job["status"] != "REJECTED":
                 continue
 
             ledger, row = _seen_row(
                 job,
                 timestamp,
-                path,
+                ref.metadata_path,
                 index,
             )
 
-            seen_ids, seen_urls = (
-                seen_indexes[ledger]
-            )
+            seen_ids, seen_urls = seen_indexes[ledger]
 
             duplicate_id = (
                 bool(row["job_id"])
                 and row["job_id"] in seen_ids
             )
-
-            duplicate_url = (
-                row["job_url"]
-                in seen_urls
-            )
+            duplicate_url = row["job_url"] in seen_urls
 
             if duplicate_id or duplicate_url:
                 continue
 
-            updated_state[ledger].append(
-                row
-            )
+            updated_state[ledger].append(row)
 
             if row["job_id"]:
-                seen_ids.add(
-                    row["job_id"]
-                )
-
-            seen_urls.add(
-                row["job_url"]
-            )
-
+                seen_ids.add(row["job_id"])
+            seen_urls.add(row["job_url"])
             seen_added += 1
 
     finalized_payloads: list[
         tuple[Path, dict[str, Any]]
     ] = []
 
-    for path, payload in eligible_batches:
-        finalized_payload = copy.deepcopy(
-            payload
-        )
-
+    for ref, metadata, _ in eligible_batches:
+        finalized_payload = copy.deepcopy(metadata)
         finalized_payload["finalized"] = True
-
         finalized_payloads.append(
-            (path, finalized_payload)
+            (ref.metadata_path, finalized_payload)
         )
 
-    # Persist state before marking any batch finalized.
-    # If a later batch write fails, rerunning remains safe
-    # because Seen writes are idempotent.
+    # Persist state before marking any logical batch finalized.
+    # If a later metadata write fails, rerunning remains safe because
+    # Seen writes are idempotent.
     if updated_state != state:
         _atomic_write_json(
             state_path,
@@ -632,11 +591,35 @@ def finalize_batches(
             payload,
         )
 
+    pending_entries = sorted(
+        pending_entries,
+        key=lambda entry: entry["batch_id"],
+        reverse=True,
+    )
+    pending_batch_ids = [
+        entry["batch_id"]
+        for entry in pending_entries
+    ]
+
+    # Keep schema v1 byte/shape compatibility until sharded storage actually
+    # exists. The first real v2 logical batch deterministically activates
+    # schema v2 for the derived discovery index.
+    use_index_v2 = any(
+        ref.storage == "sharded"
+        for ref in batch_refs
+    )
+    if use_index_v2:
+        open_batch_index = {
+            "schema_version": 2,
+            "batches": pending_entries,
+        }
+    else:
+        open_batch_index = {
+            "schema_version": 1,
+            "batches": pending_batch_ids,
+        }
+
     open_batch_index_path = root / OPEN_BATCH_INDEX
-    open_batch_index = {
-        "schema_version": 1,
-        "batches": sorted(pending_batch_ids, reverse=True),
-    }
 
     try:
         existing_open_batch_index = (
@@ -657,17 +640,17 @@ def finalize_batches(
         )
 
     return {
-        "scanned_batches": len(batch_paths),
+        "scanned_batches": len(batch_refs),
         "pending_batches": pending_batches,
         "finalized_files": [
             path
             for path, _ in finalized_payloads
         ],
         "seen_added": seen_added,
-        "open_batches": open_batch_index["batches"],
+        "open_batches": pending_batch_ids,
+        "open_batch_index_schema_version": open_batch_index["schema_version"],
         "open_batch_index_updated": open_batch_index_updated,
     }
-
 
 def _print_summary(
     summary: dict[str, Any],
