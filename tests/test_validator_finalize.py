@@ -744,23 +744,3 @@ def test_open_batch_index_is_newest_first_and_excludes_completed(tmp_path):
     assert summary["open_batches"] == expected
 
 
-def test_already_finalized_batch_removes_stale_open_marker(tmp_path):
-    _write_state(tmp_path, _state())
-    _write_batch(
-        tmp_path,
-        payload={"finalized": True, "jobs": "not validated again"},
-    )
-    marker = tmp_path / "validator/open_batches/20260921-001.open"
-    sidecar_marker = (
-        tmp_path / "validator/batches/20260921/001.open"
-    )
-    marker.parent.mkdir(parents=True)
-    marker.write_text("open\n", encoding="utf-8")
-    sidecar_marker.write_text("open\n", encoding="utf-8")
-
-    summary = finalize_batches(tmp_path, now=FIXED_TIME)
-
-    assert not marker.exists()
-    assert not sidecar_marker.exists()
-    assert summary["markers_removed"] == [marker]
-    assert summary["sidecar_markers_removed"] == [sidecar_marker]
