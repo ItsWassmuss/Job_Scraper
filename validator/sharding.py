@@ -10,7 +10,7 @@ from typing import Any
 
 SCHEMA_VERSION = 2
 SHARD_MAX_JOBS = 10
-SHARD_TARGET_BYTES = 48 * 1024
+SHARD_HARD_MAX_BYTES = 128 * 1024
 
 _BATCH_ID_RE = re.compile(r"^\d{8}-\d{3}$")
 
@@ -29,7 +29,7 @@ def _validate_inputs(
     created_at: str,
     jobs: list[dict[str, Any]],
     max_jobs: int,
-    target_bytes: int,
+    hard_max_bytes: int,
 ) -> None:
     if not isinstance(batch_id, str) or _BATCH_ID_RE.fullmatch(batch_id) is None:
         raise ValueError("batch_id must match YYYYMMDD-NNN")
@@ -41,8 +41,8 @@ def _validate_inputs(
         raise ValueError("jobs must contain only objects")
     if type(max_jobs) is not int or max_jobs <= 0:
         raise ValueError("max_jobs must be a positive integer")
-    if type(target_bytes) is not int or target_bytes <= 0:
-        raise ValueError("target_bytes must be a positive integer")
+    if type(hard_max_bytes) is not int or hard_max_bytes <= 0:
+        raise ValueError("hard_max_bytes must be a positive integer")
 
 
 def _shard_payload(
@@ -68,14 +68,14 @@ def build_sharded_batch(
     created_at: str,
     jobs: list[dict[str, Any]],
     max_jobs: int = SHARD_MAX_JOBS,
-    target_bytes: int = SHARD_TARGET_BYTES,
+    hard_max_bytes: int = SHARD_HARD_MAX_BYTES,
 ) -> tuple[dict[str, Any], list[dict[str, Any]]]:
     """Split one logical batch into deterministic bounded shard payloads.
 
-    The byte target is enforced for every multi-job shard. A single job is
-    never split, so a single-job shard may exceed target_bytes.
+    The hard byte cap is enforced for every multi-job shard. A single job is
+    never split, so a single-job shard may exceed hard_max_bytes.
     """
-    _validate_inputs(batch_id, created_at, jobs, max_jobs, target_bytes)
+    _validate_inputs(batch_id, created_at, jobs, max_jobs, hard_max_bytes)
 
     shards: list[dict[str, Any]] = []
     current_jobs: list[dict[str, Any]] = []
@@ -111,7 +111,7 @@ def build_sharded_batch(
 
         if (
             len(candidate_jobs) > max_jobs
-            or serialized_json_bytes(candidate) > target_bytes
+            or serialized_json_bytes(candidate) > hard_max_bytes
         ):
             flush()
             current_start = global_index
