@@ -3,8 +3,8 @@
   "batches": [
     {
       "batch_id": "20261001-013",
-      "storage": "monolithic",
-      "shard_id": null
+      "storage": "sharded",
+      "shard_id": "000"
     },
     {
       "batch_id": "20260930-013",
