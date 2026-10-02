@@ -1,0 +1,25 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261001-013",
+  "shard_id": "001",
+  "results": [
+    {
+      "index": 5,
+      "source": "Indeed",
+      "job_id": "247150a407270229",
+      "url": "https://uk.indeed.com/viewjob?jk=247150a407270229",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is public-health/building-services engineering, not backend/server-side .NET/C# software development.",
+      "validated": null
+    },
+    {
+      "index": 6,
+      "source": "Indeed",
+      "job_id": "b82acc05d2e9b723",
+      "url": "https://uk.indeed.com/viewjob?jk=b82acc05d2e9b723",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is public-health/building-services engineering, not backend/server-side .NET/C# software development.",
+      "validated": null
+    }
+  ]
+}
