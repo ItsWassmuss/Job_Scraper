@@ -59,7 +59,8 @@ jobs:
 
           is_batch_path() {
             local path="$1"
-            [[ "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.json$ ]]
+            [[ "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.json$ \
+              || "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}/[0-9]{3}\.json$ ]]
           }
 
           is_patch_path() {

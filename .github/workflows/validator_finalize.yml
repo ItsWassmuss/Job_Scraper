@@ -50,7 +50,9 @@ jobs:
 
           is_mutable_data_path() {
             local path="$1"
-            [[ "$path" == "validator/state.json" || "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.json$ ]]
+            [[ "$path" == "validator/state.json" \
+              || "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}\.json$ \
+              || "$path" =~ ^validator/batches/[0-9]{8}/[0-9]{3}/manifest\.json$ ]]
           }
 
           is_open_batch_index_path() {
