@@ -22,8 +22,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "24b4e101bf47d795",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: no backend/server-side C#/.NET development evidence; role centers on GenAI/Python automation.",
       "validated": null
     },
     {
@@ -37,8 +37,8 @@
       "description": "A large healthcare software business is looking for an experienced engineer to join the team. The role involves working within an agile environment to develop and maintain software components that support critical infrastructure. The successful candidate will contribute to the full software lifecycle, from design and technical conceptualization to implementation and maintenance.\n\nWhat you'll be doing\n• Developing software components across the full stack, including frontend, middleware, and backend systems.\n• Taking responsibility for the entire software lifecycle, including design, implementation, and refactoring.\n• Collaborating closely with product management to create and refine technical concepts.\n• Working within an agile framework such as Scrum or SAFe to ensure high-quality delivery.\n• Maintaining and documenting technical components to ensure long-term system stability.\n\nWhat we're looking for\n• Professional experience in software development using C#, .NET, and database technologies.\n• A background in computer science, software engineering, or a related technical field.\n• Practical experience working within agile development teams and using tools like Visual Studio.\n• Fluency in German (C1 level) and good proficiency in English.\n• A proactive mindset with a strong focus on code quality and technical innovation.\n\nWhat's on offer\n• Access to individual professional development and training opportunities.\n• Company pension scheme and retirement savings options.\n• Health and wellness benefits, including fitness membership subsidies and cycle schemes.\n• Employee discount programs across various partners and providers.\n\nApply via Hyra to be considered for this opportunity.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
       "source": "LinkedIn",
       "job_id": "4474383678",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: German fluency at C1 level is explicitly mandatory.",
       "validated": null
     }
   ]
