@@ -7,14 +7,42 @@ import re
 from pathlib import Path
 from typing import Any
 
+try:
+    from validator.batch_storage import (
+        FINAL_STATUSES,
+        load_manifest,
+        load_monolithic,
+        load_shard,
+        monolithic_path,
+        pending_indexes_for_shard,
+        relative_manifest_path,
+        relative_shard_path,
+        resolve_batch_ref,
+        validate_batch_id,
+        validate_job_statuses,
+    )
+except ModuleNotFoundError:  # pragma: no cover - direct script execution
+    from batch_storage import (
+        FINAL_STATUSES,
+        load_manifest,
+        load_monolithic,
+        load_shard,
+        monolithic_path,
+        pending_indexes_for_shard,
+        relative_manifest_path,
+        relative_shard_path,
+        resolve_batch_ref,
+        validate_batch_id,
+        validate_job_statuses,
+    )
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OPEN_BATCH_INDEX = Path("validator/open_batches.json")
 PATCH_ROOT = Path("validator/patches")
 
-FINAL_STATUSES = frozenset({"REJECTED", "QUALIFIED", "UNVALIDATED"})
-_BATCH_ID_RE = re.compile(r"^\d{8}-\d{3}$")
 _PATCH_NAME_RE = re.compile(r"^(\d{8})-(\d{3})-(\d{3})\.json$")
+_SHARD_ID_RE = re.compile(r"^\d{3}$")
 
 
 def _load_json(path: Path) -> Any:
@@ -22,30 +50,77 @@ def _load_json(path: Path) -> Any:
         return json.load(handle)
 
 
-def load_open_batch_ids(root: Path = REPO_ROOT) -> list[str]:
+def load_open_batch_entries(root: Path = REPO_ROOT) -> list[dict[str, Any]]:
     path = root / OPEN_BATCH_INDEX
     payload = _load_json(path)
 
     if not isinstance(payload, dict) or set(payload) != {"schema_version", "batches"}:
         raise ValueError(f"{path} must contain exactly schema_version and batches")
 
-    if payload["schema_version"] != 1:
-        raise ValueError(f"{path} schema_version must equal 1")
-
+    schema_version = payload["schema_version"]
     batches = payload["batches"]
     if not isinstance(batches, list):
         raise ValueError(f"{path} batches must be an array")
 
-    if any(not isinstance(batch_id, str) or _BATCH_ID_RE.fullmatch(batch_id) is None for batch_id in batches):
-        raise ValueError(f"{path} contains an invalid batch identifier")
+    entries: list[dict[str, Any]] = []
 
-    if len(set(batches)) != len(batches):
+    if schema_version == 1:
+        for batch_id in batches:
+            validate_batch_id(batch_id)
+            entries.append({
+                "batch_id": batch_id,
+                "storage": "monolithic",
+                "shard_id": None,
+            })
+    elif schema_version == 2:
+        for position, entry in enumerate(batches):
+            if not isinstance(entry, dict) or set(entry) != {
+                "batch_id", "storage", "shard_id",
+            }:
+                raise ValueError(
+                    f"{path} batches[{position}] must contain exactly "
+                    "batch_id, storage, shard_id"
+                )
+
+            batch_id = entry["batch_id"]
+            validate_batch_id(batch_id)
+            storage = entry["storage"]
+            shard_id = entry["shard_id"]
+
+            if storage == "monolithic":
+                if shard_id is not None:
+                    raise ValueError(
+                        f"{path} monolithic entry {batch_id} must have shard_id=null"
+                    )
+            elif storage == "sharded":
+                if not isinstance(shard_id, str) or _SHARD_ID_RE.fullmatch(shard_id) is None:
+                    raise ValueError(
+                        f"{path} sharded entry {batch_id} must have a NNN shard_id"
+                    )
+            else:
+                raise ValueError(
+                    f"{path} entry {batch_id} has invalid storage {storage!r}"
+                )
+
+            entries.append({
+                "batch_id": batch_id,
+                "storage": storage,
+                "shard_id": shard_id,
+            })
+    else:
+        raise ValueError(f"{path} schema_version must equal 1 or 2")
+
+    batch_ids = [entry["batch_id"] for entry in entries]
+    if len(set(batch_ids)) != len(batch_ids):
         raise ValueError(f"{path} contains duplicate batch identifiers")
-
-    if batches != sorted(batches, reverse=True):
+    if batch_ids != sorted(batch_ids, reverse=True):
         raise ValueError(f"{path} batches must be sorted newest-first")
 
-    return batches
+    return entries
+
+
+def load_open_batch_ids(root: Path = REPO_ROOT) -> list[str]:
+    return [entry["batch_id"] for entry in load_open_batch_entries(root)]
 
 
 def reserved_batch_ids(root: Path = REPO_ROOT) -> set[str]:
@@ -74,11 +149,7 @@ def reserved_batch_ids(root: Path = REPO_ROOT) -> set[str]:
 
 
 def batch_path_for_id(root: Path, batch_id: str) -> Path:
-    if _BATCH_ID_RE.fullmatch(batch_id) is None:
-        raise ValueError(f"Invalid batch identifier: {batch_id!r}")
-
-    day, batch_number = batch_id.split("-", 1)
-    return root / "validator/batches" / day / f"{batch_number}.json"
+    return monolithic_path(root, batch_id)
 
 
 def _load_candidate_batch(path: Path) -> tuple[dict[str, Any], list[int]]:
@@ -116,24 +187,71 @@ def _load_candidate_batch(path: Path) -> tuple[dict[str, Any], list[int]]:
 
 
 def select_open_batch(root: Path = REPO_ROOT) -> dict[str, Any] | None:
-    batch_ids = load_open_batch_ids(root)
+    entries = load_open_batch_entries(root)
     reserved = reserved_batch_ids(root)
     stale_skipped: list[str] = []
 
-    for batch_id in batch_ids:
+    for entry in entries:
+        batch_id = entry["batch_id"]
         if batch_id in reserved:
             continue
 
-        path = batch_path_for_id(root, batch_id)
-        payload, pending_indexes = _load_candidate_batch(path)
+        ref = resolve_batch_ref(root, batch_id, storage=entry["storage"])
 
-        if payload["finalized"] is True or not pending_indexes:
+        if ref.storage == "monolithic":
+            payload = load_monolithic(ref)
+            jobs = payload["jobs"]
+            validate_job_statuses(jobs, str(ref.metadata_path))
+            pending_indexes = [
+                index
+                for index, job in enumerate(jobs)
+                if job.get("status") is None
+            ]
+
+            if payload["finalized"] is True or not pending_indexes:
+                stale_skipped.append(batch_id)
+                continue
+
+            return {
+                "batch_id": batch_id,
+                "storage": "monolithic",
+                "shard_id": None,
+                "batch_path": str(ref.metadata_path.relative_to(root)),
+                "logical_batch_path": str(ref.metadata_path.relative_to(root)),
+                "pending_indexes": pending_indexes,
+                "reserved_batches": sorted(reserved, reverse=True),
+                "stale_skipped": stale_skipped,
+            }
+
+        manifest = load_manifest(ref)
+        if manifest["finalized"] is True:
+            stale_skipped.append(batch_id)
+            continue
+
+        shard_id = entry["shard_id"]
+        if shard_id not in manifest["shards"]:
+            raise ValueError(
+                f"{root / OPEN_BATCH_INDEX} references undeclared shard "
+                f"{batch_id}/{shard_id}"
+            )
+
+        shard = load_shard(
+            root,
+            batch_id,
+            shard_id,
+            manifest=manifest,
+        )
+        pending_indexes = pending_indexes_for_shard(shard)
+        if not pending_indexes:
             stale_skipped.append(batch_id)
             continue
 
         return {
             "batch_id": batch_id,
-            "batch_path": str(path.relative_to(root)),
+            "storage": "sharded",
+            "shard_id": shard_id,
+            "batch_path": relative_shard_path(batch_id, shard_id),
+            "logical_batch_path": relative_manifest_path(batch_id),
             "pending_indexes": pending_indexes,
             "reserved_batches": sorted(reserved, reverse=True),
             "stale_skipped": stale_skipped,
