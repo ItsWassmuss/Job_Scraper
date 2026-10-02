@@ -1,132 +1,129 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-02 15:18 UTC*
+*Last updated: 2026-10-02 16:18 UTC*
 
-**21 new role(s)** since last run · 194 total in last 24h
+**21 new role(s)** since last run · 198 total in last 24h
 
-### [Software Engineering & Development, Vice President](https://uk.indeed.com/viewjob?jk=eb2e8009abc060e7) — State Street
+### [Data/Software Traineeship](https://nl.indeed.com/viewjob?jk=9ddc34de507d5490) — Educom
+- 📍 **Location:** Sittard, LI, NL
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Data/Software Traineeship](https://nl.indeed.com/viewjob?jk=b16152f921e31675) — Educom
+- 📍 **Location:** Arnhem, GE, NL
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Data/Software Traineeship](https://nl.indeed.com/viewjob?jk=63620989b7ad76c0) — Educom
+- 📍 **Location:** Eindhoven, NB, NL
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Cloud & Infrastructure Engineer](https://nl.indeed.com/viewjob?jk=2b9ee31b0f135d7b) — Monta
+- 📍 **Location:** Gorinchem, ZH, NL
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Python & VBA Developer](https://nl.indeed.com/viewjob?jk=65d768a5b53b3755) — European Dynamics
+- 📍 **Location:** Den Haag, ZH, NL
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior iOS Developer (fulltime / parttime)](https://nl.indeed.com/viewjob?jk=483c365668f81381) — Chordify
+- 📍 **Location:** NL
+- 💰 **Salary:** $3944–$5914/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Afstudeerstage — DevSecOps voor Azure (.NET)](https://nl.indeed.com/viewjob?jk=0f7a7d61889e93c9) — Avanade
+- 📍 **Location:** Amsterdam, NH, NL
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-02
+
+### [Full Stack Developer - C#/.NET (m/w/d)](https://de.indeed.com/viewjob?jk=688cdacca274c120) — HÖRMANN Intralogistics DE
+- 📍 **Location:** München, BY, DE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [DevSecOps Engineer](https://uk.indeed.com/viewjob?jk=05793863462fc8b9) — Allwyn UK
+- 📍 **Location:** Watford, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [C# Developer - Redis](https://uk.indeed.com/viewjob?jk=b555483f379507a6) — Talan
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Business Applications Developer](https://uk.indeed.com/viewjob?jk=7f3d61574eb6fb49) — Data8 Ltd.
-- 📍 **Location:** Chester, ENG, GB
-- 💰 **Salary:** $35k–$40k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Junior Sharepoint Developer](https://pl.indeed.com/viewjob?jk=97628690b6898d92) — 4IT Solutions Sp. z o.o.
-- 📍 **Location:** Warszawa, MZ, PL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Technical Sales Engineer](https://pl.indeed.com/viewjob?jk=76651b40c62d96ec) — Arrow Electronics
-- 📍 **Location:** Warszawa, MZ, PL
+### [O&M Engineer](https://uk.indeed.com/viewjob?jk=2375d252352e1ce8) — Project Better Energy 
+- 📍 **Location:** Reading, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Lösningsarkitekt / Solution Architect - Malmö eller Kalmar](https://se.indeed.com/viewjob?jk=05515ff6354919ab) — CGI
-- 📍 **Location:** Malmö, M, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [AI Solutions Engineer](https://no.indeed.com/viewjob?jk=f2d79cb9993fe27e) — Aker Solutions
-- 📍 **Location:** Fornebu, N30, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [AI Security Engineer](https://no.indeed.com/viewjob?jk=9664d1a19aa28512) — Aker Solutions
-- 📍 **Location:** Fornebu, N30, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [AI Platform & Infrastructure Engineer](https://no.indeed.com/viewjob?jk=4e8c46c2e86dc891) — Aker Solutions
-- 📍 **Location:** Fornebu, N30, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [AI Architect](https://no.indeed.com/viewjob?jk=c8862be955609a23) — Aker Solutions
-- 📍 **Location:** Fornebu, N30, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior C#/.NET Software Engineer | Banking & Investment Technology | Singapore](https://sg.indeed.com/viewjob?jk=343eb66d6d15d732) — BAH Partners
-- 📍 **Location:** Singapore, S00, SG
+### [ERP Systems Developer & Support](https://uk.indeed.com/viewjob?jk=582a062f126e5572) — OE Electrics Ltd
+- 📍 **Location:** Wakefield, ENG, GB
+- 💰 **Salary:** $35k–$45k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Client Developer (Unity3D)](https://sg.indeed.com/viewjob?jk=f0fc0856e6e0be55) — ONEMT
-- 📍 **Location:** Serangoon, S00, SG
+### [Trainee Project Engineer](https://uk.indeed.com/viewjob?jk=1310f5ba67b3e06d) — ASHTEAD TECHNOLOGY
+- 📍 **Location:** Westhill, SCT, GB
 - **Work mode:** On-site
-- **Job type:** contract
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Manager (Engineering), Digital Innovation Studio](https://sg.indeed.com/viewjob?jk=a5bb69510abc91b7) — National Healthcare Group
-- 📍 **Location:** Singapore, S00, SG
+### [Junior Software Engineer](https://uk.indeed.com/viewjob?jk=c0e3278a03d817d5) — James Fisher & Sons PLC
+- 📍 **Location:** Westhill and District, SCT, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Salesforce Developer](https://sg.indeed.com/viewjob?jk=a53463df762771fc) — BASE CAMP DIGITAL PTE. LTD.
-- 📍 **Location:** Joo Chiat, S00, SG
-- 💰 **Salary:** $7000–$10k/mo
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-01
-
-### [Java API Development with Integration Experience](https://sg.indeed.com/viewjob?jk=e6390269acd59cf2) — ADVANCED E-SOLUTIONS PTE. LTD.
-- 📍 **Location:** Outram, S00, SG
-- 💰 **Salary:** $6000–$7500/mo
+### [DevOps Engineer (AI, GitLab)](https://pl.indeed.com/viewjob?jk=ad357bcc1a7139c5) — Sopra Steria
+- 📍 **Location:** Katowice, SL, PL
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-02
 
-### [DotNet Developer](https://sg.indeed.com/viewjob?jk=acc4fada688c332b) — TRINITY CONSULTING SERVICES PTE. LTD.
-- 📍 **Location:** Singapore, S00, SG
-- 💰 **Salary:** $5500–$7000/mo
+### [Senior Back-end Developer](https://se.indeed.com/viewjob?jk=83008cf65c6d1d94) — ASSA ABLOY Group
+- 📍 **Location:** Stockholm, AB, SE
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-02
 
-### [Senior IBM Datacap Developer](https://sg.indeed.com/viewjob?jk=a267c9035a09a288) — INNOVA DIGITAL SOLUTIONS
-- 📍 **Location:** Outram, S00, SG
-- 💰 **Salary:** $11k–$12k/mo
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-01
-
-### [Programmer - IT](https://sg.indeed.com/viewjob?jk=4ebd6526d1ea13fb) — ASE SINGAPORE PTE. LTD.
-- 📍 **Location:** Woodlands, S00, SG
-- 💰 **Salary:** $3500–$4500/mo
+### [Embedded Software Developer – Steering Systems](https://se.indeed.com/viewjob?jk=df23fc21475080f5) — Mpya Sci & Tech AB
+- 📍 **Location:** Göteborg, O, SE
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-02
 
-### [DevSecOps Engineer](https://sg.indeed.com/viewjob?jk=461ccc207b652d88) — U3 PROJECTS PTE. LTD.
-- 📍 **Location:** Singapore, S00, SG
-- 💰 **Salary:** $8000–$12k/mo
+### [Dynamics 365 CRM Developer](https://ro.indeed.com/viewjob?jk=76e9704f1e7a47d0) — Advanced Supply Chain Group
+- 📍 **Location:** București, IF, RO
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-02
 
-### [Software Developer - Contract](https://sg.indeed.com/viewjob?jk=0c66bad9fe647704) — Zenith Infotech
-- 📍 **Location:** Singapore, S00, SG
-- 💰 **Salary:** $8500–$9200/mo
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-09-30
-
-### [Full Stack Developer](https://sg.indeed.com/viewjob?jk=2b5a5d494c848250) — VERTIS DIGITAL PTE. LTD.
-- 📍 **Location:** Outram, S00, SG
-- 💰 **Salary:** $5000–$6000/mo
+### [Senior Software Engineer](https://tr.indeed.com/viewjob?jk=1843ce7bc6c8aace) — Johnson Electric
+- 📍 **Location:** Gaziemir, T35, TR
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-02
 
-### [Consultor Tecnológico .Net, hibrido](https://es.indeed.com/viewjob?jk=23dbba2005e9dcf5) — CMV Consultores
-- 📍 **Location:** Madrid, MD, ES
-- 💰 **Salary:** $30k–$36k/yr
-- **Work mode:** Remote in-state eligible
+### [Senior Game Developer (m/f/d)](https://at.indeed.com/viewjob?jk=d9f0359820ed25dc) — MERKUR Excellence GmbH
+- 📍 **Location:** Wien, W, AT
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Framework Developer (m/f/d)](https://at.indeed.com/viewjob?jk=2b91ecbb90baa74a) — MERKUR Excellence GmbH
+- 📍 **Location:** Raaba, ST, AT
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
