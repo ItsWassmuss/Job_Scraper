@@ -36,8 +36,8 @@ def _flatten(shards):
 
 def test_frozen_default_contract():
     assert SCHEMA_VERSION == 2
-    assert SHARD_MAX_JOBS == 10
-    assert SHARD_HARD_MAX_BYTES == 128 * 1024
+    assert SHARD_MAX_JOBS == 5
+    assert SHARD_HARD_MAX_BYTES == 32 * 1024
 
 
 def test_preserves_jobs_order_and_recoverable_global_indexes():
@@ -56,10 +56,10 @@ def test_preserves_jobs_order_and_recoverable_global_indexes():
         "created_at": "2026-10-02T05:27:03+03:00",
         "job_count": 23,
         "finalized": False,
-        "shards": ["000", "001", "002"],
+        "shards": ["000", "001", "002", "003", "004"],
     }
-    assert [shard["start_index"] for shard in shards] == [0, 10, 20]
-    assert [shard["job_count"] for shard in shards] == [10, 10, 3]
+    assert [shard["start_index"] for shard in shards] == [0, 5, 10, 15, 20]
+    assert [shard["job_count"] for shard in shards] == [5, 5, 5, 5, 3]
     assert _flatten(shards) == jobs
 
     recovered = [
