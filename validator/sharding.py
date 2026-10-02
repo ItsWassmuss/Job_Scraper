@@ -12,7 +12,7 @@ SCHEMA_VERSION = 2
 SHARD_MAX_JOBS = 10
 SHARD_TARGET_BYTES = 48 * 1024
 
-_BATCH_ID_RE = re.compile(r"^\\d{8}-\\d{3}$")
+_BATCH_ID_RE = re.compile(r"^\d{8}-\d{3}$")
 
 
 def serialize_json(payload: Any) -> str:
