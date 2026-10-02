@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261002-010",
+  "shard_id": "009",
+  "start_index": 45,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "iCapital",
+      "title": "Software Engineer - Assistant Vice President",
+      "location": "Lisbon, Lisbon, Portugal",
+      "url": "https://www.linkedin.com/jobs/view/4426802050/",
+      "date_posted": "2026-10-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "About The Role\n\nThe Software Engineer at iCapital Network will work end-to-end on new features, enhancements, and defect resolution on one or more of iCapital's software platforms. You will work closely with our Product Management team throughout the software development process, detailing requirements, reviewing work in progress, and addressing issues found via manual test efforts. You will be working with Ruby on Rails for back end and React for front end.\n\nAt iCapital, we value expertise in other programming languages and business areas. More than checking the boxes on specific technologies, we are looking for driven team members with technical depth and a desire to deliver end products for our clients. If you are not already familiar with the technologies used at iCapital, you will have the opportunity to pick up these new tools and technologies while on the job—with support from management and mentors.\n\nResponsibilities\n\nBackend feature development in Ruby (3.6.6) and Rails (6.x)\nFrontend development in React and Redux\nUnit and integration test development using RSpec, Cucumber, and Capybara\nBuilding out prototypes and POCs\nActive participation in daily stand up meetings\nActive participation in Peer Code Reviews as part of our standard SDLC and Change Management Process\n\nQualifications\n\nDegree in Software Engineering\n6+ years of Full Stack, web-based application development\n6+ years of development experience with React and Ruby on Rails. Python/Elixir would be a good substitute if less expertise on Ruby\n6+ years of HTML / CSS development\nDemonstrated understanding of relational database concepts and modeling practices\nPassion for actively learning new technologies\nAbility to work independently or as part of a group effort, as required\nSolid problem solving abilities\nExcellent communication skills\nCollaborative approach to software development\nFluency in English and Portuguese required — written and verbal\n\nWe believe the best ideas and innovation happen when we are together. Employees in this role will work in the office four days, with the flexibility to work remotely one day (Friday). \n\nBenefits\n\niCapital offers a comprehensive benefits package that includes a total compensation program consisting of competitive salary, annual performance bonus, and equity for all full-time employees; healthcare with 100% employer-paid health and dental insurance; and generous paid time off (PTO).\n\nFor additional information on iCapital Network, please visit https://www.icapitalnetwork.com/about-us Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services and IT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4426802050",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
