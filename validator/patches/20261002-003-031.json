@@ -1,0 +1,52 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261002-003",
+  "shard_id": "007",
+  "results": [
+    {
+      "index": 31,
+      "source": "LinkedIn",
+      "job_id": "4472988454",
+      "url": "https://www.linkedin.com/jobs/view/4472988454/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: backend stack is Java and/or TypeScript (Node.js), with no backend/server-side .NET/C# evidence.",
+      "validated": null
+    },
+    {
+      "index": 32,
+      "source": "LinkedIn",
+      "job_id": "4472848847",
+      "url": "https://www.linkedin.com/jobs/view/4472848847/",
+      "status": "REJECTED",
+      "reason": "LANGUAGE: Dutch language proficiency at C2 level is explicitly required.",
+      "validated": null
+    },
+    {
+      "index": 33,
+      "source": "LinkedIn",
+      "job_id": "4472839676",
+      "url": "https://www.linkedin.com/jobs/view/4472839676/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is mainframe development and technical leadership centered on COBOL/CICS/DB2/z/OS, not backend/server-side .NET/C#.",
+      "validated": null
+    },
+    {
+      "index": 34,
+      "source": "LinkedIn",
+      "job_id": "4472848619",
+      "url": "https://www.linkedin.com/jobs/view/4472848619/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is Microsoft platform administration/infrastructure for Dynamics 365, SharePoint, IIS, SQL Server and Windows Server, not backend .NET development.",
+      "validated": null
+    },
+    {
+      "index": 35,
+      "source": "LinkedIn",
+      "job_id": "4474565138",
+      "url": "https://www.linkedin.com/jobs/view/4474565138/",
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is systems infrastructure and cloud support for Windows/Linux/Azure environments, not backend/server-side .NET/C# development.",
+      "validated": null
+    }
+  ]
+}
