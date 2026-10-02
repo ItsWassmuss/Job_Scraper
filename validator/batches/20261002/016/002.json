@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "28fa7e6471f38ddd",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: The job-specific official page states the role is only open to Stamp 4 holders, EU citizens, or Irish citizens.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "515a0423eb0a4285",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "AVAILABILITY: The confirmed job-specific official page explicitly states applications are closed.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "11356e1901e752cf",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is centered on production backend services in Python; C# exposure is only beneficial for integration work.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "5c23133e1f9e0972",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is test software automation and the substantive description provides no backend or server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -116,8 +116,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "91df156aa5f6b50a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The internship covers developer tools, runtimes, and services; C# is only one of several example programming languages and no backend .NET/C# role is established.",
       "validated": null
     }
   ]

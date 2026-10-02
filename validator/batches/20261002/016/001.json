@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "46b14507091de9aa",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The description requires C#/.NET Core system development but does not establish backend or server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "83ac61e74cb5277f",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C# is only one of several alternative programming languages and the description provides no backend or server-side .NET/C# evidence.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e6f256347b5b3bc5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is explicitly primarily Python; C# engineers are considered only if willing to cross-train and work with Python.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d145279d53712419",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role's active stack is Java and Spring Boot; ASP.NET appears only as an example of a similar full-stack framework.",
       "validated": null
     },
     {
@@ -116,8 +116,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "3d455d69d90b93c4",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is centered on Oracle PL/SQL and C#/.NET experience is listed only as desirable.",
       "validated": null
     }
   ]
