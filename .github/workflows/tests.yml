@@ -4,12 +4,21 @@ on:
   push:
     paths:
       - "scrape_jobs.py"
+      - "validator/prepare.py"
+      - "validator/finalize.py"
+      - "validator/apply_patch.py"
+      - "validator/select_batch.py"
       - "tests/**"
       - ".github/workflows/tests.yml"
   pull_request:
     paths:
       - "scrape_jobs.py"
+      - "validator/prepare.py"
+      - "validator/finalize.py"
+      - "validator/apply_patch.py"
+      - "validator/select_batch.py"
       - "tests/**"
+      - ".github/workflows/tests.yml"
   workflow_dispatch:
 
 jobs:
