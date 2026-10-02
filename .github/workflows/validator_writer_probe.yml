@@ -7,11 +7,6 @@ on:
         description: "Correlation id for the probe run"
         required: true
         type: string
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/validator_writer_probe.yml"
 
 permissions:
   contents: write
@@ -32,26 +27,20 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Resolve and validate request id
+      - name: Validate request id
         id: request
         shell: bash
         env:
-          DISPATCH_REQUEST_ID: ${{ inputs.request_id }}
+          REQUEST_ID: ${{ inputs.request_id }}
         run: |
           set -euo pipefail
 
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            request_id="$DISPATCH_REQUEST_ID"
-          else
-            request_id="bootstrap-${{ github.run_id }}-${{ github.run_attempt }}"
-          fi
-
-          if [[ ! "$request_id" =~ ^[A-Za-z0-9._-]{1,100}$ ]]; then
+          if [[ ! "$REQUEST_ID" =~ ^[A-Za-z0-9._-]{1,100}$ ]]; then
             echo "Invalid request_id."
             exit 1
           fi
 
-          echo "request_id=$request_id" >> "$GITHUB_OUTPUT"
+          echo "request_id=$REQUEST_ID" >> "$GITHUB_OUTPUT"
 
       - name: Create synthetic diagnostic payload
         shell: bash
