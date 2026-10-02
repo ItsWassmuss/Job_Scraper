@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f0fc0856e6e0be55",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is client-side Unity3D/mobile game development, not backend/server-side C#/.NET development.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "a53463df762771fc",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role is Salesforce development using Apex, Visualforce and Lightning Web Components, with no backend/server-side C#/.NET role evidence.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e6390269acd59cf2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Primary skill is Java API development; C#/.NET is described as basic/additional and as an alternative for equipment-control integration.",
       "validated": null
     },
     {
@@ -93,9 +93,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "acc4fada688c332b",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "5 - 8 years of professional software development experience.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "C#/.NET software development role requiring REST, SOAP, AMQP and MQ integration, with microservices and event-driven architecture familiarity.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=acc4fada688c332b"
+      }
     },
     {
       "company": "ASE SINGAPORE PTE. LTD.",
@@ -116,8 +127,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4ebd6526d1ea13fb",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: Role spans Visual Basic, Java or .NET, scripting and manufacturing applications without explicit backend/server-side C#/.NET development evidence.",
       "validated": null
     }
   ]
