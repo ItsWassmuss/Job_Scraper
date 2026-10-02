@@ -7,6 +7,7 @@ from pathlib import Path
 import pytest
 
 from validator.prepare import HELSINKI, prepare_batches
+from validator.sharding import SHARD_HARD_MAX_BYTES, SHARD_MAX_JOBS, serialized_json_bytes
 
 
 EMPTY_STATE = {
@@ -61,10 +62,16 @@ def _write_inputs(
 
 
 def _batch_payloads(summary: dict) -> list[dict]:
-    return [
-        json.loads(path.read_text(encoding="utf-8"))
-        for path in summary["created_files"]
-    ]
+    payloads: list[dict] = []
+    for manifest_path in summary["created_files"]:
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        jobs: list[dict] = []
+        for shard_id in manifest["shards"]:
+            shard_path = manifest_path.parent / f"{shard_id}.json"
+            shard = json.loads(shard_path.read_text(encoding="utf-8"))
+            jobs.extend(shard["jobs"])
+        payloads.append({**manifest, "jobs": jobs})
+    return payloads
 
 
 def test_builds_standard_jobs_from_top_level_jobs_only(tmp_path):
@@ -229,7 +236,7 @@ def test_ignores_non_three_digit_batch_files(tmp_path):
     jobs = _batch_payloads(summary)[0]["jobs"]
 
     assert summary["removed_by_batches"] == 1
-    assert [path.name for path in summary["created_files"]] == ["002.json"]
+    assert [path.parent.name for path in summary["created_files"]] == ["002"]
     assert [job["job_id"] for job in jobs] == ["debug-file"]
     assert valid_path.read_bytes() == valid_bytes
     assert debug_path.read_bytes() == debug_bytes
@@ -256,12 +263,29 @@ def test_splits_batches_and_continues_numbering_without_overwrite(tmp_path):
     summary = prepare_batches(tmp_path, now=utc_near_midnight)
     payloads = _batch_payloads(summary)
 
-    assert [path.name for path in summary["created_files"]] == [
-        "002.json", "003.json",
+    assert [path.parent.name for path in summary["created_files"]] == [
+        "002", "003",
     ]
     assert [payload["job_count"] for payload in payloads] == [75, 45]
     assert all(len(payload["jobs"]) <= 100 for payload in payloads)
     assert all(payload["created_at"] == "2026-09-20T00:30:00+03:00" for payload in payloads)
+
+    for manifest_path in summary["created_files"]:
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        expected_start = 0
+        for shard_id in manifest["shards"]:
+            shard = json.loads(
+                (manifest_path.parent / f"{shard_id}.json").read_text(encoding="utf-8")
+            )
+            assert shard["start_index"] == expected_start
+            assert shard["job_count"] <= SHARD_MAX_JOBS
+            assert (
+                shard["job_count"] == 1
+                or serialized_json_bytes(shard) <= SHARD_HARD_MAX_BYTES
+            )
+            expected_start += shard["job_count"]
+        assert expected_start == manifest["job_count"]
+
     assert existing_path.read_bytes() == existing_bytes
 
 
@@ -281,6 +305,35 @@ def test_rerun_uses_existing_daily_batches_without_modifying_them(tmp_path):
     assert second["removed_by_batches"] == 2
     assert second["created_files"] == []
     assert path.read_bytes() == original_bytes
+
+
+def test_new_batches_are_sharded_v2_without_monolithic_twin(tmp_path):
+    jobs = [
+        _job(number, f"https://indeed.test/viewjob?jk={number}")
+        for number in range(12)
+    ]
+    _write_inputs(tmp_path, jobs, [])
+
+    summary = prepare_batches(tmp_path, now=FIXED_HELSINKI_TIME)
+
+    assert len(summary["created_files"]) == 1
+    manifest_path = summary["created_files"][0]
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+
+    assert manifest["schema_version"] == 2
+    assert manifest["batch_id"] == "20260920-001"
+    assert manifest["job_count"] == 12
+    assert manifest["finalized"] is False
+    assert manifest["shards"] == ["000", "001", "002"]
+    assert not (tmp_path / "validator/batches/20260920/001.json").exists()
+
+    flattened = []
+    for shard_id in manifest["shards"]:
+        shard = json.loads(
+            (manifest_path.parent / f"{shard_id}.json").read_text(encoding="utf-8")
+        )
+        flattened.extend(shard["jobs"])
+    assert [job["job_id"] for job in flattened] == [str(i) for i in range(12)]
 
 
 def test_removes_run_duplicates_and_skips_jobs_without_identity(tmp_path):
@@ -323,6 +376,6 @@ def test_legacy_open_marker_does_not_block_new_batch(tmp_path):
 
     summary = prepare_batches(tmp_path, now=FIXED_HELSINKI_TIME)
 
-    assert [path.name for path in summary["created_files"]] == ["001.json"]
-    assert (tmp_path / "validator/batches/20260920/001.json").exists()
+    assert [path.parent.name for path in summary["created_files"]] == ["001"]
+    assert (tmp_path / "validator/batches/20260920/001/manifest.json").exists()
     assert marker.read_text(encoding="utf-8") == "existing\n"
