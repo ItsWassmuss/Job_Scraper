@@ -11,7 +11,10 @@ from typing import Any
 from urllib.parse import parse_qs, urlsplit
 from zoneinfo import ZoneInfo
 
-from validator.sharding import build_sharded_batch, serialize_json
+try:
+    from validator.sharding import build_sharded_batch, serialize_json
+except ModuleNotFoundError:  # pragma: no cover - direct script execution
+    from sharding import build_sharded_batch, serialize_json
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
