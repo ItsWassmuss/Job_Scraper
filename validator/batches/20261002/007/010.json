@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261002-007",
+  "shard_id": "010",
+  "start_index": 50,
+  "job_count": 3,
+  "jobs": [
+    {
+      "company": "Wire IT",
+      "title": "Senior .NET Developer AI",
+      "location": "Porto Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4474728171/",
+      "date_posted": "2026-10-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Based in Portugal, Wire IT is your specialized IT consulting partner with 18 years of experience driven by an experienced and senior team that helps clients make the right decisions in a fast-moving market.\nWire IT's ambition is to grow while keeping true to its nature: agile, people-centered, and fun. As we like to say: It's not only what we do, it's how we manage that truly make the difference..\nIf you're looking for more than just a job - if you're looking for a place where you can truly make a difference - you might be the next person to join WIRE IT.\n\nRole:\nSenior .NET AI Developer\nLocation:\nHybrid, Porto, Portugal\n\nRequired Skills:\nBachelor's/Master's degree in Computer Science, Engineering, or a related field.\nMinimum 5+ years of hands-on experience in C# and .NET/.NET Core.\n2+ years of experience in Machine Learning, Generative AI, or Data Science.\nProficiency in Python and AI frameworks such as TensorFlow and PyTorch alongside .NET.\nHands-on experience with NLP tools such as Hugging Face and LLM frameworks such as GPT and Transformers.\nStrong knowledge of cloud platforms such as Azure/AWS, microservices, and deploying custom models.\nExperience with containerization using Docker and Kubernetes and DevOps/CI/CD pipelines.\nSolid grasp of trusted AI practices, API security, and data privacy.\nExcellent problem-solving skills, Agile/Scrum proficiency, and fluent English.\nExperience designing, building and maintaining efficient C#/.NET code alongside production-ready ML pipelines.\nAbility to translate business requirements into functional applications and AI/ML solutions, particularly NLP and LLMs.\nExperience fine-tuning, deploying and optimizing pre-trained models for specific product use cases.\n\nWe offer:\n­No-term full-time contract;\nHealth Insurance;\n22 days of paid vacation;\n4 extra days annually (Carnival, Christmas Eve, New Year's Eve, Birthday);\nMeal Allowance on card (Coverflex);\nReferral Bonus;\nSpecial discounts and flex options;\nTraining annual budget;\nA great team-oriented culture;\nChance to become a part of a dynamically growing international company;\nChallenging projects giving the unique opportunity to grow and learn.\n\nFollowing the EU General Data Protection Regulation No. 2016/679, we inform you that by responding to this announcement, you consent to the use of your data by Wire IT, for as long as necessary. In case of doubt or request for elimination of your personal data, please send an email to info@wireit.pt\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4474728171",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Helmes in Lithuania",
+      "title": ".NET/Full-stack Engineer",
+      "location": "Kaunas, Kaunas, Lithuania",
+      "url": "https://www.linkedin.com/jobs/view/4474714870/",
+      "date_posted": "2026-10-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Join the HELMES team as a Mid Full-Stack Engineer\nand make a real impact!\n\nYou'll be contributing to a crucial project – the Tele2 self-care portal, used by hundreds of thousands across Estonia. We value communicative and growth-oriented individuals who thrive in an open, informal, and responsible environment and are driven to expand their knowledge.\n\nIf you're looking to join a community of talented professionals and grow with a company that invests in your success, we encourage you to apply!\n\nChallenges you'll tackle:\n\nDevelop reusable, testable, and efficient code\nCollaborate with the Solution Architect to ensure architectural alignment in your code\nWork with the Product Owner to define and agree on technical solutions.\nBe involved in the full product lifecycle: building, testing, deploying, monitoring, and maintaining our services, while also exploring new technologies\nParticipate in root cause analysis and help resolve support issues\nKeep development projects on track by following Agile practices and actively participating in the team\n\nSkills for success:\n\nHands-on experience with .NET and .NET Core;\nExperience with Front-End development – React is a plus, but other frameworks work too;\nSolid understanding of databases and SQL;\nGood English skills – written and spoken\nWillingness to grow and learn;\nComfortable working as part of a team and communicating openly.\n\nBenefits\n\nCompetitive Compensation & Growth Opportunities\n\nDedicated training budget for conferences, online courses, and books to support continuous learning\nProfessional development through workshops, coaching sessions, and tech events\n\nWork-Life Balance & Flexibility\n\nFlexible working hours to suit your schedule\nUnlimited work-from-home option for greater autonomy\nHelmes Wellness Package - 300€ for a modern and flexible approach to health and well-being benefits\n\nCommunity & Team Connection\n\nEmployee referral program with rewards up to 2000€ net\nClients & External Ambassadors with rewards up to 5000€ net\nSocial events, including Summer/Winter parties and a Dev Day celebration\nTeam-building activities and live meet-ups with clients for enhanced collaboration\n\nFor this position, we offer 3 300 € - 4 500 €/month gross salary.\n\nThe final offer will depend on your experience and competencies.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet and Software Development",
+      "source": "LinkedIn",
+      "job_id": "4474714870",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Festo",
+      "title": "Back-end Developer",
+      "location": "Kaunas, Kaunas, Lithuania",
+      "url": "https://www.linkedin.com/jobs/view/4473127552/",
+      "date_posted": "2026-10-02",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Apply now »\n\nFesto inspires people and organizations around the world with innovative solutions for industrial automation. We are an independent family business and offer more than 20,000 employees the opportunity to take bold steps, realize their ideas, and take on responsibility. As a team, we grow by tackling challenges together and we welcome everyone who wants to move the world with us.\n\nBack-end Developer\n\n14993\n\nKaunas\n\nPermanent\n\nFull Time\n\nInformation Technology\n\nFesto UAB Lithuania\n\nYour Job\n\nImplementing object-oriented solutions for our CPQ platform with Camos Develop\nDesigning technical architecture concepts within the agile team\nMigrate new functionality and fixes from test to production environments within the sprint cycles\nSupport of developed solutions and service tickets handling\n\nYour Qualification\n\nBachelor’s Degree in Computer Science or related area\nUnderstanding of Object-Oriented Programming concepts like inheritance, polymorphism, encapsulation\nMinimum 1 year experience with any Object-Oriented programming language (Java, C#, C++)\nExperience with relational databases (MS SQL Server, MySQL, Oracle)\nExperience with source code management system\nGood written and spoken communication skills in English expected, German – beneficial\nBeneficial would be knowledge of and Camos Develop and SCRUM\n\nYour Benefits At a Glance\n\nWorking model: hybrid, 2 day/ week in office\n\nCulture: people-focused, strong team spirit\n\nGrowth: trainings, global projects, expert collaboration\n\nGlobal Network: multiple cultures, language practice, business trips\n\nAdditional: engaging events & sports, modern office, free parking. perks.lt app\n\nYou can find more detailed information about Festo as an employer here: www.festo.com/career\n\nWe look forward to receiving your online application.\n\nOur applicant privacy policy is available on the Festo Lithuania website under the Career section\n\nContact person\n: Greta Gogyte\n\nYour Global Benefits At a Glance\n\nDiverse opportunities for your development\n\nA strong team by your side\n\nFreedom to drive your ideas forward\n\nDevelop innovative solutions with real impact\n\nBe part of a global network – in a family-owned company\n\nAttractive Compensation And Additional Benefits\n\nWe look forward to your application and to getting to know you!\n\nApply now »\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAutomation Machinery Manufacturing",
+      "source": "LinkedIn",
+      "job_id": "4473127552",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
