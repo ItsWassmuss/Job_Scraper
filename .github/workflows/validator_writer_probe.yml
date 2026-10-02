@@ -1,0 +1,137 @@
+name: Validator Writer Probe
+
+on:
+  workflow_dispatch:
+    inputs:
+      request_id:
+        description: "Correlation id for the probe run"
+        required: true
+        type: string
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/validator_writer_probe.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: validator-writer-probe-main
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    name: Persist synthetic writer probe
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Resolve and validate request id
+        id: request
+        shell: bash
+        env:
+          DISPATCH_REQUEST_ID: ${{ inputs.request_id }}
+        run: |
+          set -euo pipefail
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            request_id="$DISPATCH_REQUEST_ID"
+          else
+            request_id="bootstrap-${{ github.run_id }}-${{ github.run_attempt }}"
+          fi
+
+          if [[ ! "$request_id" =~ ^[A-Za-z0-9._-]{1,100}$ ]]; then
+            echo "Invalid request_id."
+            exit 1
+          fi
+
+          echo "request_id=$request_id" >> "$GITHUB_OUTPUT"
+
+      - name: Create synthetic diagnostic payload
+        shell: bash
+        env:
+          REQUEST_ID: ${{ steps.request.outputs.request_id }}
+        run: |
+          set -euo pipefail
+
+          target="validator/diagnostics/writer_probe/$REQUEST_ID.json"
+          if [ -e "$target" ]; then
+            echo "Target already exists: $target"
+            exit 1
+          fi
+
+          mkdir -p "$(dirname "$target")"
+
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          request_id = os.environ["REQUEST_ID"]
+          target = Path("validator/diagnostics/writer_probe") / f"{request_id}.json"
+          payload = {
+              "schema_version": 1,
+              "probe": "validator-writer-dispatch",
+              "request_id": request_id,
+              "status": "SUCCESS",
+              "github_event_name": os.environ["GITHUB_EVENT_NAME"],
+              "github_run_id": os.environ["GITHUB_RUN_ID"],
+              "github_run_attempt": os.environ["GITHUB_RUN_ATTEMPT"],
+          }
+          target.write_text(
+              json.dumps(payload, indent=2, sort_keys=True) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Validate, commit, and push probe
+        shell: bash
+        env:
+          REQUEST_ID: ${{ steps.request.outputs.request_id }}
+        run: |
+          set -euo pipefail
+
+          target="validator/diagnostics/writer_probe/$REQUEST_ID.json"
+
+          mapfile -t untracked < <(git ls-files --others --exclude-standard)
+          if [ "${#untracked[@]}" -ne 1 ] || [ "${untracked[0]}" != "$target" ]; then
+            echo "Unexpected untracked paths:"
+            printf '  %s\n' "${untracked[@]:-}"
+            exit 1
+          fi
+
+          if ! git diff --quiet; then
+            echo "Unexpected tracked-file mutation before commit."
+            git status --short
+            exit 1
+          fi
+
+          git add -- "$target"
+
+          mapfile -t staged < <(git diff --cached --name-only)
+          if [ "${#staged[@]}" -ne 1 ] || [ "${staged[0]}" != "$target" ]; then
+            echo "Unexpected staged paths:"
+            printf '  %s\n' "${staged[@]:-}"
+            exit 1
+          fi
+
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git commit -m "test: validator writer probe $REQUEST_ID"
+
+          git pull --rebase origin main
+          git push origin main
+
+      - name: Report probe result
+        shell: bash
+        env:
+          REQUEST_ID: ${{ steps.request.outputs.request_id }}
+        run: |
+          set -euo pipefail
+          echo "WRITER_PROBE_SUCCESS request_id=$REQUEST_ID"
