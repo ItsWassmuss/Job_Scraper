@@ -106,17 +106,7 @@ def test_builds_standard_jobs_from_top_level_jobs_only(tmp_path):
     assert all(job["status"] is None for job in payload["jobs"])
     assert all(job["reason"] is None for job in payload["jobs"])
     assert all(job["validated"] is None for job in payload["jobs"])
-    assert summary["created_markers"] == [
-        tmp_path / "validator/open_batches/20260920-001.open"
-    ]
-    assert summary["created_sidecar_markers"] == [
-        tmp_path / "validator/batches/20260920/001.open"
-    ]
-    assert summary["created_markers"][0].read_text(encoding="utf-8") == "open\n"
-    assert (
-        summary["created_sidecar_markers"][0].read_text(encoding="utf-8")
-        == "open\n"
-    )
+    assert not list((tmp_path / "validator").rglob("*.open"))
     assert (indeed_path.read_bytes(), linkedin_path.read_bytes()) == source_bytes
 
 
@@ -321,7 +311,7 @@ def test_removes_run_duplicates_and_skips_jobs_without_identity(tmp_path):
     ]
 
 
-def test_open_marker_collision_rolls_back_new_batch(tmp_path):
+def test_legacy_open_marker_does_not_block_new_batch(tmp_path):
     _write_inputs(
         tmp_path,
         [_job(1, "https://example.indeed.com/viewjob?jk=indeed-1")],
@@ -331,9 +321,8 @@ def test_open_marker_collision_rolls_back_new_batch(tmp_path):
     marker.parent.mkdir(parents=True)
     marker.write_text("existing\n", encoding="utf-8")
 
-    with pytest.raises(FileExistsError):
-        prepare_batches(tmp_path, now=FIXED_HELSINKI_TIME)
+    summary = prepare_batches(tmp_path, now=FIXED_HELSINKI_TIME)
 
-    assert not (tmp_path / "validator/batches/20260920/001.json").exists()
-    assert not (tmp_path / "validator/batches/20260920/001.open").exists()
+    assert [path.name for path in summary["created_files"]] == ["001.json"]
+    assert (tmp_path / "validator/batches/20260920/001.json").exists()
     assert marker.read_text(encoding="utf-8") == "existing\n"

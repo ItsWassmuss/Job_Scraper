@@ -674,39 +674,74 @@ def test_seen_timestamp_represents_supplied_instant_in_helsinki(tmp_path):
     assert parsed == supplied.astimezone(EXPECTED_HELSINKI)
 
 
-def test_pending_batch_creates_missing_open_marker(tmp_path):
+def test_pending_batch_builds_open_batch_index(tmp_path):
     _write_state(tmp_path, _state())
     batch_path = _write_batch(tmp_path, [_job(1, None)])
 
     summary = finalize_batches(tmp_path, now=FIXED_TIME)
 
-    marker = tmp_path / "validator/open_batches/20260921-001.open"
-    sidecar_marker = batch_path.with_suffix(".open")
-    assert marker.read_text(encoding="utf-8") == "open\n"
-    assert sidecar_marker.read_text(encoding="utf-8") == "open\n"
-    assert summary["markers_created"] == [marker]
-    assert summary["sidecar_markers_created"] == [sidecar_marker]
-    assert summary["markers_removed"] == []
-    assert summary["sidecar_markers_removed"] == []
+    index_path = tmp_path / "validator/open_batches.json"
+    assert _read(index_path) == {
+        "schema_version": 1,
+        "batches": ["20260921-001"],
+    }
+    assert summary["open_batches"] == ["20260921-001"]
+    assert summary["open_batch_index_updated"] is True
     assert _read(batch_path)["finalized"] is False
 
 
-def test_completed_batch_removes_open_marker(tmp_path):
+def test_completed_batch_is_removed_from_open_batch_index(tmp_path):
     _write_state(tmp_path, _state())
     batch_path = _write_batch(tmp_path, [_job(1, "REJECTED")])
-    marker = tmp_path / "validator/open_batches/20260921-001.open"
-    sidecar_marker = batch_path.with_suffix(".open")
-    marker.parent.mkdir(parents=True)
-    marker.write_text("open\n", encoding="utf-8")
-    sidecar_marker.write_text("open\n", encoding="utf-8")
+    index_path = tmp_path / "validator/open_batches.json"
+    index_path.parent.mkdir(parents=True, exist_ok=True)
+    index_path.write_text(
+        json.dumps({"schema_version": 1, "batches": ["20260921-001"]}),
+        encoding="utf-8",
+    )
 
     summary = finalize_batches(tmp_path, now=FIXED_TIME)
 
     assert _read(batch_path)["finalized"] is True
-    assert not marker.exists()
-    assert not sidecar_marker.exists()
-    assert summary["markers_removed"] == [marker]
-    assert summary["sidecar_markers_removed"] == [sidecar_marker]
+    assert _read(index_path) == {"schema_version": 1, "batches": []}
+    assert summary["open_batches"] == []
+    assert summary["open_batch_index_updated"] is True
+
+
+def test_already_finalized_batch_is_removed_from_open_batch_index(tmp_path):
+    _write_state(tmp_path, _state())
+    _write_batch(
+        tmp_path,
+        payload={"finalized": True, "jobs": "not validated again"},
+    )
+    index_path = tmp_path / "validator/open_batches.json"
+    index_path.parent.mkdir(parents=True, exist_ok=True)
+    index_path.write_text(
+        json.dumps({"schema_version": 1, "batches": ["20260921-001"]}),
+        encoding="utf-8",
+    )
+
+    summary = finalize_batches(tmp_path, now=FIXED_TIME)
+
+    assert _read(index_path) == {"schema_version": 1, "batches": []}
+    assert summary["open_batches"] == []
+    assert summary["open_batch_index_updated"] is True
+
+
+def test_open_batch_index_is_newest_first_and_excludes_completed(tmp_path):
+    _write_state(tmp_path, _state())
+    _write_batch(tmp_path, [_job(1, None)], day="20260920", name="002.json")
+    _write_batch(tmp_path, [_job(2, None)], day="20260921", name="001.json")
+    _write_batch(tmp_path, [_job(3, "REJECTED")], day="20260921", name="002.json")
+
+    summary = finalize_batches(tmp_path, now=FIXED_TIME)
+
+    expected = ["20260921-001", "20260920-002"]
+    assert _read(tmp_path / "validator/open_batches.json") == {
+        "schema_version": 1,
+        "batches": expected,
+    }
+    assert summary["open_batches"] == expected
 
 
 def test_already_finalized_batch_removes_stale_open_marker(tmp_path):
