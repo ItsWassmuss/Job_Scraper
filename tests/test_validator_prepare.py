@@ -1,6 +1,9 @@
 """Behavioral tests for Validator batch preparation."""
 
 import json
+import shutil
+import subprocess
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -379,3 +382,38 @@ def test_legacy_open_marker_does_not_block_new_batch(tmp_path):
     assert [path.parent.name for path in summary["created_files"]] == ["001"]
     assert (tmp_path / "validator/batches/20260920/001/manifest.json").exists()
     assert marker.read_text(encoding="utf-8") == "existing\n"
+
+
+def test_prepare_runs_as_direct_script(tmp_path):
+    repo_root = Path(__file__).resolve().parents[1]
+    validator_dir = tmp_path / "validator"
+    output_dir = tmp_path / "output"
+    validator_dir.mkdir()
+    output_dir.mkdir()
+
+    shutil.copy(repo_root / "validator/prepare.py", validator_dir / "prepare.py")
+    shutil.copy(repo_root / "validator/sharding.py", validator_dir / "sharding.py")
+
+    (validator_dir / "state.json").write_text(
+        json.dumps({
+            "seen_indeed": [],
+            "seen_linkedin": [],
+            "reported": [],
+        }),
+        encoding="utf-8",
+    )
+    for name in ("indeed_jobs.json", "linkedin_jobs.json"):
+        (output_dir / name).write_text(
+            json.dumps({"jobs": []}),
+            encoding="utf-8",
+        )
+
+    result = subprocess.run(
+        [sys.executable, "validator/prepare.py"],
+        cwd=tmp_path,
+        text=True,
+        capture_output=True,
+        check=False,
+    )
+
+    assert result.returncode == 0, result.stderr
