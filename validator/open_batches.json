@@ -2,9 +2,14 @@
   "schema_version": 2,
   "batches": [
     {
-      "batch_id": "20261002-009",
+      "batch_id": "20261002-010",
       "storage": "sharded",
       "shard_id": "000"
+    },
+    {
+      "batch_id": "20261002-009",
+      "storage": "sharded",
+      "shard_id": "001"
     },
     {
       "batch_id": "20261002-008",
