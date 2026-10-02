@@ -169,10 +169,15 @@ def load_monolithic(ref: BatchRef) -> dict[str, Any]:
         raise ValueError(f"{ref.metadata_path} must contain a JSON object")
 
     finalized = payload.get("finalized")
-    if finalized not in {True, False}:
+    if type(finalized) is not bool:
         raise ValueError(
             f"{ref.metadata_path} must contain finalized=true or finalized=false"
         )
+
+    # Preserve v1 semantics: finalized batches are immutable historical data
+    # and are not revalidated.
+    if finalized is True:
+        return payload
 
     jobs = payload.get("jobs")
     if not isinstance(jobs, list) or any(not isinstance(job, dict) for job in jobs):
@@ -195,7 +200,7 @@ def load_manifest(ref: BatchRef) -> dict[str, Any]:
         raise ValueError(f"{ref.metadata_path} created_at must be a non-empty string")
     if type(payload["job_count"]) is not int or payload["job_count"] <= 0:
         raise ValueError(f"{ref.metadata_path} job_count must be a positive integer")
-    if payload["finalized"] not in {True, False}:
+    if type(payload["finalized"]) is not bool:
         raise ValueError(f"{ref.metadata_path} finalized must be true or false")
 
     shards = payload["shards"]
