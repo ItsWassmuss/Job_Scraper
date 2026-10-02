@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "9ddc34de507d5490",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Dutch and explicitly requires Dutch at C1 level.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b16152f921e31675",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Dutch and explicitly requires Dutch at C1 level.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "63620989b7ad76c0",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Dutch and explicitly requires Dutch at C1 level.",
       "validated": null
     }
   ]

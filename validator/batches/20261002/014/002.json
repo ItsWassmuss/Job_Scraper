@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1310f5ba67b3e06d",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The trainee role has only basic C# among several languages and no backend/server-side .NET development evidence.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "83008cf65c6d1d94",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The backend role uses Golang as its primary language; .NET ecosystem experience is only nice to have.",
       "validated": null
     },
     {
@@ -70,9 +70,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "1843ce7bc6c8aace",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "5+ years of professional software engineering experience",
+        "date_posted": "Not specified",
+        "date_posted_at": "Not specified",
+        "date_posted_date": "Not specified",
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Design, develop, and maintain industrial C#/.NET applications, backend services, APIs, integrations, and production systems.",
+        "direct_application_link": "https://tr.indeed.com/viewjob?jk=1843ce7bc6c8aace"
+      }
     },
     {
       "company": "MERKUR Excellence GmbH",
@@ -93,8 +104,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "d9f0359820ed25dc",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is primarily Unity/C# casino game development rather than backend/server-side .NET development.",
       "validated": null
     },
     {
@@ -116,8 +127,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2b91ecbb90baa74a",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role focuses on C# gaming frameworks and core gaming platforms without backend/server-side .NET development evidence.",
       "validated": null
     }
   ]

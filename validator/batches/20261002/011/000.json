@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "dd29546265ba79c1",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily German and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "6ade0e0c1df4376c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role's backend development is explicitly PHP; C# appears only among desirable additional programming languages.",
       "validated": null
     },
     {
@@ -70,9 +70,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "41b2d661cfa06793",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "Professional software development experience in a commercial setting",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Software Developer building Parkspace features and RESTful services using C#, .NET Framework/.NET Core, ASP.NET, SQL, and web technologies.",
+        "direct_application_link": "https://uk.indeed.com/viewjob?jk=41b2d661cfa06793"
+      }
     },
     {
       "company": "VISIONMP Limited ",
@@ -93,8 +104,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2708a4b471794643",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: The job explicitly requires United Kingdom work authorisation.",
       "validated": null
     },
     {
@@ -116,8 +127,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "8c36079e6640b899",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Swedish and explicitly requires Swedish in speech and writing; no complete official English version was confirmed.",
       "validated": null
     }
   ]

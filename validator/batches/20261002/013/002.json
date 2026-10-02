@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0c66bad9fe647704",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: C#/.NET is preferred among multiple languages; no required backend/server-side .NET/C# role is established.",
       "validated": null
     },
     {
@@ -47,9 +47,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2b5a5d494c848250",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "4 years+ of experience as a Full Stack Developer or in a similar role.",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Full Stack Developer building backend services with Node.js and/or .NET, REST APIs, modern front-end frameworks, and cloud deployments.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=2b5a5d494c848250"
+      }
     },
     {
       "company": "CMV Consultores",
@@ -70,8 +81,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "23dbba2005e9dcf5",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Spanish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -85,8 +96,8 @@
       "description": "Wat je zal doen\n\nBen jij een Sitecore expert of een .NET Developer met Sitecore ervaring die méér wil dan standaard projecten? Zoek je een plek waar je wordt uitgedaagd, werkt met de nieuwste technologieën en waar jouw ideeën écht impact maken? Dan is dit jouw kans om als Sitecore Engineer bij iO aan de slag te gaan!\n\nBij iO bouw je digitale platformen\ndie er echt toe doen. Geen kleine projecten, maar complexe, high-traffic omgevingen voor klanten als De Goudse Verzekeringen, Alliander, Husqvarna\n. Hier draait het niet alleen om code kloppen – je bent inhoudelijk betrokken\nbij architectuurkeuzes, systeemintegraties en de volledige optimalisatie van de gebruikerservaring.\n\nJij krijgt de vrijheid en verantwoordelijkheid om in teamverband maar ook zelfstandig te werken met de nieuwste Sitecore XM Cloud en Composable DXP-oplossingen, zoals Content Hub en Sitecore Search\n. Je werkt niet alleen aan de technische realisatie, maar denkt ook strategisch\nmee over hoe we digitale ervaringen naar het volgende niveau tillen.\n\nBij iO krijg je bovendien volledige controle\nover het Sitecore-platform\nvan je klanten: s oftware development, continuous delivery én cloud-infrastructuur\nvallen onder jouw team. Zo bouw je stabiele, schaalbare en future-proof oplossingen\ndie écht impact maken.\n\nEn dat betekent:\n\n✔ Werken met de nieuwste tech\n– Sitecore XM Cloud, Composable DXP en .NET-architecturen.\n\n✔ Uitdagende projecten\n– voor merken met miljoenen gebruikers per maand.\n\n✔ Een actieve Sitecore Expert Group\n– kennisdeling via meetups, conferenties en User Groups.\n\n✔ DevOps mindset\n– automatisering en continuous delivery als standaard.\n\n✔ Persoonlijke groei\n– een cultuur waarin je samenwerkt met experts en altijd blijft leren. Persoonlijke groei staat dan ook altijd voorop, je krijgt voldoende ruimte om te groeien en krijgt daar uiteraard een ontwikkelbudget bij.\n\nWil jij bouwen aan complexe, innovatieve platformen en meedenken over de digitale strategie van grote merken? Solliciteer nu en ontdek wat iO voor jou in petto heeft! 🚀\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4388700010",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive official job description is primarily Dutch and explicitly requires fluent Dutch.",
       "validated": null
     },
     {
@@ -100,9 +111,20 @@
       "description": "Backend Staff Engineer – Help us build the next generation of Priva solutions\n\nAbout Priva | Your Future Ecosystem\n\nLocated between Rotterdam and The Hague, in the heart of the world’s leading greenhouse region, lies Westland, home to Priva’s modern campus in De Lier. This innovative region has been the foundation of our family-owned company since the 1950s.\n\nWhat started as a hardware business has grown into a global leader in horticulture and building automation. Today, Priva develops advanced hardware, software, and digital services for climate control, energy efficiency, and water optimization. Our solutions support horticulture, indoor and city farming, as well as offices, hotels, hospitals, and retail environments worldwide.\nOur next ambition? Becoming a leading digital service provider with “Climate as a Service” solutions that help customers operate more sustainably.\n\nWith over 600 colleagues, 16 international offices, and more than 400 installation partners, we deliver smart, sustainable solutions in over 100 countries. If you want your work to have impact on sustainability, food security, and the way cities grow, then this is where you belong.\n\nWhy this role matters\n\nAt Priva, we are building the next generation of building automation systems: cloud-connected, security-first, and designed for long-term reliability. You will work on an innovative IoT platform that combines embedded controllers, edge gateways, and cloud services to keep buildings running safely for 10–15 years with minimal maintenance.\n\nAs a Backend Staff Engineer\n, you will play a key role in shaping the architecture, reliability, and long-term maintainability of our cloud-connected backend platform.\n\nYou will use your deep technical expertise to help us build resilient, observable, and scalable backend solutions. You will guide technical direction, support teams in making sound architectural decisions, and raise the engineering standard across backend development.\nThis is a senior individual contributor role for someone who loves the challenge of combining hands-on engineering with system-level thinking, technical leadership, and a strong focus on reliability.\n\nYour team\n\nYou will join Team Amazey, a team of experienced frontend, backend and QA Engineers, responsible for all cloud services related to Nuro Creator web application. Since the product is nearing launch, it is all hands on board to make this happen: getting features to users, continuous improving SW quality in ways that are helpful for ourselves all whilst maintaining integrity of the users projects when migrations are required.\n\nWhat you’ll do\n\nTranslate product and system requirements into scalable backend designs\nLead the design and development of backend services using C# 12 and .NET 8\nDefine backend architecture for cloud-connected products\nReview critical technical designs and code, especially in areas that affect reliability, security, scalability, or maintainability\nDesign solutions with a focus on high availability, resilience and long-term maintainability\nGuide teams on distributed-system concerns\nCollaborate closely with our internal and external teams including hardware, firmware and QA\nImprove engineering practices around deployment and monitoring\nSupport root-cause analysis and drive durable corrective actions after production issues\nMentor engineers and help raise the technical maturity of the backend engineering organization\nMake pragmatic technical trade-offs between speed, quality, cost, risk, and long-term maintainability.\n\nWhat you bring\n\nWe are looking for an experienced engineer with strong technical leadership capabilities and a system-level mindset. Furthermore, we will look for:\nExtensive experience building backend systems using C# and .NET\nProven experience designing, building, and operating distributed systems in production\nPractical experience with Akka.NET and actor-based architectures\nStrong understanding of cloud-native architecture on Microsoft Azure\nExperience with event-driven systems, message queues, background processing, and distributed workflows\nStrong knowledge of API design, versioning, authentication, and authorization\nExperience with relational and NoSQL databases such as Azure SQL, PostgreSQL, Cosmos DB, Redis, or similar technologies\nGood understanding of observability, including structured logging, metrics, distributed tracing, alerting and dashboards\nExperience with CI/CD, infrastructure as code, deployment automation, and production operations\nStrong engineering judgment and the ability to simplify complex technical problems\nThe ability to influence technical decisions across teams without relying on formal authority\nA strong focus on reliability, maintainability, security, and operational excellence\nClear communication skills and the ability to explain technical trade-offs to both technical and non-technical stakeholders\nA mentoring mindset and a desire to help other engineers grow\nStrong debugging and problem-solving skills at both code and system level\n\nNice to have experience with:\nCloud-connected embedded products, IoT systems, building automation, industrial systems, energy systems, or similar high-reliability environments.\nAzure IoT Hub, Device Provisioning Service, Digital Twins, MQTT, or edge-to-cloud architectures\nEvent sourcing, CQRS, domain-driven design, or stateful distributed systems\nDocker or Bicep\nOpenTelemetry, Application Insights, Azure Monitor, or similar observability platforms\nSecurity-by-design practices, including identity, secrets management, secure communication, and least-privilege access.\nReliability engineering practices such as failure-mode analysis, chaos testing, operational readiness reviews, and post-incident learning\nProducts with long lifecycles, high uptime expectations, and low maintenance requirements\n\nWhat You Get\n\nIn Numbers\nCompetitive salary and benefits package for senior engineers\nFlexible working hours and 30 vacation days, with the option to buy more\n8% holiday allowance\nTravel allowance of €0.23/km (max. 150 km per day)\n\nFor Your Well-Being and Growth\nSolid pension plan and participation scheme\nPersonal development budget and training opportunities\nHealthy cafeteria\nFree on-site gym with CrossFit, Pilates, Spinning, table tennis, and table football\n\nOur Culture and values\n\nAt Priva, our mission is to create environments where people can work, grow, and thrive. We deliver sustainable solutions for horticulture and building automation that reduce resource consumption and contribute to global sustainability goals.\nOur culture is built on four core values: Sustainable, Innovative, Make it Happen, and Human.\nColleagues describe Priva as open, ambitious, innovative, friendly, and down-to-earth. We offer a flat, informal, and fast-paced environment where you are encouraged to take ownership and grow.\nWe believe diversity drives success. We welcome people from all backgrounds and perspectives and create a workplace where everyone feels valued, respected, and empowered to be their authentic self.\n\nReady to join us?\n\nTalk is cheap, and action gives you confidence. Sound good? Feel free to contact one of our recruiters.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
       "source": "LinkedIn",
       "job_id": "4474768098",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "Hybrid",
+        "required_experience": "Not specified",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Backend Staff Engineer designing and developing cloud-connected backend services using C# 12 and .NET 8, with distributed systems and Azure.",
+        "direct_application_link": "https://careers.priva.com/o/backend-staff-engineer"
+      }
     }
   ]
 }
