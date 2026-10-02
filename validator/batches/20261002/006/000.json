@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c9a735f2da262989",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is focused on rendering, computer graphics, and mobile SDK development rather than backend/server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -47,9 +47,20 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2b03bf06aaa2ed41",
-      "status": null,
-      "reason": null,
-      "validated": null
+      "status": "QUALIFIED",
+      "reason": "QUALIFIED: no rejection rule applied.",
+      "validated": {
+        "work_mode": "On-site",
+        "required_experience": "5 years hands-on engineering experience (front-end or back-end in cloud environment)",
+        "date_posted": "Not specified",
+        "date_posted_at": null,
+        "date_posted_date": null,
+        "date_posted_precision": "missing_or_ambiguous",
+        "work_authorization": "Not specified",
+        "residence_requirement": "Not specified",
+        "short_description": "Engineering manager role building and supporting cloud-based digital prototypes, including front-end interfaces and back-end services. The role uses traditional stacks including .NET alongside JavaScript/TypeScript and Python.",
+        "direct_application_link": "https://sg.indeed.com/viewjob?jk=2b03bf06aaa2ed41"
+      }
     },
     {
       "company": "Turner & Townsend Pty Limited",
@@ -70,8 +81,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "2ba7214a160778af",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is project controls and risk management, with no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -85,8 +96,8 @@
       "description": "MCP Expert (Java API Integration) Amsterdam\n\nHybrid | 12-Month Contract (Extendable) | Rate: Negotiable\n\nGet in on the ground floor of enterprise AI integration.\n\nOur client is building the platform that connects AI agents to real enterprise systems and they need an MCP expert who's already done this in production, not just in a proof of concept. This is a genuinely rare opportunity: MCP is brand new, production deployments are scarce, and this role puts you at the center of a Central Platform Team shaping how AI agents talk to Java-based enterprise APIs at scale.\nIf you've built MCP servers that actually run in production not just demos this is your next move.\n\nThe Role\n\nYou'll design, build and own the integration layer connecting AI agents and LLM-based applications to enterprise Java APIs via MCP. You'll work the full delivery lifecycle Dev, UAT, production on Azure, with real ownership and real influence over how the organization adopts MCP going forward.\n\nWhat You'll Do\n\nDesign, build and maintain MCP servers and tool integrations exposing enterprise Java APIs to AI agents and LLM applications\nDevelop and integrate Java REST APIs within MCP-based architectures on the central platform\nOwn integrations across dev, UAT and production - robust, monitored, genuinely production-grade\nDeploy and operate on Microsoft Azure (App Services, Functions, API Management, Azure Open AI / AI Foundry)\nPartner with platform, architecture and product teams to define MCP standards and best practice across the organization\nTake point on troubleshooting, production support and incident resolution\nShape documentation, testing strategy and release process from the ground up\n\nWhat You Bring\n\nProven, hands-on MCP experience you've built MCP servers, tools and integrations, not just read the spec\nStrong Java development background with real REST API design and integration experience\nSolid Microsoft Azure experience deploying, configuring and running services in production\nComfort across the full dev UAT production lifecycle, including live support\nAble to work from Amsterdam 2 days a week\nStrong English communication skills\n\nNice to Have\n\nAzure Open AI, Azure AI Foundry, or agentic AI framework experience\nAPIM, Docker/Kubernetes, CI/CD via Azure DevOps\nBackground on central platform or shared-services teams\nDutch language skills\n\nWhat's On Offer\n\n12-month contract with strong potential to extend\nRate fully negotiable bring your number\nHybrid working: just 2 days a week on-site in Amsterdam\nA front-row seat at the center of the organization's AI and integration strategy the kind of role that looks very good on a CV in 12 months' time\n\nDarwin Recruitment is acting as an Employment Business in relation to this vacancy.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
       "source": "LinkedIn",
       "job_id": "4472878684",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: primary backend and API stack is Java, with no backend/server-side .NET/C# development evidence.",
       "validated": null
     },
     {
@@ -100,8 +111,8 @@
       "description": "Your role at Dynatrace\n\nAs a Dynatrace Solution Engineer, you will be a key member of the Dynatrace sales engine and will be responsible for providing excellent technical support to the sales team. You will be the expert on Dynatrace and all facets of Advanced Observability. Within this exciting role, you will be responsible for executing great demos which demonstrate the Dynatrace unique approach in solving the customer’s pain, executing and managing POCs onsite and remote, building key relationships with Dynatrace’s customers and completing RFIs & RFPs. You will also work across teams including Dynatrace’s innovation labs, Dynatrace’s Expert Services consultants, CSMs and marketing.\n\nAbout You\n\nTo ensure your success as a Solution Engineer at Dynatrace, you need to be an ambitious, confident and self-motivated individual, with previous SE experience or another technical customer facing role. You need to be passionate about innovative technology, technical sales and articulating value to customers and prospects. In addition, we are also looking for:\n\nAn excellent team player, with the ability to work across all disciplines.\nExcellent communication and presentation skills, with the ability to communicate technical value into business value.\nPrevious 3 – 5 years of experience with observability or application performance management technologies and techniques.\nAbility to troubleshoot technical issues to produce a working outcome and be able to manage this process.\nAbility to manage a number of projects simultaneously, work with a number of different sales people and support other SEs where needed.\nMust have a strong desire to grow professionally, adapt to an ever-changing environment and are coachable.\nMust be able to travel up to 30% of the time\n\nResponsibilities\n\nEvangelize Dynatrace’s product offerings during international trade shows and at key customer account meetings to promote new and expanded business.\nPartner with sales representatives to identify new sales opportunities as well as incremental sales opportunities within existing accounts.\nAs part of the solution engineering team participate in proof of concept (PoC) creation and cloud architecture discussions, leading the technical solution evaluation portion in support of sales opportunities either directly or through channel partners for multiple POCs.\nPresent Dynatrace’s vision to our customers C-suite executives.\nProvide technical guidance in the Discovery, Solution Evaluation, and Solution Proposal stages of the opportunity sales cycle.\nPresent on-stage demonstrations providing insight and context to our customers during key marketing events. Either at Dynatrace sponsored industry events or partner sponsored events, ensure key demonstrations are delivered by you or a team member at demonstration booths.\nGather, qualify and provide feedback from customers to Product Management to improve Dynatrace’s market share and meet the market needs.\nNot only work with internal sales team, but also with partners, supporting their team in the customers and being a technical point of contact for them (trusted advisor/technical coach).\nPosition might be filled at a higher level based on candidate experience.\n\nWhat Will Help You Succeed\n\nHow you (and your Recruiter!) will know that you are a good fit:\n\nBachelor’s degree in Computer Science or equivalent education or experience required.\n3 years of experience within the observability space.\nFluent in Dutch\nExperience with web technologies such as HTML, CSS, and JavaScript.\nExperience with programming / scripting side technologies such as Java, .NET, PHP, Go, Node.js and database.\nAdvance knowledge of Operating Systems (OS) including Windows and Linux.\nExperience with DevOps or Site Reliability Engineering practices Knowledge with cloud platforms, including AWS, Azure or GCP.\nExperience with modern technologies like containers, Kubernetes / OpenShift, Serverless functions, and CI/CD pipelines.\nExperience with automation like Ansible, Puppet, Terraform, etc.\n\nWhy you will love being a Dynatracer\n\nDynatrace is a leader in unified observability and security.\nWe provide a culture of excellence with competitive compensation packages designed to recognize and reward performance.\nOur employees work with the largest cloud providers, including AWS, Microsoft, and Google Cloud, and other leading partners worldwide to create strategic alliances.\nYou'll get to work at the forefront of innovation with Dynatrace Intelligence—the industry's first agentic operations system. Bringing together deterministic and agentic AI, it helps teams understand what's happening, why it matters, and what to do next— automatically.\nOver 50% of the Fortune 100 companies are current customers of Dynatrace.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
       "source": "LinkedIn",
       "job_id": "4465872121",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: role is primarily technical sales and solution engineering, not backend/server-side .NET/C# development.",
       "validated": null
     }
   ]
