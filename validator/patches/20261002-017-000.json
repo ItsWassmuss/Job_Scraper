@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261002-017",
+  "shard_id": "000",
+  "results": [
+    {"index":0,"source":"Indeed","job_id":"8303e09e50f42172","url":"https://uk.indeed.com/viewjob?jk=8303e09e50f42172","status":"REJECTED","reason":"FRESHNESS: configured-source date_posted 2026-09-02 is more than 24 hours old.","validated":null},
+    {"index":1,"source":"Indeed","job_id":"e9fd241bf8ee9a8e","url":"https://pl.indeed.com/viewjob?jk=e9fd241bf8ee9a8e","status":"REJECTED","reason":"TECHNOLOGY_ROLE: primary stack is Mainframe/DB2/JCL/COBOL with optional SQL/Python/Java; no backend/server-side C#/.NET evidence.","validated":null},
+    {"index":2,"source":"Indeed","job_id":"95786f413e9d8ddb","url":"https://se.indeed.com/viewjob?jk=95786f413e9d8ddb","status":"REJECTED","reason":"TECHNOLOGY_ROLE: role centers on integration-platform capabilities; C# or Python is listed, but backend/server-side C#/.NET is not established.","validated":null},
+    {"index":3,"source":"Indeed","job_id":"295de04de8d7fbdf","url":"https://se.indeed.com/viewjob?jk=295de04de8d7fbdf","status":"REJECTED","reason":"TECHNOLOGY_ROLE: role centers on Azure integration delivery; C# or Python is listed, but backend/server-side C#/.NET is not established.","validated":null}
+  ]
+}
