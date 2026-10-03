@@ -1,15 +1,11 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-03 11:17 UTC*
+*Last updated: 2026-10-03 12:17 UTC*
 
-**2 new role(s)** since last run · 152 total in last 24h
+**1 new role(s)** since last run · 145 total in last 24h
 
-### [Software Engineer I - (streaming technologies)](https://pl.indeed.com/viewjob?jk=052c9dfa923b01a9) — Alarm.com
-- 📍 **Location:** Kraków, ML, PL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-03
-
-### [Senior .NET Developer](https://no.indeed.com/viewjob?jk=3a6c8b480aa31ed0) — DeepOcean
-- 📍 **Location:** Oslo, N03, NO
+### [Advanced Solution Engineer Dot Net](https://ae.indeed.com/viewjob?jk=ba887a6de71b4d8a) — Tayseer G T
+- 📍 **Location:** Dubai, DU, AE
+- 💰 **Salary:** $2400–$13k/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-03
