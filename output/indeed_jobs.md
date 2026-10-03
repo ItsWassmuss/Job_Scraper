@@ -1,10 +1,10 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-03 20:17 UTC*
+*Last updated: 2026-10-03 21:17 UTC*
 
-**1 new role(s)** since last run · 33 total in last 24h
+**1 new role(s)** since last run · 27 total in last 24h
 
-### [Engineering Manager DevEx & Front end Platform](https://nl.indeed.com/viewjob?jk=01ec2674216fd8dc) — Jumbo Supermarkten
-- 📍 **Location:** Veghel, NB, NL
-- 💰 **Salary:** $6000–$7700/mo
+### [Software Developer](https://ae.indeed.com/viewjob?jk=331a1a3f03034b1a) — Geotab
+- 📍 **Location:** Dubai, DU, AE
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-03
