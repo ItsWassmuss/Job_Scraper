@@ -1,78 +1,65 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-02 21:17 UTC*
+*Last updated: 2026-10-03 02:17 UTC*
 
-**14 new role(s)** since last run · 202 total in last 24h
+**11 new role(s)** since last run · 191 total in last 24h
 
-### [Medior Mendix Developer - Infrastructure](https://nl.indeed.com/viewjob?jk=7d33168b960807e5) — CGI
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Clinical Database Programmer](https://uk.indeed.com/viewjob?jk=4a997f48178a276f) — Medpace
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior / Principle Engineer Operations · Cambi UK office](https://uk.indeed.com/viewjob?jk=8c806db17d29f840) — CAMBI
+- 📍 **Location:** Congleton, ENG, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Data Engineer - Spoordomein](https://nl.indeed.com/viewjob?jk=d17be5eabe27ea84) — CGI
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Software Test Engineer](https://uk.indeed.com/viewjob?jk=2ca45de6d5142cf3) — NAGAMANIKANTA SOLUTIONS LIMITED
+- 📍 **Location:** Fleet, ENG, GB
+- 💰 **Salary:** $40k–$45k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [VP Software Engineering, Asset Management Solutions](https://uk.indeed.com/viewjob?jk=5bcda51fe9c5f32b) — Broadridge
+- 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Technisch Applicatie Beheerder / DevOps Engineer - Infrastructure](https://nl.indeed.com/viewjob?jk=be18c6a27dc1d4c2) — CGI
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Graduate Software Engineer](https://uk.indeed.com/viewjob?jk=445f8d6dfcd38cba) — Kent
+- 📍 **Location:** Aberdeen, SCT, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior .NET Developer with Azure - banking industry (f/m/x)](https://pl.indeed.com/viewjob?jk=e2c2c6e549ff460c) — Groupe SII
+- 📍 **Location:** Kraków, ML, PL
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Full Stack Developer - Utilities & Water](https://nl.indeed.com/viewjob?jk=5837cea27e7b81f8) — CGI
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Business Application Architect Headquarters](https://no.indeed.com/viewjob?jk=15e59780c76db096) — CAMBI
+- 📍 **Location:** Asker, N30, NO
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer - JAVA](https://nl.indeed.com/viewjob?jk=ac667ad9eb45ae64) — CGI
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Business AI Engineer Headquarters](https://no.indeed.com/viewjob?jk=42b96bb6faa40014) — CAMBI
+- 📍 **Location:** Asker, N30, NO
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-02
 
-### [GIS Developer - Infrastructure](https://nl.indeed.com/viewjob?jk=498d8cbf5d076cbe) — CGI
-- 📍 **Location:** Rotterdam, ZH, NL
+### [Clinical Database Programmer](https://be.indeed.com/viewjob?jk=0415e4160e6ee578) — Medpace
+- 📍 **Location:** Leuven, VLG, BE
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Data Engineer (Azure Databricks)](https://nl.indeed.com/viewjob?jk=4419abdeb1222e0e) — Gemeente Zeist
-- 📍 **Location:** Zeist, UT, NL
-- 💰 **Salary:** $3824–$5714/mo
+### [Senior Planning Engineer - Rail](https://ae.indeed.com/viewjob?jk=4aca71bb4e4ea7c2) — Mace Group
+- 📍 **Location:** Dubai, DU, AE
 - **Work mode:** On-site
-- **Job type:** parttime, fulltime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Developer (m/f/d)](https://de.indeed.com/viewjob?jk=656ff9517fea2242) — Canon Production Printing
-- 📍 **Location:** Poing, BY, DE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Developer (m/w/d)](https://de.indeed.com/viewjob?jk=6b9399edde9c7f53) — Canon Production Printing
-- 📍 **Location:** Poing, BY, DE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [GA DOR - Applications Developer 1](https://pl.indeed.com/viewjob?jk=2882cf88e46d1982) — Varmoda Tech
-- 📍 **Location:** Rypin, KP, PL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Jobshare Software engineer Assoc - Jobshare/Part - time](https://ie.indeed.com/viewjob?jk=6fff8a4788addddb) — JPMorganChase
-- 📍 **Location:** DUBLIN 2, D, IE
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Developer](https://dk.indeed.com/viewjob?jk=31ceca0b0b431b06) — Grundfos Pumps
-- 📍 **Location:** Bjerringbro, D82, DK
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Full Stack Developer (.NET / Azure)](https://sg.indeed.com/viewjob?jk=cb89c8f00a8bb79c) — Triton Ai Pte Ltd
-- 📍 **Location:** Singapore, S00, SG
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Backend Engineer](https://tr.indeed.com/viewjob?jk=5a288dc46cc13f85) — Carbon Health
-- 📍 **Location:** Ankara, T06, TR
+### [Systems Integration Manager - Rail](https://ae.indeed.com/viewjob?jk=cf7e9d722dfc5b4b) — Mace Group
+- 📍 **Location:** Dubai, DU, AE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
