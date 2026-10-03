@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261003-007",
+  "shard_id": "000",
+  "start_index": 0,
+  "job_count": 3,
+  "jobs": [
+    {
+      "company": "Alistar",
+      "title": "Full Stack Microsoft Developer",
+      "location": "BE",
+      "url": "https://be.indeed.com/viewjob?jk=7bc687f4c6f52afc",
+      "direct_url": "https://alistar.net/nl/job/full-stack-microsoft-developer/",
+      "company_url": "https://be.indeed.com/cmp/Alistar",
+      "date_posted": "2026-10-03",
+      "description": "België\n  \nGent, Westerlo, Zottegem\n  \nVoltijds\n  \n  \nAls Full Stack Microsoft Developer werk je aan het bouwen en uitbreiden van oplossingen binnen Dynamics 365 en het Power Platform.\n  \n  \nJe vertaalt complexe klantvragen naar stabiele en performante toepassingen. Dat doe je met .NET en moderne Microsoft-technologieën zoals Power Apps, Power Automate, Power BI en Azure Services. Je werkt aan oplossingen die niet alleen technisch sterk zijn, maar ook echt gebruikt worden in de praktijk.\n  \n  \nJouw DNA ontmoet ons DNA\n  \n  \nBij Alistar draait alles om vooruitgang, menselijk en technologisch. We verbinden mensen, data en technologie om samen slimmer te werken en verder te kijken. We zijn nieuwsgierige doeners die niet bang zijn om te ontdekken, te proberen en te groeien. Want leren doe je door te doen en fouten horen daar gewoon bij. Onze blik? Gericht op de toekomst. Ons hart? Dicht bij elkaar. We dromen groot, maar blijven met beide voeten op de grond. Hier krijg je de ruimte om jezelf uit te dagen, initiatief te nemen en mee te bouwen aan iets dat beweegt. Brave yourself for progress, samen maken we groei echt menselijk.\n  \n  \nJe komt terecht in de Customer Engagement unit binnen onze Public Business Line. Een team van 18 technische consultants die zich volledig toeleggen op Dynamics 365 en het Power Platform. Samen met functionele collega’s, projectmanagers en (pre)sales specialisten werk je aan oplossingen die publieke organisaties digitaal vooruithelpen.\n  \n  \nVan uitdaging naar oplossing\n  \n  \nJe ontwikkelt en onderhoudt oplossingen binnen Dynamics 365 en het Power Platform\n  \n  \nJe bouwt uitbreidingen op bestaande functionaliteiten in .NET\n  \n  \nJe werkt aan zowel backendlogica als gebruiksvriendelijke interfaces\n  \n  \nJe werkt nauw samen met functionele analisten en collega-developers\n  \n  \nJe test je werk, documenteert duidelijk en bewaakt de kwaliteit van je code\n  \n  \nJe denkt actief mee over verbeteringen, nieuwe features en optimalisaties\n  \n  \nJe werkt in Agile teams via Azure DevOps aan projecten (vaak langlopend en in de publieke sector)\n  \n  \nWat jij kan, maakt het verschil\n  \n  \nInvesteren in jou, investeren in groei\n  \n  \nBij Alistar draait alles om vooruitgang, ook voor jou. We willen dat je groeit, je goed voelt en trots bent op wat je doet. Daarom zorgen we voor voordelen die echt iets betekenen:\n  \n  \nOver ons\n  \nWij zijn een full-service technology partner in progress – even naar adem happen – die klaar is om onze sector wakker te schudden. Hoe? Door onszelf te verwonderen. Door nieuwsgierig te blijven, creatieve oplossingen te bedenken, en door vooral nooit te stoppen met vragen te stellen – zoals: “Wat als ik meer wil weten over deze vacature?” Wel, dan vertellen wij alles wat je wil weten.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "7bc687f4c6f52afc",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Hyra",
+      "title": "Software Engineer",
+      "location": "Germany",
+      "url": "https://www.linkedin.com/jobs/view/4475089998/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "A large healthcare software business is looking for an experienced engineer to join the team. The role involves working within an agile environment to develop and maintain software components that support critical infrastructure. The successful candidate will contribute to the full software lifecycle, from design and technical conceptualization to implementation and maintenance.\n\nWhat you'll be doing\n• Developing software components across the full stack, including frontend, middleware, and backend systems.\n• Taking responsibility for the entire software lifecycle, including design, implementation, and refactoring.\n• Collaborating closely with product management to create and refine technical concepts.\n• Working within an agile framework such as Scrum or SAFe to ensure high-quality delivery.\n• Maintaining and documenting technical components to ensure long-term system stability.\n\nWhat we're looking for\n• Professional experience in software development using C#, .NET, and database technologies.\n• A background in computer science, software engineering, or a related technical field.\n• Practical experience working within agile development teams and using tools like Visual Studio.\n• Fluency in German (C1 level) and good proficiency in English.\n• A proactive mindset with a strong focus on code quality and technical innovation.\n\nWhat's on offer\n• Access to individual professional development and training opportunities.\n• Company pension scheme and retirement savings options.\n• Health and wellness benefits, including fitness membership subsidies and cycle schemes.\n• Employee discount programs across various partners and providers.\n\nApply via Hyra to be considered for this opportunity.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "source": "LinkedIn",
+      "job_id": "4475089998",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "OneTalent",
+      "title": "Desarrollador de Software | Automatización e IA",
+      "location": "Barcelona, Catalonia, Spain",
+      "url": "https://www.linkedin.com/jobs/view/4475097573/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Desde OneTalent buscamos un/a Desarrollador/a de Software | Automatización e IA\npara una compañía del sector hospitality & real estate con sede en Barcelona.\nLa empresa se encuentra en un momento de evolución tecnológica, apostando por desarrollar cada vez más soluciones propias que permitan digitalizar y automatizar procesos internos, mejorar la eficiencia y reducir tareas manuales.\nPara ello, buscamos incorporar una persona al equipo de IT con especial foco en desarrollo, que participe en la creación de nuevas aplicaciones, automatizaciones e integraciones, trabajando de forma habitual con herramientas de Inteligencia Artificial aplicadas al desarrollo de software.\n\n🚀 Misión\n\nTu principal misión será desarrollar soluciones tecnológicas internas que permitan automatizar y mejorar procesos de negocio.\nInicialmente tendrás un rol especialmente hands-on, centrado en programación y trabajando con el acompañamiento del equipo para conocer progresivamente los sistemas, procesos y necesidades de la compañía.\nA medida que ganes conocimiento del negocio, podrás asumir mayor autonomía: entender una necesidad, analizar posibles soluciones y llevarlas hasta su implementación.\nUno de los principales proyectos será el desarrollo de su propio portal interno desde el que los empleados podrán acceder a diferentes aplicaciones y soluciones desarrolladas por la compañía.\n\n✍️ ¿Cuáles serán tus principales responsabilidades?\n\nDesarrollar nuevas aplicaciones, funcionalidades y automatizaciones internas.\nParticipar en el desarrollo y evolución de varios proyectos internos.\nCrear integraciones entre diferentes aplicaciones, sistemas y bases de datos.\nIdentificar, junto al equipo, oportunidades para automatizar procesos actualmente manuales.\nUtilizar herramientas de IA como Claude como asistente de programación para acelerar el desarrollo, revisando, probando y entendiendo el código generado.\nRealizar testing, mantenimiento y evolución de las soluciones desarrolladas.\nParticipar en nuevos proyectos relacionados con automatización e Inteligencia Artificial.\nEvolucionar progresivamente hacia una mayor participación en el análisis de necesidades y definición de soluciones.\n\n🔎 ¿Qué buscamos?\n\nAproximadamente 2-3 años de experiencia en desarrollo de software.\nBuena base de programación y experiencia práctica desarrollando aplicaciones o soluciones.\nConocimientos de SQL y bases de datos relacionales.\nFamiliaridad con APIs e integración entre sistemas.\nExperiencia trabajando con control de versiones, idealmente Git.\nInterés por la Inteligencia Artificial aplicada al desarrollo de software y por nuevas formas de programar apoyándose en asistentes de IA.\nCapacidad para entender problemas y convertirlos progresivamente en soluciones técnicas.\nInglés técnico suficiente para trabajar con documentación.\n\nNo buscamos experiencia en un lenguaje de programación concreto: valoraremos especialmente una buena base técnica y capacidad de aprendizaje\n. Experiencia con Java, C#, Python o JavaScript/TypeScript será bienvenida.\nTambién será valorable experiencia con APIs REST, webhooks, Docker, CI/CD, cloud o herramientas de automatización como n8n.\n\n⭐ ¿Cómo imaginamos a la persona?\n\nBuscamos una persona curiosa, resolutiva y con ganas de aprender y crecer, a la que le guste programar pero también entender para qué está desarrollando una solución.\nAlguien con interés por la innovación y la IA, que disfrute enfrentándose a problemas nuevos, investigando posibles soluciones y llevándolas a la práctica.\nNo esperamos que desde el primer día conozcas todos los sistemas ni seas completamente autónomo/a: tendrás acompañamiento del equipo y tiempo para conocer el negocio. Buscamos sobre todo buena base técnica, iniciativa y potencial de crecimiento.\n\n👉 ¿Qué ofrece la empresa?\n\nIncorporarte a un equipo IT cercano y con contacto directo con el negocio.\nParticipar en desarrollos propios desde cero, con capacidad real de ver el impacto de las soluciones implementadas.\nTrabajar de forma habitual con IA aplicada al desarrollo de software.\nParticipar en proyectos de automatización e Inteligencia Artificial.\nEvolución progresiva desde un rol principalmente de desarrollo hacia una posición con mayor autonomía y capacidad de análisis.\nOficinas en el centro de Barcelona.\nModelo de trabajo híbrido (1 día y medio en remoto).\nHorario: De 9 a 18hs con flexibilidad en la entrada y la salida.\nContrato indefinido.\nSalario acorde a la experiencia.\nRetribución flexible y otros beneficios.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHospitality",
+      "source": "LinkedIn",
+      "job_id": "4475097573",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
