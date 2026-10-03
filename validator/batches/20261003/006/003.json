@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261003-006",
+  "shard_id": "003",
+  "start_index": 15,
+  "job_count": 3,
+  "jobs": [
+    {
+      "company": "Milyem Plus",
+      "title": "Backend Developer (.NET / C# / PostgreSQL)",
+      "location": "Istanbul, Istanbul, Türkiye",
+      "url": "https://www.linkedin.com/jobs/view/4473407900/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Backend Developer (.NET / C# / PostgreSQL)\n\nHızlı büyüyen teknoloji ekibimize, ölçeklenebilir sistemler geliştirecek, teknik karar süreçlerine katkı sağlayacak ve ürün kalitesini yukarı taşıyacak deneyimli bir Backend Developer arıyoruz.\n\nAradığımız Teknik Yetkinlikler\n\n* C# ve .NET 9+ platformlarında geliştirme deneyimi\n* PostgreSQL tecrübesi\n* RESTful API geliştirme, API design prensipleri ve güvenli servis mimarileri konusunda deneyim\n* Mikroservis, servis tabanlı yapılar ve gerektiğinde monolith mimari ile çalışma deneyimi\n* SOAP / XML tabanlı servis entegrasyonları geliştirmiş olmak\n* Özellikle e-Dönüşüm süreçleri (e-Fatura, e-Arşiv, e-İrsaliye vb.) tecrübesi tercih sebebidir\n* Git ile versiyon kontrol süreçlerine hakimiyet\n\nSenden Beklentimiz\n\n* Mevcut sistemleri geliştirip sürdürülebilir hale getirmek\n* Yeni servisler ve entegrasyonlar tasarlamak\n* Kod kalitesini yükseltecek yapılar oluşturmak\n* Performans darboğazlarını tespit edip çözmek\n\nSeni Öne Geçirecek Özellikler\n\n* SaaS ürün geliştirme deneyimi\n* Finansal sistemler / POS / ödeme sistemleri bilgisi\n* ERP / CRM projelerinde görev almış olmak\n* Startup temposuna uyum sağlayabilmek ve inisiyatif alabilmek\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4473407900",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Schlatter Group",
+      "title": "Software Engineer",
+      "location": "Zürich Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4473138899/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Software Engineer C# / C++ (Industriemaschinen)\n\nSchlieren, Zürich · 100 % · Vor Ort, 1 Tag Homeoffice pro Woche\n\nSchlatter baut Schweiss- und Gittermaschinen, die jahrzehntelang laufen. Wir sind ein kleines Software-Team und entwickeln die Software, die diese Maschinen steuert: Bedienoberfläche und Anbindung an die SPS.\n\nDeine Aufgaben\n\nWeiterentwicklung und Pflege unserer bestehenden Maschinensoftware (C#, C++, WPF)\nAnbindung der Software an Hardware und Steuerungen\nFehlersuche, manchmal direkt an der Maschine\nCode-Reviews und schrittweise Verbesserung von gewachsenem Code\n\nDas bringst du mit\n\nSolide Erfahrung mit C# und C++\nWPF\nGit und Azure DevOps\nDeutsch fliessend (Teamsprache)\nKeine Angst vor Legacy-Code\n\nVon Vorteil\n\nBlazor, ASP.NET Core\nIndustrieautomation, SPS-Kommunikation\n\nWarum wir\n\nDein Code läuft auf echten Maschinen, die du sehen und anfassen kannst\nKleines Team, kurze Entscheidungswege\nLanglebige Produkte statt Wegwerf-Projekte\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nMachinery Manufacturing",
+      "source": "LinkedIn",
+      "job_id": "4473138899",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Riverty",
+      "title": "Software Engineer (m/w/d)",
+      "location": "Vienna, Vienna, Austria",
+      "url": "https://www.linkedin.com/jobs/view/4475089204/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Unternehmensbeschreibung\n\nJede Geschichte zählt. Gestalte deine eigene – gemeinsam mit uns bei Riverty.\n\nUnd wohin führt dich das?\n\nIn eine unserer 30 hybriden Arbeitsumgebungen – gestaltet für den Austausch von Ideen, gemeinsames Lernen und die Mitgestaltung unserer Arbeitsweise. Werde Teil einer internationalen Community mit über 4.000 Menschen aus fast 80 Nationen in 12 Ländern. Vereint durch eine gemeinsame Mission: Mit Empathie, moderner Technologie und datengestützten Erkenntnissen dafür zu sorgen, dass Menschen und Unternehmen im Fluss bleiben. Mit Zahlungsprozessen, die für sie erledigt werden – damit sie sich darum keine Sorgen machen müssen.\n\nUnd das ist noch nicht alles: Wir sind Teil der Bertelsmann-Gruppe, die in Familienbesitz ist. Etabliert. Unternehmerisch. In einer dynamischen Branche. Wir ermöglichen flexible Bezahloptionen in verschiedenen Branchen, vereinfachen das Finanzmanagement bekannter Marken und unterstützen Menschen dabei, Schulden abzubauen und finanzielle Sicherheit zu gewinnen. Kurz gesagt: Wir gestalten FinTech.\n\nStellenbeschreibung\n\nWir suchen Unterstützung als\n\nSoftware Engineer (m/w/d)\n\n(unbefristet, Vollzeit) Schließe dich unserem Team an unserem Standort in Wien an – flexible Arbeitsbedingungen verfügbar\n\nAls Software Engineer (m/w/d) entwickelst du unsere Enterprise-Lösung Ikaros weiter und verbindest dabei Softwareentwicklung mit DevOps. Dein Schwerpunkt liegt auf Coding, ergänzt durch Dokumentation, grundlegendes Testing und die enge Zusammenarbeit mit angrenzenden Fachbereichen.\n\nSo Gestaltest Du Unsere Software Mit\n\nDu entwickelst und optimierst unsere Softwarelösungen mit einem klaren Schwerpunkt auf Coding und objektorientierter Softwareentwicklung.\nDu übernimmst DevOps-Aufgaben und begleitest die technische Weiterentwicklung unserer Enterprise-Lösung Ikaros.\nDu dokumentierst deine Lösungen, unterstützt bei Configuration und Spezifikation und führst grundlegende Tests durch.\nDu arbeitest selbstständig im Scrum-Umfeld und bringst dich aktiv in die Planung und Umsetzung der Sprints ein.\nDu arbeitest eng mit Configuration, Projektmanagement, Fachbereichen, Teamleitungen und Backoffice zusammen und entwickelst ein fundiertes Verständnis für unsere fachlichen Prozesse und Arbeitsweisen.\n\nQualifikationen\n\nDas Macht Dich Erfolgreich In Dieser Rolle\n\nDu bringst mehrjährige Berufserfahrung in der Softwareentwicklung und fundierte praktische Kenntnisse in C#, JavaScript und MSSQL mit.\nObjektorientierte Programmierung beherrschst du sicher und setzt sie routiniert in der Entwicklung von Softwarelösungen ein.\nDu arbeitest eigenständig, strukturiert und lösungsorientiert und bist mit der Zusammenarbeit in einem agilen Scrum-Umfeld vertraut.\nFür die enge Zusammenarbeit mit Fachbereichen und Stakeholdern kommunizierst du fließend auf Deutsch und verfügst über gute Englischkenntnisse.\nKenntnisse in Azure DevOps, Atlassian Jira und Confluence, Git sowie Erfahrung mit KI-gestützten Entwicklungstools wie Cursor oder GitHub Copilot sind von Vorteil.\n\nZusätzliche Informationen\n\nInformationspflichten Im Zusammenhang Mit Der Erhebung Deiner Personenbezogenen Daten\n\nVerantwortlicher für den Datenschutz bei deiner Bewerbung ist die in der Stellenausschreibung angegebene Firma. Die Firma verarbeitet deine Daten zwecks Begründung eines Beschäftigungsverhältnisses auf Grundlage des Art. 6 (1) b DSGVO /\n\n26 (1) 1 BDSG.\n\nDie Speicherdauer deiner Daten richtet sich an den Fristen des jeweiligen Landes aus beginnend mit Abschluss des Einstellungsprozesses. Diese findest du hier.\n\nDen Datenschutzbeauftragten der Firma kannst du unter der o.g. Postanschrift erreichen.\n\nWeitere Informationen zum Datenschutz und zu deinen Rechten erhältst du hier.\n\nRecruiting-Plattform powered by SmartRecruiters\n.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nFinancial Services",
+      "source": "LinkedIn",
+      "job_id": "4475089204",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
