@@ -1,0 +1,69 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261003-010",
+  "shard_id": "001",
+  "start_index": 5,
+  "job_count": 4,
+  "jobs": [
+    {
+      "company": "Suvoda",
+      "title": "Software Developer - Product",
+      "location": "Bucharest, Bucharest, Romania",
+      "url": "https://www.linkedin.com/jobs/view/4463976757/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Reports to: Senior/Principal Software Developer, Group Lead or Manager, Software Engineering\n\nResponsibilities\n\nDesign, develop, and support clinical trial software with emphasis on patient safety and integrity of clinical study data\nReview product requirements and verify that all requirements can be implemented\nAssist with the creation of technical design and implementation documentation\nDesign and code software applications and fix defects\nProvide unit testing coverage for delivered code\nWork with others to ensure timely delivery of high-quality code\nManage software deployment into all environments and complete all required documentation\nAssist support team with troubleshooting and resolution of production issues\nPerform other related duties as required\n\nRequirements\n\nBachelor’s degree or equivalent experience\nKnowledge of C#.Net/SQL or JavaScript and its related technologies\nUnderstanding of programming principles\nAbility to design, develop, and support software components, modules, or systems\nExcellent problem-solving skills and learning capability\nExcellent time management and organizational skills\nStrong oral and written communication skills\n\nExperience\n\nover 5 years of experience\n\nWe are aware that an individual(s) are fraudulently representing themselves as Suvoda recruiters and/or hiring managers. Suvoda will never request personal information such as your bank account number, credit card number, drivers license or social security number — or request payment from you — during the job application or interview process. Any emails from the Suvoda recruiting team will come from a @suvoda.com email address. You can learn more about these types of fraud by referring to this FTC consumer alert.\n\nAs set forth in Suvoda’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.\n\nIf you are based in California, we encourage you to read this important information for California residents linked here.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "source": "LinkedIn",
+      "job_id": "4463976757",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Solvias",
+      "title": "Lab Software Application Specialist - temporary 12 months",
+      "location": "Kaiseraugst, Aargau, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4466359678/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Job Description\n\nThe Lab Software Application Specialis is responsible for the translation, modification, maintenance, and verification of methods and report templates (Master Data) for Labware LIMS 7 and Chromeleon 7.3.2.. The main duty falls in the roll out phase in the course of upgrading from Chromeleon 7.2.10 to 7.3.2. This position is limited for 1 year.\n\nResponsibilities\n\nMethod & Template Migration\n\nTranslate existing Chromeleon objects from version 7.2.10 into 7.3.2\nMaintain LIMS Master Data\nAssess legacy configurations and identify required adaptations\nEnsure functional equivalence and data integrity\nExecute controlled migration including testing\nSupport migration within the upgrade program\n\nTemplate Build & Maintenance\n\nCreate, modify, and maintain Chromeleon templates\nEnsure harmonization across laboratories\nMaintain template libraries and documentation\nPerform regular reviews for compliance and consistency\nOptimize templates for usability and efficiency\n\nValidation & Documentation\n\nSupport validation of templates and methods\nAuthor and review validation documentation\nExecute test cases and document results\nSupport deviation handling\n\nChange Control & Governance\n\nProcess changes under formal change control\nPerform impact and risk assessments\nEnsure alignment with SOPs and governance\nSupport documentation updates\n\nOperational Support & SME Role\n\nServe as SME for Chromeleon templates\nSupport troubleshooting\nCollaborate with QA, IT, SMEs\nSupport training of end users\n\nQualifications\n\nDegree in Analytical Chemistry, Pharmaceutical Sciences, or related field.\nExperience with Chromeleon CDS\nExperience in method configuration and reporting\nExperience in system migrations preferred\nExposure to CSV in GxP environments\nStrong CDS and chromatography knowledge\nUnderstanding of GxP and data integrity\nKnowledge of change control\nAbility to translate analytical workflows into system configurations\nAnalytical and problem-solving mindset\nHigh attention to detail\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPharmaceutical Manufacturing",
+      "source": "LinkedIn",
+      "job_id": "4466359678",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "NXP Semiconductors",
+      "title": "Internship: Software Application Developer - Cryptographic Validation System (m/f/d)",
+      "location": "Gratkorn, Styria, Austria",
+      "url": "https://www.linkedin.com/jobs/view/4466093782/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "You will be part of the Competence Center Cryptography & Security which is in charge of supporting all NXP business lines on cybersecurity for the entire NXP product portfolio. You will work in a distributed team to analyze, extract and implement a set of requirements in view of automatization of a test framework for the validation of cryptographic implementations.\n\nYour Responsibilities\n\nDeveloping new features for an existing web application\nDefining and implementing a validation concept for the application\n\nYour profile\n\nStudent in SW development, information science, information and computer engineering or similar\nStrong software development skills with proven experience in Java, Java Script as well as C\nIndependent working style, willingness to learn, listen and adapt\nProblem solving skills\nGood English level spoken and written is required\nWork with an international multi-site team\nGood communication skills\nSelf-organized and good level of autonomy\nBasic understanding of cryptographic algorithms would be an asset\nAvailable for at least 16 hours per week, duration over 6 months\n\nPlease note: The successful candidate may/will be responsible for security related tasks. The assignment may/will be in scope of security certifications, therefore a conscious and reliable way of working is necessary.\n\nThe minimum salary for this position is EUR 2.800,- gross/month for full-time equivalent at NXP Austria.\n\nMoreover, we provide attractive benefits to our employees like home office, flexible working time, meal benefits and more.\n\nWe are proud to have received the Leading Employer Award\nin 2025, which is presented exclusively only to the top 1% of employers in Austria. Furthermore, we have received the EqualitA label.\n\nMore information about NXP in Austria...\n\nShow more\n\nShow less\n\nSeniority level\n\nInternship\n\nEmployment type\n\nTemporary\n\nIndustries\n\nSemiconductor Manufacturing, Computers and Electronics Manufacturing, and Software Development",
+      "source": "LinkedIn",
+      "job_id": "4466093782",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "CAS Training",
+      "title": "NET Developer – Electronic Trading | 100% Remoto",
+      "location": "Spain",
+      "url": "https://www.linkedin.com/jobs/view/4473423947/",
+      "date_posted": "2026-10-03",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Senior .NET Developer – Electronic Trading\n\n📍 Modalidad: 100% remoto\n\n💼 Seniority: Senior\n\n💰 Tarifa máxima: 38000 a 42000 mil brutos anuales\n\n🌐 Inglés: Nivel avanzado imprescindible\n\n¿Eres Senior .NET Developer\ny te apetece trabajar en un proyecto greenfield\n, con arquitectura moderna y dentro de un entorno de Electronic Trading\n?\n\nEstamos incorporando 4 Senior Developers\npara participar en la construcción y evolución de una nueva plataforma de trading electrónico\n\nBuscamos perfiles senior que quieran tener responsabilidad técnica sobre componentes\n, participar en decisiones de diseño y trabajar junto a equipos de Trading y Producto\npara construir soluciones robustas y de alto rendimiento.\n\nTrabajarás en:\n🏗️ Diseño y desarrollo de componentes con C# / .NET Core\n.\n⚡ Sistemas concurrentes y aplicaciones de alta exigencia.\n🔌 APIs, microservicios y arquitectura distribuida\n.\n🐳 Docker y entornos cloud.\n🧪 Testing automatizado y buenas prácticas de ingeniería.\n🔄 CI/CD y despliegues en entornos productivos.\n💬 Sistemas de mensajería como RabbitMQ, TIBCO o SignalR\n.\n☁️ Tecnologías y soluciones orientadas a cloud.\n\n🧠 ¿Qué necesitamos?\nExperiencia sólida como Senior Developer con C# / .NET Core\n.\nExperiencia con ASP.NET Core y Web APIs\n.\nExperiencia real con microservicios, Docker y sistemas distribuidos\n.\nConocimientos de SQL / NoSQL\n.\nExperiencia con testing automatizado\n(NUnit, Moq, Cucumber u otras herramientas similares).\nExperiencia con CI/CD, Git y entornos productivos\n.\nInglés avanzado\n, imprescindible.\n\n⭐ Será un plus\nExperiencia en Electronic Trading o Fixed Income\n.\nExperiencia en AWS\n.\nConocimientos de observabilidad cloud-native.\nInfrastructure as Code.\nExperiencia con frameworks JavaScript.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "source": "LinkedIn",
+      "job_id": "4473423947",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
