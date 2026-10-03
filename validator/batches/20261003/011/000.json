@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261003-011",
+  "shard_id": "000",
+  "start_index": 0,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "Tayseer G T",
+      "title": "Advanced Solution Engineer Dot Net",
+      "location": "Dubai, DU, AE",
+      "url": "https://ae.indeed.com/viewjob?jk=ba887a6de71b4d8a",
+      "direct_url": "http://ae.indeed.com/job/advanced-solution-engineer-dot-net-ba887a6de71b4d8a",
+      "company_url": "https://ae.indeed.com/cmp/Tayseer-G-T",
+      "date_posted": "2026-10-03",
+      "description": "Job description:\n\nAdvanced Solution Engineer/ Advanced Dot net developer\n\nDirectly apply at - https://seersolutions.keka.com/careers/jobdetails/4438\n\nRole and Responsibilities\n\n* 1. Strong C#, ASP.NET Core (.NET 6/7/8), Web API\n* Hands-on microservices development using REST/gRPC and API Gateway patterns.\n* Strong SQL Server skills (stored procedures, query tuning, indexing, and troubleshooting).\n* Experience with EF Core, clean/layered architecture, and design patterns.\n* Practical experience with RabbitMQ/MassTransit or similar message-based integration.\n* Redis/distributed caching, Docker and Linux basics.\n* Secure API development: JWT/OAuth2, encryption basics.\n* FinTech, digital wallet, payment, remittance or banking domain experience.\n\nNice to have\n\n* Observability with Prometheus, Grafana, Jaeger/Open Telemetry.\n* CI/CD experience using Azure DevOps\n* Kubernetes, Azure cloud\n\nQualifications and Education Requirements\n\n* 1. Minimum bachelor’s in computer science or information technology\n* 8 -10 years of professional software development experience.\n* FinTech, digital wallet, payment, remittance or banking domain experience.\n* Experience leading small technical streams or acting as a senior contributor to a team.\n* Experience in database design/review, performance tuning, and production troubleshooting.\n\nPay: AED2,400.00 - AED13,000.00 per month\n\nWork Location: In person",
+      "salary": "$2400–$13k/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "AED",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "ba887a6de71b4d8a",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
