@@ -1,65 +1,58 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-03 02:17 UTC*
+*Last updated: 2026-10-03 07:17 UTC*
 
-**11 new role(s)** since last run · 191 total in last 24h
+**9 new role(s)** since last run · 188 total in last 24h
 
-### [Clinical Database Programmer](https://uk.indeed.com/viewjob?jk=4a997f48178a276f) — Medpace
-- 📍 **Location:** London, ENG, GB
+### [Front End/Middleware Software Engineer - Terberg Automotive](https://nl.indeed.com/viewjob?jk=4f53d8d7b41d9e21) — Royal Terberg Group
+- 📍 **Location:** IJsselstein, UT, NL
+- 💰 **Salary:** $3900–$5700/mo
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-03
+
+### [Software Architect Realtime monitoring - in het Spoordomein](https://nl.indeed.com/viewjob?jk=7d509c27fb87bc62) — CGI
+- 📍 **Location:** Rotterdam, ZH, NL
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior .NET C# Full Stack Developer in het Spoordomein](https://nl.indeed.com/viewjob?jk=b041b07523585410) — CGI
+- 📍 **Location:** Rotterdam, ZH, NL
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [System Engineer (m/w/d)](https://de.indeed.com/viewjob?jk=0733f2a06c0802dc) — HENSOLDT
+- 📍 **Location:** Pforzheim, BW, DE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Security Service Engineer](https://uk.indeed.com/viewjob?jk=2477120473c496f2) — SECOM
+- 📍 **Location:** Crawley, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Fire & Security Multiskilled Install Engineer](https://uk.indeed.com/viewjob?jk=30f3f82e4b681d07) — SECOM
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-02
+
+### [Web Developer](https://sg.indeed.com/viewjob?jk=128308f0eb0aeeb9) — WHOOSHPRO PTE. LTD.
+- 📍 **Location:** Toa Payoh, S00, SG
+- 💰 **Salary:** $2100–$4000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-03
+
+### [Senior Full Stack Developer (.NET / Azure)](https://sg.indeed.com/viewjob?jk=daa5ba3bc846fc4e) — TRITON AI PTE. LTD.
+- 📍 **Location:** Singapore, S00, SG
+- 💰 **Salary:** $7000–$9000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-03
+
+### [AWS Cloud Security Engineer](https://sg.indeed.com/viewjob?jk=485fe740fa06b19e) — Peraton
+- 📍 **Location:** Remote, SG
+- 💰 **Salary:** $104k–$166k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior / Principle Engineer Operations · Cambi UK office](https://uk.indeed.com/viewjob?jk=8c806db17d29f840) — CAMBI
-- 📍 **Location:** Congleton, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Test Engineer](https://uk.indeed.com/viewjob?jk=2ca45de6d5142cf3) — NAGAMANIKANTA SOLUTIONS LIMITED
-- 📍 **Location:** Fleet, ENG, GB
-- 💰 **Salary:** $40k–$45k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [VP Software Engineering, Asset Management Solutions](https://uk.indeed.com/viewjob?jk=5bcda51fe9c5f32b) — Broadridge
-- 📍 **Location:** London, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Graduate Software Engineer](https://uk.indeed.com/viewjob?jk=445f8d6dfcd38cba) — Kent
-- 📍 **Location:** Aberdeen, SCT, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior .NET Developer with Azure - banking industry (f/m/x)](https://pl.indeed.com/viewjob?jk=e2c2c6e549ff460c) — Groupe SII
-- 📍 **Location:** Kraków, ML, PL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Business Application Architect Headquarters](https://no.indeed.com/viewjob?jk=15e59780c76db096) — CAMBI
-- 📍 **Location:** Asker, N30, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Business AI Engineer Headquarters](https://no.indeed.com/viewjob?jk=42b96bb6faa40014) — CAMBI
-- 📍 **Location:** Asker, N30, NO
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-02
-
-### [Clinical Database Programmer](https://be.indeed.com/viewjob?jk=0415e4160e6ee578) — Medpace
-- 📍 **Location:** Leuven, VLG, BE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Planning Engineer - Rail](https://ae.indeed.com/viewjob?jk=4aca71bb4e4ea7c2) — Mace Group
-- 📍 **Location:** Dubai, DU, AE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-02
-
-### [Systems Integration Manager - Rail](https://ae.indeed.com/viewjob?jk=cf7e9d722dfc5b4b) — Mace Group
-- 📍 **Location:** Dubai, DU, AE
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
