@@ -122,13 +122,16 @@
   const OWNER = 'ItsWassmuss';
   const REPO = 'Job_Scraper';
   const BRANCH = 'main';
-  const API_ROOT = `https://api.github.com/repos/${OWNER}/${REPO}/contents/validator/batches`;
+  const API_REPO = `https://api.github.com/repos/${OWNER}/${REPO}`;
+  const API_ROOT = `${API_REPO}/contents/validator/batches`;
+  const FETCH_CONCURRENCY = 6;
   const $ = id => document.getElementById(id);
   const esc = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 
   let rows = [];
   let days = [];
   let loadedAt = null;
+  let snapshotSha = '';
   const filters = { day:'', batch:'', country:'', statuses:new Set(['QUALIFIED']), finalized:new Set(), sources:new Set(), q:'' };
 
   function statusOf(job) {
@@ -165,19 +168,174 @@
     return /^(remote|worldwide|global|anywhere)$/i.test(last) ? 'Not specified' : last;
   }
 
+  function createLimiter(limit) {
+    let active = 0;
+    const queue = [];
+
+    function pump() {
+      while (active < limit && queue.length) {
+        const { task, resolve, reject } = queue.shift();
+        active += 1;
+        Promise.resolve()
+          .then(task)
+          .then(resolve, reject)
+          .finally(() => {
+            active -= 1;
+            pump();
+          });
+      }
+    }
+
+    return task => new Promise((resolve, reject) => {
+      queue.push({ task, resolve, reject });
+      pump();
+    });
+  }
+
+  const limitFetch = createLimiter(FETCH_CONCURRENCY);
+  const fetchJsonLimited = url => limitFetch(() => fetchJson(url));
+
+  async function resolveSnapshotSha() {
+    const commit = await fetchJson(`${API_REPO}/commits/${BRANCH}?v=${Date.now()}`);
+    if (!commit || typeof commit.sha !== 'string' || !/^[0-9a-f]{40}$/i.test(commit.sha)) {
+      throw new Error('Could not resolve main commit SHA');
+    }
+    return commit.sha;
+  }
+
+  function rawBatchUrl(relativePath) {
+    if (!snapshotSha) throw new Error('Snapshot SHA is not initialized');
+    return `https://raw.githubusercontent.com/${OWNER}/${REPO}/${snapshotSha}/validator/batches/${relativePath}`;
+  }
+
   async function discoverDays() {
-    return (await fetchJson(`${API_ROOT}?ref=${BRANCH}&v=${Date.now()}`))
+    if (!snapshotSha) throw new Error('Snapshot SHA is not initialized');
+    return (await fetchJson(`${API_ROOT}?ref=${snapshotSha}`))
       .filter(x => x.type === 'dir' && /^\d{8}$/.test(x.name))
       .map(x => x.name)
       .sort();
   }
 
-  async function discoverBatchFiles(day) {
+  async function discoverBatches(day) {
     if (!day) return [];
-    return (await fetchJson(`${API_ROOT}/${day}?ref=${BRANCH}&v=${Date.now()}`))
-      .filter(x => x.type === 'file' && /^\d{3}\.json$/.test(x.name))
-      .map(x => ({ ...x, day }))
-      .sort((a,b) => a.name.localeCompare(b.name));
+    if (!snapshotSha) throw new Error('Snapshot SHA is not initialized');
+
+    return (await fetchJson(`${API_ROOT}/${day}?ref=${snapshotSha}`))
+      .filter(x =>
+        (x.type === 'file' && /^\d{3}\.json$/.test(x.name)) ||
+        (x.type === 'dir' && /^\d{3}$/.test(x.name))
+      )
+      .map(x => ({
+        day,
+        id: x.name.replace(/\.json$/, ''),
+        storage: x.type === 'dir' ? 'sharded' : 'legacy',
+        path: x.path
+      }))
+      .sort((a,b) => a.id.localeCompare(b.id));
+  }
+
+  function normalizeRows(jobs, { day, id, pathForIndex, finalized, startIndex=0 }) {
+    return jobs.map((job, localIndex) => ({
+      job,
+      index: startIndex + localIndex,
+      batchId: `${day}/${id}`,
+      path: pathForIndex(localIndex),
+      finalized,
+      country: countryOf(job.location)
+    }));
+  }
+
+  async function loadLegacyBatch(ref) {
+    const relativePath = `${ref.day}/${ref.id}.json`;
+    const batch = await fetchJsonLimited(rawBatchUrl(relativePath));
+    if (!batch || !Array.isArray(batch.jobs)) {
+      throw new Error(`Malformed legacy batch: validator/batches/${relativePath}`);
+    }
+
+    return normalizeRows(batch.jobs, {
+      day: ref.day,
+      id: ref.id,
+      pathForIndex: () => `validator/batches/${relativePath}`,
+      finalized: batch.finalized === true
+    });
+  }
+
+  async function loadShardedBatch(ref) {
+    const base = `${ref.day}/${ref.id}`;
+    const expectedBatchId = `${ref.day}-${ref.id}`;
+    const manifest = await fetchJsonLimited(rawBatchUrl(`${base}/manifest.json`));
+
+    if (!manifest ||
+        manifest.schema_version !== 2 ||
+        manifest.batch_id !== expectedBatchId ||
+        !Array.isArray(manifest.shards) ||
+        !Number.isInteger(manifest.job_count) ||
+        manifest.job_count < 0) {
+      throw new Error(`Malformed manifest: validator/batches/${base}/manifest.json`);
+    }
+
+    const shardIds = manifest.shards.slice();
+    const seen = new Set();
+    for (const shardId of shardIds) {
+      if (typeof shardId !== 'string' || !/^\d{3}$/.test(shardId) || seen.has(shardId)) {
+        throw new Error(`Invalid shard list in validator/batches/${base}/manifest.json`);
+      }
+      seen.add(shardId);
+    }
+
+    const shards = await Promise.all(shardIds.map(async shardId => {
+      const shard = await fetchJsonLimited(rawBatchUrl(`${base}/${shardId}.json`));
+      if (!shard ||
+          shard.schema_version !== 2 ||
+          shard.batch_id !== expectedBatchId ||
+          shard.shard_id !== shardId ||
+          !Number.isInteger(shard.start_index) ||
+          shard.start_index < 0 ||
+          !Number.isInteger(shard.job_count) ||
+          shard.job_count < 0 ||
+          !Array.isArray(shard.jobs) ||
+          shard.job_count !== shard.jobs.length) {
+        throw new Error(`Malformed shard: validator/batches/${base}/${shardId}.json`);
+      }
+      return { shardId, shard };
+    }));
+
+    let expectedStart = 0;
+    let totalJobs = 0;
+    const batchRows = [];
+
+    for (const { shardId, shard } of shards) {
+      if (shard.start_index !== expectedStart) {
+        throw new Error(
+          `Non-contiguous shard indexes in validator/batches/${base}: expected ${expectedStart}, got ${shard.start_index} at shard ${shardId}`
+        );
+      }
+
+      batchRows.push(...normalizeRows(shard.jobs, {
+        day: ref.day,
+        id: ref.id,
+        pathForIndex: () => `validator/batches/${base}/${shardId}.json`,
+        finalized: manifest.finalized === true,
+        startIndex: shard.start_index
+      }));
+
+      expectedStart += shard.job_count;
+      totalJobs += shard.job_count;
+    }
+
+    if (totalJobs !== manifest.job_count) {
+      throw new Error(
+        `Manifest job_count mismatch in validator/batches/${base}: expected ${manifest.job_count}, loaded ${totalJobs}`
+      );
+    }
+
+    return batchRows.sort((a,b) => a.index - b.index);
+  }
+
+  async function loadBatch(ref) {
+    return ref.storage === 'sharded'
+      ? loadShardedBatch(ref)
+      : loadLegacyBatch(ref);
   }
 
   function buildDayOptions() {
@@ -205,22 +363,13 @@
       return;
     }
 
-    const files = await discoverBatchFiles(filters.day);
-    const settled = await Promise.allSettled(files.map(async file => {
-      if (!file.download_url) throw new Error(`No download URL for ${file.path}`);
-      const batch = await fetchJson(file.download_url + '?v=' + Date.now());
-      if (!batch || !Array.isArray(batch.jobs)) throw new Error(`Malformed batch: ${file.path}`);
-      const batchId = `${file.day}/${file.name.replace(/\.json$/, '')}`;
-      return batch.jobs.map((job,index) => ({
-        job, index, batchId, path:file.path, finalized:batch.finalized === true,
-        country:countryOf(job.location)
-      }));
-    }));
+    const batches = await discoverBatches(filters.day);
+    const settled = await Promise.allSettled(batches.map(loadBatch));
 
     const failures = [];
     settled.forEach((r,i) => {
       if (r.status === 'fulfilled') rows.push(...r.value);
-      else failures.push(`${files[i].path}: ${r.reason?.message || r.reason}`);
+      else failures.push(`${batches[i].path}: ${r.reason?.message || r.reason}`);
     });
 
     if (failures.length) console.warn('[validator_batches]', failures);
@@ -231,15 +380,27 @@
     updateSnapshot(failures.length);
   }
 
-  async function load() {
-    $('snapshot').textContent = 'Loading days…';
+  async function refreshSnapshot({ selectToday=false } = {}) {
+    $('snapshot').textContent = 'Resolving repository snapshot…';
+    snapshotSha = await resolveSnapshotSha();
     days = await discoverDays();
-    const today = helsinkiDay();
-    filters.day = today;
+
+    if (selectToday || !filters.day) {
+      filters.day = helsinkiDay();
+    }
+
+    if (!days.includes(filters.day) && !selectToday) {
+      filters.day = helsinkiDay();
+    }
+
     filters.batch = '';
     filters.country = '';
     buildDayOptions();
     await loadSelectedDay();
+  }
+
+  async function load() {
+    await refreshSnapshot({ selectToday:true });
   }
 
   function buildBatchOptions() {
@@ -326,9 +487,12 @@
 
   function updateSnapshot(failures=0) {
     const stamp = loadedAt ? loadedAt.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}) : 'unknown';
-    const prefix = filters.day ? `${filters.day} · loaded ${stamp}` : `loaded ${stamp}`;
+    const sha = snapshotSha ? snapshotSha.slice(0, 7) : 'unknown';
+    const prefix = filters.day
+      ? `${filters.day} · snapshot ${sha} · loaded ${stamp}`
+      : `snapshot ${sha} · loaded ${stamp}`;
     $('snapshot').textContent = failures
-      ? `${prefix} · ${failures} batch file(s) failed`
+      ? `${prefix} · ${failures} batch load(s) failed`
       : prefix;
   }
 
@@ -358,7 +522,7 @@
     filters.statuses.clear(); filters.finalized.clear(); filters.sources.clear();
     $('batch').value=''; $('country').value=''; $('search').value=''; render();
   };
-  $('refresh').onclick = () => loadSelectedDay().catch(showError);
+  $('refresh').onclick = () => refreshSnapshot().catch(showError);
 
   function showError(err) {
     console.error(err);
