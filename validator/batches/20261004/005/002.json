@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261004-005",
+  "shard_id": "002",
+  "start_index": 10,
+  "job_count": 2,
+  "jobs": [
+    {
+      "company": "Joppy",
+      "title": "Senior .NET Developer | €40K - €60K",
+      "location": "Greater Bilbao Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4474204519/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Una de las consultoras más reconocidas de integración tecnológica global con la que colaboramos en Joppy busca incorporar alguien Senior ASP.NET Web API Developer\npara unirse a un equipo de desarrollo backend, participando en el diseño, construcción y mantenimiento de APIs y servicios que respaldan aplicaciones internas.\n\n🎯 Funciones principales\n\nColaborar con Product Owner en la definición de requisitos y user stories.\nTrabajar junto al equipo Front-End en el diseño de la comunicación entre sistemas.\nDiseñar arquitectura y desarrollar APIs REST.\nDiseñar arquitectura y desarrollar bases de datos.\nElaborar documentación técnica de las APIs desarrolladas.\nRealizar testing y troubleshooting de servicios backend.\nParticipar en todo el ciclo de vida del software (diseño, desarrollo, despliegue y mantenimiento).\nInteractuar con otros departamentos para comprender necesidades de negocio.\n\n🛠️ Requisitos imprescindibles\n\nFormación en Ingeniería Técnica, Matemáticas, Física o titulación STEM equivalente.\nMás de 5 años de experiencia con ASP.NET (preferiblemente .NET 6 o superior).\nMás de 3 años de experiencia en diseño y desarrollo de APIs REST.\nSólidos conocimientos en principios SOLID, especialmente Dependency Injection.\nMás de 3 años de experiencia en testing backend.\nMás de 3 años de experiencia con Entity Framework.\n\n➕ Requisitos valorables\n\nExperiencia con arquitecturas de microservicios en cloud.\nExperiencia en despliegue de backends (Azure, IIS u otros entornos).\nConocimientos en tecnologías Front-End (HTML, JavaScript, CSS).\nNivel de inglés B2 o superior.\nConocimiento del sector industrial o de máquina herramienta.\nCarnet de conducir y vehículo propio (preferible, no obligatorio).\n\n🤗 Condiciones\n\nContrato indefinido.\nJornada completa.\nModelo híbrido: 2 días de teletrabajo y presencial en Zaldibar.\nHorario: lunes a viernes de 08:00 a 13:00 y de 13:30 a 16:30.\nPosibilidad de crecimiento y desarrollo profesional.\nParticipación en proyectos tecnológicos internos de alto impacto.\nSalario competitivo según experiencia y perfil (40.000 – 60.000 € brutos/año).\n\nAbout Joppy\n\nJoppy es una plataforma de reclutamiento tecnológico construida para developers por developers.\n✅ No se requiere CV. Solo di lo que sabes y lo que quieres.\n✅ Perfil anónimo por defecto.\n✅ Tú eliges quién puede hablar contigo. Las empresas no pueden escribirte hasta que aceptes su oferta.\n✅ Sólo ofertas relevantes que coincidan con tus preferencias. No más ofertas de Javascript para desarrolladores Java.\n✅ Obtén una recompensa si te contratan.\nEcha un ojo a las oportunidades de empleo tecnológico de forma anónima y encuentra el trabajo que te haga feliz.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "source": "LinkedIn",
+      "job_id": "4474204519",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Joppy",
+      "title": ".Net Software Engineer | €42K - €50K",
+      "location": "Greater Barcelona Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4474202670/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "One of the companies we collaborate with at Joppy is looking for a senior Software Engineer\nto join an international product development team in Barcelona\n. If you are passionate about creating high-impact tools for the industry and want to take the next leap in your career, this is the place for you!\n\nWhat we are looking for:\n\n5+ years\nof development experience.\nStrong command of C# / .NET\nand desktop development ( WPF\n).\nExperience with React\nand Cloud environments ( Azure/AWS\n).\nPassion for clean code, SOLID\nprinciples, and engineering best practices.\nC1 English level\n(working in a global environment).\n\nWhat we offer:\n\nCompetitive salary:\nUp to €50,000 gross/year\n.\nThe opportunity to be part of a multidisciplinary, international product development team.\nCutting-edge projects in the industrial automation sector.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media and IT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4474202670",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
