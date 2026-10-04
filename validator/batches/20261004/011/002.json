@@ -1,0 +1,54 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261004-011",
+  "shard_id": "002",
+  "start_index": 10,
+  "job_count": 3,
+  "jobs": [
+    {
+      "company": "SOFYNE",
+      "title": "Software Developer (French Speaking)",
+      "location": "Senhora da Hora, Porto, Portugal",
+      "url": "https://www.linkedin.com/jobs/view/4464712079/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "What You Will Do\n\nIn this full-time permanent position based in Porto and reporting directly to an Operational Manager, you will be trained on a MES software from a technical perspective in order to be able to work on projects inside our dedicated team. You will be responsible of the missions below:\n\nResponsibilities\n\nDevelop and maintain web applications using React for the front end.\nWork with C# for the server-side logic and database interactions.\nDesign and implement SQL database schemas and queries for optimal performance.\nUnderstand customer requirements and transform them into effective and user-friendly solutions.\nStay updated on industry trends and incorporate best practices into development processes.\n\nMain technologies\n: C#, SQL\n\nWhat You Have\n\nSkills and Abilities:\n\nSolid understanding of SQL databases and query optimization.\nExperience with C# for backend development (mandatory)\nExcellent problem-solving and communication skills\nLanguage: French (mandatory) and Portuguese/English. German language will be an advantage\nQualification and Education: Engineering or IT degree\n\nPersonal Specification\n\nProblem-solver, attention to detail\nAnalytical and technical approach\nEffective time management skills to meet deadlines\nAbility to work under pressure\nAbility to multi-task\nTeam player\n\nNice To Have\n\nExperience and understanding of the manufacturing industry\nMES (Manufacturing Execution Systems) implementation and Agile Project Management Methodology experience\n\nSOFYNE Active Technology\nhas been integrating and deploying MES, LES and PLM solutions since 2005.\n\nWe support and advise more than 30 major industrial accounts in their innovation and digital transformation projects towards Industry 4.0.\n\nWith offices across Europe, we cover the audit, integration, evolution, application maintenance, support and change management needs of our customers.\n\nOur approach is built around the framework and capabilities of a large company with the heart and soul of a small business, fostering high quality and performance services, agile development and added value for our clients, in the automotive, energy, aerospace and defense, consumer products and luxury sectors.\n\nAll this acquired knowledge is what enables us to best understand how these evolutions impact manufacturing information systems.\n\nSofyne Active Technology is certified with the international standard ISO27001.\n\nKey Figures\n\n6 offices: Lyon (FR), Versailles (FR), Krakow (PL), Geneva (CH), London (UK), Porto (PT)\nAround 200 experts\n35 customers (ranked in the Fortune Global 500)\n30 000 days of project / year\n1350 training days (2025)\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4464712079",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "BES College,16th Main Road,4th block, Jayanagar, Bangalore-11",
+      "title": "Software Engine",
+      "location": "United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4473499055/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Role Description\nThe Software Engineer role at BES College is a part-time, remote position focused on supporting the institution’s academic and administrative technology needs. Day-to-day responsibilities include designing, developing, and maintaining software applications that enhance educational delivery and internal processes. The role involves writing clean and efficient code, integrating and managing databases, and collaborating with faculty or staff to gather requirements and translate them into technical solutions. The Software Engineer will also be responsible for testing, debugging, and documenting software components, and ensuring that systems remain secure, reliable, and scalable. This position offers flexibility while requiring consistent communication and timely completion of assigned projects.\nQualifications\n\nCandidates should possess strong skills in Software Development and Programming, with proficiency in at least one modern programming language (e.g., Java, Python, C#, or similar).\nCandidates should possess skills in Databases, including experience with relational or NoSQL databases, query writing, and basic database administration.\nCandidates should possess skills in Software Design, including understanding of software architecture, design patterns, and modular development practices.\nCandidates should possess skills in Testing, including unit testing, integration testing, and basic debugging and troubleshooting techniques.\nRelevant skills such as version control (e.g., Git), familiarity with web or backend frameworks, and experience working in remote or distributed teams are beneficial.\nA diploma or degree in Computer Science, Information Technology, or a related field, or equivalent practical experience, is preferred.\nStrong analytical and problem-solving abilities, clear written and verbal communication, and the ability to work independently with minimal supervision are essential.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nPart-time\n\nIndustries\n\nHigher Education",
+      "source": "LinkedIn",
+      "job_id": "4473499055",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "dubizzle",
+      "title": "Senior Software Engineer (Backend)",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4473475938/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Bayut & dubizzle have the unique distinction of being iconic, homegrown brands with a strong presence across the seven emirates in the UAE. Connecting millions of users across the country, we are committed to delivering the best online search experience.\nAs part of Dubizzle Group, we are alongside some of the strongest classified brands in the market. With a collective strength of 5 brands, we have more than 123 million monthly users that trust in our dedication to providing them with the best platform for their needs.\nAt dubizzle you'd be part of high performing cross-functional \"Squads\" set with a mission to provide win-win exchanges for our beloved users.\nAs a Senior Software Engineer I - Backend, you will liaise with the other backend engineers within your product stream, the QA team, the design team and your Tech Team Leads. As a senior member of the team, you will be responsible for advancing our development stack and ensuring scale as we grow to millions of monthly active users across many countries.\nIn this role, you will:\n\nHit the ground running - Gather an up-to-date, in-depth understanding of the dubizzle codebase and technology stack within weeks\nLead planning sessions around new product features and deliver detailed roll-out/roll-back strategies for releases\nResearch and apply industry trends as part of your daily work\nCreate unit tests in accordance with our established standards to cover assigned work\nWrite and maintain exemplary code following dubizzle's programming practices\nActively contribute to post-release maintenance issues\nBuild complex problems and deliver practical, high-impact solutions.\nPioneer reliability and efficiency of our current code base, platforms and/or core systems\nImpact on the direction and scope of dubizzle's technical vision within your stream\nWork in a mentoring capacity within a peer-programming environment and guide tasks, irrespective of complexity or scale\nCode-review all major pull requests, define programming standards, and provide constructive feedback\nDesign and delivery of multiple REST-based APIs and previous exposure to Service Oriented Architecture\nCapacity to push back requirements when incomplete\nHandle the entire software development life cycle end-to-end\nLead product planning meetings and architect solutions within your stream\nLiaise with the other back-end engineers within your product stream, the QA team, the design team and your Tech Team Lead\nLiaise with other tech teams to share innovations from your stream\n\nRequirements\n\nBachelor's degree in Computer Science, Engineering preferred\n6+ years of professional back-end software engineering experience in Python (Django)\nExperience with cloud-hosted infrastructure and Technologies; AWS preferred\nPrior experience with Kubernetes & Docker will earn you brownie points\nExperience working on high-traffic and large-scale web products is preferred\nExperience with web infrastructure, SOA, distributed systems, performance analysis, and search infrastructure\nStrong understanding of design patterns including asynchronous programming, queuing, logging, security and persistence\nMastery of different caching layers and strategies, including memcached\nGood understanding of build process management and continuous integration\nMastery of testing methodologies (unit tests, component tests, integration tests, etc.)\nAbility to handle the entire software development life cycle end-to-end\nExcellent communication and interpersonal skills\nAbility to prioritise tasks and quickly adjust in a rapidly changing environment\nDriven to gain insight into different new and old technologies\nAnalytical thinking, conceptual thinking, detail-oriented\n\nBenefits\n\nA fast paced, high performing team\nMulticultural environment with over 60 different nationalities\nCompetitive Tax-free Salary\nComprehensive Health Insurance\nAnnual Air Ticket Allowance\nEmployee discounts at multiple vendors across the emirates\nRewards & Recognitions\nLearning & Development\n\nBayut & dubizzle is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n#UAEdubizzle\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "source": "LinkedIn",
+      "job_id": "4473475938",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
