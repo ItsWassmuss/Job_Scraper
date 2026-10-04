@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "e2c2c6e549ff460c",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily Polish and no complete official English version was confirmed.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "0415e4160e6ee578",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is clinical database programming; C# is only preferred and not required, and no backend/server-side .NET development is established.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "4aca71bb4e4ea7c2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is rail planning and infrastructure programme delivery, with no backend/server-side C# or .NET development evidence.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "cf7e9d722dfc5b4b",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is rail systems integration and programme delivery, with no backend/server-side C# or .NET development evidence.",
       "validated": null
     },
     {
@@ -108,8 +108,8 @@
       "description": "Job Function\n\nServices\n\nWarum SoftwareOne?\n\nSoftwareOne ist ein globaler Anbieter für Software- und Cloud-Lösungen. Mit einer Präsenz in über 70 Ländern und mehr als 12.000 Mitarbeitenden unterstützen wir Unternehmen dabei, ihre Software-Investitionen zu optimieren, Anwendungen zu modernisieren und das volle Potenzial von Cloud, Data und AI zu erschließen.\n\nWas uns ausmacht, sind die Menschen bei SoftwareOne. Wir ermöglichen Zusammenarbeit über Ländergrenzen hinweg, fördern kontinuierliches Lernen und schaffen Raum für Entwicklung in einer sich ständig wandelnden Technologielandschaft. Ob dein Fokus auf Technologie, Customer Success oder Business Operations liegt – deine Ideen zählen und dein Beitrag macht einen Unterschied.\n\nWerde Teil eines globalen Teams, in dem du deine Fähigkeiten weiterentwickelst, mit führenden Technologien arbeitest und echten Mehrwert für unsere Kunden schaffst.\n\nDie Rolle\n\nSuchst du eine Rolle, in der du dich tief auf komplexe Microsoft-Azure-Infrastrukturen spezialisieren und technische Entscheidungen prägen kannst?\nMöchtest du nicht nur „Tickets abarbeiten“, sondern langfristig Kundenumgebungen mitgestalten, modernisieren und sicherer machen?\nBist du bereit in Enterprise Azure Umgebungen unserer Kunden der wirklich Wirkung zu erzielen?\n\nPraktische Informationen\n\nStandort:\nBundesweit, Deutschland | Arbeitsmodell:\nHybrid / Remote mit Vor-Ort-Einsätzen | Sprachen\n:\nFließende Deutsch- und Englischkenntnisse | Umfang:\nVollzeit | Rufbereitschaft und gelegentliche Vor-Ort-Einsätze\n\nUnser Team Hybrid Managed Service stellt die Leistungsfähigkeit der IT-Infrastrukturen unserer Kunden sicher. In maßgeschneiderten Setups übernehmen wir den Betrieb verschiedener Infrastrukturdienste und entwickeln diese kontinuierlich weiter. Unsere Schwerpunkte liegen in den Bereichen Data Center, Storage, Backup, Windows, Linux, Virtualisierung sowie im Infrastruktur Support.\n\nAls Azure Cloud Engineer (gn) übernimmst du technische Verantwortung für geschäftskritische Managed-Service-Umgebungen auf Microsoft Azure. Du stellst den stabilen, sicheren Betrieb sicher, analysierst Störungen und entwickelst gemeinsam mit Cloud-, Infrastruktur- und Entwicklungsteams nachhaltige Verbesserungen.\n\nDeine Aufgaben\n\nBetrieb, Monitoring und Optimierung komplexer Microsoft-Azure-Infrastrukturen\nAnalyse und Behebung anspruchsvoller Incidents sowie Ableitung nachhaltiger Maßnahmen\nAutomatisierung wiederkehrender Aufgaben mit PowerShell, Bash und Azure Runbooks\nAdministration von Azure-Netzwerken, virtuellen Maschinen, Datenbanken, Identitäten, Berechtigungen und Richtlinien\nWeiterentwicklung von Monitoring, Logging, Dokumentation und Knowledge Base\nMitarbeit an Infrastructure-as-Code-Themen, insbesondere Terraform\nTeilnahme an Vor-Ort-Terminen, Supporteinsätzen und 24/7-Rufbereitschaft\n\nKenntnisse und Fähigkeiten\n\nDu bringst eine Eigenverantwortliche, proaktive und strukturierte Arbeitsweise mit und die Bereitschaft, dich in neue Technologien und angrenzende Applikations- oder Web-Service-Themen einzuarbeiten. Du hast mehrjährige Erfahrung im Betrieb komplexer Microsoft-Azure-Umgebungen mit und hast Erfahrung in folgenden Bereichen:\n\nTechnische Schwerpunkte\n\nAzure Infrastructure: Subscriptions, Management Groups, VMs, Netzwerke, Firewalls, VPN, Application Gateway, Private Endpoints und DNS\nAzure Operations: Resource Health, Monitoring, Azure Monitor, Log Analytics, Update Manager und Maintenance Configurations\nDatenbanken und Plattformdienste wie Azure SQL, PostgreSQL, Web Apps, Container Apps und Container Registry\nIdentity & Security: Microsoft Entra ID, RBAC, Azure Policy, Privileged Identity Management und AD-Synchronisierung\nGrundkenntnisse in Azure DevOps, insbesondere Repositories, Pipelines und Service Connections\n\nBetriebssysteme und Automatisierung\n\nErfahrung mit Windows Server sowie Grundkenntnisse in Linux, idealerweise Red Hat Enterprise Linux oder Ubuntu\nScripting- und Automatisierungskenntnisse mit PowerShell und Bash\nKenntnisse in Kusto Query Language, JSON, ARM Templates sowie Interesse an Terraform\nKenntnisse in Active Directory Domain Services und DNS\n\nDas haben wir zu bieten\n\nUnsere Mitarbeitenden sind unser wichtigstes Kapital und wir setzen alles daran, dass du dich bei uns wohl fühlst:  \n\nFlexible Arbeitszeiten und die Möglichkeit, im Homeoffice zu arbeiten  \n30 Urlaubstage sowie die Option auf ein Sabbatical  \nIndividuelle Weiterbildungs- und Entwicklungsmöglichkeiten sowie persönliches Coaching und Beratung  \nEngagement für Vielfalt und Chancengleichheit durch unsere DEIB-Strategie und Initiativen  \nGesundheits- und Sportangebote (z.B. Wellpass) sowie Zuschuss zur betrieblichen Altersvorsorge  \nAttraktive Zusatzleistungen wie Mitarbeitendenaktien, Empfehlungsprogramm und Corporate Benefits  \nAngenehme Arbeitskultur mit freiem Dresscode und strukturiertem Onboarding inklusive Buddy \n\nAlle weiteren Benefits unter:  hier  \n\nInteressiert?\n\nDann bewirb dich mit deinem Lebenslauf und wenigen Klicks über unser Online-Formular! Es ist kein Anschreiben nötig. \n\nInklusion und Unterstützung\n\nSoftwareOne lädt Menschen jeglicher Herkunft und mit unterschiedlichen Fähigkeiten herzlich dazu ein, sich bei uns zu bewerben. Solltest du während des Bewerbungsprozesses Anpassungen benötigen, sende uns bitte eine E-Mail an hier . Bitte gib dabei die Position an, für die du dich bewirbst, sowie das Land, in welchem du wohnst. Ein Mitglied unseres Teams, das nicht am Entscheidungsprozess beteiligt ist, wird sich mit dir in Verbindung setzen, um deine spezifischen Bedürfnisse zu besprechen. Wir werden unser Bestes tun, um dir entgegenzukommen. Alle von dir geteilten Informationen werden sicher aufbewahrt und gemäß den Bestimmungen der Datenschutz-Grundverordnung (DSGVO) streng vertraulich behandelt.\n\nWir bei SoftwareOne verpflichten uns, ein Umfeld mit gegenseitigem Respekt zu schaffen. Allen Bewerbenden und Teammitgliedern sollen gleiche Beschäftigungsmöglichkeiten geboten werden und das unabhängig von Ethnie, Hautfarbe, Religion, Alter, Geschlecht, nationaler Herkunft, Behinderung, genetischer Veranlagung, geschütztem Veteranenstatus, sexueller Orientierung, Geschlechtsidentität oder -ausdruck, oder jedes andere Merkmal, welches unter gesetzlichem Schutz steht. Zudem laden wir Berufs-Wiedereinsteiger ein, die nach einer geplanten Auszeit in die Berufswelt zurückzukehren möchte, unser SOAR Programm zu erkunden.\n\nSkills zu dieser Stellenanzeige: Services, DevOps, Linux, service-management, Service-management, Servicemanagement, servicemanagement, Datenbank, webservice, Webservice, Support, support, Systemingenieur, IT-administration, it-administration, Azure, Container-Virtualisierung, IT-Administrator, it-administrator und Servicemanager\n\nWichtiger Hinweis\nDas ist eine Anzeige des Empfehlungsbund (EBND) über Jobs-Daheim.de. Weitere wichtige Informationen zur Anzeige finden Sie unter https://jobs-daheim.de/jobs/306447/azure-cloud-engineer-gn\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nInformation Technology & Services",
       "source": "LinkedIn",
       "job_id": "4473828318",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is Azure infrastructure operations, administration, monitoring, and automation rather than backend/server-side C# or .NET development.",
       "validated": null
     }
   ]
