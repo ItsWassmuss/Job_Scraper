@@ -24,8 +24,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "074a204460b48dfd",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "LANGUAGE: The substantive job description is primarily German and explicitly requires German at C1 level; no complete confirmed official English version was available.",
       "validated": null
     },
     {
@@ -47,8 +47,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "b213f34ad7b2f3a2",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is focused on Salesforce development; C#/.NET is only one of many listed programming technologies and no backend .NET/C# role is established.",
       "validated": null
     },
     {
@@ -70,8 +70,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "f475a5f20ec9ab5e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "WORK_AUTH: The job explicitly requires being UK-based with existing right to work in the UK and states that visa sponsorship is unavailable.",
       "validated": null
     },
     {
@@ -93,8 +93,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "ea812c16c337932e",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is technical sales and solutions engineering, not backend or server-side .NET/C# development.",
       "validated": null
     },
     {
@@ -116,8 +116,8 @@
       "ats": "Indeed",
       "source": "Indeed",
       "job_id": "c1176378835c1243",
-      "status": null,
-      "reason": null,
+      "status": "REJECTED",
+      "reason": "TECHNOLOGY_ROLE: The role is test R&D software and industrial automation; C# is one of several listed languages and no backend or server-side .NET/C# role is established.",
       "validated": null
     }
   ]
