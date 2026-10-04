@@ -1,44 +1,20 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-04 10:24 UTC*
+*Last updated: 2026-10-04 11:24 UTC*
 
-**10 new role(s)** since last run · 47 total in last 6h
+**4 new role(s)** since last run · 48 total in last 6h
 
-### [Cloud Data Architect (Manager) | Engineering](https://www.linkedin.com/jobs/view/4445533346/) — Deloitte
-- 📍 **Location:** Cracow, Małopolskie, Poland
+### [Software Developer (m/w/d)](https://www.linkedin.com/jobs/view/4473489033/) — freedos IT GmbH
+- 📍 **Location:** Karlsruhe, Baden-Württemberg, Germany
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Developer Graduate: September 2027 Dublin](https://www.linkedin.com/jobs/view/4454665086/) — Susquehanna International Group
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Senior Software Engineer (f/m) - remote work](https://www.linkedin.com/jobs/view/4429022269/) — Phoenix Contact
+- 📍 **Location:** Wielkopolskie, Poland
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Principal software engineer](https://www.linkedin.com/jobs/view/4457344946/) — SimCorp
+### [Senior Software Engineer (Automation/Manual QA Engineer) - Private Debt](https://www.linkedin.com/jobs/view/4430492010/) — SimCorp
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-10-04
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4403448821/) — SimCorp
 - 📍 **Location:** Copenhagen, Capital Region of Denmark, Denmark
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Associate/Assistant Vice President, Full Stack Agentic AI Engineer](https://www.linkedin.com/jobs/view/4445514359/) — Temasek
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Software Developer D365 F&SCM](https://www.linkedin.com/jobs/view/4409932475/) — Jan De Nul Group
-- 📍 **Location:** Aalst, Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Full Stack Entwickler:in (C#/.NET & Angular) 80–100 %](https://www.linkedin.com/jobs/view/4475364851/) — Winti.Jobs | Das Jobportal für Winterthur & Region
-- 📍 **Location:** Winterthur, Zurich, Switzerland
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Full Stack Developer .NET (w/m/d)](https://www.linkedin.com/jobs/view/4473473720/) — Delegate Group
-- 📍 **Location:** Vienna, Vienna, Austria
-- 🕒 **Posted:** 2026-10-04
-
-### [Data Platform Engineer (f/m/d)](https://www.linkedin.com/jobs/view/4420473166/) — Axpo Group
-- 📍 **Location:** Madrid, Community of Madrid, Spain
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior C# Developer](https://www.linkedin.com/jobs/view/4388579355/) — BNP Paribas CIB
-- 📍 **Location:** Lisboa, Lisbon, Portugal
-- 🕒 **Posted:** 2026-10-04
-
-### [Chief Security Architect](https://www.linkedin.com/jobs/view/4473898817/) — PW Skills
-- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-10-04
