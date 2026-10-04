@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261004-003",
+  "shard_id": "002",
+  "start_index": 10,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "Winti.Jobs | Das Jobportal für Winterthur & Region",
+      "title": "Senior Full Stack Entwickler:in (C#/.NET & Angular) 80–100 %",
+      "location": "Winterthur, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4475364851/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Die BISON sorgt als Partner*in der Landwirtschaft dafür, dass die Schweizer Lebensmittel zu den Konsumenten*innen gelangen. Dabei ist es wichtig, dass die IT optimal auf die Bedürfnisse der Fachbereiche abgestimmt werden kann.\n\nGenau hier kommst du als Datenbank-Administrator*in ins Spiel! Dank deinem täglichen Einsatz ist alles mit dem Business abgestimmt und für die Zukunft optimal ausgerichtet.\n\nDu hast die \"can do\" Mentalität und arbeitest gern im Team? Du bist offen und kommunizierst nachvollziehbar und gibst Feedback? Arbeitsort ist Winterthur, Sursee oder Bern.\n\nWir freuen uns auf deine Bewerbung und dich zeitnah persönlich kennenzulernen.\n\nPostgreSQL-Datenbank-Administrator (w/m/d)\n\nDAS MACHST DU\n\nInstallieren, konfigurieren und aktualisieren von PostgreSQL-Datenbanken\nÜberwachen der Datenbankleistung und Optimierung von Queries\nImplementieren und testen von Backup und Desaster Recovery Prozessen\nSicherstellung von Datenbank Sicherheit und Verwalten von Benutzerzugriffen\nTroubleshooting bei Datenbank Performance Problemen\nAktive Zusammenarbeit mit Entwicklungsteams\nPlanen und Durchführen von Datenbankmigrationen und -Aktualisierungen\nPflegen der Dokumentationen für Datenbanksysteme\n\nDAS BRINGST DU MIT\n\nDu bringst erste Berufserfahrung im Bereich PostgreSQL Datenbankadministration mit\nDu hast Erfahrung oder Interesse an CloudSQL Datenbanken\nDu besitzt analytische und kommunikative Fähigkeiten, welche dir dabei helfen, Probleme schnell zu erkennen und konstruktiv zu lösen\nDu bist interessiert daran, Neues zu Lernen und das Gelernte in die Praxis - umzusetzen\nLinux Erfahrung ist zwingend sowie Erfahrung in IT Betrieb\nDu verfügst über stilsicheres Deutsch und gute Englischkenntnisse\n\nDAS SIND WIR\n\nWir sind so etwas wie Arbeitgeber, Familie, News-Room, Digitals und Freaks in einem. Unsere Arbeit erledigen wir nicht nur einfach so, sondern legen viel Herzblut hinein und geben Vollgas für unsere Kunden. Während bei anderen Digitalisierung das grosse Schlagwort ist, ist diese bei uns ganz automatisch an der Tagesordnung – und wir verlieren nicht mehr viele Worte darüber. Schliesslich darf man von einem Softwareunternehmen Modernität und Agilität erwarten. Haben wir dich neugierig gemacht?\n\nDEIN KONTAKT\n\nNadine Stahl\n\n+41 58 434 41 47\n\nnadine.stahl@bison-group.com\n\nArbeitsort\n\nTheaterstrasse 15a/15b\n\n8401 Winterthur\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Internet",
+      "source": "LinkedIn",
+      "job_id": "4475364851",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}

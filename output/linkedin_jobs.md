@@ -1,48 +1,56 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-04 02:21 UTC*
+*Last updated: 2026-10-04 07:22 UTC*
 
-**11 new role(s)** since last run · 17 total in last 6h
+**13 new role(s)** since last run · 15 total in last 6h
 
-### [.NET Developer](https://www.linkedin.com/jobs/view/4475350669/) — TaskVerse
+### [Software Entwickler .NET / C# (m/w/d)](https://www.linkedin.com/jobs/view/4475358822/) — mamgo | Talente 🔗 Jobs
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-10-04
+
+### [Software Engineer - Angular/.net (m/w/d)](https://www.linkedin.com/jobs/view/4474206284/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
+- 🕒 **Posted:** 2026-10-04
+
+### [.NET Developer](https://www.linkedin.com/jobs/view/4475382013/) — TaskVerse
 - 📍 **Location:** Germany
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Entwickler*in C# (all genders)](https://www.linkedin.com/jobs/view/4473444995/) — INTEX EDV-Software GmbH
-- 📍 **Location:** Saarbrücken, Saarland, Germany
+### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4474206280/) — CHEFS CULINAR
+- 📍 **Location:** Weeze, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-10-04
 
-### [Azure Cloud Engineer (gn)](https://www.linkedin.com/jobs/view/4473886588/) — SoftwareOne Deutschland GmbH
-- 📍 **Location:** Leipzig, Saxony, Germany
+### [Software Developer](https://www.linkedin.com/jobs/view/4475379099/) — TaskVerse
+- 📍 **Location:** Germany
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer (Power Platform)](https://www.linkedin.com/jobs/view/4435393557/) — PwC Singapore
-- 📍 **Location:** Singapore, Singapore
+### [Senior SW-Entwickler – C#/C++/VB (m/w/d)](https://www.linkedin.com/jobs/view/4475359885/) — mamgo | Talente 🔗 Jobs
+- 📍 **Location:** Nuremberg, Bavaria, Germany
 - 🕒 **Posted:** 2026-10-04
 
-### [Microsoft AI Developer](https://www.linkedin.com/jobs/view/4459871138/) — Capgemini
-- 📍 **Location:** Malmo, Skåne County, Sweden
-- 🕒 **Posted:** 2026-10-03
+### [Softwarearchitekt (m/w/d) – Cloud & Microservices / C# / .NET](https://www.linkedin.com/jobs/view/4474207010/) — Sano - Moderne Tierernährung GmbH
+- 📍 **Location:** Wentorf bei Hamburg, Schleswig-Holstein, Germany
+- 🕒 **Posted:** 2026-10-04
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4459873127/) — Capgemini
-- 📍 **Location:** Älmhult, Kronoberg County, Sweden
-- 🕒 **Posted:** 2026-10-03
+### [Test Automation Engineer](https://www.linkedin.com/jobs/view/4474209169/) — Haystack
+- 📍 **Location:** Berlin Metropolitan Area
+- 🕒 **Posted:** 2026-10-04
 
-### [Bouvet søker utviklere, techleads og arkitekter med erfaring fra .NET og KI](https://www.linkedin.com/jobs/view/4466402503/) — Bouvet ASA
-- 📍 **Location:** Oslo, Norway
-- 🕒 **Posted:** 2026-10-03
+### [PreSales Solution Architect (Azure) (m/w/d)](https://www.linkedin.com/jobs/view/4473886896/) — Skaylink
+- 📍 **Location:** Munich, Bavaria, Germany
+- 🕒 **Posted:** 2026-10-04
 
-### [AI Architect](https://www.linkedin.com/jobs/view/4473462089/) — Aker Solutions
-- 📍 **Location:** Oslo, Oslo, Norway
-- 🕒 **Posted:** 2026-10-03
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4475376086/) — Trust In SODA
+- 📍 **Location:** Dublin, County Dublin, Ireland
+- 🕒 **Posted:** 2026-10-04
 
-### [AI Platform & Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473457363/) — Aker Solutions
-- 📍 **Location:** Oslo, Oslo, Norway
-- 🕒 **Posted:** 2026-10-03
+### [Full Stack Engineer (1 Year Contract)](https://www.linkedin.com/jobs/view/4474203397/) — Rhino Partners
+- 📍 **Location:** Singapore
+- 🕒 **Posted:** 2026-10-04
 
-### [.NET software developer](https://www.linkedin.com/jobs/view/4466402330/) — TMC
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-03
+### [Solutions Architect (Observability)](https://www.linkedin.com/jobs/view/4475381031/) — Elize Partners
+- 📍 **Location:** Zurich, Zurich, Switzerland
+- 🕒 **Posted:** 2026-10-04
 
-### [Full Stack Engineer with a strong backend focus in Customer Capabilities Tribe](https://www.linkedin.com/jobs/view/4446755114/) — Danske Bank
-- 📍 **Location:** Vilnius, Vilniaus, Lithuania
-- 🕒 **Posted:** 2026-10-03
+### [Senior Full Stack Entwickler:in (C#/.NET & Angular) 80–100 %](https://www.linkedin.com/jobs/view/4475364851/) — Winti.Jobs | Das Jobportal für Winterthur & Region
+- 📍 **Location:** Winterthur, Zurich, Switzerland
+- 🕒 **Posted:** 2026-10-04
