@@ -1,32 +1,48 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-03 21:25 UTC*
+*Last updated: 2026-10-04 02:21 UTC*
 
-**7 new role(s)** since last run · 46 total in last 6h
+**11 new role(s)** since last run · 17 total in last 6h
 
-### [Power Platform Developer](https://www.linkedin.com/jobs/view/4473441956/) — Reperio Human Capital
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [.NET Developer](https://www.linkedin.com/jobs/view/4475350669/) — TaskVerse
+- 📍 **Location:** Germany
+- 🕒 **Posted:** 2026-10-04
+
+### [Software Entwickler*in C# (all genders)](https://www.linkedin.com/jobs/view/4473444995/) — INTEX EDV-Software GmbH
+- 📍 **Location:** Saarbrücken, Saarland, Germany
+- 🕒 **Posted:** 2026-10-04
+
+### [Azure Cloud Engineer (gn)](https://www.linkedin.com/jobs/view/4473886588/) — SoftwareOne Deutschland GmbH
+- 📍 **Location:** Leipzig, Saxony, Germany
+- 🕒 **Posted:** 2026-10-04
+
+### [Software Engineer (Power Platform)](https://www.linkedin.com/jobs/view/4435393557/) — PwC Singapore
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-10-04
+
+### [Microsoft AI Developer](https://www.linkedin.com/jobs/view/4459871138/) — Capgemini
+- 📍 **Location:** Malmo, Skåne County, Sweden
 - 🕒 **Posted:** 2026-10-03
 
-### [Senior CRM Developer](https://www.linkedin.com/jobs/view/4473458262/) — Reperio Human Capital
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4459873127/) — Capgemini
+- 📍 **Location:** Älmhult, Kronoberg County, Sweden
 - 🕒 **Posted:** 2026-10-03
 
-### [Solution Architect (Power Platform)](https://www.linkedin.com/jobs/view/4473448634/) — Reperio Human Capital
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [Bouvet søker utviklere, techleads og arkitekter med erfaring fra .NET og KI](https://www.linkedin.com/jobs/view/4466402503/) — Bouvet ASA
+- 📍 **Location:** Oslo, Norway
 - 🕒 **Posted:** 2026-10-03
 
-### [D365 CE & Power Platform Developer](https://www.linkedin.com/jobs/view/4473442827/) — Reperio Human Capital
-- 📍 **Location:** Galway, County Galway, Ireland
+### [AI Architect](https://www.linkedin.com/jobs/view/4473462089/) — Aker Solutions
+- 📍 **Location:** Oslo, Oslo, Norway
 - 🕒 **Posted:** 2026-10-03
 
-### [Cloud Solutions Architect (Azure)](https://www.linkedin.com/jobs/view/4473451491/) — Reperio Human Capital
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [AI Platform & Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473457363/) — Aker Solutions
+- 📍 **Location:** Oslo, Oslo, Norway
 - 🕒 **Posted:** 2026-10-03
 
-### [Azure Solution Architect](https://www.linkedin.com/jobs/view/4473449514/) — Reperio Human Capital
-- 📍 **Location:** Dublin, County Dublin, Ireland
+### [.NET software developer](https://www.linkedin.com/jobs/view/4466402330/) — TMC
+- 📍 **Location:** Brussels, Brussels Region, Belgium
 - 🕒 **Posted:** 2026-10-03
 
-### [Senior Full Stack Entwickler:in (C#/.NET & Angular) 80–100 %](https://www.linkedin.com/jobs/view/4475357096/) — Equal.Jobs
-- 📍 **Location:** Winterthur, Zurich, Switzerland
+### [Full Stack Engineer with a strong backend focus in Customer Capabilities Tribe](https://www.linkedin.com/jobs/view/4446755114/) — Danske Bank
+- 📍 **Location:** Vilnius, Vilniaus, Lithuania
 - 🕒 **Posted:** 2026-10-03
