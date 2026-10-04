@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261004-012",
+  "shard_id": "000",
+  "start_index": 0,
+  "job_count": 3,
+  "jobs": [
+    {
+      "company": "BSW General Trading L.L.C",
+      "title": "Full Stack Developer",
+      "location": "Dubai, DU, AE",
+      "url": "https://ae.indeed.com/viewjob?jk=05a287a422699ce3",
+      "direct_url": "http://ae.indeed.com/job/full-stack-developer-05a287a422699ce3",
+      "company_url": "https://ae.indeed.com/cmp/Bsw-General-Trading-L.l.c",
+      "date_posted": "2026-10-04",
+      "description": "**Location:** Dubai, UAE  \n**Residency Requirement:** Candidates must currently reside in Dubai or Sharjah.\n\n**About the Company**  \nWe are a growing technology-driven company operating in the mobile phone and accessories sector, with a focus on building scalable digital solutions and improving our business through technology and innovation.\n\n**About the Role**  \nWe are looking for a capable and proactive **Full Stack Developer** to build, scale, and maintain modern web applications and robust backend services.\n\nKey Responsibilities\n\n* Develop and maintain web applications using **Next.js, React, and TypeScript**.\n* Build backend services and RESTful APIs using **C# and ASP.NET Core**.\n* Design secure, scalable, and high-performance applications.\n* Work with relational databases and optimize SQL queries and performance.\n* Collaborate with the technology team to deliver reliable and maintainable solutions.\n* Follow Git/GitHub workflows, including branching, pull requests, and code reviews.\n\nRequired Skills & Qualifications\n\n* Strong hands-on experience with **Next.js, React, and TypeScript**.\n* Strong knowledge of **C# and ASP.NET Core**.\n* Good understanding of **RESTful APIs, OOP, Dependency Injection, JWT/OAuth, and HTTPS**.\n* Experience with **SQL and relational databases** such as MySQL, PostgreSQL, or SQL Server.\n* Experience with **Entity Framework Core, Dapper**, or similar technologies.\n* Proficiency in **Git and GitHub**.\n* Understanding of modern web rendering strategies such as **SSR, SSG, and CSR**.\n* Experience with **Docker or CI/CD pipelines** is an advantage.\n\nJob Type: Contract\n\nLanguage:\n\n* English (Preferred)\n* Arabic (Preferred)\n\nLocation:\n\n* Dubai (Preferred)\n\nWork Location: In person",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "contract",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed",
+      "source": "Indeed",
+      "job_id": "05a287a422699ce3",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "IDEEMATEC",
+      "title": "Senior Software Engineer | Solar Tracker Platform (gn)",
+      "location": "Wallerfing, Bavaria, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4473497207/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Wir sind IDEEMATEC – ein weltweit führender Hersteller innovativer Solar Tracker für große Photovoltaik-Kraftwerke. Seit über 20 Jahren entwickeln unsere Mitarbeitenden mit Fachwissen, Neugier und Engagement zukunftsweisende Lösungen. Mit über 80 Patenten und mehr als 10 GW installierten Trackern in über 30 Ländern steigern wir weltweit Energieerträge, erhöhen die langfristige Zuverlässigkeit und treiben die Energiewende voran.\n\nAls Senior Software Engineer (gn) prägen Sie Architekturentscheidungen im Team maßgeblich und setzen diese selbst in produktiver Software um. Dabei verbinden Sie moderne Softwareentwicklung mit fundiertem Verständnis für Steuerungs- und Regelungssysteme und entwickeln unsere Plattform konsequent aus der praktischen Umsetzung heraus weiter.\n\nGemeinsam mit Softwareentwicklung, Hardware Engineering, Produktverantwortung und internationalen Partnern gestalten Sie komplexe vernetzte Systeme vom Feldgerät über den Site Controller bis in die Cloud. So gestalten Sie eine langlebige, skalierbare und sichere Plattform mit direktem Einfluss auf Ertrag, Verfügbarkeit und Servicefähigkeit unserer Solarparks.\n\nAufgaben\n\nEntwicklung und technische Weiterentwicklung der Steuerungs- und Datenplattform über Feldgeräte, Site Controller und Cloud hinweg – mit besonderem Fokus auf gerätenahe Software unter Embedded Linux, C oder Rust sowie Integration und Tests direkt an der Hardware\n\nEigenständige Festlegung von Architekturprinzipien, Technologien und langlebigen Schnittstellen sowie Weiterentwicklung von APIs, Datenmodellen und Kommunikationswegen für Feld-, Cloud- und externe Systeme\n\nWeiterentwicklung der Tracking-, Stow- und Optimierungslogik unter Einbindung von Sonnenstand, Wetter- und Forecast-Daten sowie standortspezifischen Bedingungen zur Verbesserung von Ertrag und Anlagenbetrieb\n\nAufbau und Nutzung von Simulationen und Digital Twins sowie Analyse von Flotten- und Zeitreihendaten zur Bewertung von Regelstrategien, Erkennung von Anomalien und Ableitung technischer Verbesserungsmaßnahmen\n\nGestaltung sicherer OTA-Update-Ketten und eines skalierbaren Gerätemanagements für große Geräteflotten unter Berücksichtigung von Geräteidentitäten und signierter Software\n\nSicherstellung der Softwarequalität durch automatisierte Tests, CI/CD, Code Reviews und definierte Abnahmeverfahren einschließlich der fachlichen Qualitätssicherung interner Arbeitsergebnisse und externer Lieferungen\n\nVerantwortung für Releasefähigkeit, Skalierbarkeit, Testbarkeit, Wartbarkeit, Rückwärtskompatibilität und Betreibbarkeit der Produktsoftware über den langfristigen Produktlebenszyklus sowie technische Analyse von Störungen aus dem Feldbetrieb\n\nFachliche Anleitung des Entwicklungsteams und technologische Abstimmung mit Produktverantwortung, Projektmanagement, Hardware Engineering, Feldtechnik und internationalen Entwicklungspartnern einschließlich adressatengerechter Kommunikation technischer Sachverhalte\n\nQualifikation\n\nAbgeschlossenes Studium der Informatik, Elektrotechnik, Mechatronik oder eines vergleichbaren Studiengangs\n\nAlternativ eine abgeschlossene Ausbildung im IT-Bereich mit entsprechender Weiterbildung oder vergleichbarer Qualifikation\n\nMehrjährige Berufserfahrung in der Entwicklung produktiver Software für komplexe vernetzte Systeme; idealerweise Erfahrung in einer verantwortlichen Architekturrolle\n\nFundierte Kenntnisse in Linux-/Container-basierter Entwicklung, verteilten Systemen und Cloud-Services sowie idealerweise Erfahrung in der gerätenahen Entwicklung mit C oder Rust\n\nFundierte Kenntnisse in industriellen Kommunikationsprotokollen, Datenmodellen und Zeitreihendaten, beispielsweise Modbus, MQTT und SCADA-Integration\n\nSicherer Umgang mit CI/CD sowie automatisierten Test- und Abnahmeverfahren; Erfahrung in der fachlichen Zusammenarbeit mit externen Entwicklungspartnern von Vorteil\n\nSehr gute Deutsch- und Englischkenntnisse\n\nBenefits\n\nWir schätzen offene Kommunikation, unterstützen Ihre berufliche Weiterentwicklung und geben Ihnen vom ersten Tag an die Freiheit, Verantwortung zu übernehmen. Mit spannenden internationalen Projekten und einem starken Sinn für Purpose bietet die Ideematec einen Arbeitsplatz, an dem Ihre Arbeit Wirkung zeigt und Ihre Stärken wirklich etwas bewegen.\n\nWas Sie bei uns erwartet:\n\nKurze Entscheidungswege und eine offene, internationale Kultur, in der Ihre Ideen Gehör finden\n\nHohe Eigenverantwortung ab Tag 1 – wir vertrauen Ihnen und fördern Ihren Gestaltungswillen\n\nStrukturiertes Onboarding plus Zeit und Budget für Weiterentwicklung, die Sie wirklich weiterbringt\n\nModerne Ausstattung und ein flexibles, hybrides Arbeitsmodell (vor Ort, remote oder hybrid)\n\n30 Tage Urlaub und flexible Arbeitszeiten mit Überstundenausgleich für echte Work-Life-Balance\n\n50 € steuerfreie Monatszuwendung als Shopping-Card\n\nAttraktive betriebliche Altersvorsorge mit 20 % Arbeitgeberzuschuss\n\nMehr Flexibilität durch die Möglichkeit, zeitweise aus dem Ausland zu arbeiten\n\nFirmenrad-Leasing und ein umfangreiches Corporate-Benefits-Programm\n\nWir freuen uns darauf, von Ihnen zu hören und Ihre Bewerbung zu erhalten. Was wir im ersten Schritt von Ihnen benötigen:\n\nIhren aussagekräftigen Lebenslauf\n\nIhre Verfügbarkeit\n\nAngaben zu Ihrer Gehaltsvorstellung\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nRenewable Energy Semiconductor Manufacturing",
+      "source": "LinkedIn",
+      "job_id": "4473497207",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "TAKKT Group",
+      "title": "Senior ERP Developer (gn)",
+      "location": "Budapest, Budapest, Hungary",
+      "url": "https://www.linkedin.com/jobs/view/4387315749/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We shape the future of work – shape it with us!\n\nWe are TAKKT – an international, listed company with strong brands such as kaiserkraft, ratioform, BIGDUG, FRANKEL, Gerdmans and Runelandhs. As a leading provider in B2B omnichannel commerce, we create powerful and sustainable solutions that make working life easier and better.\n\nWe are looking for motivated people who want to contribute shaping the workplaces of tomorrow.\n\nJoin the TAKKT Group –\nwe are looking for motivated employees in Budapest to strengthen our team as Senior ERP Developer (gn)\nto shape new worlds of work!\n\nKey Responsibilities:\n\nLead ERP Development – Improve and customize our ERP system for scalability.\nMentor and Guide Teams – Provide technical support and leadership to the development team.\nEnsure Quality and Agile Delivery – Manage implementation using SCRUM/Kanban frameworks.\nCollaborate Across Teams – Work closely with IT leadership and ERP specialists.\nDrive Innovation – Implement modern engineering practices like CI/CD, automated testing, and version control.\n\nProfessional Requirements:\n\nProven leadership in ERP/CRM development, especially with Microsoft D365 F&O.\nStrong technical expertise in X++, .NET, Power Platform, and software development best practices.\nAbility to collaborate across teams, lead projects, and ensure continuous improvement.\nStrategic thinker with strong problem-solving skills.\nYou are passionate about driving innovation and improving ERP systems.\nFluent English (German is a plus).\n\nWhy Join Us?\n\nWork in an innovative, collaborative environment that encourages professional growth.\nOpportunity to shape the future of integration and automation technologies.\nCompetitive salary and benefits package.\nFlexible work options to help balance your personal and professional life.\nSZÉP card\nPrivate health insurance after the 3 months probation\nModern office location with ergonomic workspaces, and an collaborative atmosphere\nFlexible working hours with a hybrid model\n\nInterested? Then join our team and become part of TAKKT Group, a listed company! We are the leading provider in B2B omnichannel commerce for business equipment and are looking for motivated individuals to shape the future of work with us. With our successful brands like BIGDUG, Gerdmans, Kaiserkraft, Ratioform and Runelandhs we work every day on innovative and sustainable solutions and products that make the workday of our customers, and our own, the best it can be. Apply now, become part of our team and shape new worlds of work!\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nWholesale",
+      "source": "LinkedIn",
+      "job_id": "4387315749",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
