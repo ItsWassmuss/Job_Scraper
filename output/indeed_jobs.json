@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 12:17 UTC",
+  "scraped_at": "2026-10-04 13:17 UTC",
   "total": 15,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jumbo Supermarkten",
@@ -274,60 +274,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Worxwide Consulting",
-      "title": "Salesforce Developer",
-      "location": "London, ENG, GB",
-      "url": "https://uk.indeed.com/viewjob?jk=b213f34ad7b2f3a2",
-      "direct_url": "http://uk.indeed.com/job/salesforce-developer-b213f34ad7b2f3a2",
-      "company_url": "https://uk.indeed.com/cmp/Worxwide-Consulting",
-      "date_posted": "2026-10-04",
-      "description": "**Job Summary**\n\nWe are seeking a dynamic and innovative Salesforce Developer to join our vibrant technology team. In this role, you will be responsible for designing, developing, and implementing customized Salesforce solutions that enhance our customer relationship management capabilities. Your expertise will drive seamless integration with various platforms and ensure our Salesforce environment operates efficiently and securely. This is an exciting opportunity to leverage your technical skills to deliver impactful solutions that support our business growth and improve user experience.\n\n**Duties**\n\n* Develop, customize, and optimize Salesforce applications using Apex, Visualforce, Lightning Components, and other Salesforce tools to meet business requirements.\n* Integrate Salesforce with external systems through APIs, REST services, and other middleware solutions to ensure data consistency and real-time updates.\n* Collaborate with stakeholders to gather requirements, translate them into technical specifications, and deliver scalable solutions.\n* Maintain version control using SVN or GitHub, ensuring code quality and proper documentation throughout the development lifecycle.\n* Perform troubleshooting, debugging, and performance tuning of Salesforce applications to maximize efficiency.\n* Support deployment processes by managing release cycles, conducting testing, and ensuring smooth transitions between environments.\n* Stay current with Salesforce platform updates and industry best practices to continually improve system functionality.\n\n**Requirements**\n\n* Proven experience in software development with a strong focus on application development within the Salesforce ecosystem.\n* Proficiency in programming languages such as JavaScript, Java, C#, Python, Ruby on Rails, C++, C, VBA, and.NET frameworks.\n* Hands-on experience working with APIs (RESTful services), SQL databases (MySQL, MS SQL), and cloud platforms like AWS or Azure.\n* Familiarity with version control systems including GitHub and SVN for managing code repositories.\n* Knowledge of front-end development techniques including Lightning Web Components (LWC) and Visualforce pages.\n* Experience working on Linux environments and utilizing tools like Git for collaboration.\n* Strong understanding of software development best practices including Agile methodologies and continuous integration/continuous deployment (CI/CD).\n* Excellent problem-solving skills with the ability to analyze complex issues quickly and effectively.\n* Effective communication skills to collaborate across teams and translate technical concepts for non-technical stakeholders.\n\nJoin us as a Salesforce Developer to be at the forefront of innovative technology solutions! Your expertise will help shape our digital future while providing enriching opportunities for professional growth in a fast-paced environment committed to excellence.\n\nPay: Up to £70,000.00 per year\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "GBP",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "STMicroelectronics",
-      "title": "Test Software Developer",
-      "location": "Singapore, S00, SG",
-      "url": "https://sg.indeed.com/viewjob?jk=c1176378835c1243",
-      "direct_url": "https://stmicroelectronics.eightfold.ai/careers/job/563637173406800",
-      "company_url": "https://sg.indeed.com/cmp/Stmicroelectronics",
-      "date_posted": "2026-10-04",
-      "description": "**OUR STORY**\n\n  \n\n**At STMicroelectronics, we believe in the power of technology to drive innovation and make a positive impact on people, businesses, and society. As a global semiconductor company, our advanced technologies and chips form the hidden foundation of the world we live in today.**\n\n  \n\n**When you join ST, you will be part of a global business with more than 115 nationalities, present in 40 countries, and comprising over 50,000 diverse and dedicated creators and makers of technology around the world.**\n\n  \n\n**Developing technologies takes more than talent: it takes amazing people who understand collaboration and respect. People with passion and the desire to disrupt the status quo, drive innovation, and unlock their own potential.**\n\n**Embark on a journey with us, where you can innovate for a future that we want to make smarter and greener, in a responsible and sustainable way. Our technology starts with you.**\n\n**YOUR ROLE**\n\nWe are seeking a motivated and detail-oriented engineering professional to join our Test R&D Software Solution team within the Global Technology R&D organization. You will be responsible for developing automation and robotics solutions, overseeing the development of all software applications. You will work in an international, multidisciplinary, and multicultural environment, interacting with factories, IT, product groups, quality, finance, suppliers, and executive management.\n\n  \n\n**Key Responsibilities**\n\nYou will be contributing to implementing ST's vision and roadmap towards Industry 4.0 with below key responsibilities:\n\n* Analyzing processes to automate them using standard technology bricks\n* Developing prototypes and software solutions internally or through external suppliers\n* Conducting technical and economic benchmarks between different software solutions\n* Building and coordinating software development projects, evaluating their costs, benefits, risks, and issues\n* Reporting the project status to executive managers\n  \n\n**YOUR SKILLS & EXPERIENCES**\n\n* Master's degree in computer engineering, electronic engineering, computer science\n* Excellent knowledge of the English language, both written and spoken\n* Knowledge of C#, C++ languages and solid foundations in object-oriented programming\n* Knowledge of Java\n* Knowledge of Python\n* Knowledge of Git and versioning in general\n* Knowledge of databases and SQL, SQLite languages\n* Knowledge of XML and XSD formats\n* 1-2 years' experience in the industrial automation sector, preferably in the semiconductor sector\n\nST is proud to be one of the 17 companies certified as a 2025 Global Top Employer and the first and only semiconductor company to achieve this distinction. ST was recognized in this ranking thanks to its continuous improvement approach and stands out particularly in the areas of ethics & integrity, purpose & values, organization & change, business strategy, and performance.\n\nAt ST, we endeavor to foster a diverse and inclusive workplace, and we do not tolerate discrimination. We aim to recruit and retain a diverse workforce that reflects the societies around us. We strive for equity in career development, career opportunities, and equal remuneration. We encourage candidates who may not meet every single requirement to apply, as we appreciate diverse perspectives and provide opportunities for growth and learning. Diversity, equity, and inclusion (DEI) is woven into our company culture.\n\n  \n  \n\nTo discover more, visit st.com/careers.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "STMicroelectronics",
-      "title": "Senior Test Software Developer",
-      "location": "Singapore, S00, SG",
-      "url": "https://sg.indeed.com/viewjob?jk=eb8d6a301af56164",
-      "direct_url": "https://stmicroelectronics.eightfold.ai/careers/job/563637173406799",
-      "company_url": "https://sg.indeed.com/cmp/Stmicroelectronics",
-      "date_posted": "2026-10-04",
-      "description": "**OUR STORY**\n\n  \n\n**At STMicroelectronics, we believe in the power of technology to drive innovation and make a positive impact on people, businesses, and society. As a global semiconductor company, our advanced technologies and chips form the hidden foundation of the world we live in today.**\n\n  \n\n**When you join ST, you will be part of a global business with more than 115 nationalities, present in 40 countries, and comprising over 50,000 diverse and dedicated creators and makers of technology around the world.**\n\n  \n\n**Developing technologies takes more than talent: it takes amazing people who understand collaboration and respect. People with passion and the desire to disrupt the status quo, drive innovation, and unlock their own potential.**\n\n**Embark on a journey with us, where you can innovate for a future that we want to make smarter and greener, in a responsible and sustainable way. Our technology starts with you.**\n\n**YOUR ROLE**\n\nWe are seeking a motivated and detail-oriented engineering professional to join our Test R&D Software Solution team within the Global Technology R&D organization. You will be responsible for developing automation and robotics solutions, overseeing the development of all software applications. You will work in an international, multidisciplinary, and multicultural environment, interacting with factories, IT, product groups, quality, finance, suppliers, and executive management.\n\n  \n\n**Key Responsibilities**\n\nYou will be contributing to implementing ST's vision and roadmap towards Industry 4.0 with below key responsibilities:\n\n* Analyzing processes to automate them using standard technology bricks\n* Developing prototypes and software solutions internally or through external suppliers\n* Conducting technical and economic benchmarks between different software solutions\n* Building and coordinating software development projects, evaluating their costs, benefits, risks, and issues\n* Reporting the project status to executive managers\n  \n\n**YOUR SKILLS & EXPERIENCES**\n\n* Master's degree in computer engineering, electronic engineering, computer science\n* Excellent knowledge of the English language, both written and spoken\n* At least five years of experience in the industrial automation sector, preferably in the semiconductor sector\n* Knowledge of C#, C++ languages and solid foundations in object-oriented programming\n* Knowledge of Java\n* Knowledge of Python\n* Knowledge of Git and versioning in general\n* Knowledge of databases and SQL, SQLite languages\n* Knowledge of XML and XSD formats\n\nST is proud to be one of the 17 companies certified as a 2025 Global Top Employer and the first and only semiconductor company to achieve this distinction. ST was recognized in this ranking thanks to its continuous improvement approach and stands out particularly in the areas of ethics & integrity, purpose & values, organization & change, business strategy, and performance.\n\nAt ST, we endeavor to foster a diverse and inclusive workplace, and we do not tolerate discrimination. We aim to recruit and retain a diverse workforce that reflects the societies around us. We strive for equity in career development, career opportunities, and equal remuneration. We encourage candidates who may not meet every single requirement to apply, as we appreciate diverse perspectives and provide opportunities for growth and learning. Diversity, equity, and inclusion (DEI) is woven into our company culture.\n\n  \n  \n\nTo discover more, visit st.com/careers.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
