@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 17:17 UTC",
+  "scraped_at": "2026-10-04 18:17 UTC",
   "total": 14,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jumbo Supermarkten",
@@ -256,24 +256,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "BSW General Trading L.L.C",
-      "title": "Full Stack Developer",
-      "location": "Dubai, DU, AE",
-      "url": "https://ae.indeed.com/viewjob?jk=05a287a422699ce3",
-      "direct_url": "http://ae.indeed.com/job/full-stack-developer-05a287a422699ce3",
-      "company_url": "https://ae.indeed.com/cmp/Bsw-General-Trading-L.l.c",
-      "date_posted": "2026-10-04",
-      "description": "**Location:** Dubai, UAE  \n**Residency Requirement:** Candidates must currently reside in Dubai or Sharjah.\n\n**About the Company**  \nWe are a growing technology-driven company operating in the mobile phone and accessories sector, with a focus on building scalable digital solutions and improving our business through technology and innovation.\n\n**About the Role**  \nWe are looking for a capable and proactive **Full Stack Developer** to build, scale, and maintain modern web applications and robust backend services.\n\nKey Responsibilities\n\n* Develop and maintain web applications using **Next.js, React, and TypeScript**.\n* Build backend services and RESTful APIs using **C# and ASP.NET Core**.\n* Design secure, scalable, and high-performance applications.\n* Work with relational databases and optimize SQL queries and performance.\n* Collaborate with the technology team to deliver reliable and maintainable solutions.\n* Follow Git/GitHub workflows, including branching, pull requests, and code reviews.\n\nRequired Skills & Qualifications\n\n* Strong hands-on experience with **Next.js, React, and TypeScript**.\n* Strong knowledge of **C# and ASP.NET Core**.\n* Good understanding of **RESTful APIs, OOP, Dependency Injection, JWT/OAuth, and HTTPS**.\n* Experience with **SQL and relational databases** such as MySQL, PostgreSQL, or SQL Server.\n* Experience with **Entity Framework Core, Dapper**, or similar technologies.\n* Proficiency in **Git and GitHub**.\n* Understanding of modern web rendering strategies such as **SSR, SSG, and CSR**.\n* Experience with **Docker or CI/CD pipelines** is an advantage.\n\nJob Type: Contract\n\nLanguage:\n\n* English (Preferred)\n* Arabic (Preferred)\n\nLocation:\n\n* Dubai (Preferred)\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
