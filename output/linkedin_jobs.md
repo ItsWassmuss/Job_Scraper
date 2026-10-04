@@ -1,28 +1,72 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-04 17:27 UTC*
+*Last updated: 2026-10-04 18:28 UTC*
 
-**6 new role(s)** since last run · 78 total in last 6h
+**17 new role(s)** since last run · 82 total in last 6h
 
-### [Medior Quality Assurance Engineer](https://www.linkedin.com/jobs/view/4447538547/) — PLUS Retail
-- 📍 **Location:** Utrecht, Utrecht, Netherlands
+### [Senior Software Engineer  Lab Automation](https://www.linkedin.com/jobs/view/4457357383/) — Roche
+- 📍 **Location:** Penzberg, Bavaria, Germany
 - 🕒 **Posted:** 2026-10-04
 
-### [(Junior) Softwareentwickler C# / .Net (m/w/d)](https://www.linkedin.com/jobs/view/4438581367/) — FERCHAU
-- 📍 **Location:** Karlsruhe, Baden-Württemberg, Germany
+### [Senior Software Developer: Python (80%) / .NET (20%)](https://www.linkedin.com/jobs/view/4473602053/) — İK Kampüsü | İnsan Kaynakları ve Kariyer Danışmanlık Hizmetleri
+- 📍 **Location:** Berlin, Germany
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Business Applications Consultant* - Microsoft Dynamics 365 & Power Platform](https://www.linkedin.com/jobs/view/4457872918/) — BTC - Business Technology Consulting AG
-- 📍 **Location:** Oldenburg, Lower Saxony, Germany
+### [Senior Backend Developer](https://www.linkedin.com/jobs/view/4430901861/) — Danfoss
+- 📍 **Location:** Grodzisk Mazowiecki, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Software Engineer | Solar Tracker Platform (gn)](https://www.linkedin.com/jobs/view/4473497207/) — IDEEMATEC
-- 📍 **Location:** Wallerfing, Bavaria, Germany
+### [Cloud Solution Architect](https://www.linkedin.com/jobs/view/4459873129/) — Capgemini
+- 📍 **Location:** Malmo, Skåne County, Sweden
 - 🕒 **Posted:** 2026-10-04
 
-### [IT&Data - Solution Architect (H/F)](https://www.linkedin.com/jobs/view/4430709317/) — Danone
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
+### [Senior .NET Desktop Developer](https://www.linkedin.com/jobs/view/4411725296/) — Analog Devices
+- 📍 **Location:** Limerick, County Limerick, Ireland
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior ERP Developer (gn)](https://www.linkedin.com/jobs/view/4387315749/) — TAKKT Group
+### [Portfolio Architect](https://www.linkedin.com/jobs/view/4429327742/) — Basware
+- 📍 **Location:** Pori, Satakunta, Finland
+- 🕒 **Posted:** 2026-10-04
+
+### [Solution Architect](https://www.linkedin.com/jobs/view/4025788517/) — AvePoint
+- 📍 **Location:** Singapore
+- 🕒 **Posted:** 2026-10-04
+
+### [Software Engineer Intern (C#)](https://www.linkedin.com/jobs/view/4402268285/) — Thales
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-10-04
+
+### [Manufacturing Software Engineer (Fullstack)](https://www.linkedin.com/jobs/view/4410994939/) — Thales
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-10-04
+
+### [CRM & Power Platform Consultant (m/w/d)](https://www.linkedin.com/jobs/view/4474226158/) — Rocken®
+- 📍 **Location:** Zurich, Zurich, Switzerland
+- 🕒 **Posted:** 2026-10-04
+
+### [ICT System Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4474212743/) — Rocken®
+- 📍 **Location:** Lucerne, Lucerne, Switzerland
+- 🕒 **Posted:** 2026-10-04
+
+### [System Engineer Cloud & Infrastruktur (m/w/d)](https://www.linkedin.com/jobs/view/4474227150/) — Rocken®
+- 📍 **Location:** Lucerne, Lucerne, Switzerland
+- 🕒 **Posted:** 2026-10-04
+
+### [IT System Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4474224255/) — Rocken®
+- 📍 **Location:** Aarau, Aargau, Switzerland
+- 🕒 **Posted:** 2026-10-04
+
+### [Technical Architect](https://www.linkedin.com/jobs/view/4418781200/) — Sage
+- 📍 **Location:** Barcelona, Catalonia, Spain
+- 🕒 **Posted:** 2026-10-04
+
+### [.NET Developer](https://www.linkedin.com/jobs/view/4475507331/) — Hexa Consulting
+- 📍 **Location:** Lisbon, Portugal
+- 🕒 **Posted:** 2026-10-04
+
+### [Player Management - Backend Software Engineer](https://www.linkedin.com/jobs/view/4380319976/) — Betsson Group
 - 📍 **Location:** Budapest, Budapest, Hungary
+- 🕒 **Posted:** 2026-10-04
+
+### [Senior Solutions Architect](https://www.linkedin.com/jobs/view/4417258312/) — Anotech
+- 📍 **Location:** Doha, Doha, Qatar
 - 🕒 **Posted:** 2026-10-04
