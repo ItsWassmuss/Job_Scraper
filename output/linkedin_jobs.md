@@ -1,88 +1,44 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-04 09:23 UTC*
+*Last updated: 2026-10-04 10:24 UTC*
 
-**21 new role(s)** since last run · 38 total in last 6h
+**10 new role(s)** since last run · 47 total in last 6h
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4370723110/) — Suitsupply
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
+### [Cloud Data Architect (Manager) | Engineering](https://www.linkedin.com/jobs/view/4445533346/) — Deloitte
+- 📍 **Location:** Cracow, Małopolskie, Poland
 - 🕒 **Posted:** 2026-10-04
 
-### [.NET Developer - WFH](https://www.linkedin.com/jobs/view/4475367563/) — Torentify
-- 📍 **Location:** Netherlands
+### [Software Developer Graduate: September 2027 Dublin](https://www.linkedin.com/jobs/view/4454665086/) — Susquehanna International Group
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-04
 
-### [Full-Stack Developer - Remote](https://www.linkedin.com/jobs/view/4475366571/) — Torentify
-- 📍 **Location:** Netherlands
+### [Senior Principal software engineer](https://www.linkedin.com/jobs/view/4457344946/) — SimCorp
+- 📍 **Location:** Copenhagen, Capital Region of Denmark, Denmark
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474200517/) — Haystack
-- 📍 **Location:** Berlin Metropolitan Area
+### [Senior Associate/Assistant Vice President, Full Stack Agentic AI Engineer](https://www.linkedin.com/jobs/view/4445514359/) — Temasek
+- 📍 **Location:** Singapore, Singapore
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4474206378/) — Haystack
-- 📍 **Location:** Berlin Metropolitan Area
+### [Senior Software Developer D365 F&SCM](https://www.linkedin.com/jobs/view/4409932475/) — Jan De Nul Group
+- 📍 **Location:** Aalst, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-10-04
 
-### [.Net Developer](https://www.linkedin.com/jobs/view/4475379146/) — AgileGrid Solutions
-- 📍 **Location:** Germany
+### [Senior Full Stack Entwickler:in (C#/.NET & Angular) 80–100 %](https://www.linkedin.com/jobs/view/4475364851/) — Winti.Jobs | Das Jobportal für Winterthur & Region
+- 📍 **Location:** Winterthur, Zurich, Switzerland
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474213053/) — Haystack
-- 📍 **Location:** Bavaria, Germany
-- 🕒 **Posted:** 2026-10-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474204404/) — Haystack
-- 📍 **Location:** Germany
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4473898592/) — Haystack
-- 📍 **Location:** Berlin Metropolitan Area
-- 🕒 **Posted:** 2026-10-04
-
-### [(Senior) Software Engineer (Customer Identity) (m/f/d)](https://www.linkedin.com/jobs/view/4475371499/) — Riverty
-- 📍 **Location:** Stockholm, Stockholm County, Sweden
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Software & Connectivity Support Engineer (German Speaker)](https://www.linkedin.com/jobs/view/4427362746/) — Eaton
-- 📍 **Location:** Istanbul, Istanbul, Türkiye
-- 🕒 **Posted:** 2026-10-04
-
-### [DevOps Engineer - Digital Business](https://www.linkedin.com/jobs/view/4444592722/) — Cegeka
-- 📍 **Location:** Flemish Region, Belgium
-- 🕒 **Posted:** 2026-10-04
-
-### [Agentic Full Stack Engineer im IT-Consulting (German-speaking)](https://www.linkedin.com/jobs/view/4473484027/) — ipt Innovation Process Technology
-- 📍 **Location:** Zurich, Switzerland
-- 🕒 **Posted:** 2026-10-04
-
-### [Technical Engineer im IT-Consulting (German-speaking)](https://www.linkedin.com/jobs/view/4473467871/) — ipt Innovation Process Technology
-- 📍 **Location:** Zurich, Switzerland
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior Azure Engineer im IT-Consulting (German-speaking)](https://www.linkedin.com/jobs/view/4473481311/) — ipt Innovation Process Technology
-- 📍 **Location:** Zurich, Switzerland
-- 🕒 **Posted:** 2026-10-04
-
-### [Software Engineer (m/w/d)](https://www.linkedin.com/jobs/view/4475377308/) — Riverty
+### [Senior Full Stack Developer .NET (w/m/d)](https://www.linkedin.com/jobs/view/4473473720/) — Delegate Group
 - 📍 **Location:** Vienna, Vienna, Austria
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior Software Engineer (m/w/d) – Full Stack & DevOps](https://www.linkedin.com/jobs/view/4473477481/) — TCM International Tool Consulting & Management GmbH
-- 📍 **Location:** Stainz, Styria, Austria
+### [Data Platform Engineer (f/m/d)](https://www.linkedin.com/jobs/view/4420473166/) — Axpo Group
+- 📍 **Location:** Madrid, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-10-04
 
-### [Senior .NET Developer | €40K - €60K](https://www.linkedin.com/jobs/view/4474204519/) — Joppy
-- 📍 **Location:** Greater Bilbao Metropolitan Area
+### [Senior C# Developer](https://www.linkedin.com/jobs/view/4388579355/) — BNP Paribas CIB
+- 📍 **Location:** Lisboa, Lisbon, Portugal
 - 🕒 **Posted:** 2026-10-04
 
-### [.Net Software Engineer | €42K - €50K](https://www.linkedin.com/jobs/view/4474202670/) — Joppy
-- 📍 **Location:** Greater Barcelona Metropolitan Area
-- 🕒 **Posted:** 2026-10-04
-
-### [Software Architect (Java or C#)](https://www.linkedin.com/jobs/view/4427362267/) — Intermedia Intelligent Communications
-- 📍 **Location:** Portugal
-- 🕒 **Posted:** 2026-10-04
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4473474458/) — Mowasalat Qatar
-- 📍 **Location:** Doha, Qatar
+### [Chief Security Architect](https://www.linkedin.com/jobs/view/4473898817/) — PW Skills
+- 📍 **Location:** Abu Dhabi Emirate, United Arab Emirates
 - 🕒 **Posted:** 2026-10-04

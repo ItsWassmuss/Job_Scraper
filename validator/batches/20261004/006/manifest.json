@@ -1,0 +1,10 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261004-006",
+  "created_at": "2026-10-04T13:24:55+03:00",
+  "job_count": 5,
+  "finalized": false,
+  "shards": [
+    "000"
+  ]
+}
