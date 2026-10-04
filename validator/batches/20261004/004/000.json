@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261004-004",
+  "shard_id": "000",
+  "start_index": 0,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "ABB",
+      "title": "Sales Configurator Product Modeler / Developer",
+      "location": "Cracow, Małopolskie, Poland",
+      "url": "https://www.linkedin.com/jobs/view/4475373349/",
+      "date_posted": "2026-10-04",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "W firmie ABB\npomagamy przedsiębiorstwom działać sprawniej i czyściej – i każdy człowiek w naszej firmie się do tego przyczynia. Będziesz mieć możliwość przewodzenia, otrzymasz wsparcie w rozwoju i poczujesz dumę z wpływu, jaki wspólnie wywieramy. Dołącz do nas i pomóż zarządzać tym, co napędza świat.\n\nStanowisko To Podlega\n\nInnovation Enablement Manager\n\n__\n\nAs a Sales Configurator Product Modeler / Developer you will be a member of a team developing and maintaining sales configurators solutions supporting the operations and customers of ABB Electrification (EL) - Distribution Solution (ELDS) and Service (ELSE). You will be working in a cross-functional team which operates in an international environment.\n\nIn this role you will be responsible for the modelling and maintenance of distribution systems and service products (switchgears, grid components and service offering ) in the new global ELDS/SE sales configurator platform(s). You will closely collaborate with product sales configurators, portfolio managers and engineers to design, implement, test and troubleshoot the product models. Together with the internal ABB IS and Business Teams you will have unique opportunity to learn the product portfolio and based on that design and deliver the future platform ensuring it meets the needs of our customers and sales team\n\nThe work model for the role is: #hybrid;\n\nYou Will Be Mainly Accountable For\n\nDesign, implement, test, and troubleshoot product models for ELDS and ELSE.\nDevelop the product models as defined by the Product Managers / Sales Configurators Portfolio Managers and Engineers. Ensure product models are well-structured to enable high quality change management and simplify the future maintenance\nCollaborate with relevant IS and Business stakeholders to deliver a user-friendly and efficient Sales Configurator solution.\nWork closely with the platform supplier / implementation partner to ensure the integrity of the product model is guaranteed as the platform evolves.\nProvide technical support, troubleshooting and fixing issues reported by users.\nContribute to the overall sales configurator development process\n\nQualifications For The Role\n\nYou are highly skilled in product modelling and configuration within sales configurator tools and enjoy working in the industrial technology and engineering sector\nYou have established experience in the software development lifecycle, including working with tools such as Azure DevOps\nYou possess solid expertise in programming languages such as .NET, Python, Java, or similar technologies\nYou are highly adept in configurator platforms, with experience in Configit ACE considered an advantage\nYou are passionate about teamwork and collaboration, while also demonstrating a proactive, solution-oriented, and independent working style\nYou are resilient in agile, fast-paced environments and are motivated by continuous learning and development\nYou have proven experience or a strong understanding of industrial product portfolios; knowledge of ABB’s DS and SE Division portfolio is considered a plus\n\nAby zbudować czystszą, mądrzejszą przyszłość, potrzebne są różne umysły: ciekawe, odważne i kreatywne. Dlatego witamy ludzi z każdego środowiska i o różnych doświadczeniach.\n\nChcesz wywrzeć wpływ?\n\nAplikuj już dzisiaj lub odwiedź stronę https://www.abb.com\n, aby dowiedzieć się więcej o wpływie naszych rozwiązań na całym świecie.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nAutomation Machinery Manufacturing",
+      "source": "LinkedIn",
+      "job_id": "4475373349",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
