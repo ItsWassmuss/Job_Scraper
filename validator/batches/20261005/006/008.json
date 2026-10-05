@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261005-006",
+  "shard_id": "008",
+  "start_index": 40,
+  "job_count": 2,
+  "jobs": [
+    {
+      "company": "Datacube Consultancy & Solutions",
+      "title": "ASP.Net & Sitecore Engineer",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4475542928/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nDatacube Consultancy & Solutions is a leading IT services company headquartered in Abu Dhabi, UAE, with an offshore delivery center in India. The organization is known for delivering cutting-edge information technology services that are client-focused, efficient, affordable, and on time. Datacube has strong capabilities in implementing and supporting ERP applications, data management services, and advanced analytics for both large enterprises and SMEs. The company provides consulting and IT services across a diversified range of industries, offering opportunities to work on complex and varied business challenges. Team members collaborate in a dynamic environment focused on high-quality delivery and long-term client partnerships.\n\nRole Description\n\nWe are looking for an experienced ASP.Net & Sitecore Engineer\nto join the Information Technology – Service Delivery\nteam of a leading banking organization in Abu Dhabi.\n\nKey Requirements • 7–10 years\nof experience in Sitecore implementation & support\n\n• Strong hands-on experience with Sitecore CMS – Sitecore 10 / XM Cloud\n\n• Experience with C#, ASP.NET, MVC, .NET Core, Razor, JavaScript, HTML5, CSS3, jQuery & T-SQL\n\n• Strong knowledge of Sitecore SXA, JSS, Headless, Forms & Cortex\n\n• Experience with Sitecore Search & SOLR Search\n\n• Hands-on experience with Sitecore JSS, React & Next.js\n\n• Experience with Sitecore xDB & personalization\n\n• Knowledge of Web API, Sitecore packages, publishing, workflows & custom fields\n\n• Experience with Azure deployment\nis a strong advantage\n• Experience with Unicorn/TDS\nis a plus\n• Sitecore 10 XP Developer Certification\nis an advantage\n• Experience in Sitecore 10 → XM Cloud migration\nand Sitecore AI\nis preferred\n• Strong understanding of Agile development & SDLC\n\nWhat You'll Do ✔ Develop and maintain Sitecore solutions based on business requirements\n✔ Design and maintain key Sitecore components\n✔ Integrate Sitecore with other enterprise systems\n✔ Troubleshoot, track and resolve application issues\n✔ Prepare technical documentation, test cases and release documentation\n✔ Coordinate with QA and development teams\n✔ Build POCs and implement Sitecore best practices\n✔ Support application administration in non-production environments\n✔ Conduct knowledge transfer to support teams\n\nWe’re looking for someone who is technically strong, collaborative, detail-oriented and comfortable working in a banking/enterprise technology environment.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4475542928",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "DraftKings Inc.",
+      "title": "Fullstack Engineer",
+      "location": "Sofia, Sofia City, Bulgaria",
+      "url": "https://www.linkedin.com/jobs/view/4474259536/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold ideas. It’s transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized by innovation and readily embrace emerging technology. We’re not waiting for the future to arrive. We’re shaping it, one bold step at a time. To those who see AI as a driver of progress, come build the future together.\n\nThe Crown Is Yours\n\nAs a Fullstack Engineer, you will play a pivotal role in the expansion of our enterprise software platform—an ecosystem of microservices that manages casino gameplay operations and financial transactions, featuring high-performing APIs that deliver content to end users. Our engineering division is composed of many tight-knit and stable teams that each own a specific area of our platform all the way from the UI to the database. Joining our Casino Platform team you'll sharpen your skills alongside experienced engineers in a team that delivers fast and builds with intention.\n\nWhat You'll Do as a Fullstack Engineer:\n\nContribute to fullstack feature development in close collaboration with senior engineers.\nWrite clean, reliable, and well-tested code that supports scalable systems.\nJoin architecture and design discussions to understand tradeoffs and priorities.\nDeploy applications on AWS platforms.\nUse observability tools to troubleshoot issues and monitor system health.\nSupport deployment and on-call workflows to ensure reliability of team-owned systems.\nApply feedback, ask thoughtful questions, and continuously grow your skills.\nWork as part of a team that prioritizes speed, quality, and continuous learning.\n\nWhat You'll Bring\n\nBachelor's degree in computer science or any suitable combination of education, experience, and training.\nAt least 2 yearс of experience as a Software Engineer using languages such as C#, ASP.NET (.NET 8+), React, and TypeScript.\nUnderstanding of PostgreSQL and MySQL databases.\nStrong foundation in object-oriented programming, design patterns, and core algorithms.\nConfidence working across both front-end and back-end layers in distributed, cloud-based architectures.\nCuriosity about how systems work under the hood and an interest in architecture beyond your own code.\nA sense of ownership, a willingness to ask for help, and the drive to keep improving your craft.\nAgile methodology experience is an advantage.\n\nJoin Our Team\n\nWe’re a publicly traded (NASDAQ: DKNG) technology company headquartered in Boston. As a regulated gaming company, you may be required to obtain a gaming license issued by the appropriate state agency as a condition of employment. Don’t worry, we’ll guide you through the process if this is relevant to your role.\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development and Spectator Sports",
+      "source": "LinkedIn",
+      "job_id": "4474259536",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
