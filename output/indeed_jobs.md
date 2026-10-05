@@ -1,35 +1,44 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-05 02:17 UTC*
+*Last updated: 2026-10-05 07:17 UTC*
 
-**5 new role(s)** since last run · 18 total in last 24h
+**6 new role(s)** since last run · 22 total in last 24h
 
-### [Application engineer Industrial Automation](https://nl.indeed.com/viewjob?jk=e77264410dec1120) — Wolf Groep
-- 📍 **Location:** Leiden, ZH, NL
-- 💰 **Salary:** $3200–$4800/mo
+### [Senior Full Stack Developer .NET / Azure](https://sg.indeed.com/viewjob?jk=2c339135e8651065) — FUKU
+- 📍 **Location:** Singapore, S00, SG
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Application engineer Industrial Automation](https://nl.indeed.com/viewjob?jk=f6efcc8e5289210c) — Wolf Groep
-- 📍 **Location:** Amersfoort, UT, NL
-- 💰 **Salary:** $3200–$4800/mo
+### [Automation Control Software Engineer (PLC/HMI)](https://sg.indeed.com/viewjob?jk=df993ac43eda60a3) — ACCUSYS PTE. LTD.
+- 📍 **Location:** Ubi, S00, SG
+- 💰 **Salary:** $4000–$5000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Application Engineer – Machine Vision & Automation](https://sg.indeed.com/viewjob?jk=c93ed5696e04fd8b) — ACCUSYS PTE. LTD.
+- 📍 **Location:** Ubi, S00, SG
+- 💰 **Salary:** $2000–$4500/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [SOFTWARE ENGINEER](https://sg.indeed.com/viewjob?jk=a3b973e14c876084) — ICAS Technology (S) Pte Ltd
-- 📍 **Location:** Serangoon, S00, SG
-- 💰 **Salary:** $3000–$5000/mo
+### [Java Developer](https://sg.indeed.com/viewjob?jk=941145b34689181f) — Trinity HR Solutions Pte. Ltd.
+- 📍 **Location:** Singapore, S00, SG
+- 💰 **Salary:** $5000–$6000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-04
+- 🕒 **Posted:** 2026-10-05
 
-### [Python/DevSecOps Engineer - od backendu až po CI/CD a security](https://cz.indeed.com/viewjob?jk=f3ca9ebc763df189) — Adastra
-- 📍 **Location:** Praha 8, A, CZ
+### [Software Developer (C++) — AMK](https://sg.indeed.com/viewjob?jk=7d106b18a2e94ca0) — Combuilder Pte Ltd
+- 📍 **Location:** Ang Mo Kio, S00, SG
+- 💰 **Salary:** $4000–$4800/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-04
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-10-05
 
-### [Fullstack Developer .NET / Sitecore (all genders) 80 - 100 %](https://ch.indeed.com/viewjob?jk=7151ffac65569264) — Suva
-- 📍 **Location:** Luzern, LU, CH
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-04
+### [.NET Developer](https://sg.indeed.com/viewjob?jk=fa7c1928100764ea) — Trinity HR Solutions Pte. Ltd.
+- 📍 **Location:** Singapore, S00, SG
+- 💰 **Salary:** $5500–$7000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
