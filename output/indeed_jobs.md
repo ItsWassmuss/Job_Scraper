@@ -1,78 +1,71 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-05 19:18 UTC*
+*Last updated: 2026-10-05 20:28 UTC*
 
-**13 new role(s)** since last run · 151 total in last 24h
+**12 new role(s)** since last run · 159 total in last 24h
 
-### [Senior Electrical Engineer](https://uk.indeed.com/viewjob?jk=5bfdce2a2f867252) — Amentum
-- 📍 **Location:** Newcastle upon Tyne, ENG, GB
+### [Senior Software Developer C++/C#/.NET (m/w/d)](https://de.indeed.com/viewjob?jk=4f2eae5efed4e1e8) — GBS Europa GmbH
+- 📍 **Location:** Karlsruhe, BW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Architect Engineer - Engineering Manager](https://uk.indeed.com/viewjob?jk=6d13bcd74350095f) — Amentum
-- 📍 **Location:** Remote, GB
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Electrical Engineer](https://uk.indeed.com/viewjob?jk=0411382ad3e23cfb) — Amentum
-- 📍 **Location:** Risley, ENG, GB
+### [Senior Software Platform Engineer (m/w/d)](https://de.indeed.com/viewjob?jk=f86c000d115d6a3c) — PMX GmbH
+- 📍 **Location:** Oberkochen, BW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Architect Engineer - Engineering Manager](https://uk.indeed.com/viewjob?jk=e4c51046356ae1e8) — Amentum
+### [Senior Software Engineer- London](https://uk.indeed.com/viewjob?jk=029ecd4b35e5cae9) — FDM Group
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Architect Engineer - Engineering Manager](https://uk.indeed.com/viewjob?jk=381320aaf5826206) — Amentum
-- 📍 **Location:** Leiston, ENG, GB
+### [Full Stack Developer – Treasury Technology](https://uk.indeed.com/viewjob?jk=63736886f25227b3) — Millennium Management
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Junior Software Developer-Sharepoint](https://pl.indeed.com/viewjob?jk=75380cfacd660434) — SEIDOR
+- 📍 **Location:** Warszawa, MZ, PL
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Software Engineer 2](https://pl.indeed.com/viewjob?jk=4e0c93c615fbca23) — Cencora
+- 📍 **Location:** Warszawa, MZ, PL
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior Electrical Engineer](https://uk.indeed.com/viewjob?jk=c835d57cd453ac4c) — Amentum
-- 📍 **Location:** Remote, GB
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Mjukvaruutvecklare / Embedded Software](https://se.indeed.com/viewjob?jk=146af32c19690f26) — Etteplan
-- 📍 **Location:** Jönköping, F, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Software Engineer](https://ie.indeed.com/viewjob?jk=7b0c95dab1f35b61) — NetApp
-- 📍 **Location:** Cork, C, IE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Machine Learning Engineer](https://ie.indeed.com/viewjob?jk=10d405271a4ecc17) — Cpl
-- 📍 **Location:** G, IE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Data and Integration Architect at Plesner](https://dk.indeed.com/viewjob?jk=160ea225b0323d1b) — Plesner
-- 📍 **Location:** København, D84, DK
+### [Software Engineer 1](https://pl.indeed.com/viewjob?jk=c27d7fd62ff04eb0) — Cencora
+- 📍 **Location:** Warszawa, MZ, PL
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [AI Engineer](https://sg.indeed.com/viewjob?jk=eb24c08c8c5a4315) — GenZero
-- 📍 **Location:** Battery Road, S00, SG
+### [Senior Java Fullstack Software Engineer](https://ro.indeed.com/viewjob?jk=584c524369a56074) — Brightgrove
+- 📍 **Location:** București, IF, RO
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Front-End Developer](https://gr.indeed.com/viewjob?jk=57f729082cc636e7) — EY
+### [Senior Full Stack .NET Engineer](https://gr.indeed.com/viewjob?jk=52a26749685b6043) — PwC
 - 📍 **Location:** Αθήνα, GRI, GR
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [AI Developer](https://es.indeed.com/viewjob?jk=96d2684d0ce5535c) — ENCAMINA
-- 📍 **Location:** Sagunto, VC, ES
+### [Fullstack Developer .NET / Sitecore (all genders) 80 - 100 %](https://ch.indeed.com/viewjob?jk=7151ffac65569264) — Suva
+- 📍 **Location:** Luzern, LU, CH
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-04
+
+### [ASP.Net & Sitecore Engineer](https://ae.indeed.com/viewjob?jk=bc0831a3d3a7ac03) — DICETEK LLC
+- 📍 **Location:** Abu Dhabi, AZ, AE
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-05
+
+### [Enterprise Solutions Architect – Asset Strategy Management & Reliability](https://ae.indeed.com/viewjob?jk=02c1fc47632d11a2) — Baker Hughes
+- 📍 **Location:** Dubai, DU, AE
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-05
