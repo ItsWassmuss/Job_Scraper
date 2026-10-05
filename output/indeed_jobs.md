@@ -1,46 +1,45 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-05 10:17 UTC*
+*Last updated: 2026-10-05 11:17 UTC*
 
-**7 new role(s)** since last run · 35 total in last 24h
+**7 new role(s)** since last run · 39 total in last 24h
 
-### [Robotics Integration Engineer (x|f|m)](https://de.indeed.com/viewjob?jk=5cb3e57bdf4c8af3) — Sartorius
-- 📍 **Location:** Göttingen, NI, DE
+### [Service Engineer](https://nl.indeed.com/viewjob?jk=22e8f2b8b5957eb6) — Hytrans
+- 📍 **Location:** Lemmer, FR, NL
+- **Work mode:** On-site
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Software Designer (C++) - Image Guided Therapy](https://nl.indeed.com/viewjob?jk=e77033f03a3e82e1) — Philips
+- 📍 **Location:** Best, NB, NL
+- 💰 **Salary:** $61k–$102k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [GE Vernova Hitachi Nuclear Energy - Engineer - LOCA and Containment Analysis](https://pl.indeed.com/viewjob?jk=35a1bb7ad0ad2f69) — GE Vernova
-- 📍 **Location:** Warszawa, MZ, PL
+### [Technical Product Owner - Image Guided Therapy (Display Software)](https://nl.indeed.com/viewjob?jk=d4dcb67ef134c864) — Philips
+- 📍 **Location:** Best, NB, NL
+- 💰 **Salary:** $78k–$130k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Engineer/Technical Specialist](https://sg.indeed.com/viewjob?jk=83c2fcc175e1b9b8) — Opus IT Services Pte Ltd
-- 📍 **Location:** Ang Mo Kio, S00, SG
-- 💰 **Salary:** $2600–$4000/mo
-- **Work mode:** On-site
-- **Job type:** contract
+### [Director of Engineering - MetaDefender Email Security](https://de.indeed.com/viewjob?jk=262a4cff6e137bf7) — OPSWAT
+- 📍 **Location:** Berlin, BE, DE
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-05
 
-### [Support Engineer](https://ro.indeed.com/viewjob?jk=a95125a67d7b2b5e) — Ciklum
-- 📍 **Location:** RO
+### [Werkstudent (m/w/d), Nebenjob, Ferienarbeit mit Kenntnissen in C++, C#.NET oder HTML](https://de.indeed.com/viewjob?jk=63b335db6e98f149) — Unknown
+- 📍 **Location:** Langenau, BW, DE
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-05
+
+### [Director of Engineering - MetaDefender Email Security](https://ro.indeed.com/viewjob?jk=701bb176680d80c3) — OPSWAT
+- 📍 **Location:** Timișoara, TM, RO
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-05
 
-### [R&D Internship Software AI Engineering](https://ch.indeed.com/viewjob?jk=5d25e0f85f4384c3) — ETEL S.A.
-- 📍 **Location:** Môtiers, NE, CH
+### [Director of Engineering - MetaDefender Email Security](https://hu.indeed.com/viewjob?jk=8b90130ccb0be460) — OPSWAT
+- 📍 **Location:** Veszprém, VE, HU
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Líder de Equipo de Ingeniería de Software](https://es.indeed.com/viewjob?jk=3c7c4efe8ddde353) — Wabtec
-- 📍 **Location:** PV, ES
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Backend Engineer](https://es.indeed.com/viewjob?jk=1e0bebe3d73e21c7) — Capitole
-- 📍 **Location:** Barcelona, CT, ES
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
