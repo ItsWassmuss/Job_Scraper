@@ -1,21 +1,35 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-04 21:17 UTC*
+*Last updated: 2026-10-05 02:17 UTC*
 
-**3 new role(s)** since last run · 15 total in last 24h
+**5 new role(s)** since last run · 18 total in last 24h
 
-### [Experienced Security Engineer - Space Unit](https://nl.indeed.com/viewjob?jk=09e236dfeb1a8b50) — CGI
-- 📍 **Location:** Randstad, ZH, NL
+### [Application engineer Industrial Automation](https://nl.indeed.com/viewjob?jk=e77264410dec1120) — Wolf Groep
+- 📍 **Location:** Leiden, ZH, NL
+- 💰 **Salary:** $3200–$4800/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Application engineer Industrial Automation](https://nl.indeed.com/viewjob?jk=f6efcc8e5289210c) — Wolf Groep
+- 📍 **Location:** Amersfoort, UT, NL
+- 💰 **Salary:** $3200–$4800/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [SOFTWARE ENGINEER](https://sg.indeed.com/viewjob?jk=a3b973e14c876084) — ICAS Technology (S) Pte Ltd
+- 📍 **Location:** Serangoon, S00, SG
+- 💰 **Salary:** $3000–$5000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-04
+
+### [Python/DevSecOps Engineer - od backendu až po CI/CD a security](https://cz.indeed.com/viewjob?jk=f3ca9ebc763df189) — Adastra
+- 📍 **Location:** Praha 8, A, CZ
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-04
 
-### [Python Devsecops Engineer](https://cz.indeed.com/viewjob?jk=a82eb8bd571a57eb) — ADASTRA, s.r.o.
-- 📍 **Location:** Praha, A, CZ
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Entwickler mit Inbetriebnahmeanteil (m/w/d)](https://at.indeed.com/viewjob?jk=20c0c355ef992d16) — tmp GmbH Automation & Engineering
-- 📍 **Location:** Albersdorf, ST, AT
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Fullstack Developer .NET / Sitecore (all genders) 80 - 100 %](https://ch.indeed.com/viewjob?jk=7151ffac65569264) — Suva
+- 📍 **Location:** Luzern, LU, CH
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-04
