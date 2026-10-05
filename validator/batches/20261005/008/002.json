@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261005-008",
+  "shard_id": "002",
+  "start_index": 10,
+  "job_count": 2,
+  "jobs": [
+    {
+      "company": "ottoHR",
+      "title": "Software Engineer",
+      "location": "Türkiye",
+      "url": "https://www.linkedin.com/jobs/view/4473652079/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nOtto HR is a unified platform for hiring, people operations, payroll, benefits, and compliance, powered by Otto, an AI assistant that works alongside HR teams. The company was founded to solve the challenges of managing a growing organization, replacing fragmented tools and manual workflows with a single, integrated system. Otto HR supports the entire employee lifecycle, from job posting and AI-driven candidate search to onboarding, time tracking, payroll, and benefits management, all in one place. The platform includes a self-service portal for employees and integrates with tools like Slack and WhatsApp for streamlined communication and approvals. Built for Türkiye with KVKK and SGK compliance at its core, Otto HR is also GDPR-aligned and provides a data processing agreement (DPA) to every customer.\nRole Description\nThis is a full-time remote role for a Software Engineer at ottoHR. The Software Engineer will design, develop, and maintain back-end services that power the Otto HR platform and its AI assistant, focusing on performance, scalability, and reliability. Day-to-day responsibilities include implementing new features, enhancing existing APIs, integrating with third-party services, and writing clean, testable code. The role also involves collaborating with product managers, designers, and other engineers to refine requirements, participate in code reviews, and contribute to architectural decisions. The Software Engineer will help improve developer tooling and workflows, monitor systems in production, and resolve issues to ensure a secure and seamless experience for customers.\nQualifications\n\nStrong foundation in Computer Science concepts, including data structures, algorithms, and software design principles.\nExperience in Back-End Web Development, including building RESTful or GraphQL APIs and working with server-side frameworks.\nProficiency in Software Development and Programming, using at least one modern language (e.g., Java, C#, Python, JavaScript/TypeScript, Go).\nHands-on experience with Object-Oriented Programming (OOP) and applying OOP best practices in production systems.\nFamiliarity with databases (SQL and/or NoSQL), version control (Git), and continuous integration/continuous delivery (CI/CD) pipelines.\nKnowledge of cloud platforms or containerization (e.g., AWS, Azure, GCP, Docker, Kubernetes) is beneficial.\nAbility to write tests, debug complex issues, and optimize performance in distributed systems.\nEffective communication skills, ability to work collaboratively in a remote team, and willingness to participate in code reviews and technical discussions.\nBachelor’s degree in Computer Science, Software Engineering, or a related field, or equivalent practical experience.\nExperience building HR, payroll, or enterprise SaaS products\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "source": "LinkedIn",
+      "job_id": "4473652079",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "Code.Hub",
+      "title": "Full-Stack (.NET) Software Engineer",
+      "location": "Athens, Attiki, Greece",
+      "url": "https://www.linkedin.com/jobs/view/4473650094/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "We are the 1st Hub for Developers!\nOur motto is “From Developers to Developers”\n! Our vision is to provide real career opportunities for candidates that want to take the next step in their career. Code.Career is the first process that you will speak with developers (only!) and tech (freak) experts!\n\nOur client\nis a premier software development firm specializing in the delivery of large-scale ICT projects tailored for the public sector. The company was founded with a mission to transform public services through the strategic implementation of cutting-edge technology. With deep expertise in government environments, they deliver solutions that drive efficiency, transparency, and enhanced citizen engagement. Their core services include custom software development, ICT project management, system integration, cybersecurity, cloud solutions, and data analytics, all designed to meet the complex needs of public sector organizations.\n\nKey Responsibilities\n\nDeveloping and testing quality features from start to end using best. practices and according to our standards.\nWriting clean, testable code and deliver fit for the purpose solutions.\nProactively ensure scalability and performance of the deliverables.\nComplying with secure code development.\nPerforming code reviews, test, and debug.\nCode Refactoring.\nSharing knowledge within the team.\nKeeping up to date with industry trends and technology developments.\n\nRequired Qualifications\n\nBSc in Computer Science or a similar discipline.\nAt least 5 years of hands-on coding experience in web applications.\nStrong understanding of RDBMS.\nExperience with C# and the .NET Framework, .NET Core or Java and Spring Boot.\nStrong understanding of object-oriented programming and design patterns.\nStrong understanding of stateless Single Page Applications and APIs (Rest, Soap etc).\nFoster a collaborative and productive team environment.\n\nNice-to-Have Skills\n\nMicrosoft entity framework experience.\nUnderstanding of basic OWASP web security ruleset.\nExperience with typescript and Angular framework.\nExperience with Git.\nExperience with usage of task management tools like Jira, teamwork etc.\n\nWhat They Offer\n\nPerformance-based bonus.\nContinuous training and professional development opportunities.\nA friendly and vibrant workplace atmosphere.\nOpportunities to participate in cutting-edge projects.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4473650094",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
