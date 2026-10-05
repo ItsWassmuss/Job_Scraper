@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261005-005",
+  "shard_id": "003",
+  "start_index": 15,
+  "job_count": 2,
+  "jobs": [
+    {
+      "company": "Avanza Solutions",
+      "title": "Digital Channel Engineer (Bank)",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4473620712/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Company Description\nAvanza Solutions, founded in 2000, is a global provider of innovative digital platforms and services that enable organizations to drive digital transformation. The company has established itself as a leading digital innovation hub, specializing in solutions for digital banking, customer experience management, artificial intelligence, blockchain, smart city applications, business automation, and cognitive platforms. Avanza delivers people-centric, automation-driven solutions to clients across banking, finance, telecommunications, insurance, pharmaceuticals, government, and other sectors. By deploying advanced technologies and integrated digital ecosystems, the company helps enterprises transform their operational, financial, and functional performance worldwide.\nRole Description\nThe Digital Channel Engineer (Bank) is a full-time, on-site role based in Dubai, United Arab Emirates. This position is responsible for designing, developing, and maintaining digital banking channels and related applications, ensuring a secure, reliable, and user-friendly customer experience. Day-to-day tasks include implementing new features, integrating external systems and services, troubleshooting technical issues, and optimizing performance of web and mobile banking platforms. The engineer collaborates closely with product, security, and infrastructure teams to meet business requirements, comply with regulatory standards, and support production deployments. The role also involves documenting technical solutions, participating in code reviews, and contributing to continuous improvement of development and integration practices.\nQualifications\n\nCandidates should possess strong Software Development skills, with experience in designing, coding, testing, and deploying enterprise applications.\nCandidates should possess solid Programming skills, ideally in languages commonly used in digital banking channels (such as Java, .NET, JavaScript, or similar).\nCandidates should possess relevant Electronics and Verilog skills when working with embedded or hardware-related banking systems and interfaces.\nCandidates should possess Integration skills for connecting banking platforms with core banking systems, third-party services, APIs, and middleware.\nExperience in digital banking, financial services, or payments platforms is highly beneficial.\nKnowledge of security best practices, regulatory requirements, and high-availability system design is preferred.\nStrong analytical, problem-solving, and communication skills, with the ability to collaborate in cross-functional teams.\nBachelor’s degree in Computer Science, Software Engineering, Electrical/Electronics Engineering, or a related field, or equivalent practical experience.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nSoftware Development",
+      "source": "LinkedIn",
+      "job_id": "4473620712",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "OneJar",
+      "title": "Senior Software Engineer",
+      "location": "Limassol Municipality, Limassol, Cyprus",
+      "url": "https://www.linkedin.com/jobs/view/4474246887/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "On behalf of a client, a technology company delivering advanced software solutions across financial services, we are looking for a Senior Software Engineer\n.\n\nThe Role\n\nYou'll join the engineering team working on a blockchain-based FinTech platform. Specifically, you will:\nDesign and build robust, high-performance backend services in C# / .NET Core 8\nWork on cloud-native systems on AWS\nOwn PostgreSQL schema design, query optimization, and data integrity\nBuild and maintain integrations with KYC providers, crypto custodians, and KYT platforms\nMake architectural decisions on a system where security, performance, and correctness are critical\nImprove CI/CD, infrastructure-as-code, and DevOps practices\nMentor teammates and collaborate with experienced specialists across several technical disciplines\n\nWho We're Looking For\n\nYou're an engineer who:\nTakes genuine ownership and exercises sound judgment\nHolds well-reasoned technical opinions and can defend them\nFavors simple, correct solutions that ship over perfect ones that don't\nSees seniority as a matter of judgment rather than years of experience\n\nWhat You Bring\n\n5–7 years building production software used by real customers\nDeep C# / .NET expertise\nStrong PostgreSQL skills\nHands-on AWS experience\nSolid understanding of microservices, API design, and distributed systems trade-offs\nExperience integrating third-party APIs and external services in regulated environments\nComfort with CI/CD, containerization, and modern DevOps practices\nGood judgment on when to build, when to buy, and when to simplify\n\nNice to Have\n\nExperience in FinTech, blockchain, or crypto\nFamiliarity with KYC / KYT / AML workflows or providers\nDocker / Kubernetes (EKS, AKS)\nInfrastructure-as-Code (Terraform, Bicep)\nEvent-driven architectures (Kafka, RabbitMQ, Service Bus)\nObservability tooling (OpenTelemetry, Datadog, Grafana)\nA strong interest in developer experience and security\n\nWhat's on Offer\n\nCompetitive salary and performance bonus\nRetirement and medical benefits\nAdditional perks and allowances\nHybrid working\nA collaborative, growing team of experienced engineers\nThe chance to work on cutting-edge technology in a fast-paced environment\nA culture of innovation and continuous learning\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nIT Services and IT Consulting",
+      "source": "LinkedIn",
+      "job_id": "4474246887",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
