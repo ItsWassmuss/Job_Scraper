@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261005-009",
+  "shard_id": "009",
+  "start_index": 44,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "Sundus",
+      "title": "Senior .NET, SQL & JavaScript Developer",
+      "location": "Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4474262982/",
+      "date_posted": "2026-10-05",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "🚀 Senior .NET Full-Stack Developer | Immediate Joiner\n\nWe are looking for an experienced Senior .NET Full-Stack Developer\nwith strong expertise in .NET, SQL Server, JavaScript, API development, CI/CD, and enterprise application security\n.\n\nKey Requirements\n\n8–12+ years\nof overall software development experience.\nStrong hands-on experience with C#, .NET Core / ASP.NET Core, MVC, and Web API\n.\nAdvanced Microsoft SQL Server\nexpertise, including stored procedures, complex queries, views, triggers, indexing, execution plans, and performance tuning.\nStrong knowledge of JavaScript (ES6+), TypeScript, HTML5, and CSS3\n.\nExperience with modern frontend frameworks such as Angular, React, or similar\n.\nStrong experience in RESTful API development\nand integration with ERP systems and third-party applications\n.\nHands-on experience with Azure DevOps / GitHub, Git, and CI/CD pipelines\n.\nExperience managing deployments across Development, UAT/Staging, and Production\nenvironments.\nGood understanding of OWASP, secure coding practices, SQL Injection, XSS, and API security\n.\nExperience with unit/integration testing, debugging, performance profiling, and production defect resolution\n.\nAbility to collaborate effectively with Solution Architects, Business Analysts, System Administrators, and business stakeholders\n.\nStrong understanding of SOLID principles and enterprise application development\n.\n\n📌 Availability\nImmediate Joiners are highly preferred.\n\nIf you meet the above requirements and are available to join immediately, please share your updated CV.\n\nPlease note:\nDue to the high volume of applications, only shortlisted candidates will be contacted.\n\nShow more\n\nShow less\n\nSeniority level\n\nMid-Senior level\n\nEmployment type\n\nFull-time\n\nIndustries\n\nHuman Resources Services",
+      "source": "LinkedIn",
+      "job_id": "4474262982",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
