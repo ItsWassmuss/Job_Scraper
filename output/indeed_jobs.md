@@ -1,49 +1,116 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-05 21:22 UTC*
+*Last updated: 2026-10-06 02:17 UTC*
 
-**8 new role(s)** since last run · 166 total in last 24h
+**19 new role(s)** since last run · 173 total in last 24h
 
-### [Backend .NET Developer](https://pl.indeed.com/viewjob?jk=0afba84792602e09) — Creatio
-- 📍 **Location:** zdalnie, PL
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-05
+### [Junior Software Engineer Industriële Automatisering](https://nl.indeed.com/viewjob?jk=6b91954ade08e1f2) — Wolf Groep
+- 📍 **Location:** Utrecht, UT, NL
+- 💰 **Salary:** $3200–$3700/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
 
-### [Frontend Developer till integrationer](https://se.indeed.com/viewjob?jk=4ae7397fb039f702) — Fortnox
-- 📍 **Location:** Göteborg, O, SE
+### [Advisor Project Integration Workplace & Security](https://nl.indeed.com/viewjob?jk=b9adc55ae9085ebd) — TenneT
+- 📍 **Location:** Arnhem, GE, NL
+- 💰 **Salary:** $4276–$8443/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-05
 
-### [.Net Developer](https://ie.indeed.com/viewjob?jk=f618fd86cd3b2bf0) — Accenture
+### [Human Systems Integration & UX/UI Engineer](https://nl.indeed.com/viewjob?jk=eca6e56602ed793e) — TenneT
+- 📍 **Location:** Arnhem, GE, NL
+- 💰 **Salary:** $4276–$8443/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Workflow Developer / Power Platform Engineer](https://nl.indeed.com/viewjob?jk=367bd2373e93d131) — Cerberus Capital Management
+- 📍 **Location:** Baarn, UT, NL
+- 💰 **Salary:** $55k–$75k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [XVA Developer](https://uk.indeed.com/viewjob?jk=88c1f73e3056ad1c) — Sumitomo Group
+- 📍 **Location:** London, ENG, GB
+- 💰 **Salary:** $58k–$88k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Modelling & Simulation Engineer](https://uk.indeed.com/viewjob?jk=18993c6f07f2402d) — SLB
+- 📍 **Location:** Stonehouse, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Embedded Software Engineer](https://uk.indeed.com/viewjob?jk=7042ff15dc154f44) — SLB
+- 📍 **Location:** Stonehouse, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Materials Engineer](https://uk.indeed.com/viewjob?jk=c6d5b13a9ae19f85) — Rolls-Royce
+- 📍 **Location:** Solihull, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Associate Director: Project Design and Engineering - Ports & Maritime](https://uk.indeed.com/viewjob?jk=7c55ca471866b9ff) — Jacobs
+- 📍 **Location:** Glasgow, SCT, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Apps Dev Senior Engineer](https://uk.indeed.com/viewjob?jk=24d8d6460d52f6d0) — Citi
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Software Engineer 2](https://pl.indeed.com/viewjob?jk=5e827aa2b64915ed) — Cencora
+- 📍 **Location:** Warszawa, MZ, PL
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Software Engineer 1](https://pl.indeed.com/viewjob?jk=72da7716a3e67aac) — Cencora
+- 📍 **Location:** Warszawa, MZ, PL
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Integration & HyperAutomation Engineer](https://ie.indeed.com/viewjob?jk=d2bb93b125a413b3) — The Clorox Company
 - 📍 **Location:** Dublin, D, IE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Graduate Engineer - Service & Repairs Department](https://ie.indeed.com/viewjob?jk=20b88b554438af38) — EPS GROUP INC.
-- 📍 **Location:** Mallow, C, IE
+### [Senior Software Engineer](https://ie.indeed.com/viewjob?jk=859e3af0cd5911d9) — BD
+- 📍 **Location:** Limerick, LK, IE
+- 💰 **Salary:** $57k–$86k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Electrical Service Engineer](https://ie.indeed.com/viewjob?jk=33fb71a7f53debac) — EPS GROUP INC.
+### [Professional Electrical Engineer, Commissioning](https://ie.indeed.com/viewjob?jk=3f0516b925145f71) — Electricity Supply Board (ESB)
 - 📍 **Location:** Dublin, D, IE
+- 💰 **Salary:** $49k–$58k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Junior DevOps Engineer](https://ro.indeed.com/viewjob?jk=7aab5a51517cbf56) — Rinf
-- 📍 **Location:** București, IF, RO
+### [Civil Water Engineer](https://ie.indeed.com/viewjob?jk=f2c9acbf4dc92b25) — Electricity Supply Board (ESB)
+- 📍 **Location:** Dublin, D, IE
+- 💰 **Salary:** $59k–$70k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Software Engineer](https://ch.indeed.com/viewjob?jk=908ce9aa86ac166f) — 908 Devices Inc
-- 📍 **Location:** Lausanne, VD, CH
+### [Summer Student 2027 - Platform Developer](https://no.indeed.com/viewjob?jk=ba5901ffc196f381) — DNV
+- 📍 **Location:** Oslo, N03, NO
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Support Engineer](https://ro.indeed.com/viewjob?jk=a95125a67d7b2b5e) — Ciklum
+- 📍 **Location:** RO
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-05
+
+### [Desarrollador/a .NET](https://es.indeed.com/viewjob?jk=160c1071433f5fdc) — IT Partner España
+- 📍 **Location:** En remoto, ES
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Software Engineer (C#) (m/w/d)](https://ch.indeed.com/viewjob?jk=12948345cfa354ba) — Trumpf Inc
-- 📍 **Location:** Grüsch, GR, CH
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
