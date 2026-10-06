@@ -1,172 +1,169 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-06 12:18 UTC*
+*Last updated: 2026-10-06 13:17 UTC*
 
-**29 new role(s)** since last run · 200 total in last 24h
+**28 new role(s)** since last run · 212 total in last 24h
 
-### [Medior Application Developer](https://nl.indeed.com/viewjob?jk=f2e24be5fd647df2) — Royal Terberg Group
-- 📍 **Location:** Benschop, UT, NL
+### [SAP BTP Integration Architect](https://nl.indeed.com/viewjob?jk=5a98658afcd3eb53) — KPMG
+- 📍 **Location:** Amstelveen, NH, NL
+- 💰 **Salary:** $5050–$8850/mo
 - **Work mode:** On-site
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-10-06
 
-### [Medior Application Developer](https://nl.indeed.com/viewjob?jk=2a785e2697b219e8) — Royal Terberg Group
-- 📍 **Location:** Benschop, UT, NL
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Software Engineer (Remote)](https://nl.indeed.com/viewjob?jk=76a30a5e19ac2875) — C-Teleport BV
+### [Software Engineer - Device Control](https://nl.indeed.com/viewjob?jk=216e6b939a4b7525) — Nearfield Instruments
 - 📍 **Location:** Rotterdam, ZH, NL
-- 💰 **Salary:** $5000–$6000/mo
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-16
-
-### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=6ae2c66dda5b834c) — flaschenpost SE
-- 📍 **Location:** Köln, NW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2025-12-08
 
-### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=3deb2dbf0e91f294) — flaschenpost SE
-- 📍 **Location:** Münster, NW, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=5dab8fa1c2cc317b) — flaschenpost SE
-- 📍 **Location:** Berlin, BE, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=e3100d5c39ded11e) — flaschenpost SE
-- 📍 **Location:** Münster, NW, DE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Developer Backend & AI](https://uk.indeed.com/viewjob?jk=a55143f7e3866453) — M.A.C. Solutions (UK) Ltd
-- 📍 **Location:** Chesterfield, ENG, GB
-- 💰 **Salary:** $45k–$55k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Engineering Manager (Core)](https://uk.indeed.com/viewjob?jk=f201711493aea5b2) — Ocean Infinity
+### [Architect Engineer - Engineering Manager](https://uk.indeed.com/viewjob?jk=ea5cb32b9546f347) — Amentum
 - 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Engineering Industrial Placement](https://uk.indeed.com/viewjob?jk=a0808cd599c4dcd1) — EDF Energy Limited
-- 📍 **Location:** Dunbar, SCT, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Nuclear Systems Engineering Industrial Placement](https://uk.indeed.com/viewjob?jk=df75497bcb857f29) — EDF Energy Limited
-- 📍 **Location:** Morecambe, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Engineering Industrial Placement](https://uk.indeed.com/viewjob?jk=60e82d6418c4df07) — EDF Energy Limited
-- 📍 **Location:** Morecambe, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Full Stack Developer](https://uk.indeed.com/viewjob?jk=f7610d13a4d52726) — SPLIIT
-- 📍 **Location:** Manchester, ENG, GB
-- 💰 **Salary:** $65k–$85k/yr
+### [Senior Electrical Engineer](https://uk.indeed.com/viewjob?jk=aba9008fc26aff3d) — Amentum
+- 📍 **Location:** Risley, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior C++ Engineer](https://uk.indeed.com/viewjob?jk=29e6526458a4b477) — EPAM Systems
-- 📍 **Location:** London, ENG, GB
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Application Security Engineer](https://pl.indeed.com/viewjob?jk=0f8d377b66295050) — Amadeus
-- 📍 **Location:** Warszawa, MZ, PL
+### [Senior Electrical Engineer](https://uk.indeed.com/viewjob?jk=bf9d3945fb2f1609) — Amentum
+- 📍 **Location:** Newcastle upon Tyne, ENG, GB
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior .NET/C#-utvecklare](https://se.indeed.com/viewjob?jk=3bc3d2af24c614a5) — Deploja AB
-- 📍 **Location:** Solna, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [.NET Fullstack utvecklare](https://se.indeed.com/viewjob?jk=c7b1244a0b4176a6) — Deploja AB
-- 📍 **Location:** Solna, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [.NET/C#-utvecklare](https://se.indeed.com/viewjob?jk=9e5a335a32e20ab0) — Deploja AB
-- 📍 **Location:** Uppsala, C, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Backend Developer](https://se.indeed.com/viewjob?jk=783cea57ddc63f03) — Arrowhead Game Studios
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-25
-
-### [Senior / Principal Engineer Manufacturing Systems Engineering ( RTD Engineer )](https://sg.indeed.com/viewjob?jk=f140069bb9d692e1) — GlobalFoundries
-- 📍 **Location:** Singapore, S00, SG
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Level 2 Production Support Engineer](https://sg.indeed.com/viewjob?jk=a0b678cfcbd43528) — KRIS INFOTECH PTE. LTD.
-- 📍 **Location:** Singapore, S00, SG
-- 💰 **Salary:** $5500–$9000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-06
-
-### [Solution Architect (.NET)](https://sg.indeed.com/viewjob?jk=d6f916afca79b97d) — ALTROCKS TECH PTE. LTD.
-- 📍 **Location:** Outram, S00, SG
-- 💰 **Salary:** $8000–$9000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Quality Engineer - #1675](https://sg.indeed.com/viewjob?jk=430eae40fbc5f0ac) — JOBSTER PRIVATE LTD.
-- 📍 **Location:** Singapore, S00, SG
-- 💰 **Salary:** $6000–$9000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-05
-
-### [Full Stack Engineer - AI focused - #1676](https://sg.indeed.com/viewjob?jk=06ff1f1e975da051) — JOBSTER PRIVATE LTD.
-- 📍 **Location:** Singapore, S00, SG
-- 💰 **Salary:** $8000–$10k/mo
-- **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Full Stack Developer](https://sg.indeed.com/viewjob?jk=1fb03be24029fb8e) — Aon
-- 📍 **Location:** Downtown Core, S00, SG
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-07-13
-
-### [Full Stack .NET Developer](https://ro.indeed.com/viewjob?jk=ff47cbb22bcaea5f) — Evolve today
-- 📍 **Location:** București, IF, RO
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Azure Backend Engineer – Cloud Native & AI-Assisted Development](https://es.indeed.com/viewjob?jk=a1a15fde07570a37) — BIP
-- 📍 **Location:** Madrid, MD, ES
+### [Senior Electrical Engineer](https://uk.indeed.com/viewjob?jk=4f33d32dec54e6b1) — Amentum
+- 📍 **Location:** Remote, GB
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Engineering Manager (Core)](https://pt.indeed.com/viewjob?jk=a8f27a4906332af4) — Ocean Infinity
-- 📍 **Location:** Porto, P13, PT
+### [Architect Engineer - Engineering Manager](https://uk.indeed.com/viewjob?jk=6edeecb24f1fe056) — Amentum
+- 📍 **Location:** Remote, GB
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Architect Engineer - Engineering Manager](https://uk.indeed.com/viewjob?jk=49ac599bbd732739) — Amentum
+- 📍 **Location:** Leiston, ENG, GB
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Interim Software Development Manager](https://uk.indeed.com/viewjob?jk=a1cefd72f171c146) — ARAG Group
+- 📍 **Location:** Bristol, ENG, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Software Engineer in Test (SET) - GenAI Focus](https://hu.indeed.com/viewjob?jk=dce71996045ae42b) — EPAM Systems
-- 📍 **Location:** Budapest, PE, HU
+### [Embedded Software Engineer Intern (12 months)](https://uk.indeed.com/viewjob?jk=cdb5100ecbbca0a9) — SLB
+- 📍 **Location:** Stonehouse, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Electrical Manufacturing Engineer Intern (12 months)](https://uk.indeed.com/viewjob?jk=5384b9f9657a0a78) — SLB
+- 📍 **Location:** Stonehouse, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Electrical Engineer Intern (12 months)](https://uk.indeed.com/viewjob?jk=dbaf16641105b3de) — SLB
+- 📍 **Location:** Stonehouse, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer Intern (12 months)](https://uk.indeed.com/viewjob?jk=28934936690618fa) — SLB
+- 📍 **Location:** Abingdon, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Mechanical Engineer Intern (12 months)](https://uk.indeed.com/viewjob?jk=c38a0e0cf3045115) — SLB
+- 📍 **Location:** Stonehouse, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Scientific Software Engineer Intern (3 months)](https://uk.indeed.com/viewjob?jk=31121e8d0ddc79c7) — SLB
+- 📍 **Location:** Abingdon, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Cloud Software Engineer Intern (12 months)](https://uk.indeed.com/viewjob?jk=3623e718845cf4a1) — SLB
+- 📍 **Location:** Abingdon, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Reservoir Engineer Intern (12 months)](https://uk.indeed.com/viewjob?jk=61fac0ad9f74666d) — SLB
+- 📍 **Location:** Abingdon, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [AI Engineer Intern (3 months)](https://uk.indeed.com/viewjob?jk=1ceb1c69bdf3cf40) — SLB
+- 📍 **Location:** Abingdon, ENG, GB
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Optical Measurement Systems Engineer](https://uk.indeed.com/viewjob?jk=976ae4b34a35d7a7) — Microsoft
+- 📍 **Location:** Romsey, ENG, GB
+- 💰 **Salary:** $75k–$123k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Infrastructure Architect (Italian Speaker)](https://ie.indeed.com/viewjob?jk=ff97da7d756879c1) — SOTI Inc.
+- 📍 **Location:** Galway, G, IE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineering Internship Opportunities](https://cz.indeed.com/viewjob?jk=66e2f2fc65e292d9) — Microsoft
+- 📍 **Location:** CZ
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [Design Engineer Infraworks](https://be.indeed.com/viewjob?jk=5e84d5bc2e5ef2dc) — ENGIE
+- 📍 **Location:** Antwerpen, VLG, BE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Design Engineer Infraworks](https://be.indeed.com/viewjob?jk=048b9729e144f3a2) — ENGIE
+- 📍 **Location:** Antwerpen, VLG, BE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [Electrical Cabling Engineer (BE-EA-EC-2026-237-GRAE)](https://ch.indeed.com/viewjob?jk=2811d92c6f61d575) — CERN
+- 📍 **Location:** Genève, GE, CH
+- 💰 **Salary:** $5266–$5793/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Full-Stack Web Engineer (IT-PW-WDA-2026-108-GRAE)](https://ch.indeed.com/viewjob?jk=42ed954b6176233f) — CERN
+- 📍 **Location:** Genève, GE, CH
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Full Stack Entwickler (w/m/x)](https://at.indeed.com/viewjob?jk=7f86f80dae350241) — BEKO Engineering & Informatik GmbH & Co KG
+- 📍 **Location:** Linz, O, AT
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Fullstack Developer Angular/.NET, C# (w/m/x)](https://at.indeed.com/viewjob?jk=d2596dd38778c198) — BEKO Engineering & Informatik GmbH & Co KG
+- 📍 **Location:** Wien, W, AT
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [C# / .NET szoftverfejlesztő állás](https://hu.indeed.com/viewjob?jk=a41d36159840b2c5) — Bluebird International Zrt.
+- 📍 **Location:** Budapest XIII. kerület, PE, HU
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-06
