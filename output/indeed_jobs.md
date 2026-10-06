@@ -1,98 +1,172 @@
 # 🟦 Indeed — .NET Backend Roles
-*Last updated: 2026-10-06 11:17 UTC*
+*Last updated: 2026-10-06 12:18 UTC*
 
-**17 new role(s)** since last run · 189 total in last 24h
+**29 new role(s)** since last run · 200 total in last 24h
 
-### [Afstudeer Stage Software Development](https://nl.indeed.com/viewjob?jk=11808192042058e2) — JEX
+### [Medior Application Developer](https://nl.indeed.com/viewjob?jk=f2e24be5fd647df2) — Royal Terberg Group
+- 📍 **Location:** Benschop, UT, NL
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-06
+
+### [Medior Application Developer](https://nl.indeed.com/viewjob?jk=2a785e2697b219e8) — Royal Terberg Group
+- 📍 **Location:** Benschop, UT, NL
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer (Remote)](https://nl.indeed.com/viewjob?jk=76a30a5e19ac2875) — C-Teleport BV
 - 📍 **Location:** Rotterdam, ZH, NL
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-10-06
+- 💰 **Salary:** $5000–$6000/mo
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-16
 
-### [.NET Azure Software Architect](https://nl.indeed.com/viewjob?jk=397eda3bd9593de7) — Good Company
-- 📍 **Location:** Tilburg, NB, NL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Fullstack TypeScript Developer](https://nl.indeed.com/viewjob?jk=ee62ec8967a5d478) — Van Dorp installaties
-- 📍 **Location:** Nieuwegein, UT, NL
+### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=6ae2c66dda5b834c) — flaschenpost SE
+- 📍 **Location:** Köln, NW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer - Device Control](https://nl.indeed.com/viewjob?jk=3b664d226ba9bddf) — Nearfield Instruments
-- 📍 **Location:** Rotterdam, ZH, NL
+### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=3deb2dbf0e91f294) — flaschenpost SE
+- 📍 **Location:** Münster, NW, DE
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [.NET Azure Software Architect](https://nl.indeed.com/viewjob?jk=d0716bd2fdd3490e) — Good Company
-- 📍 **Location:** Tilburg, NB, NL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Cooling Flow System and Clearance Design Engineer (w/m/d)](https://de.indeed.com/viewjob?jk=4a594ac7a1eee82a) — Siemens Energy
+### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=5dab8fa1c2cc317b) — flaschenpost SE
 - 📍 **Location:** Berlin, BE, DE
 - **Work mode:** On-site
-- **Job type:** parttime, fulltime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Process Engineer](https://uk.indeed.com/viewjob?jk=caa98f1c1e597342) — MAHLE
-- 📍 **Location:** Northampton, ENG, GB
+### [(Senior) Full Stack Softwareentwickler (m/w/d) – B2B-Webshop](https://de.indeed.com/viewjob?jk=e3100d5c39ded11e) — flaschenpost SE
+- 📍 **Location:** Münster, NW, DE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Registered Architect](https://uk.indeed.com/viewjob?jk=c90011b4bc05fe99) — RIAI
-- 📍 **Location:** Belfast, NIR, GB
+### [Software Developer Backend & AI](https://uk.indeed.com/viewjob?jk=a55143f7e3866453) — M.A.C. Solutions (UK) Ltd
+- 📍 **Location:** Chesterfield, ENG, GB
+- 💰 **Salary:** $45k–$55k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Engineering Manager (Core)](https://uk.indeed.com/viewjob?jk=f201711493aea5b2) — Ocean Infinity
+- 📍 **Location:** London, ENG, GB
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer 2 - .NET - Allegro Klik/Care](https://pl.indeed.com/viewjob?jk=41e0d436c15b4fa9) —  Allegro
+### [Engineering Industrial Placement](https://uk.indeed.com/viewjob?jk=a0808cd599c4dcd1) — EDF Energy Limited
+- 📍 **Location:** Dunbar, SCT, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Nuclear Systems Engineering Industrial Placement](https://uk.indeed.com/viewjob?jk=df75497bcb857f29) — EDF Energy Limited
+- 📍 **Location:** Morecambe, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Engineering Industrial Placement](https://uk.indeed.com/viewjob?jk=60e82d6418c4df07) — EDF Energy Limited
+- 📍 **Location:** Morecambe, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Full Stack Developer](https://uk.indeed.com/viewjob?jk=f7610d13a4d52726) — SPLIIT
+- 📍 **Location:** Manchester, ENG, GB
+- 💰 **Salary:** $65k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior C++ Engineer](https://uk.indeed.com/viewjob?jk=29e6526458a4b477) — EPAM Systems
+- 📍 **Location:** London, ENG, GB
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Application Security Engineer](https://pl.indeed.com/viewjob?jk=0f8d377b66295050) — Amadeus
 - 📍 **Location:** Warszawa, MZ, PL
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior .NET/C#-utvecklare](https://se.indeed.com/viewjob?jk=3bc3d2af24c614a5) — Deploja AB
+- 📍 **Location:** Solna, AB, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [.NET Fullstack utvecklare](https://se.indeed.com/viewjob?jk=c7b1244a0b4176a6) — Deploja AB
+- 📍 **Location:** Solna, AB, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [.NET/C#-utvecklare](https://se.indeed.com/viewjob?jk=9e5a335a32e20ab0) — Deploja AB
+- 📍 **Location:** Uppsala, C, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Backend Developer](https://se.indeed.com/viewjob?jk=783cea57ddc63f03) — Arrowhead Game Studios
+- 📍 **Location:** Stockholm, AB, SE
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-25
 
-### [Junior Software Engineer - .NET - Allegro Klik/Care](https://pl.indeed.com/viewjob?jk=9f0dabbb2f32c086) —  Allegro
-- 📍 **Location:** Warszawa, MZ, PL
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-24
-
-### [MJUKVARUUTVECKLARE FULL STACK JAVA eller C#](https://se.indeed.com/viewjob?jk=23ce9a6dcaaa5c9c) — ValidIT AB
-- 📍 **Location:** Alingsås, O, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Heating Engineer](https://ie.indeed.com/viewjob?jk=c5743267db152bfc) — Bord Gais Energy
-- 📍 **Location:** Dublin, D, IE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Architect](https://sg.indeed.com/viewjob?jk=ed977be7a2eb6ee4) — DCI CONSULTANTS PRIVATE LIMITED
+### [Senior / Principal Engineer Manufacturing Systems Engineering ( RTD Engineer )](https://sg.indeed.com/viewjob?jk=f140069bb9d692e1) — GlobalFoundries
 - 📍 **Location:** Singapore, S00, SG
-- 💰 **Salary:** $8000–$12k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Level 2 Production Support Engineer](https://sg.indeed.com/viewjob?jk=a0b678cfcbd43528) — KRIS INFOTECH PTE. LTD.
+- 📍 **Location:** Singapore, S00, SG
+- 💰 **Salary:** $5500–$9000/mo
 - **Work mode:** On-site
 - **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-06
 
-### [IT Manager / Systems Programmer (India & South Asia)](https://sg.indeed.com/viewjob?jk=3871706cc1e83fc2) — HARDLEY ENTERPRISES PTE LTD
-- 📍 **Location:** Yishun, S00, SG
-- 💰 **Salary:** $5000–$7000/mo
+### [Solution Architect (.NET)](https://sg.indeed.com/viewjob?jk=d6f916afca79b97d) — ALTROCKS TECH PTE. LTD.
+- 📍 **Location:** Outram, S00, SG
+- 💰 **Salary:** $8000–$9000/mo
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Quality Engineer - #1675](https://sg.indeed.com/viewjob?jk=430eae40fbc5f0ac) — JOBSTER PRIVATE LTD.
+- 📍 **Location:** Singapore, S00, SG
+- 💰 **Salary:** $6000–$9000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-05
 
-### [.NET Software Engineer](https://gr.indeed.com/viewjob?jk=bba33166bb27940d) — OpenBet
-- 📍 **Location:** Αθήνα, GRI, GR
+### [Full Stack Engineer - AI focused - #1676](https://sg.indeed.com/viewjob?jk=06ff1f1e975da051) — JOBSTER PRIVATE LTD.
+- 📍 **Location:** Singapore, S00, SG
+- 💰 **Salary:** $8000–$10k/mo
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Full Stack Developer](https://sg.indeed.com/viewjob?jk=1fb03be24029fb8e) — Aon
+- 📍 **Location:** Downtown Core, S00, SG
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-13
+
+### [Full Stack .NET Developer](https://ro.indeed.com/viewjob?jk=ff47cbb22bcaea5f) — Evolve today
+- 📍 **Location:** București, IF, RO
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [.NET Developer](https://pt.indeed.com/viewjob?jk=55af4f5b6c027662) — Inetum
-- 📍 **Location:** Lisboa, P11, PT
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Backend Software Developer](https://pt.indeed.com/viewjob?jk=1a5167cf40c45f54) — Create IT
-- 📍 **Location:** Lisboa, P11, PT
+### [Azure Backend Engineer – Cloud Native & AI-Assisted Development](https://es.indeed.com/viewjob?jk=a1a15fde07570a37) — BIP
+- 📍 **Location:** Madrid, MD, ES
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Engineering Manager (Core)](https://pt.indeed.com/viewjob?jk=a8f27a4906332af4) — Ocean Infinity
+- 📍 **Location:** Porto, P13, PT
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-06
+
+### [Senior Software Engineer in Test (SET) - GenAI Focus](https://hu.indeed.com/viewjob?jk=dce71996045ae42b) — EPAM Systems
+- 📍 **Location:** Budapest, PE, HU
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-06
