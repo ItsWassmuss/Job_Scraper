@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261006-006",
+  "shard_id": "003",
+  "start_index": 15,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "Buyer & Bidder Procurement Advisory Service",
+      "title": "Full-Stack Developer",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "url": "https://www.linkedin.com/jobs/view/4474685569/",
+      "date_posted": "2026-10-06",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Role Description\n\nThe Full-Stack Developer designs, builds, tests, and maintains web applications across both frontend and backend systems. This role translates product requirements into functional, responsive user interfaces and dependable application services, ensuring that features work effectively from the browser through to APIs, databases, and supporting infrastructure.\nThe position works closely with Product Management, UI/UX Design, Software Engineering, Quality Assurance, DevOps, and business stakeholders. Responsibilities include developing reusable interface components, implementing server-side logic, designing APIs, managing data access, and integrating external services. The role reviews code, writes automated tests, resolves defects, and supports deployments while maintaining clear technical documentation.\nThe role considers usability, accessibility, security, performance, and maintainability throughout development. It investigates production issues, improves application behaviour, and contributes to architectural decisions appropriate to the product’s scale and requirements. Through collaboration and continuous improvement, the Full-Stack Developer helps deliver reliable features and a consistent user experience across the application.\nQualifications\n\nBachelor’s degree or diploma in Computer Science, Software Engineering, Information Technology, or a related field, or equivalent practical experience.\nExperience developing web applications across frontend and backend technologies.\nStrong proficiency in HTML, CSS, JavaScript, and preferably TypeScript.\nExperience with frontend frameworks such as React, Vue, Angular, or comparable technologies.\nProficiency in a backend language and framework, such as Node.js, Python, Java, C#, PHP, or an equivalent stack.\nAbility to design and integrate APIs and implement reliable application logic.\nExperience with relational or non-relational databases, including data modelling, queries, migrations, and access patterns.\nUnderstanding of authentication, authorisation, session management, and secure handling of application data.\nAbility to build responsive interfaces and apply accessible interaction and content practices.\nExperience writing unit, integration, or end-to-end tests suited to application risks and requirements.\nFamiliarity with Git, code reviews, collaborative development workflows, and CI/CD pipelines.\nExperience deploying applications using cloud services, containers, or comparable hosting environments.\nAbility to troubleshoot issues across browser behaviour, application services, network requests, and databases.\nUnderstanding of performance optimisation, error handling, logging, and maintainable software design.\nStrong communication, teamwork, analytical, and problem-solving skills, with attention to detail and ownership of delivery.\n\nShow more\n\nShow less\n\nSeniority level\n\nEntry level\n\nEmployment type\n\nPart-time\n\nIndustries\n\nBusiness Consulting and Services",
+      "source": "LinkedIn",
+      "job_id": "4474685569",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
