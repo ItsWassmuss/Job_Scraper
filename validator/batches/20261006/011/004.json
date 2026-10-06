@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261006-011",
+  "shard_id": "004",
+  "start_index": 19,
+  "job_count": 1,
+  "jobs": [
+    {
+      "company": "Plexus Tech",
+      "title": "Drupal Full Stack Developer",
+      "location": "Spain",
+      "url": "https://www.linkedin.com/jobs/view/4474073082/",
+      "date_posted": "2026-10-06",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "En Plexus Tech seguimos creciendo y buscamos a profesionales para trabajar en el desarrollo de tecnología con alma.\n\nSomos una compañía tecnológica especializada en servicios y productos IT, basados en la innovación y el desarrollo. Fundada en el talento y las capacidades de nuestra gente, casi 5.000 profesionales que crecen con nosotros en proyectos propios, compañías del IBEX 35, grandes retailers, operadores turísticos, entidades financieras, organismos públicos y empresas internacionales.\n\nEstamos buscando desarrolladores/as Full Stack con experiencia senior en:\n\nJavascript, Typescript, CSS, NextJs y Angular\n\nDrupal 11-PHP\n\nNodeJS\n\nPython\n\nMantener y evolucionar dos de los pilares de MarTech (Marketing Technology): las webs (el CMS, las plantillas de página y sus componentes, las librerías y scripts de tracking, etc.) y la plataforma de email (HTML y scripts de las comunicaciones y plantillas, SQL para la definición de audiencias, etc.).\n\n¿Qué ofrecemos?\nContratación Indefinida.\n100% teletrabajo.\nFlexibilidad horaria\nFormación a medida.\nJornada intensiva los meses de verano\nPaquete de retribución Flexible\nFormación de idiomas.\nCertificaciones oficiales.\nEl Club Benefits de Plexus Tech: un servicio a disposición de todos los trabajadores de la compañía que nos permite el acceso a ofertas exclusivas en viajes, hogar, salud, tecnología, moda y demás.\n\nSi quieres emprender nuevos retos, nuevos proyectos y sobre todo crecer y ampliar tus conocimientos este puede ser tu proyecto.\n\nPlexus Tech mantiene un compromiso firme con las políticas de Igualdad de empresa. Todos nuestros procesos de selección tienen en cuenta la igualdad de oportunidades entre hombres y mujeres de forma transversal, quedando esto reflejado en nuestro Plan de Igualdad.\n\nFomentamos la igualdad de trato y de oportunidades para toda persona, de modo que ninguna razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social cause discriminación. En particular, la organización está comprometida con la creación de un contexto favorable a la diversidad y avance en la erradicación de la discriminación de las personas LGTBI, independientemente de su orientación e identidad sexual o su expresión de género.\n\nShow more\n\nShow less\n\nSeniority level\n\nAssociate\n\nEmployment type\n\nFull-time\n\nIndustries\n\nTechnology, Information and Media",
+      "source": "LinkedIn",
+      "job_id": "4474073082",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
