@@ -1,96 +1,76 @@
 # 🔥 LinkedIn — .NET Backend Roles
-*Last updated: 2026-10-05 21:37 UTC*
+*Last updated: 2026-10-06 02:23 UTC*
 
-**23 new role(s)** since last run · 137 total in last 6h
+**18 new role(s)** since last run · 32 total in last 6h
 
-### [AI Developer – Microsoft Azure & Foundry](https://www.linkedin.com/jobs/view/4475866006/) — Digital Bricks
-- 📍 **Location:** Amsterdam, North Holland, Netherlands
-- 🕒 **Posted:** 2026-10-05
+### [Test Automation Engineer](https://www.linkedin.com/jobs/view/4474644956/) — Haystack
+- 📍 **Location:** Berlin Metropolitan Area
+- 🕒 **Posted:** 2026-10-06
 
-### [Fullstack Software Entwickler (m/w/d)](https://www.linkedin.com/jobs/view/4473677620/) — YER Deutschland
-- 📍 **Location:** Poing, Bavaria, Germany
-- 🕒 **Posted:** 2026-10-05
+### [Azure Cloud Engineer (gn)](https://www.linkedin.com/jobs/view/4474656213/) — SoftwareOne Deutschland GmbH
+- 📍 **Location:** Leipzig, Saxony, Germany
+- 🕒 **Posted:** 2026-10-06
 
-### [SAP BTP Architect](https://www.linkedin.com/jobs/view/4475861660/) — INOMIC
-- 📍 **Location:** Walldorf, Baden-Württemberg, Germany
-- 🕒 **Posted:** 2026-10-05
+### [Senior SW Developer - Tieto Caretech (m/f/d)](https://www.linkedin.com/jobs/view/4476109912/) — Tieto
+- 📍 **Location:** Espoo, Uusimaa, Finland
+- 🕒 **Posted:** 2026-10-06
 
-### [Backend .NET Developer](https://www.linkedin.com/jobs/view/4474631072/) — Creatio
-- 📍 **Location:** Poland
-- 🕒 **Posted:** 2026-10-05
+### [Senior SW Developer - Tieto Caretech (m/f/d)](https://www.linkedin.com/jobs/view/4476124433/) — Tieto
+- 📍 **Location:** Jyväskylä, Central Finland, Finland
+- 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer 1](https://www.linkedin.com/jobs/view/4473680736/) — PharmaLex
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
-- 🕒 **Posted:** 2026-10-05
+### [Senior SW Developer - Tieto Caretech (m/f/d)](https://www.linkedin.com/jobs/view/4476116667/) — Tieto
+- 📍 **Location:** Oulu, North Ostrobothnia, Finland
+- 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer 2](https://www.linkedin.com/jobs/view/4473688491/) — PharmaLex
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
-- 🕒 **Posted:** 2026-10-05
+### [Senior SW Developer - Tieto Caretech (m/f/d)](https://www.linkedin.com/jobs/view/4476109913/) — Tieto
+- 📍 **Location:** Tampere, Pirkanmaa, Finland
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior/Staff Software Engineer (Platform)](https://www.linkedin.com/jobs/view/4475874564/) — Renesas Electronics
-- 📍 **Location:** Gdańsk, Pomorskie, Poland
-- 🕒 **Posted:** 2026-10-05
+### [*Govt* Digital Product Developer / Digital Solutions Engineer [1-year]](https://www.linkedin.com/jobs/view/4474660155/) — ScienTec Consulting Pte. Ltd.
+- 📍 **Location:** Singapore, Singapore
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior/Staff Software Engineer (Platform)](https://www.linkedin.com/jobs/view/4475868768/) — Renesas Electronics
-- 📍 **Location:** Warsaw, Mazowieckie, Poland
-- 🕒 **Posted:** 2026-10-05
+### [Test Automation Engineer Java/Selenium (Freelance mogelijk)](https://www.linkedin.com/jobs/view/4474651864/) — EngiFlex
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior/Staff Software Engineer (Platform)](https://www.linkedin.com/jobs/view/4475865755/) — Renesas Electronics
-- 📍 **Location:** Wrocław, Dolnośląskie, Poland
-- 🕒 **Posted:** 2026-10-05
+### [ASP.Net & Sitecore Engineer](https://www.linkedin.com/jobs/view/4476104447/) — Dicetek LLC
+- 📍 **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
+- 🕒 **Posted:** 2026-10-06
 
-### [Senior/Staff Software Engineer (Platform)](https://www.linkedin.com/jobs/view/4475872629/) — Renesas Electronics
-- 📍 **Location:** Katowice, Śląskie, Poland
-- 🕒 **Posted:** 2026-10-05
+### [Solution Architect](https://www.linkedin.com/jobs/view/4476109203/) — Dicetek LLC
+- 📍 **Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates
+- 🕒 **Posted:** 2026-10-06
 
-### [Solution Architect – verksamhetsnära lösningar som gör skillnad](https://www.linkedin.com/jobs/view/4474620345/) — IT-Total Sweden AB
-- 📍 **Location:** Solna, Stockholm County, Sweden
-- 🕒 **Posted:** 2026-10-05
+### [Firco Support & Integration Specialist](https://www.linkedin.com/jobs/view/4476100754/) — Dicetek LLC
+- 📍 **Location:** Ajman, Ajman Emirate, United Arab Emirates
+- 🕒 **Posted:** 2026-10-06
 
-### [Integration & HyperAutomation Engineer](https://www.linkedin.com/jobs/view/4475871604/) — The Clorox Company
+### [.Net Developer](https://www.linkedin.com/jobs/view/4474626986/) — Accenture UK & Ireland
 - 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-05
 
-### [Software Engineering Placement Students, Galway.](https://www.linkedin.com/jobs/view/4475873044/) — Datavant Ireland
-- 📍 **Location:** Galway, County Galway, Ireland
+### [Senior Controls Engineer](https://www.linkedin.com/jobs/view/4473693387/) — Johnson Controls
+- 📍 **Location:** Dublin, County Dublin, Ireland
 - 🕒 **Posted:** 2026-10-05
 
-### [Experienced Software Designer / Solution Architect with Mentoring Profile](https://www.linkedin.com/jobs/view/4474620456/) — emagine
-- 📍 **Location:** Aarhus, Central Denmark Region, Denmark
+### [Sitecore Developer (.NET)](https://www.linkedin.com/jobs/view/4474005012/) — Twoday
+- 📍 **Location:** Copenhagen Municipality, Capital Region of Denmark, Denmark
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior Cloud Developer (Azure/MS Data Fabric)](https://www.linkedin.com/jobs/view/4475849811/) — Luxoft
-- 📍 **Location:** Bucharest Metropolitan Area
+### [Senior Full Stack Java Developer](https://www.linkedin.com/jobs/view/4475898543/) — Keystone Solutions
+- 📍 **Location:** Aartselaar, Flemish Region, Belgium
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/4475852632/) — Luxoft
-- 📍 **Location:** Bucharest Metropolitan Area
-- 🕒 **Posted:** 2026-10-05
-
-### [Responsable de projets applicatifs .NET/Angular (Freelance possible)](https://www.linkedin.com/jobs/view/4474636029/) — EngiFlex
-- 📍 **Location:** Brussels, Brussels Region, Belgium
-- 🕒 **Posted:** 2026-10-05
-
-### [Ingeniero Senior .NET (50% Remote)](https://www.linkedin.com/jobs/view/4475878335/) — RuiderIA
+### [Desarrollador/a .NET](https://www.linkedin.com/jobs/view/4474647270/) — IT Partner
 - 📍 **Location:** Madrid, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-10-05
 
-### [AI / Software Solutions Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4474637161/) — IGLUBIT
-- 📍 **Location:** Seville, Andalusia, Spain
+### [Azure DevOps Engineer](https://www.linkedin.com/jobs/view/4474637527/) — ToBeIT
+- 📍 **Location:** Pozuelo de Alarcón, Community of Madrid, Spain
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior AI Engineer (m/f/d)](https://www.linkedin.com/jobs/view/4474617998/) — IGLUBIT
-- 📍 **Location:** Seville, Andalusia, Spain
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior/Staff Software Engineer (Platform)](https://www.linkedin.com/jobs/view/4475865743/) — Renesas Electronics
-- 📍 **Location:** Porto, Porto, Portugal
-- 🕒 **Posted:** 2026-10-05
-
-### [Programador(a) Júnior / Data & Systems Developer](https://www.linkedin.com/jobs/view/4473685252/) — SHEE
-- 📍 **Location:** Lisbon, Lisbon, Portugal
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior/Staff Software Engineer (Platform)](https://www.linkedin.com/jobs/view/4475872630/) — Renesas Electronics
-- 📍 **Location:** Lisboa, Lisbon, Portugal
+### [Principal Software Engineer (Remote Eligible in Bulgaria)](https://www.linkedin.com/jobs/view/4446797766/) — Smartsheet
+- 📍 **Location:** Bulgaria
 - 🕒 **Posted:** 2026-10-05
