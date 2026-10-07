@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "batch_id": "20261007-005",
+  "shard_id": "007",
+  "start_index": 32,
+  "job_count": 2,
+  "jobs": [
+    {
+      "company": "Pauwels Consulting",
+      "title": ".NET Developer – .NET Core & Azure",
+      "location": "Anderlecht, Brussels Region, Belgium",
+      "url": "https://www.linkedin.com/jobs/view/4476381672/",
+      "date_posted": "2026-10-06",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "Our client, a leading organization in the transport sector, is looking for a developer to design and build high-quality software solutions within the transport management domain. The project focuses on translating complex business ideas into effective, reliable applications through technical expertise and collaboration.\n\nResponsibilities\n\nDesign and build high-quality software solutions within the transport management domain.\nCollaborate closely with solution designers to translate business ideas into effective applications.\nDevelop secure and performant .NET Core Web APIs.\nImplement clean, maintainable code using SOLID principles and Clean Architecture.\nMaintain robust Azure DevOps pipelines and manage containerized deployments.\nIntegrate backend APIs and ensure reliable data synchronization.\n\nRequirements\n\nYou have 5+ years of backend development with .NET, LINQ, async/await, and design patterns.\nYou possess 3+ years of experience with .NET Core Web API design and development.\nYou bring 3+ years of experience with Azure Cloud services, PaaS, and event-driven patterns.\nYou have proven experience in unit testing and test quality automation.\nYou're experienced with Clean Code, Clean Architecture, and SOLID principles.\nYou possess knowledge of Azure DevOps, CI/CD, Kubernetes, and Docker.\nYou bring experience with SQL and relational database design.\nYou have experience with Git and professional branching strategies.\nYou're proactive, solution-oriented, and able to explain technical choices clearly.\nYou are fluent in English with a C2 level of Dutch or French.\n\nNice to Haves\n\nExperience with Android applications handling offline usage and synchronization.\nKnowledge of recovery and conflict handling when connectivity is restored.\n\nOffer\n\nStart date: 01/02/2027\nDuration: until 31/01/2029\nWork regime: Full-time\nLocation: Brussels\nWorking model: Hybrid (up to 5 days per week onsite)\nContract: open to both permanent employees and freelancers\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nStaffing and Recruiting",
+      "source": "LinkedIn",
+      "job_id": "4476381672",
+      "status": null,
+      "reason": null,
+      "validated": null
+    },
+    {
+      "company": "IVM Technical Consultants",
+      "title": "Software Developer*in (m/w/d)",
+      "location": "Linz, Upper Austria, Austria",
+      "url": "https://www.linkedin.com/jobs/view/4474407357/",
+      "date_posted": "2026-10-06",
+      "salary": "",
+      "ats": "LinkedIn",
+      "description": "IVM spezialisiert sich seit 40 Jahren auf die Ziele ihrer Projektpartner*innen und ihrer Kunden im technischen Umfeld. Mit Hilfe unserer technisch affinen Wissensträger*innen schaffen wir jeden Wunsch zu erfüllen. Werden Sie Consultant bei IVM und arbeiten Sie an spannenden Projekten bei den Top Unternehmen Österreichs!\n\nJob-Nr.:\n107240\nEinsatzort:\nLinz\nFachbereich:\nSoftware & IT\nArt der Anstellung:\nVollzeit\nGehalt (Brutto/Monat):\nab € 4.000,-\nAufgaben\nSie suchen aktuell eine spannende Position in der Softwareentwicklung, bei der der Fokus auf Sicherheitsthemen liegt? Wenn Sie darüber hinaus team- und lösungsorientiert sind und Freude daran haben, strukturiert die besten Lösungen für Kunden zu finden, dann sind Sie die perfekte Ergänzung der agilen Entwicklungsteams bei unserem Kunden, einem namhaften Unternehmen im Bereich des Anlagenbaus.\n\nAufgaben:\n(Weiter-) Entwicklung von Softwarekomponenten für industrielle Anlagen mit Schwerpunkt Cyber Security\nAnalyse bestehender Produkte hinsichtlich relevanter Standards und regulatorischer Anforderungen (z. B. IEC 62443, CRA, …)\nErstellung und Umsetzung von Modernisierungs- und Sicherheitskonzepten\nVerantwortung des gesamten Produktlebenszyklus (gemeinsam mit den Kolleg*innen) – von der Konzeption über die Entwicklung bis zur Implementierung\nZusammenarbeit in interdisziplinären, agilen Teams\n\nProfil\nAbgeschlossenes Studium der Informatik/Software Engineering mit Schwerpunkt Cyber Security\nKenntnisse relevanter Cyber-Security-Standards und Normen (z. B. IEC 62443, CRA)\nErfahrung in der Entwicklung größerer Softwareprodukte\nSehr gute Programmierkenntnisse in Java, .NET oder C++\nGrundlegendes Software-Engineering-Know-how (Git, Datenbanken, Unit-Tests, agile Methoden, etc.)\nSehr gute Englischkenntnisse und gute Deutschkenntnisse\n\nWir bieten\nInternationales Umfeld\nFlexible Arbeitszeiten und HO-Möglichkeit\nKantine\nGute öffentliche Erreichbarkeit sowie vorhandene Parkplätze\n\nImportant note\n\nPlease be advised that a valid work permit for Austria is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient Austrian language skills may not be considered.\nLNKD1_AT\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nBusiness Consulting and Services",
+      "source": "LinkedIn",
+      "job_id": "4474407357",
+      "status": null,
+      "reason": null,
+      "validated": null
+    }
+  ]
+}
